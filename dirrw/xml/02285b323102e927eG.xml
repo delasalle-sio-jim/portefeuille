@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b323102e927e">
+    <ref>5b323102e927e</ref>
+    <datesv>2018-06-26</datesv>
+  </sauvegarde>
+  <etudiant numero="228">
+    <nom>PIERA</nom>
+    <prenom>Théo</prenom>
+    <mel>delasalle.sio.piera.t@gmail.com</mel>
+    <situation ref="2329">
+      <ref>2329</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation.</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises. Base de données MySql contenant 3 tables.</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>Serveur wamp, PhpMyAdmin, SGBDR MySql, MySqlWorkbench, langage Sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données Dutoit (MySql). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2466">
+        <numero>2466</numero>
+        <designation>TP 8 Dutoit</designation>
+        <adresse>https://drive.google.com/open?id=1syha1VnJrF-C8S6nuFeOVWwa33ye_wVa</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2352">
+      <ref>2352</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 4 DATASAVE</libcourt>
+      <descriptif>Installation d'un système de gestion de fichiers hébergées par la M2L (Serveur Windows 2012 + Serveur Linux)</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-01-13</datedebut>
+      <datefin>2018-02-13</datefin>
+      <environnement>Serveur Windows 2012, Serveur Linux, Trello, Google Drive, Virtual Box</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2645">
+        <numero>2645</numero>
+        <designation>Mission 4 DATASAVE</designation>
+        <adresse>https://drive.google.com/open?id=1LSphgGJMmd5d0zekNNG4mX9JOER3PwNU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2640">
+      <ref>2640</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 6 ISOLE WIFI</libcourt>
+      <descriptif>Isolation du réseau sans fil de la M2L sous packet tracer</descriptif>
+      <contexte>En se basant sur l'infrastructure actuelle de la M2L on vous demande de proposer une solution afin d'isoler le réseau sans fil du réseau principl.</contexte>
+      <datedebut>2018-03-13</datedebut>
+      <datefin>2018-03-20</datefin>
+      <environnement>Packet Tracer,Visio, Trello, Google Drive, Windows 10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2646">
+        <numero>2646</numero>
+        <designation>Mission 6 ISOLE WIFI</designation>
+        <adresse>https://drive.google.com/open?id=1pelX3IrnddD7QXulrAQBjweGpphbr_D0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2655">
+      <ref>2655</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 7 FANS ZONE MONDIAL 2018</libcourt>
+      <descriptif>Concevoir et prototyper l'informatique nomade liée à une manifestation sportive.</descriptif>
+      <contexte>Couverture wifi de la FANS ZONE de la ville de Rennes pour le mondial 2018.</contexte>
+      <datedebut>2018-04-03</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement>Packet Tracer,Trello, Google Drive, Windows 10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2651">
+        <numero>2651</numero>
+        <designation>Mission 7 FANS ZONE MONDIAL 2018</designation>
+        <adresse>https://drive.google.com/open?id=1Hq3YH98M9tUtRGAOwxdVIScScbRZC9Iv</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2663">
+      <ref>2663</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Inventaire local – Gestion mini parc</libcourt>
+      <descriptif>Vous vérifiez que vos machines physiques fonctionnent correctement.
+Vous installez et paramétrez vos machines virtuelles 
+Vous configurerez votre réseau
+Vous faites l’inventaire de votre parc
+Vous produisez les documents nécessaires pour le bilan aupr</descriptif>
+      <contexte>Vous êtes administrateur du parc informatique de la société PIXEL.
+Sur la demande de votre DSI, vous devez renouveler les postes de travail des utilisateurs, les actifs, ainsi que le câblage (câblage existant obsolète) de la société.
+Votre matériel vien</contexte>
+      <datedebut>2018-05-22</datedebut>
+      <datefin>2018-05-22</datefin>
+      <environnement>Windows Server 2012, packet tracer, visio, logiciel SIW</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2655">
+        <numero>2655</numero>
+        <designation>Inventaire local – Gestion mini parc</designation>
+        <adresse>https://drive.google.com/open?id=1kBU-YmR5-8GP4r94agyU7IpLysicVjAK</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2681">
+      <ref>2681</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE Covoiturage</libcourt>
+      <descriptif>Nouvelle fonctionnalité sur le site du BDE: connaître et repérer les covoiturages libres.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-03-16</datedebut>
+      <datefin>2018-05-24</datefin>
+      <environnement>Serveur Wamp, Notepad++, bootsrap, HTMl, SQl, PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier la fonctionnalité attendue du service à produire pour les différents acteurs (membre et administrateur).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tets et la validation du service et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité a Mr Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec Mr Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données
+Manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation pour Mr Guérin (administrateur du site du BDE).</commentaireactivite>
+      </activitecitee>
+      <production numero="2665">
+        <numero>2665</numero>
+        <designation>Projet BDE Covoiturage</designation>
+        <adresse>https://drive.google.com/open?id=18kWymO0sSM2CElq8FGVRHttmvK0AozgU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2695">
+      <ref>2695</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE SIO1</libcourt>
+      <descriptif>Du 28 Mai au 29 Juin, j’ai effectué un stage au sein de la société Naviso, filiale du groupe Secob, à Cesson-Sévigné. J'ai effectué ce stage dans le domaine de l’informatique et plus précisément en maintenance infrastructure et système réseau.</descriptif>
+      <contexte>Stage de 1 année de BTS SIO dans la société NAVISO à Cesson-Sévigné.</contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-06-29</datefin>
+      <environnement>Windows 10, Outlook, Word, Excel, Team Viewer, PRTG Network Monitor, Remote Desktop Manager, Cegid, Citrix, Pulse, Sophos, Active Directory, Veem, Backup, Skype, Teams</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Installation d’un outil cloud sur des PC à distance avec TeamViewer pour des collaborateurs.
+Configuration des cartes pour les nouvelles imprimantes.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résolution de problèmes wifi sur un PC.
+Résolution de problème de mise a jour d'application.
+Résolution de problème de fichier sur un service Cloud.
+Restauration de dossier supprimer par un client avec Veem Bakcup</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Utilisation de Team Viewer pour répondre aux problèmes des clients.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation/Changement de matériels informatiques.
+Installation et configuration de scanner pour des collaborateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Configuration des cartes pour les nouvelles imprimantes.
+Installation d’un outil cloud.
+Mise à jour d’outil BARCO (Click Share) sur Windows/MAC OS d’une salle de réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Utilisation de PRTG Network.</commentaireactivite>
+      </activitecitee>
+      <production numero="2672">
+        <numero>2672</numero>
+        <designation>Stage SI01</designation>
+        <adresse>https://drive.google.com/open?id=121ObSG7TKiwuNkevOq-d7XwDXztMCfqU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

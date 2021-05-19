@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="58e25bd76af0a">
+    <ref>58e25bd76af0a</ref>
+    <datesv>2017-04-03</datesv>
+  </sauvegarde>
+  <etudiant numero="147">
+    <nom>CAUSER</nom>
+    <prenom>Amaury</prenom>
+    <mel>delasalle.sio.causer.a@gmail.com</mel>
+    <situation ref="1522">
+      <ref>1522</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>La société de formation Dutoit propose des stages sur différents logiciels aux salariés d'entreprises.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-12-26</datefin>
+      <environnement>Serveur wamp avec MySQL via phpMyAdmin et le langage SQL</environnement>
+      <moyen>MySqlWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser le contexte d'utilisation et les acteurs sur lesquels le service à produire aura un impact
+
+Identifier les fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MySqlWorkBench
+Implémenter le schéma de données sous MySql et l'adapter
+</commentaireactivite>
+      </activitecitee>
+      <production numero="1548">
+        <numero>1548</numero>
+        <designation>Compte rendu TP Dutoit</designation>
+        <adresse>https://drive.google.com/open?id=0B2cRMiwhMzh8bkZXRmVmbGliYlE</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1592">
+      <ref>1592</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Valrés </libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, MySqlWorkbench, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application web (mdl) sur le serveur serv-wamp1 (dans mon répertoire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données grâce à MySqlWorkbench
+Implémenter le schéma de données sous MySQL sur le serveur serv-wamp1</commentaireactivite>
+      </activitecitee>
+      <production numero="1600">
+        <numero>1600</numero>
+        <designation>Compte rendu des test</designation>
+        <adresse>https://drive.google.com/open?id=0B3k5uZFEwGJIeXpZcEY3aXBlMHM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1703">
+      <ref>1703</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode</libcourt>
+      <descriptif>M2L met à disposition des salles à ses adhérents. Ils peuvent récupérer le digicode via l'application.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-26</datedebut>
+      <datefin>2016-03-22</datefin>
+      <environnement>Serveur Wamp1, Notepad++, base de donnée mysql mrbs</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite> Tester le service ( la base de donnée avait déjà été installée pour la mission Valrès).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.
+Maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de donnée(nouvelle table Digicode),manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="2243">
+        <numero>2243</numero>
+        <designation>Digicode partie 1</designation>
+        <adresse>https://drive.google.com/open?id=0B3k5uZFEwGJIUDhUcTU5S3gyOGM</adresse>
+      </production>
+      <production numero="2244">
+        <numero>2244</numero>
+        <designation>Digicode partie 2</designation>
+        <adresse>https://drive.google.com/open?id=0B3k5uZFEwGJIZVlxNTBpN1NPXzg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1876">
+      <ref>1876</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création du site InfoTech</libcourt>
+      <descriptif>Création d'un site web dynamique et réalisation d'un dossier utilisateur</descriptif>
+      <contexte>L'entreprise InfoTech</contexte>
+      <datedebut>2016-05-13</datedebut>
+      <datefin>2016-05-13</datefin>
+      <environnement></environnement>
+      <moyen>Bootstrap, wamp, PhpMyAdmin, Php, html/css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2245">
+        <numero>2245</numero>
+        <designation>Documentation technique</designation>
+        <adresse>https://drive.google.com/open?id=0B2cRMiwhMzh8WjN2ZkRHcmRablE</adresse>
+      </production>
+      <production numero="2246">
+        <numero>2246</numero>
+        <designation>Code source site</designation>
+        <adresse>https://drive.google.com/open?id=0B2cRMiwhMzh8bGFKaVVFTVY5TXc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1948">
+      <ref>1948</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création d'une application Android RA</libcourt>
+      <descriptif>Création d'applications de démonstration sur Androïd en utilisant le SDK Vuforia qui gère la réalité augmenté (RA)</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-23</datedebut>
+      <datefin>2016-07-13</datefin>
+      <environnement>Langage C#</environnement>
+      <moyen>EDI Unity, Androïd, SDK Vuforia, lunettes connectéess</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développer un prototype
+Valider un prototype</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Mettre en place et exploiter un environnement de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution
+Créer un composant logiciel
+Analyser et modifier le code d'un composant logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Repérer les composants à l'origine du dysfonctionnement
+Réaliser les mises à jour</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode
+Identifier le potentiel et les limites d'une technologie, d'un composant, d'un outil ou d'une méthode par rapport à un service à produire</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1975">
+      <ref>1975</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE3- 1 Développement application web mobile</libcourt>
+      <descriptif>Le projet consiste à développer en PHP sous Eclipse Mars l'application web mobile destinée à suivre les réservations de salles de la M2L (Maison des Ligues de Lorraine).</descriptif>
+      <contexte>Maison des Ligues de Lorraine</contexte>
+      <datedebut>2016-09-21</datedebut>
+      <datefin>2016-11-08</datefin>
+      <environnement>serveur wamp local, github, Eclipe MARS, phpMyAdmin, Propulse</environnement>
+      <moyen> PHP, MySQL, git</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite> Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite> Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet.
+Rendre compte de son activité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Suivre l'exécution du projet.
+Contribuer à l'évaluation du projet.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser les ressources humaines, matérielles et logicielles nécessaires à l'exécution du projet et de ses tâches personnelles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Programmer des éléments de la solution applicative dans le langage d'un SGBD.
+Manipuler les données liées à la solution applicative à travers un langage de requête.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Choisir les éléments de la solution à prototyper.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Mettre en place et exploiter un environnement de développement.
+Mettre en place et exploiter un environnement de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution.
+Créer un composant logiciel.
+Analyser et modifier le code d'un composant logiciel.
+Utiliser des composants d'accès aux données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à un référentiel.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1988">
+      <ref>1988</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Fredi</libcourt>
+      <descriptif>Comme Digicode + Modelisation</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-11-22</datedebut>
+      <datefin>2016-11-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <production numero="2247">
+        <numero>2247</numero>
+        <designation>Code source de la mission</designation>
+        <adresse>https://drive.google.com/open?id=0B3k5uZFEwGJIQ2lSOU1WUFQ2Tlk</adresse>
+      </production>
+    </situation>
+    <situation ref="2081">
+      <ref>2081</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2A - Création d'une bibliotèque en C#</libcourt>
+      <descriptif>Création d'une bibliotèque regroupant tous les fichiers de codes pour pouvoir contrôler/paramétrer les périphériques du microscope(laser, plateau, ...)</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-17</datefin>
+      <environnement>Windows, Langage C++</environnement>
+      <moyen>Visual Studio, Compilateur (.bat)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité(Bilan hebdomadaire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>C4.1.8.1 Élaborer et réaliser des tests unitaires
+C4.1.8.2 Mettre en évidence et corriger les écarts</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>C4.2.3.1 Élaborer et réaliser des tests d'intégration et de non régression de la solution mise à jour</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>5.2.1.1 Évaluer le degré de conformité des pratiques à un référentiel, à une norme ou à un standard adopté par le prestataire informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>C5.2.3.1 Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>C5.2.4.1 Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

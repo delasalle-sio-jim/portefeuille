@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56b21dff4b43c">
+    <ref>56b21dff4b43c</ref>
+    <datesv>2016-02-03</datesv>
+  </sauvegarde>
+  <etudiant numero="119">
+    <nom>Guerrero</nom>
+    <prenom>Alexandre</prenom>
+    <mel>delasalle.sio.guerrero.a@gmail.com</mel>
+    <situation ref="1164">
+      <ref>1164</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations .</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>serveur wamp , PhpMyAdmin , SGBDR MySQL , MySQLWorkbench , langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs sur lesquels le service aura un impact 
+identifier les fonctionnalités attendues </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>créer les utilisateurs recensés et attribuer les droits nécessaires </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>création de la base de données sous MySql 
+extension de la base de données initiale
+modélisation de la base de données finale 
+Manipulation des données liées à la solution applicative à travers un langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1366">
+      <ref>1366</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festibasket </libcourt>
+      <descriptif>PPE festibasket mise en place de borne wifi séparé avec vlan  de l'orga et du public   </descriptif>
+      <contexte>Contacté par la société M2L (maison des ligues ) pour la mission festibasket pour la mise en place d'une infrasctructure</contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement>routeur cisco , windows 7 , serveur windows 2008 , borne wifi d-link </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du contexte et le service a produire 
+Identifier mes fonctionnalités du service à produire </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recenser les composants nécessaire a la réalisation de la solution retenue </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>rendre compte de son activité </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Qualifier le problème , Identifier les causes de son dysfonctionnement </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Lister les composants matériels et logiciels nécessaires à la prise en charge des processus, des flux d'information et de leur rôle
+Caractériser les éléments permettant d'assurer la qualité et la sécurité des services
+Caractériser les éléments d'inte</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Concevoir une maquette de la solution
+Construire un prototype de la solution</commentaireactivite>
+      </activitecitee>
+      <production numero="1188">
+        <numero>1188</numero>
+        <designation>dossier de la mission festibasket sur google drive </designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JenpMZ0UzVGZaY0k</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1435">
+      <ref>1435</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Bestphone </libcourt>
+      <descriptif>création d'un site de vente en ligne ou site marchand</descriptif>
+      <contexte>Entreprises de ventes de téléphones et d'accessoires via internet</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-09</datefin>
+      <environnement>MySql , php , html , css ,  serveur wamp , </environnement>
+      <moyen>notePade ++ , MySqlWorkBench , phpMyAdmin </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>diagramme de cas d'utilisation :
+C1.1.1.1
+C1.1.1.2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.1 : Mysql workbench
+C4.1.3.2 : scripts fournis 
+C4.1.3.4 : requêtes SQL dans les pages </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite> Élaborer et réaliser des tests unitaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1619">
+      <ref>1619</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance</libcourt>
+      <descriptif>Dépannage divers sur des pc et des imprimantes a la demande des utilisateurs notamment le remplacement de cartouches d'encre , afin de s'assurer du bon fonctionnement du matériel .</descriptif>
+      <contexte>Demandes des utilisateurs pour une panne simple (pc débranchés,éteint,imprimante à cours d'encre ou la configuration de l'imprimante déréglé .</contexte>
+      <datedebut>2016-02-01</datedebut>
+      <datefin>2016-02-01</datefin>
+      <environnement>PC(windows) , imprimantes samsung et HP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1624">
+      <ref>1624</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Migration Serveur d'impression</libcourt>
+      <descriptif>Migrer Papercut du serv-imp1 au serv-imp2 avec la BDD et les paramètres existants.
+
+Ajout d'alertes par mail et changement de configuration du client et déploiement de ce dernier .</descriptif>
+      <contexte>Panne de la BDD 2 fois après migration problème de connexion du serveur ayant corrompu la BDD ainsi que lors du premier transfert une erreur ayant corrompu la première fois , restauration et PRA .</contexte>
+      <datedebut>2016-02-03</datedebut>
+      <datefin>2016-02-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1625">
+      <ref>1625</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise à jour du serveur antivirus</libcourt>
+      <descriptif>mise a jour de ESET de la V5 à la V6 architecture différente besoin de réinstaller l'ensemble des logiciels et les configurés ,( agent + client + serv + interface web )</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-03</datedebut>
+      <datefin>2016-02-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

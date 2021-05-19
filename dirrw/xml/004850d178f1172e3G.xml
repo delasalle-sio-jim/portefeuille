@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d178f1172e3">
+    <ref>50d178f1172e3</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="48">
+    <nom>LESQUERE</nom>
+    <prenom>corentin</prenom>
+    <mel>lesquere.c@lyceedelasalle.fr</mel>
+  </etudiant>
+</suivicomp>

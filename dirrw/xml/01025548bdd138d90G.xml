@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5548bdd138d90">
+    <ref>5548bdd138d90</ref>
+    <datesv>2015-05-05</datesv>
+  </sauvegarde>
+  <etudiant numero="102">
+    <nom>Poince</nom>
+    <prenom>Alexis</prenom>
+    <mel>alexy55555@hotmail.fr</mel>
+    <situation ref="872">
+      <ref>872</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm PPE</libcourt>
+      <descriptif>Modification et création table, création site php, et utilisation requête SQL  Serveur Wamp.</descriptif>
+      <contexte>Société qui propose des stages de formation aux entreprises.</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-04-08</datefin>
+      <environnement>Serveur WAMP</environnement>
+      <moyen>PhpMyAdmin - MySQL - SublimeText 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="627">
+        <numero>627</numero>
+        <designation>Site GesForm</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/PoinceTrouchard/Gesform/</adresse>
+      </production>
+      <production numero="628">
+        <numero>628</numero>
+        <designation>BDD Gesform</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gesform27&amp;token=63b94e8eea7d815b2f2f3630efde3ef9</adresse>
+      </production>
+    </situation>
+    <situation ref="1001">
+      <ref>1001</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valres</libcourt>
+      <descriptif>La Mission Valres va s'attacher à valider un ensemble de fonctionnalités.</descriptif>
+      <contexte>Maison des ligues de Lorraine</contexte>
+      <datedebut>2013-12-17</datedebut>
+      <datefin>2014-01-14</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>Serveur WAMP, MySQL, MySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeun d'essai de réservations respectant les contraintes spécifiées dans le dossier test.
+Passage des tests du dossier de tests avec consignation des résultats.
+Vérification des conséquences dans les tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence les liens entre les tables sous MySQL et justification de celles-ci par des règles de gestion.
+Modélisation de la base de données sous MySQL Workbench.
+Implementation de la BDD sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="722">
+        <numero>722</numero>
+        <designation>schema BDD</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="729">
+        <numero>729</numero>
+        <designation>Dossier test complété</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1011">
+      <ref>1011</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Conception d'une interface permettant la consultation et la modification du digicode.</descriptif>
+      <contexte>Maison des ligues de Lorraine</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-02-04</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>Serveur WAMP, MySQL, MySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1219">
+        <numero>1219</numero>
+        <designation>Lien vers la page de de gestion du digicode (connexion : admin/admin)</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/PoinceTrouchard/digicode/Digicode/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1033">
+      <ref>1033</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail</libcourt>
+      <descriptif>Permettre un accès aux différents services apportés par les sites crées précédemment.</descriptif>
+      <contexte>Maison des Ligues de Lorraine</contexte>
+      <datedebut>2014-04-08</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement></environnement>
+      <moyen>CMS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>liste des sites étudiés concernant le CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>besoin d'auto-formation du CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du CMS : possibilités, limites ...</commentaireactivite>
+      </activitecitee>
+      <production numero="1199">
+        <numero>1199</numero>
+        <designation>Portail (connexion : admin/admin)</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/PoinceTrouchard/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1053">
+      <ref>1053</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet LaFleur</libcourt>
+      <descriptif>Création d'un site web marchand (LesGamers), php et BDD et CSS.</descriptif>
+      <contexte>Societe de vente en ligne de Jeux Videos</contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-17</datefin>
+      <environnement>Serveur WAMP</environnement>
+      <moyen>PhpMyAdmin - MySQL - SublimeText 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Partie Admin donnée a integrer </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Cas utilisation + images écran</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1222">
+        <numero>1222</numero>
+        <designation>Lien vers le site Serv-Wamp1</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/PoinceSamson/site%20SI6/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1109">
+      <ref>1109</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Site Energym</libcourt>
+      <descriptif>Réalisation d'un site web dynamique. Design avec Bootstrap, BDD et partie Admin permettant la gestion des cours, profs, horaires et membres.</descriptif>
+      <contexte>Association Energym. </contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Serveur Wamp, Hebergement OVH</environnement>
+      <moyen>PhpMyAdmin - MySQL - SublimeText 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs sur lesquels le service à produire aura un impact
+Identifier les fonctionnalités attendues du service à produire
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests et la validation du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rédiger un compte-rendu hebdomadaire avec un planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Formation aux membres du bureau pour l'utilisation de l'interface
+Presentation régulière pour prendre en compte  la satisfaction des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur
+Concevoir et valider l'interface en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modelisation et implementation de la Base de données
+Manipulation avec language SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire la documentation technique pour la maintenance du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation, une aide en ligne, une FAQ pour les membres</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie (Bootstrap)</commentaireactivite>
+      </activitecitee>
+      <production numero="1019">
+        <numero>1019</numero>
+        <designation>Site Energym</designation>
+        <adresse>www.energym-chateaugiron.fr</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1213">
+      <ref>1213</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2ème Année</libcourt>
+      <descriptif>Stage de 5 semaines à la SNCF.
+Objectif : Créer une application web de Gestion de données pour gérer le planning des maintenances de circuits de télécommunications.</descriptif>
+      <contexte>Service de maintenance des circuits de télécommunications.</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-06</datefin>
+      <environnement>ASP.Net/C# avec Visual Studio 2010 et SQL Server.</environnement>
+      <moyen>Mise à disposition d'un PC portable avec Visual Studio et SQL Server.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges, et reformulation pour le Chef du SI.
+Préparation des Schémas/Diagrammes avant la création de l'application pour les présenter et les faire valider par le chef du SI, et apport de corrections si besoin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyse du fonctionnement du service pour lequel l'application sera utilisée pour recenser les différents cas possibles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Analyse des différents acteurs du service.
+L'application demandée doit disposer de plusieurs niveaux d'accès en fonction du rôle des acteurs (consultation simple, gestion ou administration).
+Utilisation d'un Active Directory existant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Formation orale du demandeur de l'application à l'utilisation du nouvel outil.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Définition d'objectifs hebdomadaires avec compte-rendu au chef du SI au moins une fois par semaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de la maquette de l'Interface Homme Machine (IHM) demandée par le Chef du SI avant de commencer à pouvoir créer l'application en elle-même.
+Validation de la maquette par le Chef du SI.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Les 2 premières semaines : analyse et création des diagrammes (MCD, MOO, Acteur-Flux) pour s'assurer que le contexte est entièrement compris.
+Validation par le chef du SI et apport de corrections si nécessaire.
+Utilisation BDD via Visual Studio.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement des pages web avec des WinForms et des Gridviews.
+Utilisation du composant SqlDataSource pour l'accès aux données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Création des différents diagrammes qui présentent le contexte et la BDD ainsi qu'une présentation de l'IHM et des liens entre les pages de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin de se former à la technologie ASP.Net et au SGBD SQL Server.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation de ASP.Net/C# avec Visual Studio et de SQL Server.
+Apprentissage de ces outils et langages, auto-formation via des TP fournis par Mr Cartron et via Internet (Tutoriel et Forum) ainsi que quelques conseils du Chef du SI.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1374">
+      <ref>1374</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GRR - Services Web Php</libcourt>
+      <descriptif>- Debug et réalisations de services web en php qui seront utilisés ultérieurement par une application Android.
+- Tests fonctionnels pour vérifier le bon fonctionnement des services web.</descriptif>
+      <contexte>Maison des Ligues (M2L)</contexte>
+      <datedebut>2014-10-06</datedebut>
+      <datefin>2014-12-19</datefin>
+      <environnement>Serveur Xampp</environnement>
+      <moyen>IDE Eclipse - Google Code
+Gestionnaire de Version Subversion (Svn)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1190">
+        <numero>1190</numero>
+        <designation>Liens pages Serveur Wamp1 Lycée</designation>
+        <adresse>https:\SERV-WAMP1LesSitesSIO2_2014_2015POINCEm2l-sw-loisance</adresse>
+      </production>
+      <production numero="1191">
+        <numero>1191</numero>
+        <designation>Liens pages BitBucket</designation>
+        <adresse>https://bitbucket.org/manu1895/projet-reservations-php</adresse>
+      </production>
+      <production numero="1194">
+        <numero>1194</numero>
+        <designation>Documents Word Resultats Tests</designation>
+        <adresse>Dossier CCF Drive</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1388">
+      <ref>1388</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GRR - API Classes Java</libcourt>
+      <descriptif>- Développement des classes java qui seront intégrer ultérieurement à l'application, ses classes consomment les services web développés en php dans la mission &quot;GRR - Services Web en PHP&quot;. 
+- En parallèle, développement des tests unitaires</descriptif>
+      <contexte>Maison des Ligues (M2L)</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-03-16</datefin>
+      <environnement>Serveur Xampp</environnement>
+      <moyen>IDE Eclipse - Google Code 
+Gestionnaire de Version Subversion (Svn)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1196">
+        <numero>1196</numero>
+        <designation>Lien Classes Java BitBucket</designation>
+        <adresse>https://bitbucket.org/manu1895/projet-reservations-java</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1393">
+      <ref>1393</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation de GLPI</libcourt>
+      <descriptif>Installation de GLPI sur un Linux et d'OCS Inventory sur Windows
+Pour prendre en charge une gestion des tickets</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-10-16</datedebut>
+      <datefin>2014-10-23</datefin>
+      <environnement>Architecture Client/Serveur
+Travail par 2 : Un sous Linux, l'autre sous Windows</environnement>
+      <moyen>MySQL, OCS, OCS-Agent, GLPI</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1394">
+      <ref>1394</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Etude de l'évolution des différents langages de Base de données</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-09-05</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement>Google Alerts</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1221">
+        <numero>1221</numero>
+        <designation>Lien vers le site Serv-Wamp1</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/PoinceSamson/site%20SI6/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

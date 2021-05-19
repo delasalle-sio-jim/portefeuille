@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5721fdb316809">
+    <ref>5721fdb316809</ref>
+    <datesv>2016-04-28</datesv>
+  </sauvegarde>
+  <etudiant numero="126">
+    <nom>Michaux</nom>
+    <prenom>Enguerrand</prenom>
+    <mel>delasalle.sio.michaux.e@gmail.com</mel>
+    <situation ref="1172">
+      <ref>1172</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Modification de base de données
+Création de vues
+Création de modèles via MySQL Workbench
+Utilisation de script de création
+Extension de base de données</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables. </contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur Wamp , PhpMyadmin , SGBDR MySQL , MySQLWorkbench , langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs sur lesquels le projet aura un impact (commerciaux et formateurs)
+identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données sous MySQL à partir d'un script;
+extension de la base de donnée initiale;
+modélisation de la base de donnée finale sous MySQLWorkbench;
+manipulation des données liées à la solution applicative à travers le langage SQL (v</commentaireactivite>
+      </activitecitee>
+      <production numero="1063">
+        <numero>1063</numero>
+        <designation>Document Word TP Dutoit</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJYzNyTWFXZ0xLMzg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1250">
+      <ref>1250</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>VALRES</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application web de locations de salles</descriptif>
+      <contexte>La Maison des Ligues de Lorraines (M2L)</contexte>
+      <datedebut>2013-12-16</datedebut>
+      <datefin>2015-01-06</datefin>
+      <environnement>Architecture Client / Serveur 3 Tier</environnement>
+      <moyen>Serveur Wamp 2 , SGBDR MySQL , MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservations respectant les contraintes du dossier de tests. Passage des tests avec consignation des résultats. 
+Vérification des conséquences dans les tables</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservations de salles.
+Dossier de tests complété du jeu d'essai et des résultats</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables MySQL.
+Modélisation de la base de données sous MySQL WorkBench.
+Inplémentation de la base de données sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1098">
+        <numero>1098</numero>
+        <designation>Dossier de tests complété</designation>
+        <adresse>https://drive.google.com/file/d/0B3VJOWeZ9wxJeWFoWS1FUnRHcDA/view?usp=sharing</adresse>
+      </production>
+      <production numero="1677">
+        <numero>1677</numero>
+        <designation>Cahier des charges de la mission</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJZEVoQktncTZ6czg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1257">
+      <ref>1257</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Toutes les salles de M2L sont accessibles en soirée : un sytème de &quot;digicode&quot; permet d'entrer dans les locaux en dehors des horaires d'ouverture des bureaux
+Extension d'une application permettant d'obtenir et de gérer le digicode</descriptif>
+      <contexte>La Maison des Ligues de Lorraines (M2L)</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-01-27</datefin>
+      <environnement>Architecture Client Serveur 3 Tier</environnement>
+      <moyen>Serveur Wamp 2, MySQL, HTML, PHP, CSS  </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Préparation de la mise en place de la nouvelle application web , a partir des contraintes présente sur le document fourni.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Notions de &quot;compte&quot; utilisateurs à niveaux : Administrateurs , Utilisateurs et Invité.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Affichage de page différentes (avec des fonctionnalités différentes) en fonction du niveau de l'utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une nouvelle table dans la base de donnée (pour la gestion du digicode)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests de vérification effectués pour vérifier que les modifications (mot de passe et digicode) avaient été bien enregistrées dans la base</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Mise en place de tests pour vérifier la bonne saisie des informations : longueur du digicode (6 caractères) et saisie du mot de passe (différent du mot de passe actuel , et ressaisi du mot de passe pour confirmation)</commentaireactivite>
+      </activitecitee>
+      <production numero="1109">
+        <numero>1109</numero>
+        <designation>Compte Rendu DIGICODE</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJOUZPTE5kRE42SHc</adresse>
+      </production>
+      <production numero="1113">
+        <numero>1113</numero>
+        <designation>Sujet du Cahier des Charges (version PDO à jour)</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJcGd3RS03aUFGWE0</adresse>
+      </production>
+      <production numero="1806">
+        <numero>1806</numero>
+        <designation>Application Web</designation>
+        <adresse>http://winserv.mynetgear.com/digicode/</adresse>
+      </production>
+      <production numero="1807">
+        <numero>1807</numero>
+        <designation>Application Web (sources)</designation>
+        <adresse>https://drive.google.com/drive/u/0/folders/0B3VJOWeZ9wxJMzczbUlnemlJYVU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1421">
+      <ref>1421</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet DarkStore</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand sur un thème personnalisé.</descriptif>
+      <contexte>Entreprise de vente de produits Star Wars par Internet</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-06</datefin>
+      <environnement>Serveur WAMP, SGBDR MySQL</environnement>
+      <moyen>HTML 5, PHP, CSS , Notepad++, MySQLWorkBench, PowerAMC</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre les modifications à apporter et bien prendre en compte les contraintes qui se posent.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1411 =&gt; Mise en place d'une contrainte de temps afin de de terminer le projet à temps (planning hebdomadaire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Transformation des parties statiques en parties dynamiques d'adaptant au contenu de la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4131 =&gt; Maquette créees sous MySQL WorkBench
+C4132 =&gt; Script fournis à importer vers le SGBDR
+C4134 =&gt; Adaptation de la base de données (ajout d'informations et modifications d'informations existantes).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test divers afin de vérifier le bon fonctionnement de l'applications : mise au panier des articles (en quantité variables), passage de commande, bon affichage des produits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un dossier utilisateur complet , reprenant et explicant l'intégralité des fonctionnalités du site</commentaireactivite>
+      </activitecitee>
+      <production numero="1256">
+        <numero>1256</numero>
+        <designation>Cahier des Charges LaFleur</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJX1pWZG92SDBnd2s&amp;authuser=0</adresse>
+      </production>
+      <production numero="1260">
+        <numero>1260</numero>
+        <designation>Maquette MySQL Workbench</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJWlBENG9mTDR5cGc&amp;authuser=0</adresse>
+      </production>
+      <production numero="1262">
+        <numero>1262</numero>
+        <designation>Documentation Utilisateur</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJV2JRdTAtUzl4emc&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1453">
+      <ref>1453</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en oeuvre de tests unitaires</libcourt>
+      <descriptif>Création de tests unitaire pour vérifier le bon fonctionnement des classes</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2015-01-30</datedebut>
+      <datefin>2015-01-30</datefin>
+      <environnement>Visual Studio 2010, langage C#</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Configuration de Visual Studio pour environnement C# et environnement VB =&gt; C4.1.6.2</commentaireactivite>
+      </activitecitee>
+      <production numero="1279">
+        <numero>1279</numero>
+        <designation>Compte Rendu TP</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJTkN6Y1o0MHZ2NDQ&amp;authuser=0</adresse>
+      </production>
+    </situation>
+    <situation ref="1454">
+      <ref>1454</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Polymorphisme et classes abstraites</libcourt>
+      <descriptif>Adaptation de classes afin de permettre la communication avec différentes bases de données (mysql,access,sql server) en utilisant des classes abstraites</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-20</datedebut>
+      <datefin>2015-05-20</datefin>
+      <environnement>Visual Studio 2010 , PhpMyAdmin , Access</environnement>
+      <moyen>Langage C# , XML</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Adaptation de la classe passerelle pour permettre son fonctionnement avec n'importe quelle base =&gt; C4.1.7.1 , C4.1.7.3
+Ajout de la référence Sql.data à la solution C# pour permettre la connexion =&gt; C4.1.7.4
+Sécuriser la connexion à la base (utili</commentaireactivite>
+      </activitecitee>
+      <production numero="1280">
+        <numero>1280</numero>
+        <designation>Compte Rendu TP</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJODVkNDhJUUxObnc&amp;authuser=0</adresse>
+      </production>
+    </situation>
+    <situation ref="1471">
+      <ref>1471</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1</libcourt>
+      <descriptif>Création d'un blog d'entreprise de la conception à la réalisation et à la mise en ligne</descriptif>
+      <contexte>Contact Assainissement PACE</contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement>Serveur WAMP , Serveur Web (OVH),phpMyAdmin, TinyMCE</environnement>
+      <moyen>HTML5 - PHP - CSS3 , Javascript , SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire;
+Rédiger un compte-rendu d'entretien, de réunion
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Estimer le coût d'une solution d'hébergement web 
+Rédiger un dossier de choix et un argumentaire technique </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité (mise en place d'un forum)
+Proposer les niveaux d'habilitation associés au service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet
+Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs dans l'appropriation du nouveau service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative
+Concevoir et valider la maquette (plusieurs proposées) en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire à la mise en place de la solution applicative
+Implémenter le schéma de données dans un SGBD
+Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation et mise en ligne pour l'administrateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests d'intégration et de non régression de la solution mise à jour</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Identifier et partager les bonnes pratiques à intégrer
+Évaluer le degré de conformité des pratiques à un référentiel, à une norme ou à un standard adopté par le prestataire informatique (W3C)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de composants (captcha , intégration Google Maps,fichier .htaccess , langage CSS) </commentaireactivite>
+      </activitecitee>
+      <production numero="1516">
+        <numero>1516</numero>
+        <designation>Documentation Preuve Stage</designation>
+        <adresse>https://drive.google.com/folderview?id=0B3VJOWeZ9wxJfmo4aFRsOF9odTVhQ2FqV0JlMEh2aklZc1pfOFBkYUpiVFFmaXo5STdfV0k&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1525">
+      <ref>1525</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Tutorat Office 365</libcourt>
+      <descriptif>Formation de professeurs à l'outil Office 365 (cloud) :
+Outlook - Contact - Calendrier - OneDrive</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2015-10-30</datedebut>
+      <datefin>2015-10-30</datefin>
+      <environnement>Office 365</environnement>
+      <moyen>PC portables</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mettre en place des sessions de formations pour les professeurs. 
+S'organiser pour les assurer en parallèle des cours</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Formation des professeurs à l'outils Office 365.
+Explications et conseils sur Outlook , Calendrier , Drive et la gestion des Contacts</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Renseignements sur les outils que l'on présente.
+Apprentissage des fonctionnalités du Calendrier et des Contact </commentaireactivite>
+      </activitecitee>
+      <production numero="1678">
+        <numero>1678</numero>
+        <designation>Document de formation Office 365</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJV2JKdmZ5TUF4bDg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1527">
+      <ref>1527</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Service Informatique INPACT</libcourt>
+      <descriptif>Création d'un service informatique à but non-lucratif afin de proposer du dépannage logiciel et matériel, ainsi que des conseils/formations au personnel du lycée (professeurs/étudiants/administratif)</descriptif>
+      <contexte>Association INPACT</contexte>
+      <datedebut>2015-10-01</datedebut>
+      <datefin>2016-06-30</datefin>
+      <environnement>Site Web - Ordinateurs (fixe et portables)</environnement>
+      <moyen>Site Wordpress - Boite mail </moyen>
+      <avisperso>Expérience enrichissante - Travail en équipe</avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1792">
+        <numero>1792</numero>
+        <designation>Fiches &amp; Description INPACT</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJTEhhZC1UUUpqZ0k</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1528">
+      <ref>1528</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GestSup</libcourt>
+      <descriptif>Installation et configuration d'un système de gestion d'incident (GestSup)</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2015-10-08</datedebut>
+      <datefin>2015-12-17</datefin>
+      <environnement>Serveur Web Debian - Machines Virtuel</environnement>
+      <moyen>MySQL - Debian - Certificat SSL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>C2.2.2.4 =&gt; Prise en main d'un système de gestion de tickets d'incidents</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation à propos de l'installation de l'accès https via SSL</commentaireactivite>
+      </activitecitee>
+      <production numero="1802">
+        <numero>1802</numero>
+        <designation>Compte Rendu GestSup</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1530">
+      <ref>1530</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Service Web (GRR)</libcourt>
+      <descriptif>Conception de services web pour gérer les réservations de salles M2L</descriptif>
+      <contexte>Maison des Ligues de Lorraines</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2015-12-08</datefin>
+      <environnement>Eclipse - GitHub</environnement>
+      <moyen>PHP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1679">
+        <numero>1679</numero>
+        <designation>Cahier des charges de la mission</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJMVBqSUJFV3Zrd2M</adresse>
+      </production>
+      <production numero="1681">
+        <numero>1681</numero>
+        <designation>Dossier des services web</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJTlRvUkdJLU1OZzA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1533">
+      <ref>1533</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Mise en place d'un outil de veille et suivi d'une technologie actuelle et en lien avec le développement</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2014-10-01</datedebut>
+      <datefin>2016-06-30</datefin>
+      <environnement></environnement>
+      <moyen>Internet / Aggrégateur Feedly / Pocket</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Utilisation de Feedly, et de l'outil Pocket pour enregistrer les articles intéressants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1682">
+        <numero>1682</numero>
+        <designation>Site de veille technologique</designation>
+        <adresse>http://winserv.mynetgear.com/portail/veille.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1611">
+      <ref>1611</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage SIO 2</libcourt>
+      <descriptif>Développement d'un site web complet pour présenter un cabinet d'avocats
+Formation des membres du cabinet à la bureautique</descriptif>
+      <contexte>Stage 2eme année , Cabinet d'Avocats</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-05</datefin>
+      <environnement>PHP Storm / Framework (Bootstrap) / PhpMyAdmin</environnement>
+      <moyen>HTML 5 - PHP - CSS -Javascript/Jquery - SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>C1.2.5.1 =&gt; Conception d'une interface d'administration accessible uniquement aux utilisateurs habilités à administrer le site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>C1.3.1.2 =&gt; Mise en ligne chez OVH , test de non régression par rapport au WAMP local utilisé pour mes développements.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>C2.1.1.2 =&gt; Échange avec les membres de l'équipe pour connaître les points à leur expliquer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Conception du site web à l'aide de plusieurs composants logiciels de base (PHP Storm , Bootstrap).
+Estimation d'un coût pour l'entreprise pour l'hébergement (avec l'aide du prestataire).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Préparation de la maquette et du design du site au début du stage. 
+Validation du design après chaque étape de développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.1 =&gt; Schématisation d'une base de départ (MCD) sous PowerAMC.
+C4.1.3.2 =&gt; Création et importation du fichier de création SQL dans PhpMyAdmin.
+C4.1.3.2 =&gt; Utilisation des requêtes dans le code PHP du site pour un affichage dynamique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.4 =&gt; Accès aux données depuis PHP avec un script de connexion à la base et un affichage dynamique du résultat.
+C4.1.7.5 =&gt; Sécurisation des requêtes (requêtes préparées), et mise en place de contrôles HTML/Javascript et PHP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'aides contextuelles personnalisées, expliquant rapidement le fonctionnement des fonctionnalités de la page administration.
+Rédaction d'un document d'utilisation destiné à l'administrateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Pour une interface plus claire et agréable , Javascript / JQuery sont très utiles.
+Interêt de l'Angular.js pour éviter les rechargement inutiles de pages.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découverte et apprentissage de Jquery (animation, génération, suppression dynamique de contenu,...). Utilisation du site officiel JQuery et de W3school.
+Découverte d'Angular.js (principes et utilisation) à l'aide du site W3School et CodeSchool.</commentaireactivite>
+      </activitecitee>
+      <production numero="1676">
+        <numero>1676</numero>
+        <designation>Ressources du Stage 2eme année</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJSnE1WDNNWGJVaXM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1678">
+      <ref>1678</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Recherche de virus</libcourt>
+      <descriptif>Travail en équipe afin de rechercher et supprimer un virus de type ransomware</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2016-03-22</datedebut>
+      <datefin>2016-03-22</datefin>
+      <environnement>Windows</environnement>
+      <moyen>Internet - Script - Registre - Antivirus</moyen>
+      <avisperso>Expérience enrichissante. Le travail en équipe à permis a chacun d'amener ces idées et de faire avancer la solution.</avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>C 2.2.1.1 =&gt; Collecte d'informations connues sur Internet pour en savoir le maximum sur le virus
+C 2.2.1.3 =&gt; Rédaction de documents en rapport à l'incident (explications , tutoriels etc ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Réaction obligatoirement rapide, car 3 serveurs et 3 postes étaient inutilisable, nuisant ainsi au travail des membres du Lycée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>C.5.2.4.1=&gt; Recherche de documentations sur le virus avant de se lancer dans la résolution de l'incident en lui-même. </commentaireactivite>
+      </activitecitee>
+      <production numero="1655">
+        <numero>1655</numero>
+        <designation>Compte Rendu Virus</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJVHY3V180alAtYmc</adresse>
+      </production>
+      <production numero="1801">
+        <numero>1801</numero>
+        <designation>Dossier de documentation Locky</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1719">
+      <ref>1719</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Application jQuery Mobile</libcourt>
+      <descriptif>Création d'une application web mobile à l'aide du framework jQuery Mobile.</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2015-11-03</datedebut>
+      <datefin>2015-12-15</datefin>
+      <environnement>PHP - jQuery Mobile - HTML - SQL</environnement>
+      <moyen>Eclipse - Chrome - Mobile - Hébergeur - Architecture MVC</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identification des éléments à rajouter à l'application web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création des contrôleurs manquants pour l'évolution de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.4 =&gt; Création de modèles permettant l'accès aux données de la base.
+C4.1.7.1=&gt;Création de nouvelles fonctionnalités pour l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Réalisation de tests fonctionnels afin de vérifier le fonctionnement des nouveaux éléments et s'assuré de la non régression des éléments fournis.
+Test visuels à l'aide du cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Utilisation du modèle MVC (Modèle-Vue-Contrôleur) pour le développement de l'application.</commentaireactivite>
+      </activitecitee>
+      <production numero="1687">
+        <numero>1687</numero>
+        <designation>Cahier des charges de la mission</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJU2dKUlJ1ZHhhMk0</adresse>
+      </production>
+      <production numero="1688">
+        <numero>1688</numero>
+        <designation>Services Web (fournis)</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJSWgwWnlHT3ViOFU</adresse>
+      </production>
+      <production numero="1689">
+        <numero>1689</numero>
+        <designation>Services Web (complets)</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJVUg2NHIyWDhpeTA</adresse>
+      </production>
+      <production numero="1805">
+        <numero>1805</numero>
+        <designation>Application Web</designation>
+        <adresse>http://winserv.mynetgear.com/m.mdl/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1720">
+      <ref>1720</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>DLS Arena</libcourt>
+      <descriptif>Élaboration d'une plateforme web pour l'inscription et l'organisation de la DLS Arena V3</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2015-10-01</datedebut>
+      <datefin>2016-03-12</datefin>
+      <environnement>PHP - SQL - HTML - CSS - jQuery</environnement>
+      <moyen>PHP Storm - phpMyAdmin - Interface Plesk</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>C2.3.1.2 =&gt; Rapport de problèmes via le formulaire de contact du site
+C2.3.1.4 =&gt; Priorisation des bug remontés : un majeur (pas d'accès à la gestion du compte) et un mineur (un menu était inaccessible)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Mise en place d'un système de compte d'utilisateurs. Intégration d'un système de chef d'équipe ayant un régime différent des autres.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Refonte totale de la charte graphique du site (web responsive) par rapport à la version précédente.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données existante (suppression/ajout de certains éléments).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Tests fonctionnels des des fonctions du site (administration, inscriptions, connexions ...)</commentaireactivite>
+      </activitecitee>
+      <production numero="1705">
+        <numero>1705</numero>
+        <designation>Site Web</designation>
+        <adresse>http://dlsarena.lycee-dls.com/</adresse>
+      </production>
+      <production numero="1707">
+        <numero>1707</numero>
+        <designation>Site Web (secours)</designation>
+        <adresse>winserv.mynetgear.com/DLS%20Arena%20V3%202016/</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

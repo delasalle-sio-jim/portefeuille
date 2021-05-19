@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="555b056b724c3">
+    <ref>555b056b724c3</ref>
+    <datesv>2015-05-19</datesv>
+  </sauvegarde>
+  <etudiant numero="133">
+    <nom>Roger</nom>
+    <prenom>Alban</prenom>
+    <mel>delasalle.sio.roger.a@gmail.com</mel>
+    <situation ref="1174">
+      <ref>1174</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables. </contexte>
+      <datedebut>2015-11-13</datedebut>
+      <datefin>2015-11-13</datefin>
+      <environnement>Architecture client / serveur 3 tiers</environnement>
+      <moyen>Serveur Wamp, PhpMyAdmin, SGBDR MySQL, MySQLWorkbench, langage SQL.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du contexte d'utilisation, des acteurs et de leurs droits.
+-&gt; C1.1.1.1 -&gt; Compte-rendu Dutoit (partie2)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et leur attribuer les droits nécessaires.
+-&gt; C3.3.3.2 et C3.3.3.3 -&gt; Compte rendu Dutoit (partie 2)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données sous MySQL à partir d'un script, extension et modélisation de celle-ci et manipulation de données via le langage SQL.
+-&gt; Toutes les compétences -&gt; Compte-rendu, script BDD et modélisation BDD </commentaireactivite>
+      </activitecitee>
+      <production numero="1064">
+        <numero>1064</numero>
+        <designation>Compte-rendu Dutoit (en 2 parties) et documents annexes</designation>
+        <adresse>https://drive.google.com/drive/#folders/0B90wRwpeszS1flZuQ3RKV0hfZ2hlQm03cmhfRTE1bnVMWE5DcXpGM0w1UDl4aHBMdEhTZ1k/0B90wRwpeszS1fndwYUlqQ2otZjNES0JfSGpxTmx2eUw2WTVKTndSUUFTLXhSc25xekxuNHM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1249">
+      <ref>1249</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valrès</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalité d'une application web de réservation de salles.</descriptif>
+      <contexte>La Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2014-12-16</datedebut>
+      <datefin>2015-01-06</datefin>
+      <environnement>Architecture client / serveur 3 tiers</environnement>
+      <moyen>Serveur wamp, sgbdr MySQL, logiciel MySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservation respectant les contraintes spécifiés dans le dossier de tests.
+Passage des tests du dossier de tests avec consignation des résultats. 
+-&gt; C1.2.4.1 -&gt; Compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles.
+-&gt; C1.3.1.3 -&gt; Compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les différentes table sous MySQL et modélisation de la base de données sous MySQL Workbench.
+Implémentation de la base de données sous MySQL.
+-&gt; C4.1.3.1 et C4.1.3.2 -&gt; Compte rendu et scripts BDD</commentaireactivite>
+      </activitecitee>
+      <production numero="1103">
+        <numero>1103</numero>
+        <designation>Compte-rendu Valres et scripts BDD</designation>
+        <adresse>https://drive.google.com/drive/#folders/0B90wRwpeszS1flZuQ3RKV0hfZ2hlQm03cmhfRTE1bnVMWE5DcXpGM0w1UDl4aHBMdEhTZ1k/0B90wRwpeszS1fmktOHlCVTEwQ1FnWUtwazdkWTBxNlVzZVJYOENvN1BtdThLOUFic1FpMFU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1260">
+      <ref>1260</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Toutes les salles de M2L sont accessible en soirée, un système de &quot;digicode&quot; permet d'entrer dans les locaux en dehors des heures d'ouverture des bureaux. Extension d'une application web permettant d'obtenir et de gérer le digicode.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-01-27</datefin>
+      <environnement>Architecture client / serveur 3 tiers </environnement>
+      <moyen>Serveur wamp, PHP, HTML, MySQL, CSS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des fonctionnalités demandées et des contraintes associées à respecter.
+-&gt; C1.1.1.1 et C1.1.1.2 -&gt; Cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un compte rendu résumant les solution apportées à l'application.
+-&gt; C1.2.1.1 -&gt; Compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Affectation de fonctionnalités spécifiques à certains niveaux d'utilisateurs (fonctionnalités réservées à l'administrateur).
+-&gt; C1.2.5.1 et C1.2.5.3 -&gt; Compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Ajout d'options dans les interfaces d'utilisations pour accéder aux nouvelles fonctionnalités demandées dans le cahier des charges.
+-&gt; C4.1.2.1 -&gt; Compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Modification de l'application de base en y intégrant les nouvelles fonctionnalités demandées dans le cahier des charges.
+-&gt; C4.2.2.1 et C4.2.2.2 -&gt; Cahier des charges et compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Lecture et respect du dossier mis à disposition sur les bonnes pratiques à adopter dans le développement d'application web.
+-&gt; C5.2.1.2 -&gt; Normes de développement PHP</commentaireactivite>
+      </activitecitee>
+      <production numero="1111">
+        <numero>1111</numero>
+        <designation>Compte-rendu  Digicode et document annexes</designation>
+        <adresse>https://drive.google.com/drive/#folders/0B90wRwpeszS1flZuQ3RKV0hfZ2hlQm03cmhfRTE1bnVMWE5DcXpGM0w1UDl4aHBMdEhTZ1k/0B90wRwpeszS1fnltdGZiQV81ZDlfajBMaGlTQm9nWDllS2MtR3lNMzQzQ2doWlBCanY4UDA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1295">
+      <ref>1295</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm</libcourt>
+      <descriptif>La mission GesForm va s'attacher à informatiser les inscriptions aux stages fournis par la Maison des Ligues de Lorraine via une application web.</descriptif>
+      <contexte>La Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-02-24</datedebut>
+      <datefin>2015-04-07</datefin>
+      <environnement>Architecture client / serveur 3 tiers</environnement>
+      <moyen>Serveur wamp, sgbdr MySQL, logiciel Power AMC, langages HTML5, CSS3, PHP5, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges fourni, ici la demande était d'informatiser les inscriptions aux stages fournis pas la Maison des Ligues de Lorraine.
+-&gt; C1.1.1.1 et C1.1.1.2 -&gt; Cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Etude des besoins de l'application à fournir.
+-&gt; C1.1.3.1 -&gt; Cahier des charges, Normes de développement PHP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Durant le développement il a été nécessaire de tester les fonctionnalités de l'application, par conséquent il a fallu générer des jeux de test.
+-&gt; C1.2.4.2 -&gt; Script création BDD (table USER)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Analyse des différentes types d'utilisateurs et associations des types d'utilisateurs aux différentes fonctionnalités de l'application.
+-&gt; Toutes les compétences -&gt; Cahier des charges, Script JDD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Répartition des tâches entre les différents membres du projet, et compte-rendu oral du travail accompli à la fin.
+-&gt; C1.4.1.2 -&gt; Présentation orale de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>L'application web conçu devait être simple pour l'utilisateur et respecter la charte graphique de la Maison des Ligues de Lorraine.
+-&gt; C4.1.2.1 -&gt; Cahier des charges
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception puis mise en oeuvre de la base de données correspondant aux besoins de l'application.
+-&gt; Toutes les compétences -&gt; Scripts BDD et MCD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Conception d'un jeu de données et test de l'application.
+-&gt; C4.1.8.1 -&gt; Script JDD</commentaireactivite>
+      </activitecitee>
+      <production numero="1173">
+        <numero>1173</numero>
+        <designation>Compte-rendu (cahier des charges) GesForm et documents annexes</designation>
+        <adresse>https://drive.google.com/drive/folders/0B90wRwpeszS1flZuQ3RKV0hfZ2hlQm03cmhfRTE1bnVMWE5DcXpGM0w1UDl4aHBMdEhTZ1k/0B90wRwpeszS1flA2THM1UEtSUUJ0eEp5R3FmZ2FEZWJPdk0zUVpyOFFuLUZ2dTUxOTRpSlU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1314">
+      <ref>1314</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet AuParadisDuFessier</libcourt>
+      <descriptif>Adaptation d'un site web statique en une application web dynamique, création d'une documentation utilisateur.</descriptif>
+      <contexte>AuParadisDuFessier.com fait peau neuve, le site doit être passé dynamique, et supporter de nouvelles fonctionnalités.</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-09</datefin>
+      <environnement>Architecture client / serveur 3 tiers</environnement>
+      <moyen>Serveur Wamp, PhpMyAdmin, SGBDR MySQL, langages SQL HTML5 CSS3 et PHP.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges fourni, ici la demande était d'actualiser le site &quot;AuParadisDuFessier.com&quot;, de le rendre dynamique et de lui ajouter quelques fonctionnalités.
+-&gt; C1.1.1.1 et C1.1.1.2 -&gt; Cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>L'application web finale devait être claire pour l'utilisateur, sans contraintes graphiques.
+-&gt; C4.1.2.1 -&gt; Cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification de la base de données fournie et adaptation à la nouvelle application web.
+-&gt; Toutes les compétences -&gt; Script et modélisation de la BDD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Création d'un jeu de données test, et utilisation de celui-ci pour tester le bon fonctionnement de l'application.
+-&gt; C4.1.8.1 et C4.1.8.2 -&gt; Scripts BDD avec les données de tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation utilisateur à la fin du projet.
+-&gt; C4.1.10.1 -&gt; Documentation utilisateur</commentaireactivite>
+      </activitecitee>
+      <production numero="1174">
+        <numero>1174</numero>
+        <designation>Sujet du projet, documentation utilisateur, scripts BDD, modélisation de la BDD.</designation>
+        <adresse>https://drive.google.com/drive/folders/0B90wRwpeszS1flZuQ3RKV0hfZ2hlQm03cmhfRTE1bnVMWE5DcXpGM0w1UDl4aHBMdEhTZ1k/0B90wRwpeszS1fmdoTXBoejhwWlhFTUpCNXVfN1N5MmZ2N0NoRG1lcHFuWXk3REZhckhpRnc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1442">
+      <ref>1442</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail</libcourt>
+      <descriptif>Création d'un portail avec utilisation d'un CMS, donnant accès aux applications web précédemment créées.</descriptif>
+      <contexte>Maison des Ligues de Lorraine</contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-05-19</datefin>
+      <environnement>Architecture client / serveur 3 tiers</environnement>
+      <moyen>Serveur WAMP, Joomla! 2.5.x</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recensement et identification des fonctionnalités à fournir et à qui les fournir (utilisateurs enregistrés, accès aux applications)
+-&gt; C1.1.1.1 et C1.1.1.2 -&gt; Cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte-rendu de l'activité, via une présentation orale une fois le portail achevé.
+-&gt; C1.4.1.2 -&gt; Présentation orale</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche et évaluation de la qualité des informations sur l'utilisation de Joomla! 2.5.X
+-&gt; C5.2.2.1 et C5.2.2.3 -&gt; Mode opératoire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche d'informations et documentation à propos de Joomla! 2.5.X et de son utilisation.
+-&gt; C5.2.4.1 -&gt; Mode opératoire</commentaireactivite>
+      </activitecitee>
+      <production numero="1266">
+        <numero>1266</numero>
+        <designation>Cahier des charges et mode opératoire de Joomla!</designation>
+        <adresse>https://drive.google.com/drive/folders/0B90wRwpeszS1flZuQ3RKV0hfZ2hlQm03cmhfRTE1bnVMWE5DcXpGM0w1UDl4aHBMdEhTZ1k/0B90wRwpeszS1fjh3ZlhoZjNabmFGaGZxdTFZdzg3elhQMnJUdzRBTC11XzJ5R0w4SURweWM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

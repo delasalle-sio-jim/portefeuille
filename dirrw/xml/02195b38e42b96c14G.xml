@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b38e42b96c14">
+    <ref>5b38e42b96c14</ref>
+    <datesv>2018-07-01</datesv>
+  </sauvegarde>
+  <etudiant numero="219">
+    <nom>JAMET</nom>
+    <prenom>Naël</prenom>
+    <mel>delasalle.sio.jamet.n@gmail.com</mel>
+    <situation ref="2320">
+      <ref>2320</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit.</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises.</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>Serveur Wamp, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs sur lesquels le service à produire aura un impact .
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Gérer la base de données Dutoit sous MySQL (serv-wamp1).
+Faire l'extension de la bdd initiale.
+Modifier la base de données initiale sous MySQL Wbench.
+Manipuler des données liées à la solution applicative à travers le langage de requètes SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2453">
+        <numero>2453</numero>
+        <designation>TP 8 Dutoit</designation>
+        <adresse>https://drive.google.com/open?id=1ri2GFxXFO1SDA1dW_VM2xtKxsRIv3Vi2</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2353">
+      <ref>2353</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 4 PPE 2 NAS</libcourt>
+      <descriptif>Remise à zéro et installation d'un serveur NAS physique, création de comptes et de groupes, restrictions des droits, création de domaine.</descriptif>
+      <contexte>Mission 2.4 PPE : Data_Save</contexte>
+      <datedebut>2017-02-14</datedebut>
+      <datefin>2018-02-06</datefin>
+      <environnement>Windows 10, SynologyAssistant</environnement>
+      <moyen>NAS Physique DS713+</moyen>
+      <avisperso>La création et la gestion des comptes a été vraiment intéressante.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse d'un cahier des charges pour répondre à un problème donné.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Gestion des autorisations pour des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place d'un serveur NAS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création de docs d'installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Répartition des tâches avec Trello.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Réalisation de docs d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Etude des éléments à notre disposition.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Schéma des installations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2479">
+        <numero>2479</numero>
+        <designation>Documents de la mission</designation>
+        <adresse>https://drive.google.com/drive/folders/1X8MHpYD-Iq9cp7POJDjSjDvjZ1sGZMn6?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2654">
+      <ref>2654</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Réalisation et mise à jour d'une veille technologique sur la RGPD.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-10-02</datedebut>
+      <datefin>2019-05-31</datefin>
+      <environnement>Trello, Pearltrees, Powerpoint, Word</environnement>
+      <moyen></moyen>
+      <avisperso>Expérience enrichissante qui m'a permis de mieux comprendre les nouvelles règles de sécurité à appliquer</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>tenir un agenda électronique qui recense l'avancement et les nouveautés à apporter</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Rédiger sa veille technologique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etudier la RGPD et exploiter des documents</commentaireactivite>
+      </activitecitee>
+      <production numero="2649">
+        <numero>2649</numero>
+        <designation>Drive de la veille technologique</designation>
+        <adresse>https://drive.google.com/drive/folders/0B6ubTABM5l17RUlGdDRYME1tUkk?usp=sharing</adresse>
+      </production>
+      <production numero="2650">
+        <numero>2650</numero>
+        <designation>Pearltrees de la veille technologique</designation>
+        <adresse>http://www.pearltrees.com/junks</adresse>
+      </production>
+      <production numero="2652">
+        <numero>2652</numero>
+        <designation>Trello de la veille technologique</designation>
+        <adresse>https://trello.com/b/NjZTJEaK/veille-technologique</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2668">
+      <ref>2668</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE Hébergement</libcourt>
+      <descriptif>Amélioration et développement de pages PHP/HTML pour le site du BDE (Bureau des Etudiants).
+</descriptif>
+      <contexte>BDE DLS En binôme avec François Germain.</contexte>
+      <datedebut>2018-03-16</datedebut>
+      <datefin>2018-05-25</datefin>
+      <environnement>Wamp, NotePad++, Bootstrap responsive, SQL, PHP, HTML. </environnement>
+      <moyen></moyen>
+      <avisperso>Très bonne approche de l'amélioration et de la conception d'un site web.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyser le cahier des charges donné par M. Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Essais de l'envoi de mails, de formulaires, etc.. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail en groupe organisé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Schémas de pré développement en binôme</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création et gestion d'une BDD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>A destination du responsable du BDE.</commentaireactivite>
+      </activitecitee>
+      <production numero="2656">
+        <numero>2656</numero>
+        <designation>Drive Projet</designation>
+        <adresse>https://drive.google.com/drive/folders/1s0rLTAUmcR8KVg3WdDjZ3FRxExkH1Ucm?usp=sharing</adresse>
+      </production>
+      <production numero="2657">
+        <numero>2657</numero>
+        <designation>Compte rendu / doc d'utilisation</designation>
+        <adresse>https://drive.google.com/open?id=17ioTzvggmEgejt-0Hj4xATRNpZEN23VkZ3UpOGOJL54</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2672">
+      <ref>2672</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création site web délégués</libcourt>
+      <descriptif>Création d'un site web pour accueillir les demandes des élèves.</descriptif>
+      <contexte>Personnel</contexte>
+      <datedebut>2018-04-02</datedebut>
+      <datefin>2018-09-14</datefin>
+      <environnement>Wordpress</environnement>
+      <moyen></moyen>
+      <avisperso>Beaucoup d'amusement et d'apprentissage sur la gestion et la conception d'un site web !</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Choix du fournisseur : Wordpress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une interface pratique et &quot;ludique&quot;.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Amélioration du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Jeux de tests pour les formulaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Pré étude de Wordpress</commentaireactivite>
+      </activitecitee>
+      <production numero="2659">
+        <numero>2659</numero>
+        <designation>Site web</designation>
+        <adresse>siodelegues.wordpress.com</adresse>
+      </production>
+    </situation>
+    <situation ref="2738">
+      <ref>2738</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise à jour du parc informatique</libcourt>
+      <descriptif>Déploiement d'images systèmes sur des machines vierges.
+Installation d'Ubuntu sur des postes destinés à des écoles.
+Création d'un master avec l'image d'Ubuntu installée.
+Réalisation de jeux de tests sur les postes.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement>Fog, DeepFreeze, Ubuntu</environnement>
+      <moyen></moyen>
+      <avisperso>Mission réalisée pour les écoles, très sympathique malgré le temps nécessaire à la réaliser.</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Détermination des tests à réaliser</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tests réalisés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Installation automatisée sur fog</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son avancement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2744">
+        <numero>2744</numero>
+        <designation>Docs</designation>
+        <adresse>https://drive.google.com/drive/folders/1OHOHazSzZY3kSRBE70q9qxGuDR5XYB0W?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2739">
+      <ref>2739</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Configuration de switch</libcourt>
+      <descriptif>Configuration de switch HP en remplacement d'anciens switch</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement>Interfaces graphiques</environnement>
+      <moyen>Switch HP x8</moyen>
+      <avisperso>Mission qui nous a beaucoup ralentie puisque nous avons rencontré beaucoup de soucis</avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2745">
+        <numero>2745</numero>
+        <designation>Docs</designation>
+        <adresse>https://drive.google.com/drive/folders/1OHOHazSzZY3kSRBE70q9qxGuDR5XYB0W?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2740">
+      <ref>2740</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Nettoyage</libcourt>
+      <descriptif>Nettoyage d'UC/de salles</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement></environnement>
+      <moyen>Balais, aspirateur</moyen>
+      <avisperso>très éloigné du stage, mission de stagiaire...</avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2741">
+      <ref>2741</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Câblage / Rangement</libcourt>
+      <descriptif>Câblage de salles, rangement de matériel (Labo réseau)</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement></environnement>
+      <moyen>Câbles RJ45, alimentations, VGA.</moyen>
+      <avisperso>Mission longue et physique</avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2746">
+        <numero>2746</numero>
+        <designation>Docs</designation>
+        <adresse>https://drive.google.com/drive/folders/1OHOHazSzZY3kSRBE70q9qxGuDR5XYB0W?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2742">
+      <ref>2742</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Scripting</libcourt>
+      <descriptif>Réalisation de scripts pour automatiser le déploiement des pc</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement>Powershell, batch, notepad++</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2747">
+        <numero>2747</numero>
+        <designation>Docs</designation>
+        <adresse>https://drive.google.com/drive/folders/1OHOHazSzZY3kSRBE70q9qxGuDR5XYB0W?usp=sharing</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

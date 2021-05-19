@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fe2e3d591f8a">
+    <ref>4fe2e3d591f8a</ref>
+    <datesv>2012-06-21</datesv>
+  </sauvegarde>
+  <etudiant numero="15">
+    <nom>GORON</nom>
+    <prenom>Fabrice</prenom>
+    <mel>goron.fabrice@gmail.fr</mel>
+    <situation ref="46">
+      <ref>46</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>stage1</libcourt>
+      <descriptif> Configuration PPPoE et VPN de routeurs Cisco 1841 : la section étant équipé d'un DSLAM, nous cherchons à configurer nos routeurs Cisco 1841 en PPPoE pour se connecter à Internet via un modem adsl. Une fois cela fait, nous cherchons à mettre en place un </descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5059f7f80c456">
+    <ref>5059f7f80c456</ref>
+    <datesv>2012-09-19</datesv>
+  </sauvegarde>
+  <etudiant numero="6">
+    <nom>BOURGAIN</nom>
+    <prenom>Rudy</prenom>
+    <mel>rbourgain@gmail.com</mel>
+    <situation ref="135">
+      <ref>135</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>déploiement d'image</libcourt>
+      <descriptif>déploiement d'umages depuis un serveur de clonage</descriptif>
+      <contexte>logiciels manquants dans certaines 3 salles informatiques (d'environ 30 postes chacunes)</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>réseau informatique</environnement>
+      <moyen>serveur de clonage, postes à cloner.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="136">
+      <ref>136</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>maintenance réseau</libcourt>
+      <descriptif>maintenance sur le réseau, sur la demande des utilisateurs (professeurs et élèves). Écoute de leurs demande et maintenance.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="137">
+      <ref>137</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>installation d'un serveur</libcourt>
+      <descriptif>serveur de saisie des problèmes sur le réseau. serveur LAMP avec relais SMTP, qui permet d'envoyer automatiquement un mail à l'administrateur lors de la saisie d'un problème sur le réseau.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="535970f4dbe08">
+    <ref>535970f4dbe08</ref>
+    <datesv>2014-04-24</datesv>
+  </sauvegarde>
+  <etudiant numero="52">
+    <nom>TAZIGH</nom>
+    <prenom>Abdelaaziz</prenom>
+    <mel>tazigh.a@lyceedelasalle.fr</mel>
+    <situation ref="542">
+      <ref>542</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Inventaire informatique</libcourt>
+      <descriptif>en tant que responsable de parc informatique nous devons inventorier celui-ci:
+matériel(stations et matériel d'interconnexion) système, logiciel, câblage...a fin de remplacer ou faire les mise a jour d'éléments défectueux ou obsolètes.</descriptif>
+      <contexte>sisr1</contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>recenser les composants de l'architecture technique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise a jour de la documentation technique d'une solution d'infrastructure/Identifier les éléments de la configuration a modifier ou a remplacer/concevoir un document de synthèse.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="562">
+      <ref>562</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Dépannage et Maintenance</libcourt>
+      <descriptif>en tant que  responsable informatique nous devons intervenir pour résoudre les problèmes rencontrés par les utilisateurs.pour gerer les incidents on a mets en place un outil Helpdesk(centre d'assistance)  </descriptif>
+      <contexte>sisr1</contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Installation et configuration d'un outil d'inventaire et de gestion des configuration/installer et configurer un outil de helpdesk (glpi)/</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Gérer un ticket d'incident/ configurer un systeme d'alerte (ex:messagerie)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="577">
+      <ref>577</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>veille technologique </libcourt>
+      <descriptif>navigateurs informatique</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="601">
+      <ref>601</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>contexte GSB</libcourt>
+      <descriptif>gestion de parc.Comparer les caractéristiques d’une STA, sécuriser une STA contre les malveillances,…)Le sujet va aussi vers la gestion de parc, le déploiement d’images, la sécurisation des données et de l’environnement des utilisateurs, l’identification </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="619">
+      <ref>619</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>analyse de cahier des charge( projet m2l)</libcourt>
+      <descriptif>analyse de cahier de charge</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="620">
+      <ref>620</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>sante +</libcourt>
+      <descriptif>analyse de cahier de charge. adressage routage vlan et configuration des routeurs et commutateurs</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement>packet tracert</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="978">
+      <ref>978</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>projet m2l</libcourt>
+      <descriptif>m2l</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-24</datedebut>
+      <datefin>2014-04-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="979">
+      <ref>979</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>stage 1ier et 2eme annee</libcourt>
+      <descriptif>stage telecom</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-24</datedebut>
+      <datefin>2014-04-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

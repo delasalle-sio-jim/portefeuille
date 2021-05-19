@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fbde8cb57fa4">
+    <ref>4fbde8cb57fa4</ref>
+    <datesv>2012-05-24</datesv>
+  </sauvegarde>
+  <etudiant numero="28">
+    <nom>PARNET</nom>
+    <prenom>Pierre-Emmanuel</prenom>
+    <mel>parnet-pe@voila.fr</mel>
+  </etudiant>
+</suivicomp>

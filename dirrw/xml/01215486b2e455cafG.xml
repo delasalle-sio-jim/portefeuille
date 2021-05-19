@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5486b2e455caf">
+    <ref>5486b2e455caf</ref>
+    <datesv>2014-12-09</datesv>
+  </sauvegarde>
+  <etudiant numero="121">
+    <nom>Guichard</nom>
+    <prenom>Johathan</prenom>
+    <mel>delasalle.sio.guichard.j@gmail.com</mel>
+    <situation ref="1162">
+      <ref>1162</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur Wamp, PhpMyAdmin, SGDR MySql, MySQLWorkbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs sur lesquels le service aura un impact et identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer des droits nécessaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données sous MySql
+extension de la bdd initiale
+modélisation de la base de données finale
+Manipulation des données liées à la solution applicative à travers le langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

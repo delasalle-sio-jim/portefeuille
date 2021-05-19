@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="571f6756721f3">
+    <ref>571f6756721f3</ref>
+    <datesv>2016-04-26</datesv>
+  </sauvegarde>
+  <etudiant numero="130">
+    <nom>Perigois</nom>
+    <prenom>Nathan</prenom>
+    <mel>delasalle.sio.perigois.nathan@gmail.com</mel>
+    <situation ref="1434">
+      <ref>1434</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Miaou.com</libcourt>
+      <descriptif>Réalisation d'un site permettant la vente en ligne</descriptif>
+      <contexte>Entreprise de ventes de chats via internet</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-09</datefin>
+      <environnement>Serveur Wamp, SGBDR MySql</environnement>
+      <moyen>notepad++, mySqlworkbench, PowerAMC, phpmyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1261">
+        <numero>1261</numero>
+        <designation>Projet Miaou</designation>
+        <adresse>https://drive.google.com/drive/folders/0B9sGJ0JJ9b7rflNVUGVVUzZrUkk2ajA3bzJ1ZGNhUWg1eXNrVHVkekkxRGtSalg3MExSVHM/0B9sGJ0JJ9b7rfjlQSGliNERIXzk4YWYwQjFEWHdsLV9kcVg1YTRPQkZNLUJpYllPa0NoMms</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1633">
+      <ref>1633</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise à jour de gamme</libcourt>
+      <descriptif>Mise à jour de gamme pour l'entreprise PSA</descriptif>
+      <contexte>Entreprise PSA Rennes</contexte>
+      <datedebut>2016-01-14</datedebut>
+      <datefin>2016-01-29</datefin>
+      <environnement></environnement>
+      <moyen>Microsoft Word</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1623">
+        <numero>1623</numero>
+        <designation>Mise à jour gamme PSA bridge</designation>
+        <adresse>https://drive.google.com/drive/folders/0B9sGJ0JJ9b7rbWEwZnJJMF9YMFk</adresse>
+      </production>
+      <production numero="1624">
+        <numero>1624</numero>
+        <designation>Mise à jour gamme PSA reinstallation controleur</designation>
+        <adresse>https://drive.google.com/drive/folders/0B9sGJ0JJ9b7rbWEwZnJJMF9YMFk</adresse>
+      </production>
+    </situation>
+    <situation ref="1634">
+      <ref>1634</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gamme norme PSA</libcourt>
+      <descriptif>Misa à jour et création de gamme sous le formalisme PSA</descriptif>
+      <contexte>Entreprise PSA Rennes</contexte>
+      <datedebut>2016-01-14</datedebut>
+      <datefin>2016-01-29</datefin>
+      <environnement></environnement>
+      <moyen>Microsoft Word</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1625">
+        <numero>1625</numero>
+        <designation>Gamme sous formalisme PSA</designation>
+        <adresse>https://drive.google.com/drive/folders/0B9sGJ0JJ9b7rbWEwZnJJMF9YMFk</adresse>
+      </production>
+    </situation>
+    <situation ref="1636">
+      <ref>1636</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Auto-formation logiciel Airmagnet</libcourt>
+      <descriptif>Auto-formation sur le logiciel Airmagnet grâce à Internet</descriptif>
+      <contexte>Entreprise PSA Rennes</contexte>
+      <datedebut>2016-01-07</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Internet</environnement>
+      <moyen>Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1627">
+        <numero>1627</numero>
+        <designation>Auto-formation logiciel Airmagnet</designation>
+        <adresse>https://drive.google.com/drive/folders/0B9sGJ0JJ9b7rbWEwZnJJMF9YMFk</adresse>
+      </production>
+    </situation>
+    <situation ref="1824">
+      <ref>1824</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Virtualisation </libcourt>
+      <descriptif>Virtualisation des serveurs de la M2L</descriptif>
+      <contexte>Projet lycée</contexte>
+      <datedebut>2016-04-26</datedebut>
+      <datefin>2016-04-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="1833">
+      <ref>1833</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Configuration borne Cisco</libcourt>
+      <descriptif>Configuration d'une borne Wifi Cisco de l’entreprise PSA</descriptif>
+      <contexte>Entreprise PSA Rennes</contexte>
+      <datedebut>2016-02-01</datedebut>
+      <datefin>2016-02-09</datefin>
+      <environnement>Borne Cisco</environnement>
+      <moyen>Putty</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1835">
+      <ref>1835</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Etude logiciel Airmagnet</libcourt>
+      <descriptif>Etude et auto-formation du logiciel Airmagnet </descriptif>
+      <contexte>Entreprise PSA Rennes</contexte>
+      <datedebut>2016-01-07</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Airmagnet</environnement>
+      <moyen>Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

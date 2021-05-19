@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e18364b4280a">
+    <ref>5e18364b4280a</ref>
+    <datesv>2020-01-10</datesv>
+  </sauvegarde>
+  <etudiant numero="251">
+    <nom>Lebrun</nom>
+    <prenom>Thomas</prenom>
+    <mel>delasalle.sio.lebrun.t@gmail.com</mel>
+    <situation ref="2792">
+      <ref>2792</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatique de différents niveaux. Elle utilise pour stocker ses informations une base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>Serveur WAMP, PhpMyAdmin, SGBDR MySQL, langage SQL</environnement>
+      <moyen>MySQLWorkBench, language PHP, JS, CSS, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.
+Créer une table utilisateur dans la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (serv-wamp2). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données  liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <production numero="2790">
+        <numero>2790</numero>
+        <designation>TP9 - Dutoit</designation>
+        <adresse>https://drive.google.com/file/d/19RHIED13iZh6lz2Nj_D9gfImsqdb0kcl/view?usp=sharing</adresse>
+      </production>
+      <production numero="2948">
+        <numero>2948</numero>
+        <designation>Site web sur le serveur serv-wamp2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Lebrun/SI6%20-%20TP5%20-%20Admin/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2872">
+      <ref>2872</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE_Mission3_Isole_Wifi</libcourt>
+      <descriptif>Mise en place d'un réseau sans-fil isoler du réseau principal</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-02-26</datedebut>
+      <datefin>2019-02-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2827">
+        <numero>2827</numero>
+        <designation>Dossier PPE_Mission3_Isole_Wifi_Référence</designation>
+        <adresse>https://drive.google.com/drive/folders/10UdHICEjorNPginFfXnC4fPi3eKKyXSO?usp=sharing</adresse>
+      </production>
+      <production numero="2839">
+        <numero>2839</numero>
+        <designation>Lien Trello</designation>
+        <adresse>https://trello.com/invite/b/kI0jfQy6/35cd907f46209516614f14b7d8f04d67/mission3isolewifi</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3091">
+      <ref>3091</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE</libcourt>
+      <descriptif>Le BDE du lycée souhaitait une nouvelle fonctionnalité sur son site afin de commander des polos et t-shirts
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-10</datefin>
+      <environnement>Serveur wamp2</environnement>
+      <moyen>Atom, SQL, CSS, HTML, PHP, JS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet.
+Rendre compte de son activité auprès de M. Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec M. Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD.
+Manipuler les données liées à la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution en PHP, HTML, CSS et JS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques à intégrer.</commentaireactivite>
+      </activitecitee>
+      <production numero="3040">
+        <numero>3040</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://drive.google.com/file/d/1k9cfdPTyAh06qd7331gNEws1g8sa549J/view?usp=sharing</adresse>
+      </production>
+      <production numero="3044">
+        <numero>3044</numero>
+        <designation>Site développé</designation>
+        <adresse>url /serv-wamp2</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3120">
+      <ref>3120</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration du Wiki YourDev Linux et Windows</libcourt>
+      <descriptif>Migrer le Wiki YourDev Linux et Windows qui était sur un serveur MediaWiki vers un serveur qui utilise GitLab et le langage Markdown pour les artciles du Wiki</descriptif>
+      <contexte>Le Wiki a pour vocation de répertorier l’essentiel des informations ainsi que la documentation permettant la mise en œuvre d’une configuration Linux dans l’environnement Orange Labs. Bien que dédiée au périmètre de l’innovation, les informations contenues</contexte>
+      <datedebut>2019-05-20</datedebut>
+      <datefin>2019-06-28</datefin>
+      <environnement>Git, GitLab, Markdown, MediaWiki</environnement>
+      <moyen>Visual Studio Code, GitLab</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test de la bonne intégration des articles YourDev dans le nouveau Wiki</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Migration du Wiki YourDev</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Exploitation d'un environnement de développement et de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'articles en Markdown</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Vérification et correction des erreurs dans les articles écrit en Markdown</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Correction des erreurs dans les articles du Wiki YourDev</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Vérification que les articles sont bien ajouter au Wiki via l'environnement d'intégration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Formation sur Git</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude sur Git/GitLab, Markdown, MediaWiki</commentaireactivite>
+      </activitecitee>
+      <production numero="3240">
+        <numero>3240</numero>
+        <designation>Dossier Orange Labs</designation>
+        <adresse>https://drive.google.com/drive/folders/11tLfVf6mbT7jTWRairWUkWdlcq8_wjUg?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="3242">
+      <ref>3242</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>gfnhcgf</libcourt>
+      <descriptif>hcvnb</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-01-10</datedebut>
+      <datefin>2020-01-10</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

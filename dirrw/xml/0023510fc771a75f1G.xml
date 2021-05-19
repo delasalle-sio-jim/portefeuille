@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="510fc771a75f1">
+    <ref>510fc771a75f1</ref>
+    <datesv>2013-02-04</datesv>
+  </sauvegarde>
+  <etudiant numero="23">
+    <nom>LEMOINE</nom>
+    <prenom>Germain</prenom>
+    <mel>germain159@gmail.com</mel>
+    <situation ref="37">
+      <ref>37</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Monter un serveur RIS</libcourt>
+      <descriptif>activité lié à la première semaine de stage</descriptif>
+      <contexte>Professionnel (stage)</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-01</datefin>
+      <environnement>Windows </environnement>
+      <moyen>logiciel:&quot;Windows 2003&quot;
+Matériel:Serveur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="38">
+      <ref>38</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Remise en etat d'un PC</libcourt>
+      <descriptif>Activité lié à la deuxième semaine de stage</descriptif>
+      <contexte>Professionnel (stage)</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-08</datefin>
+      <environnement>windows</environnement>
+      <moyen>Acronis
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="42">
+      <ref>42</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>serveur IPCOP</libcourt>
+      <descriptif>Remise en marche d'un serveur IPCOP</descriptif>
+      <contexte>stage</contexte>
+      <datedebut>2012-06-14</datedebut>
+      <datefin>2012-06-14</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="61">
+      <ref>61</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>OCS inventory</libcourt>
+      <descriptif>Mise en place d'un service de gestion de parc informatique</descriptif>
+      <contexte>stage</contexte>
+      <datedebut>2012-06-22</datedebut>
+      <datefin>2012-06-26</datefin>
+      <environnement>serveur Windows 2003</environnement>
+      <moyen></moyen>
+      <avisperso>Difficulté pour la mise en place</avisperso>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="63">
+      <ref>63</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation MAC</libcourt>
+      <descriptif>Installation d'un mac sur un dell</descriptif>
+      <contexte>stage</contexte>
+      <datedebut>2012-06-18</datedebut>
+      <datefin>2012-06-28</datefin>
+      <environnement>Ideneb</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="64">
+      <ref>64</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>VPN</libcourt>
+      <descriptif>Mise en place d'un VPN</descriptif>
+      <contexte>stage</contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-26</datefin>
+      <environnement>windows serveur 2003</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="82">
+      <ref>82</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Recherche solution FTP web</libcourt>
+      <descriptif>Recherche d'une solution d'intégration a un navigateur d'un service FTP</descriptif>
+      <contexte>stage</contexte>
+      <datedebut>2012-06-18</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>Firefox</environnement>
+      <moyen>El-finder</moyen>
+      <avisperso>Complexe</avisperso>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="314">
+      <ref>314</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Proxy</libcourt>
+      <descriptif>Mise en place d'un proxy SQUID et squidGuard</descriptif>
+      <contexte>Stage</contexte>
+      <datedebut>2013-01-24</datedebut>
+      <datefin>2013-01-24</datefin>
+      <environnement>Linux,Debian</environnement>
+      <moyen>1 PC et un debian fessant office de proxy</moyen>
+      <avisperso>Travail très intéressant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

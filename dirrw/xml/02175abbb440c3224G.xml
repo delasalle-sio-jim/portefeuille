@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5abbb440c3224">
+    <ref>5abbb440c3224</ref>
+    <datesv>2018-03-28</datesv>
+  </sauvegarde>
+  <etudiant numero="217">
+    <nom>HAMON</nom>
+    <prenom>Amandine</prenom>
+    <mel>delasalle.sio.hamon.amandine@gmail.com</mel>
+    <situation ref="2319">
+      <ref>2319</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Si 3   TP DUTOIT</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations.</descriptif>
+      <contexte>La société de formation continue DUTOIT propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySQL comprenant 3 tables</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>- Serveur Wamp 
+- PhpMyAdmin
+- SGBDR MySQL
+- MySQL WorkBench
+- Langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>- Recenser les acteurs (formateurs &amp; commerciaux) sur lesquels le 
+  service à produire aura un impact. 
+- Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Créer la base de données DUTOIT Sous MySQL (ser-wamp1)
+- Faire l'extension de la base de données initiale.
+- Modéliser la base de données finale.
+- Manipuler des données liés à la solution applicative à travers le 
+  langage de requête SQL (VUES).</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2355">
+      <ref>2355</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2 Mission 4 Serveur NAS</libcourt>
+      <descriptif>Remise à zéro et installation d'un serveur NAS Physique, création de comptes et de groupes, restriction des droits, création de domaines</descriptif>
+      <contexte>Mission PPE 2.4 DATA SAVE / M2L</contexte>
+      <datedebut>2018-01-16</datedebut>
+      <datefin>2018-02-06</datefin>
+      <environnement>SynologyAssistant</environnement>
+      <moyen>NAS Physique DS713+</moyen>
+      <avisperso>Utilisation simple</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Répartition des tâches. 
+Finaliser le tout dans un dossier.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Comparatif de NAS physique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mettre en place le nouveau service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Remise à 0 du NAS. 
+Puis l'installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail par groupe de 3.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Création d'identifiants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur le NAS.</commentaireactivite>
+      </activitecitee>
+      <production numero="2480">
+        <numero>2480</numero>
+        <designation>DRIVE PPE</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2359">
+      <ref>2359</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Travail sur la veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-02-13</datedebut>
+      <datefin>2018-02-13</datefin>
+      <environnement>PowerPoint</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Présentation de ma veille technologique</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

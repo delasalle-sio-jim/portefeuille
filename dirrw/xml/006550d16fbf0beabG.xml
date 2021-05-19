@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d16fbf0beab">
+    <ref>50d16fbf0beab</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="65">
+    <nom>EMILY</nom>
+    <prenom>Juliette</prenom>
+    <mel>emily.j@lyceedelasalle.fr</mel>
+  </etudiant>
+</suivicomp>

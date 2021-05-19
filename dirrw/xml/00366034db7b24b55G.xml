@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="6034db7b24b55">
+    <ref>6034db7b24b55</ref>
+    <datesv>2021-02-23</datesv>
+  </sauvegarde>
+  <etudiant numero="36">
+    <nom>TIXIER</nom>
+    <prenom>Jordan</prenom>
+    <mel>tixier.jo@gmail.com</mel>
+    <situation ref="378">
+      <ref>378</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude mise en place de solution plan de continuité d'activté</libcourt>
+      <descriptif>Etude et tests de différents logiciels de sauvegarde et de récupération d'image disque. </descriptif>
+      <contexte>Ayant des machines vitales dans le bon fonctionnement de la production, il a été nécessaire de faire une étude afin de mettre en place une solution répondant aux attentes. </contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Windows XP, internet</environnement>
+      <moyen>PC de tests</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse d'un cahier des charges portant sur la mise en place d'une solution de plan de continuité d'activité. 
+Participations à des entretiens sur les spécialités d'informaticiens. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'une fiche comparative de solutions répondants aux attentes, avec coût. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tests du logiciels sur différentes machines avec différents modes. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="379">
+      <ref>379</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>MàJ du logiciel IBM iSeries Client Access sur postes clients</libcourt>
+      <descriptif>Le but du projet a été de mettre à jour du logiciel IBM iSeries Client Access sur plus d'une cinquantaine de postes situés sur différents sites autour du bassin rennais. </descriptif>
+      <contexte>Client Access héberge plusieurs logiciels de production tels que macpac, ippac, jde</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Windows XP, System Center Configuration Manager, GLPI, OTRS</environnement>
+      <moyen>prise en main à distance</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Chaque MàJ est confirmé par un ticket dans l'outil OTRS. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Le projet est consultable sur GLPI, avec le pourcentage accompli. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Après l'impossibilité de se connecter pour certaines personnes, un ticket est crée sur OTRS, puis la procédure de résolution peut commencer. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Après l'impossibilité de se connecter pour certaines personnes, un réglage à distance est effectué sur le logiciel concerné. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="380">
+      <ref>380</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Hotline au service informatique</libcourt>
+      <descriptif>Réponses aux utilisateurs demandants une aide. </descriptif>
+      <contexte>Un planning d'inscription de gré à la hotline sur la semaine entre les personnes du service informatique. </contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prise en main sur SCCM, action sur le problème, puis compte-rendu sur OTRS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Dialogue avec l'utilisateur, action puis rédaction de la résolution du problème avec un ticket. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="468">
+      <ref>468</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installer et configurer un accès Wifi pour les visiteurs</libcourt>
+      <descriptif>Le but a été de mettre en place un accès Wifi sécurisé pour les visiteurs afin qu'ils puissent se connecter sur internet</descriptif>
+      <contexte>Maison des Ligues de Lorraine</contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>Windows 7, iOS 6.1</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation du matériel actif</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="472">
+      <ref>472</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Basculement d'un contrôleur de domaine</libcourt>
+      <descriptif>Ma mission a été d'installer et de configurer un contrôleur de domaine sur Windows Server 2008 et d'étudier la migration de l'environnement présent. </descriptif>
+      <contexte>Lycée Chateaubriand</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows Server 2003, 2008, Windows XP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="477">
+      <ref>477</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création des comptes utilisateurs de la M2L et de leurs dossiers</libcourt>
+      <descriptif>Le besoin était de créer les comptes utilisateurs des ligues sportives et de l'administration de la M2L</descriptif>
+      <contexte>Maison des Ligues de Lorraine</contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>VMWare, Windows Server 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="483">
+      <ref>483</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation de GLPI</libcourt>
+      <descriptif>Le but était d'installer, de configurer et maintenir un logiciel de gestion de parc informatique</descriptif>
+      <contexte>TP SI7</contexte>
+      <datedebut>2012-10-11</datedebut>
+      <datefin>2012-10-25</datefin>
+      <environnement>Ubuntu 12.04, GLPI, OCS Inventory</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

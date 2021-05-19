@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5954f090b74a7">
+    <ref>5954f090b74a7</ref>
+    <datesv>2017-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="179">
+    <nom>Ballanger</nom>
+    <prenom>Océane</prenom>
+    <mel>delasalle.sio.ballanger.o@gmail.com</mel>
+    <situation ref="1997">
+      <ref>1997</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société Dutoit</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises</contexte>
+      <datedebut>2016-11-17</datedebut>
+      <datefin>2016-12-01</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MYSQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Les deux premiers points ont été abordé, mais pas les deux derniers car nous avons pas fait de réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Définition des droits privilèges sur phpMyAdmin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création et amélioration de la base de donnée Dutoit ainsi que de requêtes SQL, ensuite appliqué sur MySQL Workbench et phpMyAdmin.</commentaireactivite>
+      </activitecitee>
+      <production numero="2107">
+        <numero>2107</numero>
+        <designation>TP Dutoit </designation>
+        <adresse>https://drive.google.com/drive/folders/0B4ZdRjj9H_HKalItZm8yUjRsVmc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2245">
+      <ref>2245</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet SI6</libcourt>
+      <descriptif>Site web dynamique</descriptif>
+      <contexte>LARge-BAgaGE.com</contexte>
+      <datedebut>2017-03-03</datedebut>
+      <datefin>2017-04-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2287">
+      <ref>2287</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SERIA</libcourt>
+      <descriptif>Stage de première année de BTS SIO, au sein du SERIA (Service Informatique Académique du Rectorat de Rennes).</descriptif>
+      <contexte>--&gt; Rapports sur la consommation de ressources (CPU/RAM/IOs) sur les ESX et serveurs en production (Vmware VROPS)
+--&gt;Gestion de configuration et d'inventaire (GLPI)</contexte>
+      <datedebut>2017-05-29</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Prise en compte et analyse des besoins de l'entreprise.
+Nom du fichier : Sujet de stage Océane Ballanger 1ère année de BTS SIO.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Rapport sur les indicateurs de performances avec le logiciel VMware vRealize Operations Manager (VROPS).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Rapport sur les indicateurs de performances avec le logiciel VMware vRealize Operations Manager (VROPS).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>En lien avec le travail fait sur GLPI, comment en est-on venu à supprimer l'agent OCS_Inventory</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction de la documentation technique sur la désinstallations d'un agent OCS_Inventory.
+Nom du fichier : Désinstallationdes agents OCS_Inventory.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Avant de supprimer l'agent OCS_Inventory des serveurs de production CYCLADES, j'ai fait des tests sur les serveurs de pré-production étant dans la même situation (deux agents d'inventaire) afin de connaître les risques possibles sur la production.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>En lien avec le travail effectué sur GLPI, en vue des tests réalisé sur la pré-production de CYCLADES, il m'a fallu vérifier que celle-ci fonctionne encore et que mes tests ont fonctionné.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>En lien avec le travail fait sur l'outil d'inventaire GLPI.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Rapport sur les indicateurs de performances avec le logiciel VMware vRealize Operations Manager (VROPS).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Avant la mise en place du service GLPI ou VMware vRealize Operations Manager (VROPS), j'ai dû réaliser une veille technologique, des documentations techniques afin d'expliquer ma démarche et d'en discuter avec mes collègues avant sa mise en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Durant mon stage j'ai déployer deux services celui de GLPI et VMware vRealize Operations Manager (VROPS).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai travaillé essentiellement sur l'application CYCLADES qui est l'un des projets de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Création des rapports sur les indicateurs de performances sous VROPS, analyse et présentation des résultats obtenus à l'équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Création des rapports sur les indicateurs de performances sous VROPS, analyse et présentation des résultats obtenus à l'équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>J'ai réalisé deux documentations techniques une pour GLPI et une pour VROPS. 
+Nom des fichiers : Désinstallation des agents OCS_Inventory.docx
+DocumentationTechnique-VMware-VROPS.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Rapport sur les indicateurs de performances avec le logiciel VMware vRealize Operations Manager (VROPS).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Création d'un tableau de bord des incidents et interruptions sur la production de cinq applications.
+Nom du fichier : JdB_Incident production.xlsx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Création d'un tableau de bord des incidents et interruptions sur la production de cinq applications.
+Nom du fichier : JdB_Incident production.xlsx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Le travail fait sur VMware vRealize Operations Manager (VROPS) et sur GLPI correspond à une amélioration du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Au cours de mon stage j'ai mis deux schémas d'architecture réseau à jour. 
+Nom des fichiers : DIP-ECC-cycladesPROD-v2.vsd
+Schéma tyforge-V2.vsd</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Création des rapports sur les indicateurs de performances sous VROPS. Ils ont fait l'objet d'une automatisation, tous les premiers du mois les rapports seront envoyés sur une adresse mail groupés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Rapport sur les indicateurs de performances (CPU/RAM/IOs) avec le logiciel VMware vRealize Operations Manager (VROPS).
+Tableau de bord de CYCLADES du mois de JUIN.
+Nom du fichier : Tableau de bord Cyclades - 2017 -06.xlsx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Réalisation d'une documentation technique pour le logiciel VMware vRealize Operations Manager (VROPS).
+Nom du fichier : DocumentationTechnique-VMware-VROPS.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Réalisation d'une documentation d'utilisation pour le logiciel VMware vRealize Operations Manager (VROPS).
+Nom du fichier : DocumentationTechnique-VMware-VROPS.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour de la documentation technique sur la désinstallation des agents OCS_Inventory.
+Nom du fichier : Désinstallationdes agents OCS_Inventory.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Veille technologique sur l'agent FusionInventory.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Veille technologique sur l'agent FusionInventory.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Veille technologique sur l'agent FusionInventory.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Lorsque que j'ai eu des manipulations à faire sur la production ou la pré-production de CYCLADES j'ai suivi à la lettre les actions demandés.
+Par exemple avec la désinstallation des agents OCS_Inventory.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>-Système d'exploitation Linux Red Hat
+-Recommandations de l'ANSSI sur la configuration d'un système GNU/Linux
+-Les vulnérabilités dans Samba
+-Le logiciel VMware VROPS
+-La configuration et le redémarrage de l'agent FusionInventory
+-Les indicateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Recherche par moi même des documents d'utilisation pour VROPS, des documents de configuration et son fonctionnement pour l'agent FusionInventory.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>J'ai longuement étudié la configuration et le fonctionnement de l'agent FusionInventory.
+Nom du fichier : Agent FusionInventory.docx</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

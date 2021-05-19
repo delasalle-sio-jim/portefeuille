@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53721a4528cf1">
+    <ref>53721a4528cf1</ref>
+    <datesv>2014-05-13</datesv>
+  </sauvegarde>
+  <etudiant numero="1">
+    <nom>ALIX</nom>
+    <prenom>Thomas</prenom>
+    <mel>alix.thomas35@gmail.com</mel>
+    <situation ref="90">
+      <ref>90</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[Stage 1] Montage d'un PC</libcourt>
+      <descriptif>Monter entièrement un PC, avec installation de l'OS</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="91">
+      <ref>91</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 1] Réparation d'un PC en panne</libcourt>
+      <descriptif>Réparation d'un PC en panne</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="93">
+      <ref>93</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[Stage 1] Maintenance d'un PC</libcourt>
+      <descriptif>Maintenance d'un PC</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="328">
+      <ref>328</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 2] Migration de boite mail</libcourt>
+      <descriptif>Migrer des boites mails pour le changement de serveur de messagerie</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-05</datedebut>
+      <datefin>2013-02-05</datefin>
+      <environnement>Thunderbird, Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Migration des boites au lettres, pour aidé la personne a s'y reperé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Migration des boites au lettres, avec l'aide du document fournis avec.
+Prise en main de serveur et de machine avec mstsc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Suite aux migration des boites au lettres, les synchronisation des téléphones mobile de fonctionnais plus,  il fallait les reparamétrer.
+J'ai montré a l'utilisateur comment reparametrer la syncro.
+Prise en main de serveur et de machine avec mstsc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="73">
+        <numero>73</numero>
+        <designation>Migration de boite mails, en modifiant le fichier &quot;Prefs&quot;</designation>
+        <adresse>https://www.dropbox.com/s/212znni9nfl66w7/Migration%20OBM%20modif%20prefs.pdf</adresse>
+      </production>
+      <production numero="75">
+        <numero>75</numero>
+        <designation>Migration de boite mails, agenda, contacts</designation>
+        <adresse>https://www.dropbox.com/s/ib0byn416mt2mct/Phase_Preparation_MIG_ICASSO.pdf</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="329">
+      <ref>329</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 2] Changement des imprimantes</libcourt>
+      <descriptif>Changement de toutes les imprimantes Toshiba, par des nouvelles Sharp</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-05</datedebut>
+      <datefin>2013-02-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>Une entreprise (OMS) est venu changer toutes les imprimantes de la préfecture</avisperso>
+    </situation>
+    <situation ref="330">
+      <ref>330</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[Stage 2] Configuration de téléphone </libcourt>
+      <descriptif>Configuration de l'APN, installation du certificat de sécurité du ministère, configuration des contacts et agenda (Funambol) avec le serveur OBM, configuration de la boite mail avec le serveur de messagerie </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-05</datedebut>
+      <datefin>2013-02-05</datefin>
+      <environnement>android</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="70">
+        <numero>70</numero>
+        <designation>Parametrage de l'agenda et des contacts</designation>
+        <adresse>https://www.dropbox.com/s/stb29rjlpgqr1p6/PARAMETRAGE-FUN-V10-0.4.pdf</adresse>
+      </production>
+      <production numero="74">
+        <numero>74</numero>
+        <designation>Parametrage Samsung S2</designation>
+        <adresse>https://www.dropbox.com/s/bgphyfu5ypne49t/Parametre%20Samsung%20S2.pdf</adresse>
+      </production>
+    </situation>
+    <situation ref="338">
+      <ref>338</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 2] Microsoft RDS</libcourt>
+      <descriptif>Réflexion sur la mise en place d'une structure serveur - client léger, </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-13</datedebut>
+      <datefin>2013-02-13</datefin>
+      <environnement>microsoft, windows serveur R2, microsoft RDS</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>C2.3.1.1 - impression impossible dans l'app Kéops
+C2.3.1.2 - problème de droit pour imprimer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>C3.1.1.1 - Recueil sur OCS/GLPI de tous les logiciels installés pour testé leur compatibilité.
+ </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="76">
+        <numero>76</numero>
+        <designation>Présentation des avantages et de la structure du Serveur - Client leger</designation>
+        <adresse>https://www.dropbox.com/s/nluh3mwb9ygdn82/Virtualisation%20serveur%20-%20client%20leger.pdf</adresse>
+      </production>
+      <production numero="392">
+        <numero>392</numero>
+        <designation>Architecture RDS</designation>
+        <adresse>https://www.dropbox.com/s/nm7qf0eusz86ecq/Archi%20RDS.jpeg</adresse>
+      </production>
+      <production numero="393">
+        <numero>393</numero>
+        <designation>Schema de cablage RDS</designation>
+        <adresse>https://www.dropbox.com/s/l8b8m42aj2t9qgh/Schema%20de%20cablage%20RDS.jpeg</adresse>
+      </production>
+      <production numero="394">
+        <numero>394</numero>
+        <designation>Schema des échanges de requetes RDS</designation>
+        <adresse>https://www.dropbox.com/s/tswi4q9tn2gk672/Schema%20des%20%C3%A9changes%20de%20requetes%20RDS.jpeg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="339">
+      <ref>339</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[Stage 2] Déploiement avec MDT</libcourt>
+      <descriptif>Déploiement de Windows 7 sur des stations de travail avec MDT</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-13</datedebut>
+      <datefin>2013-02-13</datefin>
+      <environnement>Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="292">
+        <numero>292</numero>
+        <designation>Tutoriel pour la realisation d'un déploiement</designation>
+        <adresse>https://www.dropbox.com/s/zw5fgi6u70qhfss/TUTO%20D%C3%A9ploiement%20de%20Windows%207%20avec%20Microsoft%20Deployment%20Toolkit.docx</adresse>
+      </production>
+    </situation>
+    <situation ref="340">
+      <ref>340</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 2] Recueil d'information avec OCS/GLPI</libcourt>
+      <descriptif>Recueil d'information sur les logiciels installé sur le site de la préfecture</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-13</datedebut>
+      <datefin>2013-02-13</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="395">
+      <ref>395</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 2] Changement de switch </libcourt>
+      <descriptif>Changement de plusieurs switch pour mettre au point un système de redondance pour passé en architecture 2+</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-22</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Switct HP, 3COM</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="293">
+        <numero>293</numero>
+        <designation>Reseau de la préfecture une fois les switchs remplacé (redondance) </designation>
+        <adresse>https://www.dropbox.com/s/g1sz910rgcw1a08/PREF35A4.jpg</adresse>
+      </production>
+    </situation>
+    <situation ref="396">
+      <ref>396</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[TP] Installation OCS/GLPI</libcourt>
+      <descriptif>Installation d'OCS et de GLPI sur un serveur sous ubuntu</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-22</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Ubuntu, Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="390">
+        <numero>390</numero>
+        <designation>TP installation GLPI OCS </designation>
+        <adresse>https://www.dropbox.com/s/fg7waxuz0qjl80g/TP%20installation%20GLPI%20OCS.docx</adresse>
+      </production>
+    </situation>
+    <situation ref="398">
+      <ref>398</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage2] Déploiement de paquet avec OCS</libcourt>
+      <descriptif>Déploiement de paquet contenant l'installation d'un logiciel avec OCS</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-03-01</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="294">
+        <numero>294</numero>
+        <designation>Description d'un paquet pret a etre déployé </designation>
+        <adresse>https://www.dropbox.com/s/7ssnbhezde51zn3/TUTO%20D%C3%A9ploiement%20sous%20OCS.docx</adresse>
+      </production>
+    </situation>
+    <situation ref="437">
+      <ref>437</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[PPE] Installation RAID 1 et 5</libcourt>
+      <descriptif>Installer et configurer une solution de tolérance de pannes de disque dur sur le premier contrôleur de domaine</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>Windows serveur 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="149">
+        <numero>149</numero>
+        <designation>Tutoriel RAID</designation>
+        <adresse>https://www.dropbox.com/s/j4ht2zi5akrkkzq/TUTO%20RAID.docx</adresse>
+      </production>
+    </situation>
+    <situation ref="441">
+      <ref>441</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[PPE] Installation contrôleur de domaine secondaire </libcourt>
+      <descriptif>Installer et configurer une solution de disponibilité de serveurs windows contrôleurs de domaine.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>Windows Serveur 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="154">
+        <numero>154</numero>
+        <designation>Tutoriel second contrôleur de domaine</designation>
+        <adresse>https://www.dropbox.com/s/fp7dt6jzi9hd1gi/Tutoriel%20controleur%20de%20domaine.docx</adresse>
+      </production>
+    </situation>
+    <situation ref="464">
+      <ref>464</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de flux RSS</libcourt>
+      <descriptif>Mise en place d'un flux rss pour la veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>Google reader</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="388">
+        <numero>388</numero>
+        <designation>Présentation de gestion de flux RSS avec FeedDemon </designation>
+        <adresse>https://www.dropbox.com/s/az6y1c3qv9dpy41/Pr%C3%A9sentation%20de%20gestion%20de%20flux%20RSS%20avec%20FeedDemon.docx</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="470">
+      <ref>470</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[PPE] Création des comptes utilisateurs</libcourt>
+      <descriptif>Création des comptes utilisateurs de la M2L et de leurs dossiers</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>Windows Serveur 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="391">
+        <numero>391</numero>
+        <designation>M2L-Mission 03-v02-Création des comptes utilisateurs et des dossiers partagés</designation>
+        <adresse>https://www.dropbox.com/s/zw3g3vgzgccwjt2/M2L-Mission%2003-v02-Cr%C3%A9ation%20des%20comptes%20utilisateurs%20et%20des%20dossiers%20partag%C3%A9s.doc</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

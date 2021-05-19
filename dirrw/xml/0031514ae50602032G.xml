@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="514ae50602032">
+    <ref>514ae50602032</ref>
+    <datesv>2013-03-21</datesv>
+  </sauvegarde>
+  <etudiant numero="31">
+    <nom>RAMAGE</nom>
+    <prenom>Romain</prenom>
+    <mel>rom.ram@hotmail.fr</mel>
+    <situation ref="60">
+      <ref>60</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage en entreprise de première année</libcourt>
+      <descriptif>Nous devons améliorer et mettre à jour une partie d'un logiciel de gestion de clients, de gestion des stocks, et de gestion de commande.</descriptif>
+      <contexte>L'application de départ étant étant vb6, il a fallut la passer sur vb.net, nous devons aussi apporter de nouvelles modifications pour répondre au nouveau besoin.
+</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-26</datefin>
+      <environnement>Visual Studio 2010 Ultimate</environnement>
+      <moyen>Mon Ordinateur Portable</moyen>
+      <avisperso>Ce stage est très intéressant, grâce à ça ce stage j'ai pu développer mes compétences en programmation.</avisperso>
+      <avisprof>
+        <numero>14</numero>
+        <commentaire>Il serait bien de reformuler TOUTES les activités, et de compléter la description de la situation professionnelle en essayant de remplir toutes les cases.</commentaire>
+        <datecommentaire>2012-06-26</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>lecture du cahier des charges pour savoir quelles étaient les attentes et les demandes des futurs utilisateurs,nous avons aussi participer à une réunion de présentation de ce que nous avions fait et pour voir pour des éventuelles amélioration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le prix des produits ayant une très grandes importance dans la vie de l'entreprise, nous avons du réaliser des contrôles pour éviter les erreurs de saisie. Il est en est de même pour la gestion des fournisseur, il faut effectuer des contrôle pour que la</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Les futurs utilisateurs ne faisant pas tous parti du même service et certains n'ayant pas accès a certaines informations, nous a amené à créer des groupes dans lesquels se trouve les utilisateurs et chaque groupes ayant des droit de modification, ou non</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Spécification en fonction des droits des différents utilisateurs </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation d'une base de données pour qu'elle puisse répondre à des nouveaux besoins(mettre des droits aux utilisateurs), avec la création de plusieurs tables</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Prototypage de classe avec des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de plusieurs classes, de plusieurs formulaires, avec notamment des évènements associées à ces formulaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Les différents acteurs utile dans l'application sont les commerciaux,les clients,les fournisseurs ...Il a donc été utile de créer des classes pour chaque acteurs.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="153">
+      <ref>153</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>gsb</libcourt>
+      <descriptif>PPE en première année. Mise en place d'un site qui permet de rembourser des visiteurs médicales.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-10-08</datedebut>
+      <datefin>2012-10-08</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="348">
+      <ref>348</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP web 1-1: Amélioration d'un formulaire de HTML vers XHTML</libcourt>
+      <descriptif>Crititique de HTML pour passer vers XHTML à partir d'un script simple en HTML.
+Conception d'un formulaire d'inscription à des stages.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-15</datedebut>
+      <datefin>2013-02-15</datefin>
+      <environnement>Windows 7, Notepad ++</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception d'une interface permettant de s'inscrire à un stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation de test pour corriger ou adapter le code</commentaireactivite>
+      </activitecitee>
+      <production numero="68">
+        <numero>68</numero>
+        <designation>TP formulaire web</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO2_2012_2013/Ramage/ControlePHP/Elementsfournis/Formulaire-saisie.php</adresse>
+      </production>
+    </situation>
+    <situation ref="363">
+      <ref>363</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage deuxième Année : Création d'un intranet</libcourt>
+      <descriptif>Etude de l'intranet existant du lycée de la Salle, modification et amélioration pour répondre aux besoins.
+Développement avec Wordpress.</descriptif>
+      <contexte>Lycée technique et professionnel</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Développement de site web avec un gestionnaire de contenus</environnement>
+      <moyen>Wordpress, serveur WAMP, station de travail sous Windows 7, Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Interaction entre le système d'authentification du réseau local du lycée et l'extranet hébergé.
+Différenciation entre les connexions faites à partir du lycée et les autres.
+Certains composants installés sur l'intranet ne seront accessibles que si on </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Analyse de sites intranet d'autres lycées, choix des fonctionnalités retenues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recensement des types utilisateurs pouvant utiliser le service et les droits qui leur sont associés(prof, élève, ceux ayant accès à l'espace d'administration, visiteur, ... )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte-rendus d'activité hebdomadaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identification des éléments à mettre dans l'intranet (Espace prof, Espace Elève, espace visiteur, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une base de données et manipulation des données.
+Migration des comptes utilisateurs du réseau du lycée vers la nouvelle base.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Etude de l'intranet existant et des modules à garder, recensement des nouveaux besoins à développer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Construction de la maquette du futur intranet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation d'un environnement de développement et de test local avant le déploiement final sur l'hébergeur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Modification du code de certains composant de Wordpress et ajout de composants comme l'espace de consultation des fichiers.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique.
+Rédaction d'un dossier concernant l'intranet, et explication sur le développement effectué.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de la documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoins de formations sur Wordpress, et besoins de compléments en PHP, Javascript, CSS, Ajax, Jquery, ...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de tutoriels sur Wordpress et sur le Javascript. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="374">
+      <ref>374</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Ajouts d'outils de filtrage des données </libcourt>
+      <descriptif>Dans un formulaire de gestion des élèves et des cours, on a ajouté un filtrage à la recherche.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-10-18</datedebut>
+      <datefin>2012-11-18</datefin>
+      <environnement>Visual studio </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identification des composants qu'il fallait ajouter à la solution de départ</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation de l'interface pour l'ajout des filtres</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Analyse du code fourni et ajout des modifications</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respect des normes de programmation qui ont été fixées lors du développement initial de l'application.</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="519c76102ac1b">
+    <ref>519c76102ac1b</ref>
+    <datesv>2013-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="63">
+    <nom>GACON</nom>
+    <prenom>Johannes</prenom>
+    <mel>gacon.j@lyceedelasalle.fr</mel>
+    <situation ref="197">
+      <ref>197</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Programmation en VB et C#</libcourt>
+      <descriptif>Apprentissage de 11 cours dans le milieu de la programmation en VB et C# et application de 10 TP en rapport avec ces cours. Apprentissage de cours spécifiques SLAM 2 puis mise en pratique avec des TP.</descriptif>
+      <contexte>Etude des cours proposés par la formation.</contexte>
+      <datedebut>2012-09-14</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Microsoft Visual Studio 2010</environnement>
+      <moyen>1 ordinateur Windows 7 + 1 licence Microsoft Visual Studio 2010</moyen>
+      <avisperso>Progression constatée dans l'ensemble des TP réalisés depuis le début de l'année.</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>C1.2.4.1 (Tests Unitaires)
+C1.2.4.2 (Tests Unitaires)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>C1.3.1.1 (Tests Unitaires)
+C1.3.1.2 (Tests Unitaires)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.1 (Développement en VB et C#)
+C4.1.7.3 (Développement en VB et C#)</commentaireactivite>
+      </activitecitee>
+      <production numero="302">
+        <numero>302</numero>
+        <designation>Accès aux Sources des TP</designation>
+        <adresse>Mr Cartron (Différents TP - SI4), Emplacement Réseau Personnel</adresse>
+      </production>
+    </situation>
+    <situation ref="404">
+      <ref>404</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Devoir Maison de Veille Technologique</libcourt>
+      <descriptif>Devoir maison qui était à réaliser en binôme ou seul sur un projet de veille technologique, utilisation d'un portail personnalisable de flux RSS.</descriptif>
+      <contexte>Création d'un compte sur un site de veille technologique, recherche de sites proposant des flux RSS d'actualité constante, rédaction de la méthode de fonctionnement.</contexte>
+      <datedebut>2013-02-23</datedebut>
+      <datefin>2013-03-11</datefin>
+      <environnement>1 Ordinateur Windows 7 + 1 Portail Personnalisable de Flux RSS (NetVibes).</environnement>
+      <moyen>1 Connexion Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>C5.2.2.1 (Recherche de sites d'actualité constante)
+C5.2.2.2 (Utilisation d'un moteur de flux RSS)
+C5.2.2.3 (Vérification d'un site proposant des flux RSS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>C5.2.4.1 (Sites en rapport avec les nouveautés technologiques)</commentaireactivite>
+      </activitecitee>
+      <production numero="301">
+        <numero>301</numero>
+        <designation>Accès au Source du DM</designation>
+        <adresse>Mr Bouvier (Devoir Maison Veille Techno - SI5), Support Papier Noté Détenu par le Prof</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="405">
+      <ref>405</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Devoir Maison Analyse d'un Cahier des Charges</libcourt>
+      <descriptif>Devoir maison qui était à réaliser en binôme ou seul dont le but était de prendre en compte les besoins nécessaires d'un cahier des charges et d'apporter au mieux une solution.</descriptif>
+      <contexte>La Côte d'Emeraude est une Communauté de Commune sur laquelle il fallait reconcevoir le système informatique en proposant les meilleurs et moins cher matériels du marché. Chaque choix de matériel devait être justifié.</contexte>
+      <datedebut>2012-12-22</datedebut>
+      <datefin>2013-01-07</datefin>
+      <environnement>1 Ordinateur Windows 7</environnement>
+      <moyen>1 Connexion Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.2 (Recherche des meilleurs produits actuels du marché)
+C1.1.1.3 (Oral noté avec diaporama)
+C1.1.1.4 (Rédaction d'un compte-rendu d'une vingtaine de pages)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>C1.1.3.1 (Respect des demandes du cahier des charges)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>C1.2.1.1 (Adaptation des produits du marché en fonction des demandes)
+C1.2.1.2 (Recherches de produits en fonction du budget disposé)
+C1.2.1.3 (Explication des différents choix des matériels)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>C1.2.2.1 (Achat du matériel selon les besoins)
+C1.2.2.3 (Comparaison des matériels existants dans la société)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>C1.4.3.1 (Ressources Matérielles Virtuelles)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>C5.1.6.2 (Budget de 25000€, utilisation de 5000€ environ)</commentaireactivite>
+      </activitecitee>
+      <production numero="300">
+        <numero>300</numero>
+        <designation>Accès au Source du DM</designation>
+        <adresse>Mr Bouvier (Devoir Maison Côte d'Emeraude - SI1), Support Papier Noté</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="406">
+      <ref>406</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Devoir Maison Rédaction d'une Documentation Technique</libcourt>
+      <descriptif>Devoir maison qui était à réaliser seul durant les vacances d'hiver dont le but était de réaliser en une vingtaine de pages une documentation technique complète d'un logiciel fournit.</descriptif>
+      <contexte>Gestion Lycée est un logiciel permettant la gestion des classes, des élèves, des professeurs, des matières, etc... Le but était de préciser l'action de chaque fonctionnalité que propose le logiciel.</contexte>
+      <datedebut>2013-02-23</datedebut>
+      <datefin>2013-03-11</datefin>
+      <environnement>1 Ordinateur Windows 7.</environnement>
+      <moyen>1 Exemplaire du Logiciel à Présenter.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>C4.1.9.1 (Rédaction d'une documentation technique à propos du logiciel Gestion Lycée)</commentaireactivite>
+      </activitecitee>
+      <production numero="297">
+        <numero>297</numero>
+        <designation>Accès aux Rédactions de Documentations</designation>
+        <adresse>Mme Legendre (Documentation GSB - PPE), Emplacement Personnel</adresse>
+      </production>
+      <production numero="298">
+        <numero>298</numero>
+        <designation>Accès aux Rédactions de Documentations</designation>
+        <adresse>Mme Legendre (Documentation La Place Aux Vêtements - SI6), Emplacement Personnel</adresse>
+      </production>
+      <production numero="299">
+        <numero>299</numero>
+        <designation>Accès aux Rédactions de Documentations</designation>
+        <adresse>Mr Cartron (Documentation Gestion Lycée - SLAM 2), Support Papier Noté</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="529">
+      <ref>529</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Commandes Linux et Dos</libcourt>
+      <descriptif>Apprentissage de l'environnement Linux et Windows en exécutant des commandes en lignes. Commandes de base (de gestion), création d'utilisateurs et de groupes, gestion de droits d'accès...</descriptif>
+      <contexte>Apprentissage des cours sur les commandes Linux et les commandes Dos. Approfondissement des connaissances avec les droits accordés aux groupes et utilisateurs, et création de script BASH et BATCH.</contexte>
+      <datedebut>2012-11-01</datedebut>
+      <datefin>2013-01-01</datefin>
+      <environnement>Microsoft Windows 7 et Linux Ubuntu 12.4</environnement>
+      <moyen>1 Ordinateur Windows 7 + les Systèmes d'Exploitation Requis.</moyen>
+      <avisperso>Progression constatée aussi bien sur les commandes Dos que Linux.</avisperso>
+      <production numero="296">
+        <numero>296</numero>
+        <designation>Accès aux Sources des TP</designation>
+        <adresse>Labo Réseau, Disque Dur Personnel</adresse>
+      </production>
+    </situation>
+    <situation ref="539">
+      <ref>539</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Galaxy Swiss Bourdin - GSB</libcourt>
+      <descriptif>Amélioration d'un site internet pré-conçu, adaptation d'une base de données, création de compte d'accès, rédaction d'une documentation utilisateur ...</descriptif>
+      <contexte>GSB est une société de l'industrie pharmaceutique. Le site internet permet la gestion des frais occasionnée par les visiteurs médicaux et validée par les comptables de la société.</contexte>
+      <datedebut>2013-01-09</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement>Mozilla Firefox ; MySQL (PHPMyAdmin) ; Notepad++.</environnement>
+      <moyen>1 Ordinateur Windows 7 + les Documentations Adéquates.</moyen>
+      <avisperso>Progression dans l'écriture du code source en PHP</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1 (Etude du cahier des charges, des besoins de la société)
+C1.1.1.2 (Estimation des futurs travaux en fonction des besoins)
+C1.1.1.4 (Rédaction d'une documentation utilisateur)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.1 (Briefing chaque mercredi, mise à disposition des tâches)
+C1.4.1.2 (Rédaction de l'évolution sur Skydrive de manière hebdomadaire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>C2.3.1.1 (Nombreux essais mis en place dans le code PHP)
+C2.3.1.2 (Retour sur la dernière action générant le problème)
+C2.3.1.4 (Estimation du degré du problème dans l'immédiat ou non)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.1 (Modélisation d'un Diagramme de Navigation et d'un Cas d'Utilisation)
+C4.1.3.3 (Utilisation de requêtes SQL intégrées dans le code PHP)
+C4.1.3.4 (Requêtes SQL intégrées dans des variables PHP)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>C4.1.9.1 (Rédaction d'une documentation utilisateur de 7 pages)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>C5.2.1.2 (Respect des normes GSB, indentation des codes PHP)</commentaireactivite>
+      </activitecitee>
+      <production numero="295">
+        <numero>295</numero>
+        <designation>Accès à l'Application GSB</designation>
+        <adresse>Serveur Wamp 1, Dossier RichardGacon</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="554">
+      <ref>554</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création DHCP, Utilisateurs, GPO</libcourt>
+      <descriptif>Création d'un réseau client/serveur entre un poste client Windows 7 et un serveur Windows Server 2008, création d'un réseau DHCP, création d'UO (Unité d'Organisation) et de GPO (Stratégies de Groupe).</descriptif>
+      <contexte>Apprentissage des cours sur la mise en place d'un DHCP sur un poste client, création d'utilisateurs et affectation dans des groupes, et création de stratégies de groupe à affecter aux utilisateurs (permissions/restrictions).</contexte>
+      <datedebut>2013-03-11</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>VSphere Client ; Windows 7 ; Windows Server 2008</environnement>
+      <moyen>1 Ordinateur Windows 7 + 1 ESX (Machine Virtuelle).</moyen>
+      <avisperso>Difficulté sur l'environnement du DNS et du DHCP. Progression sur la création d'UO, de GPO, et d'Utilisateurs.</avisperso>
+      <production numero="304">
+        <numero>304</numero>
+        <designation>Accès aux Sources des TP</designation>
+        <adresse>Mr Bouvier (Source des TP - SI5), Labo Réseau, Disque Dur Personnel</adresse>
+      </production>
+    </situation>
+    <situation ref="558">
+      <ref>558</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Adressage Réseau et Routage</libcourt>
+      <descriptif>Apprentissage des Cours sur l'adressage réseau et le routage avec Mme Leboussard et application des connaissances sur des exercices.</descriptif>
+      <contexte>Apprentissage des cours sur l'adressage des réseaux de tout type, et apprentissage des cours sur le routage des réseaux munis de routeurs.</contexte>
+      <datedebut>2012-11-01</datedebut>
+      <datefin>2013-01-11</datefin>
+      <environnement>Néant</environnement>
+      <moyen>Cours</moyen>
+      <avisperso>Difficultés constatées au début, amélioration en cours.</avisperso>
+      <production numero="305">
+        <numero>305</numero>
+        <designation>Traces des Cours et des Exercices</designation>
+        <adresse>Mme Leboussard (Théorie Réseau - SI2), Supports Papiers</adresse>
+      </production>
+    </situation>
+    <situation ref="563">
+      <ref>563</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Programmation Orientée Objet SLAM 2</libcourt>
+      <descriptif>Suivi d'une série de cours et de TP (POO1 -&gt; POO 6) en lien avec l'application Gestion Lycée. Apprentissage des Tests Unitaires, des Diagrammes de Classe, des Héritages de Données, des Collections de Données.</descriptif>
+      <contexte>Etude du fonctionnement et reproduction du logiciel Gestion Lycée, création de tests unitaires, création de classes, etc...</contexte>
+      <datedebut>2013-03-11</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Microsoft Visual Studio 2010.</environnement>
+      <moyen>1 Ordinateur Windows 7 + 1 Licence MS Visual Studio 2010.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.1 (Développement de l'application en C#)
+C4.1.7.2 (Création de suites de codes en rapport avec le logiciel)
+C4.1.7.3 (Identification des codes existants et des placements de codes)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>C4.1.8.1 (Création de tests unitaires)
+C4.1.8.2 (Etude et correction des erreurs générées par les tests)</commentaireactivite>
+      </activitecitee>
+      <production numero="307">
+        <numero>307</numero>
+        <designation>Accès aux Sources des TP</designation>
+        <adresse>Mr Cartron (POO Gestion Lycée - SLAM 2), Emplacement Réseau Personnel</adresse>
+      </production>
+    </situation>
+    <situation ref="578">
+      <ref>578</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Courbe du Soleil, Amont BDD</libcourt>
+      <descriptif>Série de cours et de réalisation d'exercice sur l'analyse et la schématisation des données. Création de schémas SR, MCD, UML, de scripts de données, et de bases de données.</descriptif>
+      <contexte>Réalisation et correction de différents exercices d'application sur l'apprentissage de l'environnement de l'analyse de données en SLAM 1.</contexte>
+      <datedebut>2013-01-14</datedebut>
+      <datefin>2013-05-24</datefin>
+      <environnement>Windows 7 ; Power AMC 16 ; MySQL (PHPMyAdmin) ; MySQL WorkBench</environnement>
+      <moyen>1 Ordinateur Windows 7 + Logiciels Adéquats.</moyen>
+      <avisperso>Cours peu riches, trop rapides, détails confus, exercices pas très clair, apprentissage difficile.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1 (Etude des besoins d'une organisation)
+C1.1.1.2 (Réflexion des futurs schémas à produire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>C1.1.3.1 (Respect de demandes de l'organisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>C3.1.2.1 (Conception d'un schéma avec Power AMC 16)
+C3.1.2.2 (Génération d'un script de BDD avec la fonctionnalité adéquate)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.1 (Etude du script de données généré)
+C4.1.3.2 (Exécution du script dans sur PHPMyAdmin)
+C4.1.3.3 (Création de requêtes SQL)
+C4.1.3.4 (Manipulation des données avec des requêtes SQL)</commentaireactivite>
+      </activitecitee>
+      <production numero="318">
+        <numero>318</numero>
+        <designation>Traces des Cours et des Exercices</designation>
+        <adresse>Mme Legendre (SR, MCD, UML - SLAM 1), Emplacement Personnel</adresse>
+      </production>
+    </situation>
+    <situation ref="584">
+      <ref>584</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Lafleur HTML/CSS/PHP/JS</libcourt>
+      <descriptif>Conception d'un site internet marchand en HTML (Pages), CSS (Style), PHP (Formulaires) et JS (Actions). Exploitation d'une base de données, commandes virtuelles d'articles.</descriptif>
+      <contexte>Le squelette du site nous était fourni, il fallait créer l'application selon les besoins du cahier des charges.</contexte>
+      <datedebut>2013-02-23</datedebut>
+      <datefin>2013-04-18</datefin>
+      <environnement>Windows 7 ; Notepad++ ; MySQL (PHPMyAdmin).</environnement>
+      <moyen>1 Ordinateur Windows 7 + Logiciels Requis.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1 (Etude des besoins de l'organisation)
+C1.1.1.2 (Réflexion des besoin de l'organisation (style, code, etc...))</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.1 (Partage des tâches à réaliser)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>C3.1.2.1 (Diagramme de Navigation et Diagramme de Cas d'Utilisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.3 (Création de variables contenant des requêtes SQL)
+C4.1.3.4 (Manipulation des données avec des requêtes SQL)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>C4.1.10.1 (Documentation Utilisateur)</commentaireactivite>
+      </activitecitee>
+      <production numero="319">
+        <numero>319</numero>
+        <designation>Accès aux Sources + Documentation Technique Papier</designation>
+        <adresse>Mme Legendre (Application Lafleur - SI6), Serveur Wamp 1, Dossier Chauvel et Gacon</adresse>
+      </production>
+      <production numero="321">
+        <numero>321</numero>
+        <designation>Accès aux Sources + Documentation Technique Papier</designation>
+        <adresse>Mme Legendre (Documentation Lafleur - SI6), Support Papier Noté et Emplacement Personnel</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

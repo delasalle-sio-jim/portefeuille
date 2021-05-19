@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55670997b7ae4">
+    <ref>55670997b7ae4</ref>
+    <datesv>2015-05-28</datesv>
+  </sauvegarde>
+  <etudiant numero="103">
+    <nom>Richard de Chicourt</nom>
+    <prenom>Cyril</prenom>
+    <mel>cyril.dechicourt@gmail.com</mel>
+    <situation ref="1062">
+      <ref>1062</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP Rhapsody</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand</descriptif>
+      <contexte>Entreprise de vente de produits musicaux</contexte>
+      <datedebut>2014-05-22</datedebut>
+      <datefin>2014-05-22</datefin>
+      <environnement>Un ordinateur ainsi que le serveur Wamp</environnement>
+      <moyen>Deux ordinateurs.</moyen>
+      <avisperso>Très intéressant puisque reposant sur une passion</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cas d’utilisation 
+C1.1.1.1 Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+C1.1.1.2 Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>C1.3.1.1 Mettre en place l'environnement de test du service
+C1.3.1.2 Tester le service
+Partie administration fournie. Il fallait l'intégrer et la gérer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>C4.1.2.1 Définir les spécifications de l'interface utilisateur de la solution applicative
+C4.1.2.2 Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.1 Modéliser le schéma de données nécessaire à la mise en place de la solution applicative
+C4.1.3.2 Implémenter le schéma de données dans un SGBD
+C4.1.3.4 Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>C4.1.8.1 Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1155">
+        <numero>1155</numero>
+        <designation>Captures d'écran du site Internet</designation>
+        <adresse>https://docs.google.com/document/d/15-ADWh4F6yP4j6zyIXexnpizvE-7SzYOgkLzG7-iPPo/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1273">
+        <numero>1273</numero>
+        <designation>A1.3.1 Test d'intégration et d'acceptation d'un service</designation>
+        <adresse>https://docs.google.com/document/d/1uRyQuEcV_AT8kV0yI5hW9RmGZyYfBHyxKbA9JP_LlOk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1274">
+        <numero>1274</numero>
+        <designation>A4.1.3 Conception ou adaptation d'une base de données</designation>
+        <adresse>https://docs.google.com/document/d/1uRyQuEcV_AT8kV0yI5hW9RmGZyYfBHyxKbA9JP_LlOk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1275">
+        <numero>1275</numero>
+        <designation>A4.1.10 Rédaction d'une documentation d'utilisation</designation>
+        <adresse>https://docs.google.com/document/d/1uRyQuEcV_AT8kV0yI5hW9RmGZyYfBHyxKbA9JP_LlOk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1276">
+        <numero>1276</numero>
+        <designation>A4.1.8 Réalisation des tests nécessaires à la validation d'éléments adaptés ou développés</designation>
+        <adresse>https://docs.google.com/document/d/1uRyQuEcV_AT8kV0yI5hW9RmGZyYfBHyxKbA9JP_LlOk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1277">
+        <numero>1277</numero>
+        <designation>A4.2.1 Analyse et correction d'un dysfonctionnement, d'un problème de qualité de service ou de sé...</designation>
+        <adresse>https://docs.google.com/document/d/1uRyQuEcV_AT8kV0yI5hW9RmGZyYfBHyxKbA9JP_LlOk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1278">
+        <numero>1278</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://docs.google.com/document/d/1uRyQuEcV_AT8kV0yI5hW9RmGZyYfBHyxKbA9JP_LlOk/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1075">
+      <ref>1075</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion de la base d'inventaire</libcourt>
+      <descriptif>Lors d'un déménagement de poste, il faut rentrer et/ou mettre à jour la configuration sur la base de données Netweb(N° de série, N° d'appartenance en rapport avec l'hôpital).</descriptif>
+      <contexte>Service AnaPath</contexte>
+      <datedebut>2014-06-04</datedebut>
+      <datefin>2014-06-05</datefin>
+      <environnement>Unité centrale + moniteur</environnement>
+      <moyen>Moyens physiques</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1145">
+        <numero>1145</numero>
+        <designation>Captures d'écran SM7</designation>
+        <adresse>https://docs.google.com/document/d/1l71jT9Z-zBLfWzmxdmVaJOCOQLn_7UC3DhYCadJs7Gk/edit</adresse>
+      </production>
+      <production numero="1247">
+        <numero>1247</numero>
+        <designation>A5.1.3 Suivi d'une configuration et de ses éléments</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37V2N6UmxoQTRsQVU/view?usp=sharing</adresse>
+      </production>
+      <production numero="1284">
+        <numero>1284</numero>
+        <designation>A5.1.5 Évaluation d'un élément de configuration ou d'une configuration</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37NDduLWdjR2N4YXc/view?usp=sharing</adresse>
+      </production>
+      <production numero="1476">
+        <numero>1476</numero>
+        <designation>A5.2.1 Exploitation des référentiels, normes et standards adoptés par le prestataire informatique</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37V2N6UmxoQTRsQVU/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1132">
+      <ref>1132</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Prise en main sur matériel actif de niveau 1</libcourt>
+      <descriptif>Paramétrage et configuration d'un commutateur Nortel, ainsi que liaison des stations de travail via VLAN dans un local technique.</descriptif>
+      <contexte>Service Réseau</contexte>
+      <datedebut>2014-06-23</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Local technique</environnement>
+      <moyen>Moyens physiques + câbles + un ordinateur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1144">
+        <numero>1144</numero>
+        <designation>Installation du commutateur Nortel</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37OHpXMzhxZzNtQUU/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1221">
+      <ref>1221</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création Cellule de Crise</libcourt>
+      <descriptif>Après les attentats du 7 janvier 2015, il a fallu mettre en place une cellule de crise composée de postes fixes et de téléphone afin d'établir un standard pour les familles des victimes.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-09</datedebut>
+      <datefin>2015-01-12</datefin>
+      <environnement>Bureau</environnement>
+      <moyen>21 postes fixes + 1 commutateur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Oral</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1142">
+        <numero>1142</numero>
+        <designation>A1.3.1 Test d'intégration et d'acceptation d'un service (p. 8)</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37dzY1SWljWTBpaVU/view?usp=sharing</adresse>
+      </production>
+      <production numero="1243">
+        <numero>1243</numero>
+        <designation>A1.4.1 Participation à un projet</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37dzY1SWljWTBpaVU/view?usp=sharing</adresse>
+      </production>
+      <production numero="1244">
+        <numero>1244</numero>
+        <designation>A3.1.1 Proposition d'une solution d'infrastructure (p. 2-4)</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37dzY1SWljWTBpaVU/view?usp=sharing</adresse>
+      </production>
+      <production numero="1245">
+        <numero>1245</numero>
+        <designation>A3.2.1 Installation et configuration d'éléments d'infrastructure (p. 4-6)</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37dzY1SWljWTBpaVU/view?usp=sharing</adresse>
+      </production>
+      <production numero="1246">
+        <numero>1246</numero>
+        <designation>A3.2.2 Remplacement ou mise à jour d'éléments défectueux ou obsolètes (p. 6)</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37dzY1SWljWTBpaVU/view?usp=sharing</adresse>
+      </production>
+      <production numero="1271">
+        <numero>1271</numero>
+        <designation>A4.1.7 Développement, utilisation ou adaptation de composants logiciels</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37Wm9KVHN5dGxsY0k/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1263">
+      <ref>1263</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Inventaire de supports de communications portables</libcourt>
+      <descriptif>Scanner plusieurs smartphones et enregistrer leurs références dans un tableur</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-30</datedebut>
+      <datefin>2015-01-30</datefin>
+      <environnement>Bureau</environnement>
+      <moyen>Poste fixe + douchette</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1217">
+        <numero>1217</numero>
+        <designation>A4.1.9 Rédaction d'une documentation technique et A5.1.2 Recueil d'informations sur une configuration et ses éléments</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37ZHRXVzhxYV96V1E/view?usp=sharing</adresse>
+      </production>
+      <production numero="1218">
+        <numero>1218</numero>
+        <designation>A5.2.1 Exploitation des référentiels, normes et standards adoptés par le prestataire informatique</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37ZHRXVzhxYV96V1E/view?usp=sharing</adresse>
+      </production>
+      <production numero="1272">
+        <numero>1272</numero>
+        <designation>A4.1.9 Rédaction d'une documentation technique</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37R2VXU2dmWGhWYllub0hoZU9PVXZKX01BYWt3/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1272">
+      <ref>1272</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Formation utilisateur sur divers logiciels</libcourt>
+      <descriptif>Un utilisateur ayant été malade durant 7 ans (n'ayant ainsi pas consulter de poste fixe, système d'exploitation) avait besoin d'une assistance pour pouvoir accéder aux différentes fonctionnalités de son ordinateur ayant repris récemment ses fonctions.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-19</datedebut>
+      <datefin>2015-01-19</datefin>
+      <environnement>Poste fixe</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1240">
+        <numero>1240</numero>
+        <designation>A2.1.1 Accompagnement des utilisateurs dans la prise en main d'un service</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37RFdZYkRkUnJITmM/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1345">
+      <ref>1345</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Virtualisation de serveurs </libcourt>
+      <descriptif>Virtualisation de l'ensemble des serveurs de la M2L</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-09-08</datedebut>
+      <datefin>2015-04-27</datefin>
+      <environnement>Laboratoire Réseau</environnement>
+      <moyen>2 Postes informatiques</moyen>
+      <avisperso>Intéressant car varié </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1184">
+        <numero>1184</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://docs.google.com/document/d/1Ky8YZsHRSTlacwWwYDM6bc1N-L2WpLPqKITsNTK4yRQ/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1209">
+        <numero>1209</numero>
+        <designation>A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique</designation>
+        <adresse>https://docs.google.com/document/d/1s1Kw3v_VI2caN9jwXnhYqX8x34EHmBpFITphxzyj2PY/edit</adresse>
+      </production>
+      <production numero="1210">
+        <numero>1210</numero>
+        <designation>A1.2.2 Rédaction des spécifications techniques de la solution retenue (adaptation d'une solution existante ou réalisation d'une nouvelle solution)</designation>
+        <adresse>https://docs.google.com/document/d/1PXLK3jEdx09cNhXN9zvdFm46XnIzc_Pb4xO9PgXn9Pk/edit</adresse>
+      </production>
+      <production numero="1211">
+        <numero>1211</numero>
+        <designation>A3.1.1 Proposition d'une solution d'infrastructure</designation>
+        <adresse>https://docs.google.com/document/d/1xfb1AsRnSr4fdqHJFMyoXsZizdsxlQ6pyBQeQuLbdKY/edit</adresse>
+      </production>
+      <production numero="1212">
+        <numero>1212</numero>
+        <designation>A3.1.2 Maquettage et prototypage d'une solution d'infrastructure</designation>
+        <adresse>https://drive.google.com/open?id=0B4wDWmmOusK0bHVFckV1aGU2bW8&amp;authuser=0</adresse>
+      </production>
+      <production numero="1213">
+        <numero>1213</numero>
+        <designation>A3.2.1 Installation et configuration d'éléments d'infrastructure</designation>
+        <adresse>https://drive.google.com/open?id=0B4wDWmmOusK0enVkNk9ySjhlb28&amp;authuser=0</adresse>
+      </production>
+      <production numero="1232">
+        <numero>1232</numero>
+        <designation>A3.1.3 Prise en compte du niveau de sécurité nécessaire à une infrastructure</designation>
+        <adresse>https://docs.google.com/document/d/1loYbvlpGVZMBz0n3tgWR00WcxcDy6NX0SlZqb1PaqiI/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1233">
+        <numero>1233</numero>
+        <designation>A3.2.3 Mise à jour de la documentation technique d'une solution d'infrastructure</designation>
+        <adresse>https://drive.google.com/open?id=0B4wDWmmOusK0RjlPS3FUWkZuTHc&amp;authuser=0</adresse>
+      </production>
+      <production numero="1234">
+        <numero>1234</numero>
+        <designation>A1.3.4 Déploiement d'un service</designation>
+        <adresse>https://drive.google.com/drive/folders/0B3DkirqoeC37cEtRcDB4SmtLYlE?tab=mo</adresse>
+      </production>
+      <production numero="1235">
+        <numero>1235</numero>
+        <designation>A1.2.4 Détermination des tests nécessaires à la validation d'un service</designation>
+        <adresse>https://docs.google.com/document/d/1eBzcIYEzahHhytqHaS-1dNZ7_855lG8lrDeCYekQ3IE/edit</adresse>
+      </production>
+      <production numero="1236">
+        <numero>1236</numero>
+        <designation>A1.3.3 Accompagnement de la mise en place d'un nouveau service</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4wDWmmOusK0azBZNUt1OHhyb1U</adresse>
+      </production>
+      <production numero="1237">
+        <numero>1237</numero>
+        <designation>A1.3.2 Définition des éléments nécessaires à la continuité d'un service</designation>
+        <adresse>https://docs.google.com/document/d/1TQUKu4FW8r6BjO7smJ4g7VogQcvso9EWTtymfztei1w/edit</adresse>
+      </production>
+      <production numero="1238">
+        <numero>1238</numero>
+        <designation>A1.4.1 Participation à un projet</designation>
+        <adresse>https://drive.google.com/drive/folders/0B3DkirqoeC37cEtRcDB4SmtLYlE</adresse>
+      </production>
+      <production numero="1239">
+        <numero>1239</numero>
+        <designation>A1.2.3 Évaluation des risques liés à l'utilisation d'un service, p. 6</designation>
+        <adresse>https://docs.google.com/document/d/1s1Kw3v_VI2caN9jwXnhYqX8x34EHmBpFITphxzyj2PY/edit</adresse>
+      </production>
+      <production numero="1264">
+        <numero>1264</numero>
+        <designation>A1.1.3 Étude des exigences liées à la qualité attendue d'un service</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37ejFKWHc3RU5RMFk/view?usp=sharing</adresse>
+      </production>
+      <production numero="1267">
+        <numero>1267</numero>
+        <designation>A1.4.2 Évaluation des indicateurs de suivi d'un projet et justification des écarts</designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37WG9RZU9XT0JBZTA/view?usp=sharing</adresse>
+      </production>
+      <production numero="1408">
+        <numero>1408</numero>
+        <designation>A1.1.2 Étude de l'impact de l'intégration d'un service sur le système informatique, p. 2</designation>
+        <adresse>https://docs.google.com/document/d/1Ky8YZsHRSTlacwWwYDM6bc1N-L2WpLPqKITsNTK4yRQ/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1425">
+        <numero>1425</numero>
+        <designation>A1.4.3 Gestion des Ressources</designation>
+        <adresse>https://drive.google.com/open?id=0B3DkirqoeC37bHdzX19hOHRzeGs&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1440">
+      <ref>1440</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déploiement Image Système </libcourt>
+      <descriptif>Installation d'un système d'exploitation en récupérant l'image système par le biais d'un serveur distant.</descriptif>
+      <contexte>Stage</contexte>
+      <datedebut>2014-06-06</datedebut>
+      <datefin>2014-06-06</datefin>
+      <environnement>Deux poste utilisateurs</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1263">
+        <numero>1263</numero>
+        <designation>Création Image Disque </designation>
+        <adresse>https://drive.google.com/file/d/0B3DkirqoeC37b0Fkd0xuaFJNRTg/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

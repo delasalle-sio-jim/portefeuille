@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fedbc32b9dda">
+    <ref>4fedbc32b9dda</ref>
+    <datesv>2012-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="2">
+    <nom>ALLO</nom>
+    <prenom>Sylvain</prenom>
+    <mel>sylvain.allo@gmail.com</mel>
+    <situation ref="96">
+      <ref>96</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>solution applicative site web </libcourt>
+      <descriptif>Identification des composants logiciels nécessaire à la conception du site et estimation du coût de ceux-ci et le délais de mise en oeuvre du site</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-29</datefin>
+      <environnement>Wampserver</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="97">
+      <ref>97</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>conception et adaptation d'une BDD site web</libcourt>
+      <descriptif>Modéliser la BDD sur papier (schéma relationnel, MCD...) pour ensuite la mettre en place pour le site.
+Création de la BDD sous phpmyadmin.
+Mise en place de requete qui insert les données saisies dans la BDD (ex:formulaire d'inscription).</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-05-31</datefin>
+      <environnement>WampServeur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="98">
+      <ref>98</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Maquettage et prototype du site web</libcourt>
+      <descriptif>Dessin du site web avec les différentes pages qu'il contiendra, du placement des images, div ...
+Mise en place d'un prototype du site avec le minimum de css
+Intégrer les formulaire d'inscription, requete affichant les différentes thérapies et leurs p</descriptif>
+      <contexte>Site web faisant de la publicité pour le masseur et premettant de consulter ses rendez vous ..</contexte>
+      <datedebut>2012-06-01</datedebut>
+      <datefin>2012-06-02</datefin>
+      <environnement>Wampserveur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="99">
+      <ref>99</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion d'environnements de développement et de test site web</libcourt>
+      <descriptif>Création d'un dossier sur wampserveur contenant les différents fichiers php, html final du site.
+Création d'un dossier sur wampserveur contenant une copie du site qui permmettra de faire des test avant d'appliqué les changements sur le site final.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Wampserveur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="100">
+      <ref>100</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Conception de l'interface utilisateur sur le site web</libcourt>
+      <descriptif>Création d'une partie client sur le site permettant la consultation des rendez vous de celui-ci.
+Mise en place des requêtes permettant la consultation des rendez vous.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-03</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="101">
+      <ref>101</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Analyse du cahier des charges du site web</libcourt>
+      <descriptif>Mise en place d'un cahier des charges pour le site (Pour qui est-il destiné, site statique ou dynamique, coût et temps de création de celui-ci...)
+Briefing avec le maitre de stage afin de mettre en place des objectifs à réaliser ...</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="102">
+      <ref>102</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Elaboration et présentation d'un dossier de choix de solution</libcourt>
+      <descriptif>Réalisation d'une nouvelle solution (Création du site web)
+Estimation du coût du site web
+Rédaction d'un dossier de choix et argumentant le choix de créer un site dynamique et non d'un site statique</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-01</datedebut>
+      <datefin>2012-06-02</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="103">
+      <ref>103</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Participation à un projet </libcourt>
+      <descriptif>Briefing avec le maitre de stage afin de mettre des objectifs journalères.
+Débriefing avec le maitre de stage à la fin de la journée afin de voir si les objectifs journaliers ont bien été atteint.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

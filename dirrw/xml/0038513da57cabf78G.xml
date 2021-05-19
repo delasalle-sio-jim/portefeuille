@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="513da57cabf78">
+    <ref>513da57cabf78</ref>
+    <datesv>2013-03-11</datesv>
+  </sauvegarde>
+  <etudiant numero="38">
+    <nom>VERGER</nom>
+    <prenom>Romain</prenom>
+    <mel>romainverger35@gmail.com</mel>
+    <situation ref="56">
+      <ref>56</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1 : création d'un site web </libcourt>
+      <descriptif>Création d'une rubrique Actualité avec Espace Administrateur.
+
+</descriptif>
+      <contexte>Association départementale d’éleveurs.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>- Windows XP
+- Serveur LocalHost avec WampServer
+- NotePad
+- Mozilla, IE.
+
+
+</environnement>
+      <moyen>Langages utilisés : CSS , PHP , HTML, Jquery
+
+Utilisation uniquement des classes en PHP pour lister, ajouter, modifier et supprimer une actualité qui est stockée dans la BDD.</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>15</numero>
+        <commentaire>Complète la description (site web, langages utilisés, ...) et utilise l'onglet Reformulation pour expliquer ou justifier chaque activité.</commentaire>
+        <datecommentaire>2012-06-26</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai réparti le développement du projet sur 3 phases : BDD et Maquettes la 1ere semaine.
+3 semaines de développement.
+
+
+Je faisais un point sur l'avancement du projet 3 fois / semaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Utilisation d'un ordinateur avec un serveur apache, une base de donnée MySql.
+Installation de phpMyAdmin pour la création de la base.
+Installation d'Artisteer pour la création du css.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Étude de l'existant et des améliorations attendues.
+Création de maquettes et validation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception d'un MCD.
+Création de la base de données.
+Utilisation de requêtes SQL.
+Afficahe des données présentes en asbe sur un écran de consultation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Installation sur un poste en local de WampServer.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création d'un espace utilisateur et un espace protégé.
+Mise en place d'un écran de consultation des actualités et d'une interface d'administration (Création, modification, suppression).
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche d'informations sur HTML5</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche sur des plugins Jquery, Javascript.
+Apprentissage de la programmation Objet.
+</commentaireactivite>
+      </activitecitee>
+      <production numero="14">
+        <numero>14</numero>
+        <designation>Site ActualitéGDS</designation>
+        <adresse>( sur serveur ) </adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="144">
+      <ref>144</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE SIO1 : GSB</libcourt>
+      <descriptif>Analyse du cahier des charges,
+Identification des acteurs et des besoins
+Création d'une BDD.</descriptif>
+      <contexte>Site web dynamique</contexte>
+      <datedebut>2012-01-02</datedebut>
+      <datefin>2012-05-21</datefin>
+      <environnement>Serveur apache</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="24">
+        <numero>24</numero>
+        <designation>GSB</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="355">
+      <ref>355</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 : création d'une application de gestion de salariés</libcourt>
+      <descriptif>Création d'une application de gestion des salariés sous ACCESS avec une fonction d'archivage des données.</descriptif>
+      <contexte>Entreprise CAP Diffusion (Editions Ouest-France) à Rennes.
+Domaine de l'édition.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Access</environnement>
+      <moyen>Langages utilisés : VBA, Langage de requêtes SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Impact sur la gestion des salariés de l'entreprise.
+Cette application doit permettre la gestion de ses salariés, la possibilité d'ajouter, modifier ou rechercher facilement des salariés. 
+Permettre aussi d'archiver des données dans une table d'archi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le demandeur souhaite disposer d'une interface simple et intuitive, et ne pouvoir mettre à jour les données qu'avec l'utilisation d'un compte admin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Beaucoup d'analyses la première semaine afin de minimiser le nombre d'erreurs par la suite puis démarrage du développement du projet.
+Compte-rendu toutes les 2 semaines.
+Prise en compte des nouvelles demandes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Imprimante réseau défaillante. Possibilité d'un problème de réseau entre l'ordinateur et l'imprimante.
+Vérification du ping PC/Imprimante , 
+Problème mécanique de l'imprimante , Degré d'urgence minimal car 2ème imprimante.
+Problème d'organisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception et développement de plusieurs formulaires et états  Access.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'un schéma relationnel et d'un MCD.
+Création d'une base de données ACCESS
+Utilisation de requêtes SQL et de formulaires ACCESS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Un registre du personnel  m'a été présenté et m'a permis de choisir mes différentes champs à utiliser. ( Par exemple le numéro de sécurité sociale en clé primaire), ce qui m'a fait gagner beaucoup de temps.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests unitaires avec  le maître de stage sur l'ajout  d'un nouveau salarié ou la modification de celui-ci.
+Correction d'un souci de conversion de type de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation du logiciel Query.
+Je ne pouvais simplement générer qu'uniquement des requêtes SELECT mais avec beaucoup de rapidité.</commentaireactivite>
+      </activitecitee>
+      <production numero="80">
+        <numero>80</numero>
+        <designation>Application de gestion de salariés </designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

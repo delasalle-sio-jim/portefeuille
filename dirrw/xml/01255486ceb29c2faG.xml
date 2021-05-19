@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5486ceb29c2fa">
+    <ref>5486ceb29c2fa</ref>
+    <datesv>2014-12-09</datesv>
+  </sauvegarde>
+  <etudiant numero="125">
+    <nom>Levrault</nom>
+    <prenom>Pierre</prenom>
+    <mel>delasalle.sio.levrault.p@gmail.com</mel>
+    <situation ref="1171">
+      <ref>1171</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Amélioration BDD pour une société de formations
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-09</datefin>
+      <environnement>serveur wamp, phpmyadmin, SGBDR mysql, mysqlworkbench, langage sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (commerciaux et formateurs) sur lesquels le service aura un impact.
+Identifier les fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et leurs attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la BDD sous MySQL à partir d'un script
+Extension de la BDD initiale
+Modélisation de la BDD finale sous MySQLWorkBench
+Manipulation des données liées à la solution applicativeà travers le langagede requête SQL (vues)
+</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

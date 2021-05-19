@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51935e9b51d46">
+    <ref>51935e9b51d46</ref>
+    <datesv>2013-05-15</datesv>
+  </sauvegarde>
+  <etudiant numero="56">
+    <nom>POIGNAND</nom>
+    <prenom>Guillaume</prenom>
+    <mel>poignand.g@lyceedelasalle.fr</mel>
+    <situation ref="293">
+      <ref>293</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Mettre à jour, ajouter, supprimer des données dans une base de données.
+Ajouter des utilisateurs et attribuer des droits aux utilisateurs.
+Création, modification et suppression de tables.
+Modélisation d'un schéma relationnel.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-09</datedebut>
+      <datefin>2013-01-09</datefin>
+      <environnement>MySQL, PHPMyAdmin</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Non réalisé : C4.1.3.3
+
+</commentaireactivite>
+      </activitecitee>
+      <production numero="43">
+        <numero>43</numero>
+        <designation>Tp Dutoit</designation>
+        <adresse>P:Mes documentsSI3SI3 - Dutoit</adresse>
+      </production>
+    </situation>
+    <situation ref="535">
+      <ref>535</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Développement application web à partir d'un cahier des charges.</descriptif>
+      <contexte>Le laboratoire pharmaceutique GSB (Galaxy Swiss-Bourdin) souhaite moderniser l'activité de visite médicale.</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Ordinateur, Serveur WAMP, Serveur Base de données, Notepad++</environnement>
+      <moyen>MySQL, HTML, PHP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>L'application web a été réalisée en fonction d'un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Vérifier qu'une personne est inscrite dans la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Détermine la personne connectée et établit des services en fonction des droits accordés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Réalisation du projet avec une équipe de 4. Un debriefing a eu lieu après chaque séance de ppe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Ajout de liens permettant l'accès à de nouvelles pages.
+Ajout de nouvelles pages.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification de la  base afin de permettre à l'application de fonctionner (Ajout d'une table Comptable).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un document utilisateur destiné aux comptables afin de montrer les différentes fonctionnalités ajoutées.</commentaireactivite>
+      </activitecitee>
+      <production numero="311">
+        <numero>311</numero>
+        <designation>Lien de l'application web.</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/PoignandLadam/appliFrais/</adresse>
+      </production>
+      <production numero="315">
+        <numero>315</numero>
+        <designation>Lien vers la base de données</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gsb6&amp;token=d65302462b276b1ce77da491ef6e0c1e</adresse>
+      </production>
+      <production numero="327">
+        <numero>327</numero>
+        <designation>Document utilisateur / Diagrammes / Cahier des charges</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/PoignandLadam/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="583">
+      <ref>583</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>La fleur</libcourt>
+      <descriptif>Développement d'un site web</descriptif>
+      <contexte>La société Lafleur souhaite mettre en ligne le catalogue des produits vendus.</contexte>
+      <datedebut>2013-03-28</datedebut>
+      <datefin>2013-05-16</datefin>
+      <environnement>Ordinateur, Serveur WAMP, Serveur BDD</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Le site a été réalisé en fonction d'un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modification de l'interface</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Utilisation de requêtes SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un document utilisateur suite aux modifications éffectuées</commentaireactivite>
+      </activitecitee>
+      <production numero="322">
+        <numero>322</numero>
+        <designation>Site web</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/jeanneau/Version3/</adresse>
+      </production>
+      <production numero="341">
+        <numero>341</numero>
+        <designation>Base de données</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=lafleur17&amp;token=d65302462b276b1ce77da491ef6e0c1e</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

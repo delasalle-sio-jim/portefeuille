@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56bdf0ffd766d">
+    <ref>56bdf0ffd766d</ref>
+    <datesv>2016-02-12</datesv>
+  </sauvegarde>
+  <etudiant numero="124">
+    <nom>Lavolée</nom>
+    <prenom>Brendan</prenom>
+    <mel>delasalle.sio.lavolee.b@gmail.com</mel>
+    <situation ref="1356">
+      <ref>1356</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Inventaire et gestion automatisée d'un parc informatique</libcourt>
+      <descriptif>Mise en place d'un logiciel permettant de remonter automatiquement toutes les machines connectées au réseau.</descriptif>
+      <contexte>Nous etions une entreprise exterieur fictive (Pixel) venant mettre en place un logiciel de gestion automatisée du materiel informatique.</contexte>
+      <datedebut>2015-02-26</datedebut>
+      <datefin>2015-03-12</datefin>
+      <environnement>3 postes:
+-2 clients sous windows 7 (un physique et un virtuel)
+-1 serveur sous 2008 serveur (virtuel sur le WMware
+Elements actifs:
+-Un switch
+-Un routeur</environnement>
+      <moyen>Quel le materiel disponible du lycée</moyen>
+      <avisperso>Par groupe de deux nous avons mis en place une remontée automatique de toutes les machines connectées au réseau grâce au logiciel OCSinventory</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>prise en main du cahier des charges et évaluation du travail en fonction des contraintes posées par l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Nous avons étudiez en quoi cette évolution permettrais de rendre la remonté du materiel plus facile et plus rapide</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test effectué, avec comme résultat la remonté de nos materiels et des logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Nous avons installé la solution sur notre réseau, et nous l'avons utilisé pour recenser notre réseau personnel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'un tableau de gestion des tâches car nous avons travaillé en groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Mise en place d'un packet tracer et d'un schema visio</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Avec mon collegue, nous avons crée une vidéo hebergé sur Youtube, ce qui permet d'expliquer comment installer sur un réseau cette remonté de materiels automatiquement et simplement.</commentaireactivite>
+      </activitecitee>
+      <production numero="1567">
+        <numero>1567</numero>
+        <designation>Toutes les preuves </designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JUGZoZzZXZXBjUjA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1364">
+      <ref>1364</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Inventaire et gestion d'un parc informatique</libcourt>
+      <descriptif>Nous avons en groupe remonté l'ensemble des materiels et logiciels que nous avions sur notre réseau.</descriptif>
+      <contexte>Nous etions une entreprise exterieur fictive (Pixel) devant remonter tous les materiels et logiciels manuellement de notre client</contexte>
+      <datedebut>2015-01-15</datedebut>
+      <datefin>2015-02-19</datefin>
+      <environnement>3 postes:
+-2 clients sous windows 7 (un physique et un virtuel)
+-1 serveur sous 2008 serveur (virtuel sur le WMware
+Elements actifs:
+-Un switch
+-Un routeur</environnement>
+      <moyen>Quel le materiel disponible du lycée</moyen>
+      <avisperso>Par groupe de deux nous avons mis en place une remontée manuel de toutes les machines connectées au réseau.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1566">
+        <numero>1566</numero>
+        <designation>Toutes les preuves </designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JeUw4cmJ5eFJqLTA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1367">
+      <ref>1367</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion des pannes Helpdesk</libcourt>
+      <descriptif>Mise en place d'un logiciel permettant une prise en main à distance sur le réseau. De plus grâce à ce logiciel, nous avons du réparé des pannes simulé par différents groupes et des pannes d'importances plus ou moins fortes. De plus il fallait gerer les </descriptif>
+      <contexte>Nous étions la société ANTI BUG et notre but était de venir en aide à deux de nos clients pour une panne légère et une panne lourde.</contexte>
+      <datedebut>2015-03-05</datedebut>
+      <datefin>2015-03-26</datefin>
+      <environnement>Nous avions deux machines, une client et une qui nous servais à résoudre le problème à distance.</environnement>
+      <moyen>Materiel du lycée</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>GLPI, gestion des materiels du parc, gestion des licences </commentaireactivite>
+      </activitecitee>
+      <production numero="1568">
+        <numero>1568</numero>
+        <designation>Toutes les preuves </designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JRHh2WmtwWC1OTWs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1428">
+      <ref>1428</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création d'un site web (PERRUQUE)</libcourt>
+      <descriptif>Création d'un site internet avec une liaison à une base de données</descriptif>
+      <contexte>entreprise de vente de perruque sur internet</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-09</datefin>
+      <environnement>Serveur wamp, MySql, SGBDR</environnement>
+      <moyen>Notepad++,mySqlworkbench, power Anc, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1570">
+        <numero>1570</numero>
+        <designation>toutes preuves</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/0B7p2lMvWHj4JQUl5LUgxdjZES2M</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1452">
+      <ref>1452</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>FestiBasket</libcourt>
+      <descriptif>Mise en place d'une infrastructure (Borne wifi/Elements actifs/NFC/DHCP...)</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-19</datedebut>
+      <datefin>2015-05-14</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1565">
+        <numero>1565</numero>
+        <designation>Toutes les preuves </designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JME1EeUxIdzVGaTg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1457">
+      <ref>1457</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission POMMIER</libcourt>
+      <descriptif>Configuration de 10 PC pour des clients.
+
+I)installation des materiels
+II)mise en place de la carte graphique
+III)premières petites configurations
+mise en veille désactivé
+diminuer les paramètres de controle de compte utilisateur
+activer le compte </descriptif>
+      <contexte>Un client architecte cherche à changer tous les PC de son entreprise. 
+</contexte>
+      <datedebut>2015-05-27</datedebut>
+      <datefin>2015-05-28</datefin>
+      <environnement>8 stations de travails de marque HP
+2 Postes fixes de marque HP
+8 cartes graphiques Nvidia 4GB
+Des claviers et souris
+Des packs Office 2013.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1564">
+        <numero>1564</numero>
+        <designation>Toutes les preuves </designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4Jb2V0ZmM4a1NFUFk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1458">
+      <ref>1458</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Configuration de comptes Sharepoint</libcourt>
+      <descriptif>Configuration de comptes Sharepoint qui permettrons par la suite à nos clients de s'échanger de gros fichiers sans avoir besoin de se les envoyer.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-02</datedebut>
+      <datefin>2015-06-02</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1563">
+        <numero>1563</numero>
+        <designation>fiche technique et doc utilisateur</designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JZU01SnJrbi1nUkU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1479">
+      <ref>1479</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission MERAKI</libcourt>
+      <descriptif>Configuration et mise en place de 10 pare-feu</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-26</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1569">
+        <numero>1569</numero>
+        <designation> Installation/configuration/fiche test</designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JV3hvaGlWNFNlcTg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1537">
+      <ref>1537</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Schéma cablage du réseau M2L</libcourt>
+      <descriptif>Schéma du cablage total du réseau M2L</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-21</datedebut>
+      <datefin>2015-09-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1562">
+        <numero>1562</numero>
+        <designation>Ensemble des schéma réseaux</designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JbW12bi0yTjBxUVk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1574">
+      <ref>1574</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Serveur avec RAID1</libcourt>
+      <descriptif>Installation d'un serveur
+installation des disques durs
+création d'un système raid 1
+configuration de Windows 2012 serveur
+Gestion du système raid grâce à une interface
+Mise à jour du bios
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-12-28</datedebut>
+      <datefin>2015-12-30</datefin>
+      <environnement></environnement>
+      <moyen>Un serveur, 2 disques durs 1TB, une licence 2012 serveur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1582">
+        <numero>1582</numero>
+        <designation>Preuve serveur RAID 1</designation>
+        <adresse>https://drive.google.com/drive/folders/0B7p2lMvWHj4JZ0RtRU02MUlOejg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1580">
+      <ref>1580</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GRAYLOG</libcourt>
+      <descriptif>Monter un serveur de remonté de logs </descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-07</datedebut>
+      <datefin>2016-01-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1583">
+        <numero>1583</numero>
+        <designation>Mission Graylog</designation>
+        <adresse>https://drive.google.com/drive/u/0/folders/0B7p2lMvWHj4JSnlYR1puTU1vZzQ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1613">
+      <ref>1613</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Cryptolocker</libcourt>
+      <descriptif>Une entreprise nous a appelé en urgence car il ont été victime d'une attaque de crytolockage, donc je suis aller avec un autre stagiaire pour éradiquer le virus et lancer une restauration des données.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-29</datedebut>
+      <datefin>2016-01-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1629">
+        <numero>1629</numero>
+        <designation>preuve cryptolocker</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/0B7p2lMvWHj4JQTF6Q2FmRlMzZVk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1623">
+      <ref>1623</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission Chiffrement EFS</libcourt>
+      <descriptif>Mon reponsable m'a fait part de leur devoir de protection de données de santés et que je devais chercher un outil qui permette de protéger des documents contre la copie et l'ouverture.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-26</datedebut>
+      <datefin>2016-02-03</datefin>
+      <environnement></environnement>
+      <moyen>1 serveur AD 
+1 W7
+plusieurs comptes AD </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1618">
+        <numero>1618</numero>
+        <designation>Preuve EFS</designation>
+        <adresse>https://drive.google.com/drive/u/0/folders/0B7p2lMvWHj4JUGtjbW5vOFhPZTA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

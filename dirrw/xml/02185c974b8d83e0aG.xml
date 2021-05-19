@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5c974b8d83e0a">
+    <ref>5c974b8d83e0a</ref>
+    <datesv>2019-03-24</datesv>
+  </sauvegarde>
+  <etudiant numero="218">
+    <nom>JALLU</nom>
+    <prenom>Pierre-Thomas</prenom>
+    <mel>delasalle.sio.jallu.p@gmail.com</mel>
+    <situation ref="2365">
+      <ref>2365</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2.4 DATA SAVE</libcourt>
+      <descriptif>Installation et configuration d'un Serveur Cloud pour la société M2L</descriptif>
+      <contexte>Appliquer une solution de stockage en ligne pour la société M2L</contexte>
+      <datedebut>2018-01-09</datedebut>
+      <datefin>2018-02-13</datefin>
+      <environnement>Aucun</environnement>
+      <moyen>Utilisation d’apache sur un VM Debian pour créer un serveur owncloud</moyen>
+      <avisperso>Aucun</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2482">
+        <numero>2482</numero>
+        <designation>Agenda sur le suivi de nos projets</designation>
+        <adresse>https://trello.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2646">
+      <ref>2646</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE WIFI LOG</libcourt>
+      <descriptif>Installation d'un portail d'authentification afin que les utilisateurs voulant se connecter sur un réseaux Wifi, puissent s'authentifier, par mesure de sécurités.</descriptif>
+      <contexte>Notre mission en PPE était d'installer un portail d'authentification, ici la nous avons installer PfSense et CoovaChilli, afin de faire une comparaison.</contexte>
+      <datedebut>2018-04-18</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement>PfSense, CoovaChilli, VirtualBox, Windows 10</environnement>
+      <moyen>Installation sur une machine virtuelle via l'outils VirtualBox.</moyen>
+      <avisperso>Très intéressant concernant le fonctionnement.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S'informer du contexte, concernant la mission auquel nous devront traité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Recenser et Analyser les informations diverses sur lesquels, nous installerons notre logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Proposition une solution adaptés à notre situation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédiger un documentation, permettant d'expliquer notre installation et notre solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>S'organiser dans la mission.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Proposer une maquette adaptée à notre installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2648">
+        <numero>2648</numero>
+        <designation>PPE WIFI LOG</designation>
+        <adresse>https://docs.google.com/document/d/1ZQ_pJsh_vK5X-XCuPgU0vumnT-8IreALa3I2swpG7xA/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2675">
+      <ref>2675</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Site Web BDE (Hébergement)</libcourt>
+      <descriptif>Création d'une nouvelle fonctionnalité &quot;Hébergement&quot; pour le site du 
+(Bureau des Etudiants du lycée) du Lycée de la Salle : connaitre et repérer les hébergement libres.</descriptif>
+      <contexte>Le BDE souhaite posséder sur son propre site internet, un formulaire d'inscription, afin de permettre aux futurs étudiants diplômés, de pouvoir déposer une annonce pour mettre en location l'appartement ou ils ont résider pendants leur études, proches du</contexte>
+      <datedebut>2018-06-16</datedebut>
+      <datefin>2018-06-16</datefin>
+      <environnement>Serveur Wamp, Notepad++, bootstrap reponsive, HTML, SQL et PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier la fonctionnalité attendue du service à produire pour les différents acteurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests et la validation du service et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place du service (Rubrique Hébergement).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité à Mr Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec Mr Guérin à 2 reprises.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Adaptation de la base de données (...)
+- Manipuler les données liées à la solution applicative à travers un langage de requête SQL.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation pour Mr Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation par rapport au langage de programmations, HTML, PhpMyAdmin pour réaliser la page hébergement.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2706">
+      <ref>2706</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Partage de fichier Ubuntu Samba / FileZilla</libcourt>
+      <descriptif>Mise en place, d'un serveur de partage de fichier sous Ubuntu</descriptif>
+      <contexte>J'ai souhaité créer un serveur de partage de fichier sous Ubuntu, afin que les utilisateurs de Windows puissent se connecter à mon serveur, ainsi ils ont accès au fichiers, aux imprimantes.</contexte>
+      <datedebut>2018-06-07</datedebut>
+      <datefin>2018-06-08</datefin>
+      <environnement>Ubuntu, Samba, Windows, FileZilla</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place, puis tester le service, tout en rédigeant un compte-rendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Concevoir et construire une maquette à propos du prototype mis en place dans l'infrastructure.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installer et configurer des éléments d'infrastructures à propos d'un équipement ou d'un système.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>concevoir une documentation concernant le projet à effectuer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administrer les éléments d'un réseaux, samba, </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2707">
+      <ref>2707</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PC Portable &quot;FilièreTotal&quot;</libcourt>
+      <descriptif>Préparation de poste informatique, accompagnée d'une procédure spécifique pour la filière total.</descriptif>
+      <contexte>Total est une filière en collaboration avec l'entreprise Breizhtic, mon but était de préparer quelques PC Portables demander par mon tuteur de stage.</contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-06-29</datefin>
+      <environnement>Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>M'informer du cahier des charge, c'est à dire de l'installation des logiciels spécifiques via l'exécution d'un script mis en place par le technicien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Verification du fonctionnement des logiciels à l'aide d'un jeux de test, exécution des applications et logiciel, redémarrage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respecter la charte, les normes que nous ont prescrits total, à l'utilisation du matériels par leurs salariées.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2860">
+      <ref>2860</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Messagerie Kopano, avec Certificat SSL et Postfix</libcourt>
+      <descriptif>Mise en place d'une messagerie Kopano, sur une machine virtuelle, avec une autorité de certification SSL, et configuration de Postfix.</descriptif>
+      <contexte>La directrice de EXIG, m'as demandé de pouvoir installer et configuration cette solution de messagerie interne, afin de pouvoir réaliser divers tests, pour ainsi, pouvoir installer cette solution dans des entreprises, avec laquelle, EXIG étaient en colla</contexte>
+      <datedebut>2019-01-07</datedebut>
+      <datefin>2019-01-14</datefin>
+      <environnement>Debian, Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S'informer du cahier des charges, et du projet en question.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>S'adapter aux besoins du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'une procédure d'installation et de configuration d'un projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Explication de la solution dans la procédure d'installation et de configuration du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Effectuer des test afin de voir si la solution fonctionne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test du service + Rédaction</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Estimation du services, en fonction des coûts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Mise en place de la solution dans l'infrastructure.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Mise en place de la sécurité pour ce nouveau service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration de l'adresse IP du service en cours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Explication de la mise en place du service dans la procédure d'installation et de configuration.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>S'informer à propos de la solution mise en place, fonctionnalités...</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2861">
+      <ref>2861</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation de MediaWiki (Librairie)</libcourt>
+      <descriptif>Mise en place d'un MediaWiki sur un VM debian, pour l'entreprise EXIG.</descriptif>
+      <contexte>L'entreprise EXIG souhaitant bénéficier d'un MediaWiki, un site hébergé en interne leur permettant de pouvoir classer leur procédures, et de pouvoir les réutiliser les fois suivantes.</contexte>
+      <datedebut>2019-02-20</datedebut>
+      <datefin>2019-02-20</datefin>
+      <environnement>Debian, MediaWiki, MySQL, PhpMyAdmin</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyser le cahier des charges, en fonction de la solution qui est à réaliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Elaboration de la sécurité en fonction du service de production, (@IP).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en place des tests nécessaires, en relation avec le projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test et rédaction de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Mise en place de la VM pour accueillir le MediaWiki.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration de la VM en fonction de l'environnement en locale (@IP, DNS)...</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2862">
+      <ref>2862</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Liste de diffusions de mails sur UCS Univention</libcourt>
+      <descriptif>Mise en place et création d'une liste de diffusion, pour les utilisateur de UCS Univention.</descriptif>
+      <contexte>Une entreprise avec laquelle EXIG était en collaboration, souhaitant pouvoir envoyer des mails à ses salariée à partir de UCS Univention, bien qu'il existe d'autres méthodes de diffusions, nous avons trouvées celles-ci.</contexte>
+      <datedebut>2019-02-20</datedebut>
+      <datefin>2019-02-20</datefin>
+      <environnement>UCS Univention, Debian, Outlook</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Ecouter les informations et les demandes de la directrices. (Listes de Diffusions).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser les informations nécéssaire, pour pouvoir mettre en place ce service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en place de quelques test, nécéssaire à la validation du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Réalisation de quelques test (Envoie de mail à tout les utilisateur, avec une seule adresse).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Explication de la solution à la directrice.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Réalisation de la solution dans l'infrastructure (UCS Univention).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Création et attribution des utilisateurs, dans l'adresse destinée à la diffusion de mails.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Affectation des droits aux utilisateurs, n'ayant pas accès à la liste de diffusion.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2863">
+      <ref>2863</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation et Configuration de OwnCloud</libcourt>
+      <descriptif>Mise en place d'un Cloud &quot;OwnCloud&quot; sur une VM Debian.</descriptif>
+      <contexte>J'ai réalisé une VM debian en y installant OwnCloud, ce n'étais pas une obligation mais un aperçu afin de voir ce que c'était et comment on configuration ce Cloud Interne.</contexte>
+      <datedebut>2019-01-23</datedebut>
+      <datefin>2019-01-24</datefin>
+      <environnement>Windows, OwnCloud, Debian</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Ecouter les attentes de l'entreprise, support du Cloud (Debian).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparation des tests nécéssaire, pour valider le fonctionnement de cette solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester la mise en service du Cloud, une fois l'installation et la configuration terminée. (Connexion sur le navigateur, Upload de fichiers)...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Préparation de la mise en place du Cloud sur un support spécifique (Debian).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration de l'address IP, pour pouvoir avoir l'accès sur l'application, via le navigateur internet en local.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2864">
+      <ref>2864</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 1.2 Création d'une clé USB Bootable </libcourt>
+      <descriptif>Création d'une clé USB Bootable sous Rufus.</descriptif>
+      <contexte>Afin de pouvoir installer Windows 10 sur notre poste utilisateur, il a fallût créer une clé USB Bootable à l'aide de Rufus qui est un logiciel permettant de pouvoir créer des support de média (ISO , Image Disque).</contexte>
+      <datedebut>2017-09-20</datedebut>
+      <datefin>2019-02-20</datefin>
+      <environnement>Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges, en fonction du besoin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Ecouter le professeur, afin de savoir réellement, quels sont les attentes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Effectuer un test avec la Clé USB Bootable, afin de voir si elle fonctionne bien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation, en expliquant précisément, comment procéder.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2865">
+      <ref>2865</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP06.3 Configuration du Routage</libcourt>
+      <descriptif>Configurer d'IP routes, et affectation d'adresses IP (Passerelles) sur un Router, sur une maquette Packet Tracer.</descriptif>
+      <contexte>Le but était de configurer des IP routes, et d'affecter des adresses IP (Passerelles) sur un Router, sur une maquette Packet Tracer, afin de pouvoir réaliser divers test de ping entre plusieurs stations, séparé par ce router.</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-17</datefin>
+      <environnement>Windows, Cisco Packet Tracer</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyser le cahier des charges en fonctions du service à réaliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests nécessaires afin de pouvoir valider le service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction de la documentation technique de ma mission</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2962">
+      <ref>2962</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SI3 - TP4 - LaitNature</libcourt>
+      <descriptif>Effectuer des requête SQL, pour obtenir des informations.</descriptif>
+      <contexte>Effectuer des requête SQL, afin de pouvoir avoir accès à des information de la base de donnée.</contexte>
+      <datedebut>2017-11-03</datedebut>
+      <datefin>2017-11-03</datefin>
+      <environnement>SQL, Microsoft Access</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests de requêtes SQL réalisés en fonction du TP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour de la documentation du TP, rajout des requêtes nécessaires, au fonctionnement de la solutions retenue.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

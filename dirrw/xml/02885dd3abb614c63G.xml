@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5dd3abb614c63">
+    <ref>5dd3abb614c63</ref>
+    <datesv>2019-11-19</datesv>
+  </sauvegarde>
+  <etudiant numero="288">
+    <nom>Dupuy</nom>
+    <prenom>Fabien</prenom>
+    <mel>delasalle.sio.dupuy.f@gmail.com</mel>
+    <situation ref="3162">
+      <ref>3162</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Création et extension de la base de données de la société dutoit.
+
+Puis Extension du site web dynamique.</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises.
+Afin de stocker ses informations, la société utilise une base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2019-11-08</datedebut>
+      <datefin>2020-04-02</datefin>
+      <environnement>Serveur WAMP, phpMyadmin, SGBDR MySQL, Langage SQL</environnement>
+      <moyen>MySQLWorkBench, Langage Php, Javascript, CSS, Bootstrap, Bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>- Recenser les acteurs sur lesquels le service à produire aura un impact.
+
+- Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>- Créer les utilisateurs recensés et attribuer les droits réservés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Créer la base de données Dutoit sous MySQL (serv-wamp1).
+- Faire l'extension de la base de données initiale.
+- Modéliser la base de données finale.
+- Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="3138">
+        <numero>3138</numero>
+        <designation>TP Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1rCYfhbgMmwE5GBkMrPmo1Q3HU1xc398X</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

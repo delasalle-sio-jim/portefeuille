@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d17ae4d8ae0">
+    <ref>50d17ae4d8ae0</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="63">
+    <nom>GACON</nom>
+    <prenom>Johannes</prenom>
+    <mel>gacon.j@lyceedelasalle.fr</mel>
+    <situation ref="172">
+      <ref>172</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Commandes Linux</libcourt>
+      <descriptif>Apprentissage des commandes Linux de base.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-11-12</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement>OS Linux Ubuntu Server v12.04</environnement>
+      <moyen>Un PC Windows 7 + Une Machine Virtuelle (VirtualBox) + Un OS Linux Ubuntu Server v12.04</moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

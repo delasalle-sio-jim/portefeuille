@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53721a1b91d6b">
+    <ref>53721a1b91d6b</ref>
+    <datesv>2014-05-13</datesv>
+  </sauvegarde>
+  <etudiant numero="23">
+    <nom>LEMOINE</nom>
+    <prenom>Germain</prenom>
+    <mel>germain159@gmail.com</mel>
+    <situation ref="37">
+      <ref>37</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage1/Monter un serveur RIS</libcourt>
+      <descriptif>activité lié à la première semaine de stage</descriptif>
+      <contexte>Professionnel (stage)</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-01</datefin>
+      <environnement>Windows </environnement>
+      <moyen>logiciel:&quot;Windows 2003&quot;
+Matériel:Serveur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="161">
+        <numero>161</numero>
+        <designation>Fiche d'installation</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWaWVaRW1LRTEtX1k/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="38">
+      <ref>38</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage/Remise en etat d'un PC</libcourt>
+      <descriptif>Activité lié à la deuxième semaine de stage</descriptif>
+      <contexte>Professionnel (stage)</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-08</datefin>
+      <environnement>windows</environnement>
+      <moyen>Acronis
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="61">
+      <ref>61</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP/OCS inventory</libcourt>
+      <descriptif>Mise en place d'un service de gestion de parc informatique</descriptif>
+      <contexte>stage</contexte>
+      <datedebut>2012-06-22</datedebut>
+      <datefin>2012-06-26</datefin>
+      <environnement>serveur Windows 2003</environnement>
+      <moyen></moyen>
+      <avisperso>Difficulté pour la mise en place</avisperso>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="219">
+        <numero>219</numero>
+        <designation>https://docs.google.com/file/d/0B-TPNtu4m8nWNHdFeUcwcWxzWkU/edit?usp=sharing</designation>
+        <adresse>Correction du TP</adresse>
+      </production>
+      <production numero="220">
+        <numero>220</numero>
+        <designation>https://docs.google.com/file/d/0B-TPNtu4m8nWa3pBUVZNWm5DdVE/edit?usp=sharing</designation>
+        <adresse>Correction du TP deuxième partie</adresse>
+      </production>
+    </situation>
+    <situation ref="314">
+      <ref>314</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage antérieur/Proxy</libcourt>
+      <descriptif>Mise en place d'un proxy SQUID et squidGuard</descriptif>
+      <contexte>Stage</contexte>
+      <datedebut>2013-01-24</datedebut>
+      <datefin>2013-01-24</datefin>
+      <environnement>Linux,Debian</environnement>
+      <moyen>1 PC et un debian fessant office de proxy</moyen>
+      <avisperso>Travail très intéressant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="159">
+        <numero>159</numero>
+        <designation>Procédure d'installation</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWeWdFQ3QwcXZ5c1k/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="336">
+      <ref>336</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2/Tutoriel site web Wix.com</libcourt>
+      <descriptif>Guide d'utilisation d'un site web Wix.com</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-08</datedebut>
+      <datefin>2013-02-11</datefin>
+      <environnement>Windows,firefox</environnement>
+      <moyen></moyen>
+      <avisperso>Beaucoup de lecture et bien comprendre le fonctionnement du site</avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="160">
+        <numero>160</numero>
+        <designation>Tutoriel</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWX1lTNGRmNXJ6OFU/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="370">
+      <ref>370</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2/Test cablage du batiment</libcourt>
+      <descriptif>Test du fonctionnement des prises du bâtiment.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-29</datedebut>
+      <datefin>2013-02-06</datefin>
+      <environnement>Windows</environnement>
+      <moyen>PC portable</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="158">
+        <numero>158</numero>
+        <designation>Schéma Réseau</designation>
+        <adresse>https://www.dropbox.com/sh/u5qwxrj8g3jarbu/eaJCzq0v-a</adresse>
+      </production>
+    </situation>
+    <situation ref="385">
+      <ref>385</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage2/Remote FX</libcourt>
+      <descriptif>Veille technologique sur un composant</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-29</datedebut>
+      <datefin>2013-02-01</datefin>
+      <environnement>Windows</environnement>
+      <moyen>Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="218">
+        <numero>218</numero>
+        <designation>RemoteFX</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWb21hWUlwamxYc0E/edit?usp=sharing</adresse>
+      </production>
+      <production numero="389">
+        <numero>389</numero>
+        <designation>Liste de carte compatible RemoteFX</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWV215b1kxVnVxelE/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="392">
+      <ref>392</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage2/Dépannage serveur</libcourt>
+      <descriptif>diagnostique et réparation d'un serveur</descriptif>
+      <contexte>Le serveur d'un client de pouvait plus démarrer</contexte>
+      <datedebut>2013-02-22</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Windows serveur 2003</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="417">
+        <numero>417</numero>
+        <designation>Procédure</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWdjF4WjRYc1k0RkU/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="393">
+      <ref>393</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2/Configuration VLAN</libcourt>
+      <descriptif>Configurer d'un VALN sur un Router Tp-link</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-06</datedebut>
+      <datefin>2013-02-07</datefin>
+      <environnement>TP-Link</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="193">
+        <numero>193</numero>
+        <designation>Documents annexes</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="436">
+      <ref>436</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP/Contrôleur de domaine secondaire</libcourt>
+      <descriptif>Mise en en place d'un contrôleur de domaine secondaire.</descriptif>
+      <contexte>Contexte M2L</contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>Windows</environnement>
+      <moyen>Windows</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="148">
+        <numero>148</numero>
+        <designation>Tutoriel</designation>
+        <adresse>https://www.dropbox.com/s/bo0aed5yebb9kk2/Tutoriel%20controleur%20de%20domaine.docx</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="439">
+      <ref>439</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP/Mise en place du RAID</libcourt>
+      <descriptif>Mise en place du RAID 1 et RAID 5</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>winndows</environnement>
+      <moyen>windows</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="151">
+        <numero>151</numero>
+        <designation>Tutoriel</designation>
+        <adresse>https://www.dropbox.com/s/f5hw5ojdfa6dhfa/TUTO%20RAID.docx</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="469">
+      <ref>469</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP/Mise en place d'un serveur FTP</libcourt>
+      <descriptif>Mise en place du FTP simple</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>Windows</environnement>
+      <moyen>le service IIS de windows</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place du service FTP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un serveur pour la mise en place du FTP</commentaireactivite>
+      </activitecitee>
+      <production numero="197">
+        <numero>197</numero>
+        <designation>Tutoriel</designation>
+        <adresse>https://docs.google.com/file/d/0B-TPNtu4m8nWV0VydWN6VzFpMkU/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

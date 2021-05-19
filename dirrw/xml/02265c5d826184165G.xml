@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5c5d826184165">
+    <ref>5c5d826184165</ref>
+    <datesv>2019-02-08</datesv>
+  </sauvegarde>
+  <etudiant numero="226">
+    <nom>PERRON-SYLVESTRE</nom>
+    <prenom>Hugo</prenom>
+    <mel>delasalle.sio.perron.h@gmail.com</mel>
+    <situation ref="2331">
+      <ref>2331</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation</descriptif>
+      <contexte>La société de formation continue dutoit propose des stages sur différents logiciels informatiques de différents niveaux . Elle utilise pour stocker ses informations une base de données Mysql comprenant 3 tables</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>serveur wamp, PhpMyAdmin , SGBDR MySQL, MySqlWorkbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs ( formateurs et commerciaux) sur lesquels le service à produire aura un impact.  Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de donnée Dutoit sous MySql (serv-wamp1). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2462">
+        <numero>2462</numero>
+        <designation>TP 8 Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1Z3E9jKnrnI5unlt8g4CxHaKVfClI8zaB</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2559">
+      <ref>2559</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Portail</libcourt>
+      <descriptif>Le nouveau portail du site web permettra : 
+D’améliorer le design du portail tout en conservant la charte graphique (couleurs, logos,…) 
+D’accéder à la consultation des formations (*) page précédente 
+D’accéder à la page Facebook (https://fr-fr.faceboo</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-01-09</datedebut>
+      <datefin>2018-01-30</datefin>
+      <environnement>
+CMS(Wordpress), serveur wamp1, html</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre le CMS Wordpress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de Wordpress (doc papier, site web ... )</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2561">
+      <ref>2561</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode V1 &amp; V2</libcourt>
+      <descriptif>Cette application web permettra aux administrateurs : 
+- De modifier le digicode d'accès aux bâtiments de la Maison des Ligues tous les vendredis soirs 
+- D’envoyer un mail aux utilisateurs. 
+Cette application web permettra à tous les utilisateurs : </descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-02-06</datedebut>
+      <datefin>2018-04-03</datefin>
+      <environnement>
+HTML &amp; PHP, SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire (scénarios fournis)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests fournis</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service ( la BDD a déjà été mise en place pour la mission Valres )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative
+Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la BDD mrbs ( nouvelle table digicode ) et manipuler les données liées à la solution applicative à travers un langage de requête sql</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2692">
+      <ref>2692</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE Covoiturage</libcourt>
+      <descriptif>Nouvelle fonctionnalité sur le site du BDE (Bureau des étudiants du lycée) : connaitre et repérer les covoiturages libres.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-03-16</datedebut>
+      <datefin>2018-05-25</datefin>
+      <environnement>serveur wamp , notepad++, bootstrap responsive, HTML , SQL et PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier la fonctionnalité attendue du service à produire pour les différents acteurs (internaute, membres et administrateur).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests et la validation du service et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet.
+Rendre compte de son activité à M Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec M Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Adapter la base de données 
+- Manipuler les données liées à la solution applicative à travers un langage de requête - SQL
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation pour M Guérin (administrateur site du BDE)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2761">
+      <ref>2761</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année</libcourt>
+      <descriptif>Stage de première année à Docapost.
+La mission du stage était la mise en place d'un système de chiffrement Pgp pour les communications par mail</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-06-29</datefin>
+      <environnement>Kleopatra, Outlook, Wireshark  </environnement>
+      <moyen>Ordinateur fixe fourni par l'entreprise et ordinateur portable personnel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2854">
+      <ref>2854</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2ème année</libcourt>
+      <descriptif>Ajout d'une fonctionnalité sur un logiciel existant
+Programmation sur WINDEV</descriptif>
+      <contexte>Création d'une fonctionnalité pour traiter les demandes de SAV</contexte>
+      <datedebut>2019-01-07</datedebut>
+      <datefin>2019-02-08</datefin>
+      <environnement>WINDEV , SQL SERVER Management Studio</environnement>
+      <moyen>Un PC fixe + PC portable personnel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

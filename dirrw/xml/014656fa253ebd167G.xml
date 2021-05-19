@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56fa253ebd167">
+    <ref>56fa253ebd167</ref>
+    <datesv>2016-03-29</datesv>
+  </sauvegarde>
+  <etudiant numero="146">
+    <nom>BRETON</nom>
+    <prenom>Samuel</prenom>
+    <mel>delasalle.sio.breton.s@gmail.com</mel>
+    <situation ref="1501">
+      <ref>1501</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-12-26</datefin>
+      <environnement>Serveur Wamp1 via PhpMyAdmin et langage SQL</environnement>
+      <moyen>MySQLWorkbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MySQLWorkbench.
+Implémenter le schéma de données sous MySQL et l'adapter.
+Manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1537">
+        <numero>1537</numero>
+        <designation>TP Dutoit</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/gjh8W3DsrtdVTEz</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1575">
+      <ref>1575</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valrés</libcourt>
+      <descriptif>M2L Valrés :
+Gestion de la réservation de salles avec MRBS.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="1644">
+      <ref>1644</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>WLAN Isolé</libcourt>
+      <descriptif>Isolation d'un réseau sans-fil sur un réseau d'organisation.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-26</datedebut>
+      <datefin>2016-02-23</datefin>
+      <environnement>Labo réseau. Utilisation d'une borne WIFI.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1630">
+        <numero>1630</numero>
+        <designation>Configuration de l'AP</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/MamfUvKEDnZ1UGN</adresse>
+      </production>
+      <production numero="1642">
+        <numero>1642</numero>
+        <designation>Questions juridiques</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/dS0YXP4GBBxv21l</adresse>
+      </production>
+    </situation>
+    <situation ref="1652">
+      <ref>1652</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PictoLan : Inventaire des configuration réseau</libcourt>
+      <descriptif>Étudier différentes configurations d'un SI. Effectuer le schéma Visio, la maquette Packet Tracer et un listing complet de l'actif.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-26</datedebut>
+      <datefin>2016-02-23</datefin>
+      <environnement>Labo réseau.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1639">
+        <numero>1639</numero>
+        <designation>Inventaire</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/y5KWOBad386d96D</adresse>
+      </production>
+      <production numero="1640">
+        <numero>1640</numero>
+        <designation>Visio</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/3FOoq4Jh74HGozQ</adresse>
+      </production>
+      <production numero="1641">
+        <numero>1641</numero>
+        <designation>Plan d'adressage</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/AvIVnAMt4FXw66f</adresse>
+      </production>
+    </situation>
+    <situation ref="1659">
+      <ref>1659</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion d'un mini parc</libcourt>
+      <descriptif>Administrateur du parc informatique de la société Pixel. Sous la demande votre DSI, vous devez inventorier le matériel informatique de la société.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-23</datedebut>
+      <datefin>2016-02-23</datefin>
+      <environnement>Labo réseau</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1649">
+        <numero>1649</numero>
+        <designation>Presentation diaporama</designation>
+        <adresse>http://cloud.neopower.fr/index.php/s/RDvljLtb3SMtMlg</adresse>
+      </production>
+    </situation>
+    <situation ref="1668">
+      <ref>1668</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Fans Zone Euro 2016</libcourt>
+      <descriptif>Concevoir et prototyper l'informatique nomade liée à une manifestation sportive, une charte d'utilisation du réseau WIFI public traduite en français et anglais, établir un devis, un plan d'adressage et choix des bornes WIFI en respectant un maximum le </descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-23</datedebut>
+      <datefin>2016-02-23</datefin>
+      <environnement>Labo réseau</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1688">
+      <ref>1688</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail captif</libcourt>
+      <descriptif>Création d'un portail captif pour le public de la zone fans 2016</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-15</datedebut>
+      <datefin>2016-03-29</datefin>
+      <environnement>Labo reseau</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

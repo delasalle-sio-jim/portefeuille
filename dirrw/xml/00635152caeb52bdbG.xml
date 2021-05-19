@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5152caeb52bdb">
+    <ref>5152caeb52bdb</ref>
+    <datesv>2013-03-27</datesv>
+  </sauvegarde>
+  <etudiant numero="63">
+    <nom>GACON</nom>
+    <prenom>Johannes</prenom>
+    <mel>gacon.j@lyceedelasalle.fr</mel>
+    <situation ref="197">
+      <ref>197</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Programmation en VB et C#</libcourt>
+      <descriptif>Apprentissage de 11 cours dans le milieu de la programmation en VB et C# et application de 10 TP en rapport avec ces cours. Evolutions des connaissances constatées.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-14</datedebut>
+      <datefin>2012-12-21</datefin>
+      <environnement>Microsoft Visual Studio 2010</environnement>
+      <moyen>1 ordinateur Windows 7 + 1 licence Microsoft Visual Studio 2010</moyen>
+      <avisperso>Progression constatée dans l'ensemble des TP réalisés depuis le début de l'année.</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>C1.2.4.1
+C1.2.4.2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>C1.3.1.1
+C1.3.1.2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.1
+C4.1.7.2
+C4.1.7.3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>C4.1.9.1</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="404">
+      <ref>404</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Devoir Maison de Veille Technologique</libcourt>
+      <descriptif>Devoir maison qui était à réaliser en binôme ou seul sur un projet de veille technologique, utilisation d'un portail personnalisable de flux RSS.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-23</datedebut>
+      <datefin>2013-03-11</datefin>
+      <environnement>1 Ordinateur Windows 7 + 1 Portail Personnalisable de Flux RSS (NetVibes).</environnement>
+      <moyen>1 Connexion Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>C5.2.2.1
+C5.2.2.2
+C5.2.2.3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>C5.2.4.1</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

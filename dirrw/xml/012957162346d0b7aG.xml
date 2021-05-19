@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="57162346d0b7a">
+    <ref>57162346d0b7a</ref>
+    <datesv>2016-04-19</datesv>
+  </sauvegarde>
+  <etudiant numero="129">
+    <nom>Olivon</nom>
+    <prenom>Adrien</prenom>
+    <mel>delasalle.sio.olivon.a@gmail.com</mel>
+    <situation ref="1239">
+      <ref>1239</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>VALRES</libcourt>
+      <descriptif>Validation de l'application web de réservation de salle.</descriptif>
+      <contexte>Maison des ligues de Lorraine</contexte>
+      <datedebut>2014-12-16</datedebut>
+      <datefin>2015-01-06</datefin>
+      <environnement>architecture client/serveur</environnement>
+      <moyen>serveur wamp, sgbdr MySQL, MySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Elaboration d'un jeu d'éssai de réservations, respectant les contraintes spécifiées dans le dossier de tests.
+Passage des tests du dossier de test avec consignation des résultats.
+Vérification des conséquence dans les tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles.
+Dossier  de test complété di jeu d'essai de réservations et des résultat</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables sous MySQL et justification de celle ci par des règles de gestion.
+Modélisation de la base de données sous MySQL WorkBench.
+Implémentation de la base de données sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1089">
+        <numero>1089</numero>
+        <designation>schéma de la bdd</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1091">
+        <numero>1091</numero>
+        <designation>dossier des test complété</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1242">
+      <ref>1242</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Dispositif de digicode permettant d'ouvrir les salles préalablement réservé à l'aide de VALRES.
+Extension d'une application pour obtenir et gérer le digicode.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-01-27</datefin>
+      <environnement>client/serveur,Serveur wamp, base de donnée</environnement>
+      <moyen> MySQL, PHP, HTML, CSS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1288">
+      <ref>1288</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GestForm</libcourt>
+      <descriptif>Le CROSL offre un catalogue diversifié de formation aux bénévoles et salariés des clubs affiliés aux ligues. Gérer les inscriptions de stagiaires d'une association aux formation dispensé par M2L.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-01-27</datedebut>
+      <datefin>2015-04-07</datefin>
+      <environnement>serveur wamp</environnement>
+      <moyen>PowerAMC,langages : HTML5 CSS3, PHP5, JavaScript, SQL, JavaScript</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1415">
+      <ref>1415</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail maison des ligues</libcourt>
+      <descriptif>prouver l'auto apprentissage d'un CMS</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-05-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1417">
+      <ref>1417</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Hair'ness</libcourt>
+      <descriptif>Développement et modification d'un site marchand.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-09</datefin>
+      <environnement>WAMP, MySQL</environnement>
+      <moyen>php/HTML5/CSS/NotePad++/PowerAMC</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1248">
+        <numero>1248</numero>
+        <designation>cahier de charges</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1249">
+        <numero>1249</numero>
+        <designation>scripts</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1250">
+        <numero>1250</numero>
+        <designation>doc</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1456">
+      <ref>1456</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TyForge</libcourt>
+      <descriptif>Participation à l'évolution de TyForge (plateforme de gestion de projets propre à l'éducation nationale française). Cette plateforme est développée à Rennes (SERIA) par une équipe de 4 personnes.</descriptif>
+      <contexte>SERIA : SERvice Informatique Académique</contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-07-17</datefin>
+      <environnement>VM CentOS / BDD PostgreSql / serveur Apache</environnement>
+      <moyen>IDE Eclipse / Firebug / PHP / JavaScript-JQuery-Ajax / Script Linux</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai étudié une vingtaine de demandes formulées à partir de tickets Mantis.
+Rédaction en commun d'une compte-rendu de réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>C1.2.1.1, C1.2.1.3 : Pour certaines demandes, j'ai du proposer plusieurs solutions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Certaines demandes nécessitaient une explication et une présentation des fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.2 : Recette pour validation de chaque fonctionnalité par les membres de l'équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.3, C4.1.3.4 : Ajout d'une nouvelle table dans la base de données.
+Ajout d'une colonne dans une table existante.
+Création de requêtes SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de plugins, de classes PHP.
+Adaptation du code existant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'une documentation technique en vue de l'implémentation et la configuration de fonctionnalités développées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Ajout d'une aide en ligne pour certaines fonctionnalités développées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour d'une documentation technique en vue de l'implémentation et la configuration de fonctionnalités développées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin de se former à : 
+- JavaScript, JQuery, Ajax
+- Eclipse , travail en mode projet avec une forge logicielle et un logiciel de gestion de versions (Subversion)
+- Scripts Linux
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de : 
+- JavaScript, JQuery, Ajax
+- Eclipse , travail en mode projet avec une forge logicielle et un logiciel de gestion de versions (Subversion)
+- Scripts Linux</commentaireactivite>
+      </activitecitee>
+      <production numero="1504">
+        <numero>1504</numero>
+        <designation>1) Demandes</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1505">
+        <numero>1505</numero>
+        <designation>2) Tuto Branche</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1508">
+        <numero>1508</numero>
+        <designation>3) Proposition annotation/commentaire</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1509">
+        <numero>1509</numero>
+        <designation>4) Squash</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1510">
+        <numero>1510</numero>
+        <designation>5) Doc JQuery</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1511">
+        <numero>1511</numero>
+        <designation>6) Doc Datatable</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1512">
+        <numero>1512</numero>
+        <designation>7) Algo Securité pass</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1513">
+        <numero>1513</numero>
+        <designation>8) Doc Eclypse</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1514">
+        <numero>1514</numero>
+        <designation>9) Papier Reunion security password</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1520">
+        <numero>1520</numero>
+        <designation>10) Digramme des Classes</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1731">
+        <numero>1731</numero>
+        <designation>11) Aide en ligne</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1746">
+        <numero>1746</numero>
+        <designation>12) MCD</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1747">
+        <numero>1747</numero>
+        <designation>13) Code</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1581">
+      <ref>1581</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>FabLab/TyForge</libcourt>
+      <descriptif>Participation à l'évolution de Fablab et de TyForge (plateformes de gestion de projets propre à l'éducation nationale française). Ces plateformes sont développées à Rennes (SERIA) par une équipe de 4 personnes.</descriptif>
+      <contexte>SERIA : SERvice Informatique Académique</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-05</datefin>
+      <environnement>VM CentOS / BDD PostgreSql / serveur Apache</environnement>
+      <moyen>IDE Eclipse / Firebug / PHP / JavaScript-JQuery-Ajax / Script Linux</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai étudié plusieurs demandes formulées à partir de tickets Mantis et pris note sur un cahier de chaque modification que l'ont désirait de moi lors des réunions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>J'ai rédigé/modifier un document qui comprend les spécifications techniques et fonctionnels majeurs de mes missions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Utilisation de squash et test du développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Prise en note sur cahier des missions a faire, l'ordre. Réunion tous les matins selon les méthodes agiles ou l'on faisait tous un compte rendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Création d'un petit dossier de proposition et d'étude.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Recensement des différents techno à utilisé dans les missions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Développement d'interface utilisateur avec ses spécification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de MCD et création sur la base de donnée. Utilisation du langage du système PostgreSQL à travers des requête et la mise en place d'un système d'indexation (Permet une recherche plus rapide).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Diverse missions de développement sous forme de plugin.
+Debbogage et donc modification interne(noyau) et externe(plugin) déjà existant.
+Utilisation des fonction d'accès au donnée prévu par la forge et Elastica pour elasticsearch.Isolation des plugins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour d'une documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Utilisation de jQuery et autoformation sur le sujet ainsi que des plugins jQuery via des dispositif tel que OpenClassroom, Devloppez, autre documentation et un livre.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation de jQuery et autoformation sur le sujet ainsi que des plugins jQuery.
+Utilisation de l'indexage présent dans postgreSQL et comparaison à ElasticSearch.</commentaireactivite>
+      </activitecitee>
+      <production numero="1695">
+        <numero>1695</numero>
+        <designation>1) Doc Missions</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1697">
+        <numero>1697</numero>
+        <designation>2) Prise en note des réunions matinal</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1698">
+        <numero>1698</numero>
+        <designation>3) Test</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1699">
+        <numero>1699</numero>
+        <designation>4) Dossier d'étude fin</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1700">
+        <numero>1700</numero>
+        <designation>5) Propositon</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1701">
+        <numero>1701</numero>
+        <designation>6) Doc indexage postgreSQL et Elasticsearch</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1702">
+        <numero>1702</numero>
+        <designation>7) code de dev</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1703">
+        <numero>1703</numero>
+        <designation>8) mise à jour de doc</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1704">
+        <numero>1704</numero>
+        <designation>9) doc jQuery, ajax, datatables</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1721">
+      <ref>1721</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GRR Service web</libcourt>
+      <descriptif>Développement d'une api pour la gestion de réservation de salle en service web.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-11-24</datedebut>
+      <datefin>2015-12-08</datefin>
+      <environnement>wamp, mysql</environnement>
+      <moyen>php, SQL</moyen>
+      <avisperso>Très intéressante découverte du modèle API.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1722">
+      <ref>1722</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Site perso</libcourt>
+      <descriptif>Site pour me présenter, accéder à mon cv et une présentation de quelques projets. Ajout d'un cloud personnel.</descriptif>
+      <contexte>Lors des temps libres en PPE, après projet SI7 et travail maison.</contexte>
+      <datedebut>2016-03-29</datedebut>
+      <datefin>2016-03-29</datefin>
+      <environnement>Rasberry sous Rasbian, apache2, MySQL, cloudFlare (DNS)</environnement>
+      <moyen>Javascript - AngularJs - jQuery - HTML5 - CSS3 - Script Bash - Crontab - Fail2Ban - ipTable - </moyen>
+      <avisperso>Projet très enrichissant car rattaché à une multitude de notions que ce soit en développement mais aussi en système et réseaux.</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Le déploiement s’effectue via SSH avec la commande git clone.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Le projet à été mené en autonomie.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>C2.2.1.2 : SSH
+C2.2.1.1 : 2 incident : 
+- Angular.js erreur bloquante sur certain postes
+- DNS dynamique pour adresse ip dynamique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>2 incident : 
+- Angular.js erreur bloquante sur certain postes
+- DNS dynamique pour adresse ip dynamique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Le projet est hébergé sur un raspberry connecté à une box et protégé par différent soft.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Etude des services Fail2ban, IPtable/Uncomplicated FireWall. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Utilisation du SSH;
+Installation et configuration de fail2ban et UFW;
+Utilisation de CloudFlare</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Tout (sauf la toute première utilisation du raspberry) est fait a via SSH.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Crontab est utilisé pour mettre à jour automatiquement l'adresse id que pointe le DNS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Choix des librairie à utiliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>L’administration du site est possible via le site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Les informations sont stocké dans une base de donnée MySql, c'est sur cette base qu'on li, modifi, ajoute ou supprime les données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.1 :  Développement en HTML, JavaScript/AngularJS (+jQuery)
+C4.1.7.4 : objet PDO php pour l'accès a la base de donnée
+Factory pour l'accès avec angular</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Autoformation à : 
+-AngularJS
+-Fail2Ban
+-Crontab
+-UFW
+
+
+VIA GRAPHIKART</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Autoformation à : 
+-AngularJS
+-Fail2Ban
+-Crontab
+-UFW
+
+VIA GRAPHIKART</commentaireactivite>
+      </activitecitee>
+      <production numero="1732">
+        <numero>1732</numero>
+        <designation>Image git clone</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1733">
+        <numero>1733</numero>
+        <designation>Github</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1734">
+        <numero>1734</numero>
+        <designation>Liste des ressources</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1735">
+        <numero>1735</numero>
+        <designation>SSH</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1736">
+        <numero>1736</numero>
+        <designation>erreur Angular</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1737">
+        <numero>1737</numero>
+        <designation>erreur DNS</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1738">
+        <numero>1738</numero>
+        <designation>IPTABLE/Uncomplicated FireWall</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1739">
+        <numero>1739</numero>
+        <designation>Cron</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1740">
+        <numero>1740</numero>
+        <designation>Fail2Ban</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1741">
+        <numero>1741</numero>
+        <designation>CloudFlare</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1742">
+        <numero>1742</numero>
+        <designation>Doc Principal</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1743">
+        <numero>1743</numero>
+        <designation>MCD</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1744">
+        <numero>1744</numero>
+        <designation>PDO</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="1742">
+      <ref>1742</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Nosty</libcourt>
+      <descriptif>Nosty est une startup crée dans le cadre d'un concours de création d'entreprise par des élèves du lycée.
+Ici il a été demandé la création d'un site vitrine.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-04-18</datedebut>
+      <datefin>2016-04-18</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Hébergement chez hostinger et déploiement via Git en un click.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Le projet à été commencé a deux, mais fini seul.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Chat et documentation avec les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Utilisation de wordpress pour sa simplicité, développement d'un plugin pour améliorer les fonctionnalités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquette et réflexion sur le site avec les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Conception d'un plugin wordpress.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création d'un plugin wordpress.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation d'utilisation de gestion du site.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1745">
+      <ref>1745</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Productions relatives à la mise en place d’un dispositif de veille technologique et à l'étude d'une technologie, d'un composant, d'un outil ou d'une méthode.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-11</datedebut>
+      <datefin>2016-04-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

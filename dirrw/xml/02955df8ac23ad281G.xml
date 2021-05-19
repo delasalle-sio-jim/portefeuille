@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5df8ac23ad281">
+    <ref>5df8ac23ad281</ref>
+    <datesv>2019-12-17</datesv>
+  </sauvegarde>
+  <etudiant numero="295">
+    <nom>Ouazine</nom>
+    <prenom>Hiba</prenom>
+    <mel>delasalle.sio.ouazine.h@gmail.com</mel>
+    <situation ref="3193">
+      <ref>3193</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Création et extention de la base de données Dutoit.
+Puis extention du site web dynamique.</descriptif>
+      <contexte>La societe de formation continue Dutoit propose des stages sur differents logiciels informatiques de differents niveaux . elle utilise pour stocker ses informations une base de donnée MySQL comprenant 3 tables </contexte>
+      <datedebut>2019-11-05</datedebut>
+      <datefin>2020-04-02</datefin>
+      <environnement>serveur wamp1,PhpMyadmin,SGBDR MySQL , language SQL</environnement>
+      <moyen>language HTML ,PHP5 ou 7 , javascript , CSS , bootstrap , bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs ( formateurs et commerciaux) sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de donnée Dutoit sous MySQL (serv-wamp1). Faire l’extension de la base de donnée initiale. Modéliser la base de donnée finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <production numero="3160">
+        <numero>3160</numero>
+        <designation>TP9-Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1q90kZYjMzZGJfzkBYycuwEliMDI6Tdtd</adresse>
+      </production>
+      <production numero="3172">
+        <numero>3172</numero>
+        <designation>Site web</designation>
+        <adresse>https://serv-wamp1/lesSites/SIO1_2019_2020/dutoit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5381ee1ab2ad8">
+    <ref>5381ee1ab2ad8</ref>
+    <datesv>2014-05-25</datesv>
+  </sauvegarde>
+  <etudiant numero="59">
+    <nom>RICHARD</nom>
+    <prenom>Colin</prenom>
+    <mel>richard.c1@lyceedelasalle.fr</mel>
+    <situation ref="295">
+      <ref>295</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Travail sur deux ans consistant en la collecte d'informations à propos d'un thème ou d'une technologie.</descriptif>
+      <contexte>Etude au sujet des stratégies de développement de microsoft.</contexte>
+      <datedebut>2013-01-22</datedebut>
+      <datefin>2013-05-24</datefin>
+      <environnement></environnement>
+      <moyen>NetVibes + Pearltrees</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="712">
+      <ref>712</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Refonte du site web de Langue et Communication</libcourt>
+      <descriptif>Refonte intégrale sous Joomla! 2.5 du site web de l'association Langue et Communication. Ce site sera multilingue.</descriptif>
+      <contexte>Langue et Communication est une association qui apprend le français aux personnes d'origine étrangère.</contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Ordinateur et serveur de gestion de bases de données</environnement>
+      <moyen>MySQL, Serveur WAMP et Joomla! en version 2.5</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Mise en place de plusieurs prototypes graphiques et choix de l'aspect final avec l'aide de l'équipe. Définition de solutions pour l'affichage de diaporamas sur le site, outre l'achat de la version payante du logiciel en question.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Formation des membres de l'association dans le cadre de l'utilisation du logiciel Joomla!</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en ligne du site web et hébergement chez OVH.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Comptes-rendus avec le maître de stage une fois par semaine pour constater l'avancement du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Mise en place d'un diagramme de GANTT et analyse des écarts chaque semaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Analyse des besoins de formation des utilisateurs, puis formation de ceux-ci dans les domaines concernés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface du site web de l'association puis validation de celle-ci avec le maître de stage et les principaux membres.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement de trois prototypes graphiques et présentation de ceux-ci lors de l'assemblée générale pour recueillir les avis et déterminer l'apparence de la solution finale.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un guide d'utilisation destiné aux membres de l'association pour pouvoir continuer de gérer le site sans la présence des stagiaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Test du site lors de son hébergement chez OVH</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respect de la charte graphique de Langue et Communication au sein des pages leur site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identification des besoins de formation personnels ainsi que des besoins des membres.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude et auto-formation au logiciel Joomla! dont l'utilisation n'avait pas été vue dans le cursus scolaire.</commentaireactivite>
+      </activitecitee>
+      <production numero="520">
+        <numero>520</numero>
+        <designation>A1.2.1 - Différents prototypes graphiques</designation>
+        <adresse>https://drive.google.com/folderview?id=0B764DWyf_bBfT2hCQVVxeXhCdzQ&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="820">
+      <ref>820</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Participation à la création d'un site avec un professionnel</libcourt>
+      <descriptif>Salvador Toro, auto entrepreneur, avait pour projet la création d'un site internet dans le domaine de l'immobilier. Ce site doit permettre aux agences et aux propriétaires de gérer leurs locataires, biens, contrats, états des lieux et incidents.</descriptif>
+      <contexte>Ce stage s'est déroulé à distance (depuis le lycée), la communication se faisait par messagerie instantanée, téléphone ou VoIP.</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement>Ordinateur portable personnel connecté en réseau.</environnement>
+      <moyen>Site web en ligne, modification par l'intermédiaire de FileZilla. Programmation en html, php, SQL et javascript par l'intermédiaire de notepad++ et de la base de données hébergée sur les serveurs d'OVH.</moyen>
+      <avisperso>Ce stage m'a permis d'apprendre les méthodes de travail d'un professionnel, les toutes dernières normes de programmation, et m'a permis d'avoir un travail sérieux en autonomie.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges fourni par mon employeur dans le but d'en tirer une solution applicable dans le cadre d'un site web. (sauf c1.1.1.4)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Liste des dernières normes de programmation, contrôle des accès pour les utilisateurs de manière à ne leur autoriser à consulter que les pages auxquelles ils ont droit.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Vérification sur chaque page si l'affichage est correct. Vérification dans la base de données si les données sont bien présentes et si les valeurs par défaut sont bien vides ou correspondent à ce qui est attendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Détermination des différents types de comptes pour les utilisateurs susceptibles d'utiliser le site, et contrôle des ressources auxquelles ils ont accès.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'un classeur excel hébergé sur google drive présentant la liste des tâches restantes ou effectuées. Utilisation de Redbooth (Outil de planification collaborative) à partir de la troisième semaine pour contrôler la création de tâches et leu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Création sur mon ordinateur personnel d'un répertoire de sauvegardes dans lequel j'ai sauvegardé l'état du site à différentes dates.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation de l'interface utilisateur de la partie &quot;mon compte&quot; depuis une maquette effectuée sous photoshop.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modélisation du schéma conceptuel des données pour faciliter la création de la base en fonction des besoins possibles des utilisateurs. Création de nombreuses requêtes pour ajouter ou extraire les données depuis la base.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Certaines fiches de biens s'affichaient de manière différente des autres. J'ai donc effectué un jeu d'essai de manière à déterminer de quel endroit/valeurs dans la base de données venait l'erreur.
+Différents jeux d'essais pour valider toutes les éta</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Etude des dernières normes de programmation et respect de celles-ci conformément à la volonté du chef de projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Formation à l'utilisation du langage javascript avec JQuery. Analyse des différents événements propres à l'utilisation du JQuery pour déterminer lesquels sont les plus adaptés à la solution. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation à propos des changements à venir dans le code php. Disparition de mysql_query(), donc migration du site vers la méthode mysqli.</commentaireactivite>
+      </activitecitee>
+      <production numero="558">
+        <numero>558</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://docs.google.com/document/d/1X41Y40OEegicMlmKhgKOJxuFUyaP_LAkdAcbSTO3R48/edit?usp=sharing</adresse>
+      </production>
+      <production numero="559">
+        <numero>559</numero>
+        <designation>Capture &quot;Mon compte&quot;</designation>
+        <adresse>https://drive.google.com/file/d/0B764DWyf_bBfZ0FXN2x6Vll0VmM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="560">
+        <numero>560</numero>
+        <designation>Jeu d'essai &quot;Biens&quot;</designation>
+        <adresse>https://drive.google.com/file/d/0B764DWyf_bBfWnhqdXY2bXRrSEk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="561">
+        <numero>561</numero>
+        <designation>Fonction redirection (pour les parties communes à agence/proprietaires)</designation>
+        <adresse>https://drive.google.com/file/d/0B764DWyf_bBfNWZ4ZnlObktWSE0/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="856">
+      <ref>856</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion d'incidents avec GLPI</libcourt>
+      <descriptif>Mise en place d'un dispositif de gestion d'incidents par l'intermédiaire du logiciel GLPI et d'une machine virtuelle sous Linux.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-01-20</datefin>
+      <environnement>Machine virtuelle initialisée sur un PC.</environnement>
+      <moyen>Linux, GLPI, VirtualBox, OCSinventory</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Nous avons créé une procédure de gestion des incidents par l'intermédiaire de la création de tickets d'incidents et la gestion de leur statut. Le logiciel OCS était utilisé pour faire remonter les informations depuis le pc sujet au problème</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="878">
+      <ref>878</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Vouzetou?</libcourt>
+      <descriptif>Projet de développement d'une application Android permettant à des personnes de connaître la position de tous les membres de leur groupe.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-03-20</datedebut>
+      <datefin>2014-04-25</datefin>
+      <environnement>Ordinateur + WampServer + Eclipse + Google Code + SVN</environnement>
+      <moyen>Php + Java</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests unitaires pour chacune des classes Java et l'appel des services web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de Tortoise SVN et Google Code dans le cadre de la gestion de configurations. Cela permettait à un membre du groupe de récupérer la version de l'application, de la modifier et enregistrer la nouvelle version. </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="976">
+      <ref>976</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Etude de dispositifs de gestion de configuration</libcourt>
+      <descriptif>Etude des dispositifs Git et SubVersion pour démontrer leurs avantages et inconvénients réciproques.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-24</datedebut>
+      <datefin>2014-04-24</datefin>
+      <environnement>Ordinateur</environnement>
+      <moyen>Recherches sur Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

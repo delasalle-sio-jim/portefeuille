@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="513c98d9d712a">
+    <ref>513c98d9d712a</ref>
+    <datesv>2013-03-10</datesv>
+  </sauvegarde>
+  <etudiant numero="5">
+    <nom>BERTEAUX</nom>
+    <prenom>Alexandre</prenom>
+    <mel>alex.berteaux@gmail.com</mel>
+    <situation ref="58">
+      <ref>58</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Reporting Services</libcourt>
+      <descriptif>Création et modification de rapports via le logiciel SQL server Business Intelligence Development Studio et l'environnement visual studio 2008</descriptif>
+      <contexte>Rapports permettant d'afficher des indicateurs dans plusieurs secteurs de l'entreprise</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Microsoft SQL server 2008 R2
+SQL server Reporting Services</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Installation d'un serveur Reporting service sur un serveur de test puis mise en exploitation sur un serveur de production à l'aide d'un collègue.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Gestion de son temps de travail par semaine.
+Compte rendu à la fin de chaque semaine.
+Réunion hebdomadaire sur l'état d'avancement des projets avec l'équipe réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Etude des bases de données dans différents langages (Postegre, mysql).
+Extraction des données via un SGBD.
+Incorporation de ces données dans l'outil permettant de créer des rapports.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création et modification de rapports via SQL server Business Inteligence Development Studio.
+Observation de la mise en place de sécurités sur le serveur Reporting Services.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du langage PostgreSQL, du SGBD pgAdmin et de l'outil de création de rapport sur internet et notamment sur le site msdn.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="145">
+      <ref>145</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Approprier le contexte
+Analyser le cahier des charges
+Identifier les acteurs
+Identifier les besoins
+Mise en place d'une application pour les visiteurs, administrateur
+Hebergement d'un service en interne</descriptif>
+      <contexte>Site web dynamique</contexte>
+      <datedebut>2012-01-02</datedebut>
+      <datefin>2012-05-21</datefin>
+      <environnement>Serveur Apache</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="161">
+      <ref>161</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Outil de communication (CMS)</libcourt>
+      <descriptif>Etude et création d'un site communautaire regroupant un forum et un chat à l'aide du CMS Joomla.
+Ce site a pour objectifs l'échange et l'entraide concernant les missions proposées par le cas M2L.</descriptif>
+      <contexte>Joomla 2.5</contexte>
+      <datedebut>2012-11-12</datedebut>
+      <datefin>2012-12-17</datefin>
+      <environnement>Joomla 2.5</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges du projet FREDI appartenant au contexte M2L.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>A partir du cahier des charges nous avons recensé les exigences attendues pour la mission : Outil de communication au sein du groupe projet.
+Nous avons alors décidé de mettre en place un forum ainsi qu'un chat comme outil de communication.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Joomla nous a permis de créer des groupes d'utilisateurs.
+Un premier contient un compte Administrateur un second contient les utilisateurs.
+Le second est constitué de deux groupes  : Les professeurs et les élèves(SLAM) qui ne disposent pas des mêmes dr</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Chaque début de séance, nous établissions un ou plusieurs objectifs à atteindre afin de terminer notre mission en temps voulu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Création d'un questionnaire de satisfaction afin de recueillir les avis des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration de Joomla sur le serveur apache(Wamp2).
+Configuration du template (Css). Installation du premier module contenant le chat (Chatroll). Ensuite nous avons installé et configuré l'extension Kunena qui consiste à la mise en pla</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Après étude du cahier des charges, nous nous sommes orienté vers l'utilisation d'un CMS afin de découvrir cet environnement et de constater les outils qu'il met à disposition.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>L'interface se compose d'une première partie comprenant une page d'accueil ainsi qu'une page authentification.
+Une fois l'utilisateur authentifié, il peut accéder a un chat ainsi qu'un forum.
+le forum est constitué de différentes rubriques qu'il </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification du dictionnaire de Données de la base outilscom hébergée sur le serveur wamp2.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Nous avons dévoleppé notre site à l'aide de l'interface administreur de joomla proposant la gestion des articles, des menus, des modules et des templates.
+Le code CSS du template a été modifier afin de répondre à nos exigences graphiques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Lecture du guide joomla 2.5</commentaireactivite>
+      </activitecitee>
+      <production numero="60">
+        <numero>60</numero>
+        <designation>Lien Joomla</designation>
+        <adresse>\SERV-WAMP2LesSitesjoomla 2.5</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="317">
+      <ref>317</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Application Android</libcourt>
+      <descriptif>développement d'une application mobile Android permettant de scanner des QR codes sur des produits pour faire remonter des données vers un serveur utilisant des services web de type REST.</descriptif>
+      <contexte>une Start-Up qui souhaite développer des nouveaux services dans le domaine de la fidélité de la clientèle.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Client Android 4.2, Environnement Java sous Eclipse 4.2, Serveur apache sous PHP.</environnement>
+      <moyen>station de travail sous Windows</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Fourniture par le maitre de stage du cahier des charges rédigé sous Powerpoint avec le contexte d'utilisation de la solution à livrer.
+2 premiers jours du stage : réunion avec le président et ses collaborateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Connexion à un serveur de paiement sécurisé : Agimob.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Mise en place d'un système de contrôle évitant toute fraude de la part du futur utilisateur.
+Mise en place d'un fonctionnement hors ligne de l'application dans le cas où l'utilisateur ne capterait pas le réseau lors de ses scans.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise au point régulière avec un collaborateur sur l'avancement du projet
+ et sur les problèmes techniques rencontrés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Intégration d'une bibliothèque
+Connexion à un web service
+parser du XML</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Projet réalisé sous Eclipse dans un délai de 5 semaines si possible.
+Etude des librairies existantes pour scanner des codes barres.
+Choix de la librairie ZXing.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Réalisation sous Powerpoint donnant un aperçu des différentes maquettes d'écrans proposés à l'utilisateur.
+Validation avec un collaborateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Création de prototypes pour tester la librairie permettant de scanner des produits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création d'une application Android intégrant un système de scan de QR code avec accès à des web services pour envoyer et recevoir des informations via le serveur de web services.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Mise en place d'un fichier Word qui répertorie tous les sites qui m'ont permis de mettre en place l'application et de résoudre mes problèmes : services web, XML, Android, QR codes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>librairie pour scanner des QR codes
+Web services de type REST (non vus en cours au moment du stage)
+Traitement de documents XML.</commentaireactivite>
+      </activitecitee>
+      <production numero="61">
+        <numero>61</numero>
+        <designation>serveur agimob de test</designation>
+        <adresse>http://agimob.com/maq1beo/auth/login</adresse>
+      </production>
+      <production numero="66">
+        <numero>66</numero>
+        <designation>présentation du produit</designation>
+        <adresse>http://www.agimob.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

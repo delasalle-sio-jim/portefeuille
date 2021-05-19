@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d1769dcafcf">
+    <ref>50d1769dcafcf</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="68">
+    <nom>JEANNEAU</nom>
+    <prenom>Adrien</prenom>
+    <mel>jeanneau.a@lyceedelasalle.fr</mel>
+  </etudiant>
+</suivicomp>

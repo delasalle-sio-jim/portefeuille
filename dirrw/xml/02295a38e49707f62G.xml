@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a38e49707f62">
+    <ref>5a38e49707f62</ref>
+    <datesv>2017-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="229">
+    <nom>POUTEAU</nom>
+    <prenom>Léo</prenom>
+    <mel>delasalle.sio.pouteau.l@gmail.com</mel>
+    <situation ref="2336">
+      <ref>2336</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation.</descriptif>
+      <contexte>la société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données Mysql comprenant 3 tables</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>serveur wamp, PhpMydAdmin, SGBDR MySQL, Mysqlworkbench, langage Sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite> Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>créer la base de données dutoit sous mysql(serv-wamp1). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

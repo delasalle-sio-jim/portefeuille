@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54aab8869664e">
+    <ref>54aab8869664e</ref>
+    <datesv>2015-01-05</datesv>
+  </sauvegarde>
+  <etudiant numero="79">
+    <nom>Cartron</nom>
+    <prenom>David</prenom>
+    <mel>david.cartron@gmail.com</mel>
+    <situation ref="1064">
+      <ref>1064</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>2_Projet QuébeComics</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand</descriptif>
+      <contexte>Entreprise de vente de Comics et de ses produits dérivés sur Internet</contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1095">
+      <ref>1095</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>3_Stage_Projet Site Web CPB Pôle Aquatique</libcourt>
+      <descriptif>Réalisation du site web du Cercle Paul Bert - Pôle Aquatique. Prise en charge du projet dans sa totalité. Autonome sur ce projet !</descriptif>
+      <contexte>Entreprise CYIM - Rennes</contexte>
+      <datedebut>2014-06-02</datedebut>
+      <datefin>2014-06-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>Projet très intéressant. Pas dans le domaine SISR, mais prise en charge de projet. Une grande expérience suite à ce projet</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1005">
+        <numero>1005</numero>
+        <designation>Cahier des Charges site CPB PA</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5Nmg2RkpYQk5XNWc/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1006">
+        <numero>1006</numero>
+        <designation>Annexe 1 - Arborescence</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5VFptSzlLSTg4VTg/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1007">
+        <numero>1007</numero>
+        <designation>Dossier d'ergonomie</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5U2I1ZGNuX2FfbnM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1008">
+        <numero>1008</numero>
+        <designation>Photos HD - à mettre à jour</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1009">
+        <numero>1009</numero>
+        <designation>Template retenu - Eventus</designation>
+        <adresse>http://themeforest.net/item/eventus-responsive-events-drupal-theme/7808859?WT.ac=search_item&amp;WT.oss_phrase=eventus&amp;WT.oss_rank=3&amp;WT.z_author=drupalexp</adresse>
+      </production>
+      <production numero="1010">
+        <numero>1010</numero>
+        <designation>Maquette Site Visuelle</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5Rmtlam1haG44a1E/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1111">
+      <ref>1111</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>1_Festi Basket</libcourt>
+      <descriptif>Dans cette situation, nous avons été amenés à :
+
+- configurer un Point d'Accès WiFi
+- configurer des STAs (Solution Technique d'Accès) pour accéder à notre réseau WiFi
+- travailler en groupe et mettre en place un &quot;scrum&quot;
+- afin d'évite</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-03-10</datedebut>
+      <datefin>2014-03-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1020">
+        <numero>1020</numero>
+        <designation>1.1_Festi Basket - Configuration d'un Point d'Accès WiFi/CRPA.pdf</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5djJ6SzExX2liclk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1021">
+        <numero>1021</numero>
+        <designation>1.2_Festi Basket - Configuration des STAs/Config STA_Windows</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5blpSMlFwcWJTQ1k/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1022">
+        <numero>1022</numero>
+        <designation>1.2_Festi Basket - Configuration des STAs/Config STA_Androïd</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5ak5iMkJfSGVLenM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1023">
+        <numero>1023</numero>
+        <designation>1.3_FestiBasket - Travail en groupe/scrum.xlsx</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5RWdreFhacDhFQVE/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1024">
+        <numero>1024</numero>
+        <designation>1.4_FestiBasket - Service DHCP sur Routeur Cisco/ServiceDHCPCISCO</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5R2NyQWxxY1JCakU/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1145">
+      <ref>1145</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>4_M2L - Infrastructure Maison des Ligues</libcourt>
+      <descriptif>Intervention sur la Maison des Ligues : schémas de câblage, mise à jour documentation technique, etc...</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-10-06</datedebut>
+      <datefin>2014-10-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1061">
+        <numero>1061</numero>
+        <designation>Documentation Technique</designation>
+        <adresse>https://drive.google.com/file/d/0B0DXWzuACzM5WHJUbzQ1bENEM1k/view?usp=sharing</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

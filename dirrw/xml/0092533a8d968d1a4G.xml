@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="533a8d968d1a4">
+    <ref>533a8d968d1a4</ref>
+    <datesv>2014-04-01</datesv>
+  </sauvegarde>
+  <etudiant numero="92">
+    <nom>Lepelletier</nom>
+    <prenom>Théo</prenom>
+    <mel>lepelletier.theo@hotmail.fr</mel>
+    <situation ref="753">
+      <ref>753</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Société proposant des stages</descriptif>
+      <contexte>Modification et création de tables, ajout et droit Base De Données</contexte>
+      <datedebut>2013-11-14</datedebut>
+      <datefin>2013-12-03</datefin>
+      <environnement>Serveur Wamp</environnement>
+      <moyen>Langage SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification et création de tables, ajout et droit Base De Données</commentaireactivite>
+      </activitecitee>
+      <production numero="506">
+        <numero>506</numero>
+        <designation>Accès au serveur serv-wamp1 (intranet)</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=dutoit17&amp;token=f78f5d6f6d24307feabcec18410323f8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="870">
+      <ref>870</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm</libcourt>
+      <descriptif>Création d'un site en html / php dynamique et utilisation de requêtes SQL
+Création d'une base de donnée</descriptif>
+      <contexte>Société proposant des stages de formation aux entreprises</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-04-08</datefin>
+      <environnement>Serveur Wamp</environnement>
+      <moyen>Sublime Text 2; PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="871">
+      <ref>871</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm</libcourt>
+      <descriptif>Création d'un site en html / php dynamique et utilisation de requêtes SQL
+Création d'une base de donnée</descriptif>
+      <contexte>Société proposant des stages de formation aux entreprises</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-04-08</datefin>
+      <environnement>Serveur Wamp</environnement>
+      <moyen>Sublime Text 2; PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="630">
+        <numero>630</numero>
+        <designation>Site GesForm, Maison des Ligues</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/LoisanceLepelletier/GesForm/index.php</adresse>
+      </production>
+      <production numero="631">
+        <numero>631</numero>
+        <designation>Base de données GesForm19</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gesform19&amp;token=de86cb715f8dc5931c188aac6565d159</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

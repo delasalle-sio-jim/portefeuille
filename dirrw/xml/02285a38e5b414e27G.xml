@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a38e5b414e27">
+    <ref>5a38e5b414e27</ref>
+    <datesv>2017-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="228">
+    <nom>PIERA</nom>
+    <prenom>Théo</prenom>
+    <mel>delasalle.sio.piera.t@gmail.com</mel>
+    <situation ref="2329">
+      <ref>2329</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation.</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises. Base de données MySql contenant 3 tables.</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>Serveur wamp, PhpMyAdmin, SGBDR MySql, MySqlWorkbench, langage Sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données Dutoit (MySql). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2466">
+        <numero>2466</numero>
+        <designation>TP 8 Dutoit</designation>
+        <adresse>https://drive.google.com/open?id=1syha1VnJrF-C8S6nuFeOVWwa33ye_wVa</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

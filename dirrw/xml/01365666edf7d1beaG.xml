@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5666edf7d1bea">
+    <ref>5666edf7d1bea</ref>
+    <datesv>2015-12-08</datesv>
+  </sauvegarde>
+  <etudiant numero="136">
+    <nom>Louvet-Dhommée</nom>
+    <prenom>Alexandre</prenom>
+    <mel>delasalle.sio.louvetdh.a@gmail.com</mel>
+    <situation ref="1177">
+      <ref>1177</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>serveur wamp, PhPMyAdmin, SGBDR MySQL, MySQLWorkBench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs (commerciaux et formateurs) sur lesquels le service aura un impact
+identifier les fonctionnalités</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>créer les utilisateurs recensés et leurs attribuer les droits nécessaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>création de la base de données sous MySQL à partir d'un script
+extension de la bdd initiale
+modélisation de la bdd finale sous MySQLWorkbench
+manipulation des données liées à la solution applicative à travers le langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1360">
+      <ref>1360</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission FESTIBASKET : évolution réseau wifi</libcourt>
+      <descriptif>-séparation des réseaux wifi (public et organisation) + non diffusion d'un des deux SSID + sécurité WAP2
+- mise en place du serveur DHCP
+- mise en place du devis matériel 
+- mise en place d'une maquette Packet Tracer en plus de l'adressage (réseau w</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement>LaboRéseau à disposition</environnement>
+      <moyen>matériel du Labo Réseau (ordinateurs, borne wifi, routeur, commutateur)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1368">
+      <ref>1368</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte n°3 : Gestion des pannes - Helpdesk</libcourt>
+      <descriptif>- création de fiche de demande d'intervention et fiche de rapport
+- mode opératoire Mise à jour de la base pannes
+- mode opératoire outil télémaintenance
+- fiche présentation des outils
+- présentation diaporama Contexte 3 Gestion des pannes</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1424">
+      <ref>1424</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Site Web Darkstore</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand</descriptif>
+      <contexte>Création de site web</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-06</datefin>
+      <environnement>serveur wamp, SGBDR, MySQL</environnement>
+      <moyen>HTLM 5, CSS3, Notepad++, PowerAmc, PHPMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1461">
+      <ref>1461</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année - Déploiement Master</libcourt>
+      <descriptif>Déploiement du master sur plusieurs postes PC qui sont sous XP. Une fois le master déployé, un transfert de données est requis avant de remplacer les vieux postes XP par les nouveaux postes Seven.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-01</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen>Disque dur externe, clés USB contenant des logiciels, clés USB boot OS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1482">
+      <ref>1482</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année - Résolutions des pannes</libcourt>
+      <descriptif>Assistance aux utilisateurs (maintenance de 1er niveau)</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-18</datedebut>
+      <datefin>2015-09-18</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1483">
+      <ref>1483</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année - Réinstallation XP via l'outil Clonezilla</libcourt>
+      <descriptif>Réinstallation de l'OS Windows XP SP3 sur plsuieurs ordinateurs (fixes et portables) vie l'outil CLonezilla.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-18</datedebut>
+      <datefin>2015-09-18</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="1484">
+      <ref>1484</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 1: Installer et configurer l'hyperviseur ESXi</libcourt>
+      <descriptif>Installation de l'hyperviseur ESXi vie le CD d'installation ESXi 5.5 et configuration de l'hyperviseur (adresse IPv4, adresse passerelle,...). Activation de la clé de licence dans l'interface du logiciel ESXi.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-18</datedebut>
+      <datefin>2015-09-18</datefin>
+      <environnement>LaboReso</environnement>
+      <moyen>Poste fixe; Serveur; disque dur Win7; disque dur ESXi</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1535">
+      <ref>1535</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission : Schéma de câblage du réseau de la M2L</libcourt>
+      <descriptif>faire un schéma de câblage de la M2L afin d'identifier les ports des équipements qui sont reliés aux machines</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2015-12-08</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

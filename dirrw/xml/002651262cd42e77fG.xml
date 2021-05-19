@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51262cd42e77f">
+    <ref>51262cd42e77f</ref>
+    <datesv>2013-02-21</datesv>
+  </sauvegarde>
+  <etudiant numero="26">
+    <nom>OGER</nom>
+    <prenom>Tanguy</prenom>
+    <mel>tanguy.oger@gmail.com</mel>
+    <situation ref="59">
+      <ref>59</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage de première année</libcourt>
+      <descriptif>Nous devons améliorer une application qui permet la gestion des clients, des fournisseurs d'ophta-france ainsi que la gestion des produits que l'entreprise distribue.</descriptif>
+      <contexte>Toute en faisant passer l’application du vb6 vers le vb.net, nous devons y apporter des modifications pour répondre aux nouvelles attentes des utilisateurs.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Visual studio 2010</environnement>
+      <moyen></moyen>
+      <avisperso>Ce stage m'a permis de découvrir l'environnement de l'entreprise et de réaliser une production approfondit.</avisperso>
+      <avisprof>
+        <numero>13</numero>
+        <commentaire>C'est très bien documenté, et les activités sont bien reformulées.</commentaire>
+        <datecommentaire>2012-06-26</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1  et C1.1.1.1.2 Lecture du cahier des charges pour savoir quelles étaient les attentes et les demandes des futurs utilisateurs.
+C1.1.1.3 Après 4 semaines passés dans l'entreprise, nous avons eu une réunion avec les futurs utilisateurs, pour leur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le prix des produits ayant une très grandes importance dans la vie de l'entreprise, nous avons du réaliser des contrôles pour éviter les erreurs de saisie. Il est en est de même pour la gestion des fournisseurs, il faut effectuer des contrôle pour que la</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Les futurs utilisateurs ne faisant pas tous parti du même service et certains n'ayant pas accès a certaines informations, nous a amené à créer des groupes dans lesquels se trouve les utilisateurs et chaque groupes ayant des droit de modification, ou non</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>La gestion des produits devant être totalement repensé, nous avons donc donné notre avis sur l'interface qu'il était possible ou pas de mettre en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données pour qu'elle gère les utilisateurs et les droits d'accès.
+Utilisation du sql pour extraire les données dans des tableaux.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Prototypage de classes avec mise en place de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Les différents acteurs utile dans l'application sont les commerciaux, les clients, les fournisseurs... il à donc été utile des créer des classes pour chaque acteurs. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="149">
+      <ref>149</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte GSB</libcourt>
+      <descriptif>Dans ce contexte, il y a deux types d'utilisateurs. Les 'visiteurs' et les 'comptables'.</descriptif>
+      <contexte>Les visiteurs entres les renseignements sur leur fiche de frais du mois écoulé.
+Par la suite les comptables sont gérés de vérifier les fiches de frais et de les validés.</contexte>
+      <datedebut>2012-01-09</datedebut>
+      <datefin>2012-05-21</datefin>
+      <environnement>Serveur apache, avec phpmyadmin, ainsi que notepad++</environnement>
+      <moyen></moyen>
+      <avisperso>Le contexte GSB ma permis de me plonger dans un premier vrai contexte et surtout de développer mes connaissances en php.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="354">
+      <ref>354</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage de deuxième année</libcourt>
+      <descriptif>Migration d'un site joomla de la version 1.5 à 2.5, avec modification de la charte graphique.
+Création d'un site sous joomla pour gérer les serveurs.</descriptif>
+      <contexte>Stage chez Mathalis web studio, société (EURL) de création de sites web.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>CMS joomla et serveur distant sous ubuntu.</environnement>
+      <moyen>Lamp serveur, virtual hosts, php, css, html</moyen>
+      <avisperso>Ce stage m'a parmis d'apprendre et de développer mes compétences en création de sites web avec un CMS.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>étude du cahier des charges fourni. (lien)
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>identification lors de l'accès au site. (type de comptes et pourquoi)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Evaluation du risque lié à une malveillance.
+Mise en œuvre de la sécurité nécessaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Création de plusieurs niveaux d'utilisateurs avec leurs propres rôles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Vérification fonctionnelle et technique de la remontée d'information dans l'interface.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place d'un environnement de test Joomla.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Breifing et debreifing hebdomadaire avec l'équipe. Evocation des problèmes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Rechercher des solutions sur des forums.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Affichage de la liste des serveurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de lamp seveur, de joomla et de ses extensions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>remplacement des extensions de joomla 1.5 vers 2.5</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Développement des formulaire de saisie. (copie d'écran)
+Intégration d'une charte graphique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une table pour la sauvegarde de serveur. (structure)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Test des enregistrements dans la bdd</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction de la documentation d'installation de Joomla.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Création ACL (d'accès control list)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Installation des maj et test de non régression (compatibilité template)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Suppresions des extensions obsolètes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Oui</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Ne connaissant pas joomla, je me suis auto-formé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche de la documentation d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="106">
+        <numero>106</numero>
+        <designation>Chaier_des_charges</designation>
+        <adresse>https://docs.google.com/file/d/0B6RtIZkY3hrSYTlnbXkyekxHV0k/edit</adresse>
+      </production>
+      <production numero="107">
+        <numero>107</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://docs.google.com/file/d/0B6RtIZkY3hrSaWpJYWUzY1FhYVU/edit</adresse>
+      </production>
+      <production numero="108">
+        <numero>108</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://docs.google.com/file/d/0B6RtIZkY3hrSakU1S1kzRTlNc0k/edit</adresse>
+      </production>
+      <production numero="109">
+        <numero>109</numero>
+        <designation>A4.1.3 Conception ou adaptation d'une base de données</designation>
+        <adresse>https://docs.google.com/file/d/0B6RtIZkY3hrSejBIem9yaTItbVU/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

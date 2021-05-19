@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="530c544b4a241">
+    <ref>530c544b4a241</ref>
+    <datesv>2014-02-25</datesv>
+  </sauvegarde>
+  <etudiant numero="38">
+    <nom>VERGER</nom>
+    <prenom>Romain</prenom>
+    <mel>romainverger35@gmail.com</mel>
+    <situation ref="56">
+      <ref>56</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1 : création d'un site web </libcourt>
+      <descriptif>Création d'une rubrique Actualité avec Espace Administrateur.
+
+</descriptif>
+      <contexte>Association départementale d’éleveurs.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>- Windows XP
+- Serveur LocalHost avec WampServer
+- NotePad
+- Mozilla, IE.
+
+
+</environnement>
+      <moyen>Langages utilisés : CSS , PHP , HTML, Jquery
+
+Utilisation uniquement des classes en PHP pour lister, ajouter, modifier et supprimer une actualité qui est stockée dans la BDD.</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>15</numero>
+        <commentaire>Complète la description (site web, langages utilisés, ...) et utilise l'onglet Reformulation pour expliquer ou justifier chaque activité.</commentaire>
+        <datecommentaire>2012-06-26</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Administrateur/utilisateur
+Administrateur : Ajouter, modifier, supprimer une actualité.
+Utilisateur: Sélectionner et lire des actualités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai réparti le développement du projet sur 3 phases : BDD et Maquettes la 1ere semaine.
+3 semaines de développement.
+
+
+Je faisais un point sur l'avancement du projet 3 fois / semaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Utilisation d'un ordinateur avec un serveur apache, une base de donnée MySql.
+Installation de phpMyAdmin pour la création de la base.
+Installation d'Artisteer pour la création du css.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Étude de l'existant et des améliorations attendues.
+Création de maquettes et validation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception d'un MCD.
+Création de la base de données.
+Utilisation de requêtes SQL.
+Afficahe des données présentes en asbe sur un écran de consultation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création d'un espace utilisateur et un espace protégé.
+Mise en place d'un écran de consultation des actualités et d'une interface d'administration (Création, modification, suppression).
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche d'informations sur HTML5</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche sur des plugins Jquery, Javascript.
+Apprentissage de la programmation Objet.
+</commentaireactivite>
+      </activitecitee>
+      <production numero="14">
+        <numero>14</numero>
+        <designation>Niveaux d'habilitations </designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitdkluMkxwSVZwZnM</adresse>
+      </production>
+      <production numero="422">
+        <numero>422</numero>
+        <designation>Participation a un projet </designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitMUdtSGRFU1k4dnc</adresse>
+      </production>
+      <production numero="423">
+        <numero>423</numero>
+        <designation>Gestion des ressources</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitMUNjTldFd2FwYk0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="355">
+      <ref>355</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 : création d'une application de gestion de salariés</libcourt>
+      <descriptif>Création d'une application de gestion des salariés sous ACCESS avec une fonction d'archivage des données.</descriptif>
+      <contexte>Entreprise CAP Diffusion (Editions Ouest-France) à Rennes.
+Domaine de l'édition.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Access</environnement>
+      <moyen>Langages utilisés : VBA, Langage de requêtes SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Une meilleure gérance sur le plan organisationnel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Administrateur, gère l'application et les informations du personnel.
+Utilisateur pouvant </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Beaucoup d'analyses la première semaine afin de minimiser le nombre d'erreurs par la suite puis démarrage du développement du projet.
+Compte-rendu toutes les 2 semaines.
+Prise en compte des nouvelles demandes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Imprimante réseau défaillante. Possibilité d'un problème de réseau entre l'ordinateur et l'imprimante.
+Vérification du ping PC/Imprimante , 
+Problème mécanique de l'imprimante , Degré d'urgence minimal car 2ème imprimante.
+Problème d'organisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'un schéma relationnel et d'un MCD.
+Création d'une base de données ACCESS
+Utilisation de requêtes SQL et de formulaires ACCESS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests unitaires avec  le maître de stage sur l'ajout  d'un nouveau salarié ou la modification de celui-ci.
+Correction d'un souci de conversion de type de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation du logiciel Query.
+Je ne pouvais simplement générer qu'uniquement des requêtes SELECT mais avec beaucoup de rapidité.</commentaireactivite>
+      </activitecitee>
+      <production numero="80">
+        <numero>80</numero>
+        <designation>Conception ou adaptation de l'interface utilisateur</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitTUEwc2lLQXdkbmc</adresse>
+      </production>
+      <production numero="426">
+        <numero>426</numero>
+        <designation>Développement, utilisation ou adaptation de composants</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitZm5ZY2tfRjFSNk0</adresse>
+      </production>
+      <production numero="427">
+        <numero>427</numero>
+        <designation>Identification, qualification et évaluation d'un problème</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitQmtBenI4VGVqMjQ</adresse>
+      </production>
+      <production numero="429">
+        <numero>429</numero>
+        <designation>Conception ou adaptation d'une base de données</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitMTNRRzFSc2MyM00</adresse>
+      </production>
+      <production numero="430">
+        <numero>430</numero>
+        <designation>Définition des caractéristiques d'une solution applicative</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitMTNRRzFSc2MyM00</adresse>
+      </production>
+      <production numero="431">
+        <numero>431</numero>
+        <designation>Réalisation des tests nécessaires a la validation</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitOXhnelFZZTh3cXc</adresse>
+      </production>
+      <production numero="437">
+        <numero>437</numero>
+        <designation>Etude d'une technologie, d'un composant, d'un outil</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitbFc0YjJaNjJ6T1E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="423">
+      <ref>423</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Glpi</libcourt>
+      <descriptif>Mise en place d'un outil de gestion d'incidents GLPI et ocs inventory</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>Ubuntu Linux</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Former les utilisateurs au nouveau service avec un mode opératoire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mode opératoire installation du service GLPI.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="432">
+        <numero>432</numero>
+        <designation>Recueil d'informations sur une configuration</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitRS1HQ3l3a210a2s</adresse>
+      </production>
+      <production numero="433">
+        <numero>433</numero>
+        <designation>Suivi d'une configuration et de ses éléments</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitMmo2NklkaEVxdEU</adresse>
+      </production>
+      <production numero="434">
+        <numero>434</numero>
+        <designation>Prise en charge d’incidents et de demandes d’assistance liés au domaine de spécialité du candidat</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitMVFOM2ZpYzI5ODQ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="424">
+      <ref>424</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'un outil de veille technologique via netvibes</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>Netvibes</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Choisir le thème informatique
+Liste de différentes informations sur des sites choisis.
+</commentaireactivite>
+      </activitecitee>
+      <production numero="143">
+        <numero>143</numero>
+        <designation>Utilisation d'un outil de veille</designation>
+        <adresse>http://www.netvibes.com/privatepage/1#Informatique</adresse>
+      </production>
+      <production numero="436">
+        <numero>436</numero>
+        <designation>Lien vers netvibes</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitRFhYYUNkbU1rRDA</adresse>
+      </production>
+      <production numero="439">
+        <numero>439</numero>
+        <designation>Productions relatives à la mise en place d'un outil de veille technologique</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitT1JLMWtwNzJVWjQ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="430">
+      <ref>430</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Documentation technique Gestion Lycée</libcourt>
+      <descriptif>Création d'un mode opératoire pour l'application Gestion Lycée</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-15</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>Microsoft Word</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Mode opératoire d'une application de gestion du lycée.</commentaireactivite>
+      </activitecitee>
+      <production numero="428">
+        <numero>428</numero>
+        <designation>Rédaction d'une documentation d'utilisation</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitQ2RfLXpWeWtsUGM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="451">
+      <ref>451</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Normes de développement Java </libcourt>
+      <descriptif>Normes de développement applicable en Java sous eclipse</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-16</datedebut>
+      <datefin>2013-04-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Normes de développement applicables en JAVA sous Eclipse.</commentaireactivite>
+      </activitecitee>
+      <production numero="435">
+        <numero>435</numero>
+        <designation>Exploitation  des référentiels, normes et standards</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKitcWxFdmVRUEVQRW8</adresse>
+      </production>
+    </situation>
+    <situation ref="681">
+      <ref>681</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte M2L : Fredi</libcourt>
+      <descriptif>Contexte maison des ligues</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-07</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>Apache, Mysql, access </environnement>
+      <moyen>Microsoft visual studio, notePad++</moyen>
+      <avisperso></avisperso>
+      <production numero="438">
+        <numero>438</numero>
+        <designation>Participation a un projet d'evolution d'un SI</designation>
+        <adresse>https://drive.google.com/#folders/0B0GVCgTJkKita05YSmVnMzNDN0k</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="745">
+      <ref>745</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte M2L : ValRes</libcourt>
+      <descriptif>Système de réservation de salles.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-09-30</datedebut>
+      <datefin>2013-09-30</datefin>
+      <environnement>WampServer, PhpMyadmin</environnement>
+      <moyen>Notepad++ , application web</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparation d'un jeu d'essai selon des consignes précises.
+Création de tests de validation de réservation des salles.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="787">
+      <ref>787</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de versions</libcourt>
+      <descriptif>Gestion de version avec Subversion</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-01-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="794">
+      <ref>794</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2(2ème année) : Système de newsletter</libcourt>
+      <descriptif>Etudier la faisabilité de la mise en place d'un système de gestion et de diffusion de newsletters pour les adhérents et prospects de l'association ICOOPA.</descriptif>
+      <contexte>ICOOPA à RENNES
+Association des gestion et comptabilité.</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement>Microsoft Word, Microsoft Excel, Notepad
+Lotus Notes, wampServer, mozilla Firefox</environnement>
+      <moyen>Windows 7, Pc Portable Toshiba</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude faisabilité d'une newsletter
+Outil de création, Lien avec le site internet actuel, procédé de desabonnement, Tracking
+Acteurs : Adhérents et prospects de l'association</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Formation de mon maitre de stage à l'utilisation du logiciel MailPro.
+Informer les autres salariés de la mise en place d'une newsletter par mail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de mailpro par l'envoi de 1500 mails a différentes destinataires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planning et tâches a faire par jour.
+Compte-rendu hebdomadaire avec mon maitre de stage chaque vendredi et avec le lycée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Production d'un manuel d'utilisation de mailPro.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

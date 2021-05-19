@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56aa2e9651060">
+    <ref>56aa2e9651060</ref>
+    <datesv>2016-01-28</datesv>
+  </sauvegarde>
+  <etudiant numero="114">
+    <nom>Damecour</nom>
+    <prenom>Jérémy</prenom>
+    <mel>delasalle.sio.damecour.j@gmail.com</mel>
+    <situation ref="1158">
+      <ref>1158</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur Wamp, PhpMyAdmin, SGBDR MySql, MySqlWorkBench, language SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>-Recenser les acteurs sur lesquels le service aura un impact
+-Identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>-Créer les utilisateurs recensés et attribuer les droits nécessaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>-Création de la base de données sous MySql 
+-Extension de la bdd initiale 
+-Modélisation de la bdd finale
+-Manipulation des données liées à la solution applicative à travers le langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1353">
+      <ref>1353</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festibasket</libcourt>
+      <descriptif>-Mettre en place un réseau wifi en respectant un cahier des charges</descriptif>
+      <contexte>Festibasket</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement></environnement>
+      <moyen>Matériel du lycée</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1189">
+        <numero>1189</numero>
+        <designation>Maquette</designation>
+        <adresse>https://drive.google.com/open?id=0B4cVkhk--Kb2b3VuUmM1dFBpTEE&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1422">
+      <ref>1422</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Vroum</libcourt>
+      <descriptif>Mise en place d'un site marchand</descriptif>
+      <contexte>Vente de voiture en ligne</contexte>
+      <datedebut>2015-05-23</datedebut>
+      <datefin>2015-05-23</datefin>
+      <environnement>Serveur WAMP, MySQl, PhpMyAdmin</environnement>
+      <moyen>Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4132 ==&gt; scripts fournis
+C4134 ==&gt; requête SQL  dans les pages</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1490">
+      <ref>1490</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Partage copieur</libcourt>
+      <descriptif>L'entreprise BuggUp.net a changé de bureau et à louer un local en colocation avec une autre entreprise. Ma tâche a été de réaliser une infrastructure permettant à chaque entreprise d'isolé leurs réseaux respectifs tout en pouvant accéder au copieur.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-06-12</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1523">
+        <numero>1523</numero>
+        <designation>Cahier des charges (A1.1.1)</designation>
+        <adresse>https://drive.google.com/open?id=1pfDU3jOMNP0he73dHF6zBFaBRDjYeCsTgbgsGv_LPaU</adresse>
+      </production>
+      <production numero="1524">
+        <numero>1524</numero>
+        <designation>Proposition d'une solution d'infrastructure (A3.1.1)</designation>
+        <adresse>https://drive.google.com/open?id=0B8eoYuGxQjzEclE5a2dxNDdkaFk</adresse>
+      </production>
+      <production numero="1525">
+        <numero>1525</numero>
+        <designation>Redac specs techniques (A1.2.2)</designation>
+        <adresse>https://drive.google.com/open?id=0B8eoYuGxQjzEWUdnN2ZwbDVOdVU</adresse>
+      </production>
+      <production numero="1526">
+        <numero>1526</numero>
+        <designation>Install et config éléments d'infra (A3.2.1)</designation>
+        <adresse>https://drive.google.com/open?id=0B8eoYuGxQjzEeGx4YlpxX3NaLVU</adresse>
+      </production>
+    </situation>
+    <situation ref="1536">
+      <ref>1536</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Schéma de câblage du réseau de ma M2L </libcourt>
+      <descriptif>Réaliser un schéma sur &quot;Visio&quot; du câblage des bâtiments de la M2L</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-21</datedebut>
+      <datefin>2015-10-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1561">
+        <numero>1561</numero>
+        <designation>A3.2.3</designation>
+        <adresse>https://drive.google.com/open?id=0B8eoYuGxQjzEc3h0MXBPM3FxVTg</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

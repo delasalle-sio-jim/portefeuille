@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56cc0adceec2e">
+    <ref>56cc0adceec2e</ref>
+    <datesv>2016-02-23</datesv>
+  </sauvegarde>
+  <etudiant numero="137">
+    <nom>Marchand</nom>
+    <prenom>Jean-Baptiste</prenom>
+    <mel>delasalle.sio.marchand.j@gmail.com</mel>
+    <situation ref="1352">
+      <ref>1352</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festibasket</libcourt>
+      <descriptif>Mise en place d'une architecture réseau, sécurisation grâce au Vlans et plusieurs SSID, Configuration NFC.
+</descriptif>
+      <contexte>Dans le cadre d'une conférence sportive, l’installation d'un réseau wi-fi couvrant les besoins des utilisateurs et des organisateurs est nécessaire.</contexte>
+      <datedebut>2015-01-20</datedebut>
+      <datefin>2015-03-31</datefin>
+      <environnement>Matériel Cisco et borne wi-fi (D-Link)</environnement>
+      <moyen>Matériel mis à disposition</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1371">
+      <ref>1371</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Santé +</libcourt>
+      <descriptif>Mise en place d'une architecture réseau et adressage </descriptif>
+      <contexte>Vous intervenez sur la refonte du réseau de l'entreprise.</contexte>
+      <datedebut>2015-01-14</datedebut>
+      <datefin>2016-01-13</datefin>
+      <environnement>Matériel Cisco</environnement>
+      <moyen>Matériel mis à disposition</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1519">
+      <ref>1519</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels aux salariés de l'entreprise.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-11</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement>Serveur wamp1 avec SGBDR MySQL via PHPMyAdmin et Lange SQL</environnement>
+      <moyen>MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schema de données avec MySQLWorkbench
+Implémenter le schema de données sous MySQL et l'adapter.
+Manipuler les données liées à la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1540">
+        <numero>1540</numero>
+        <designation>TP Dutoit corrigé</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

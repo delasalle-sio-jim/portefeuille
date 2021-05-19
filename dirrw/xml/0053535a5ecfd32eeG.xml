@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="535a5ecfd32ee">
+    <ref>535a5ecfd32ee</ref>
+    <datesv>2014-04-25</datesv>
+  </sauvegarde>
+  <etudiant numero="53">
+    <nom>LAMBERT</nom>
+    <prenom>Tanneguy</prenom>
+    <mel>lambert.t@lyceedelasalle.fr</mel>
+    <situation ref="568">
+      <ref>568</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Info</libcourt>
+      <descriptif>création d'un site commercial permettant d'enregistrer des commande pour une entreprise fictive de vente de matériel informatique.</descriptif>
+      <contexte>Travail en équipe avec Florian PIQUET</contexte>
+      <datedebut>2013-03-14</datedebut>
+      <datefin>2013-04-04</datefin>
+      <environnement>Langages: HTML, PHP et CSS.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>nous n'avons pas fait de réunion. nous nous somme limité à l'étude du cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>nous avons procédé par étape.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>nous avons modifié une base de donnée déjà fournis.
+nous l'avons ensuite utilisé pour stocker les commandes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>nous avons créé un site internet avec ses application à partir de rien. nous avons cependant parfois utilisé des ressources trouvés sur internet.</commentaireactivite>
+      </activitecitee>
+      <production numero="308">
+        <numero>308</numero>
+        <designation>Site de Info.com</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/PiquetLambert/info/</adresse>
+      </production>
+      <production numero="310">
+        <numero>310</numero>
+        <designation>base de donnée info</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=info&amp;token=13235066161bb318b6a346b8e2dcc759</adresse>
+      </production>
+      <production numero="617">
+        <numero>617</numero>
+        <designation>compte rendu de l’analyse du cahier des charges (partie 1) =&gt; analyse d'un cahier des charges</designation>
+        <adresse>P:Mes documentsSIO1SI6projet infoAnnalyse du cahier des charges infos</adresse>
+      </production>
+      <production numero="618">
+        <numero>618</numero>
+        <designation>compte rendu de l’analyse du cahier des charges (partie 2) =&gt; travail en mode projet</designation>
+        <adresse>P:Mes documentsSIO1SI6projet infoAnnalyse du cahier des charges infos</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="642">
+      <ref>642</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d'un système de veille technologique</libcourt>
+      <descriptif>j'ai utilisé netvibes pour mettre en place un dispositif de veille technologique pendant les vacances</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-25</datedebut>
+      <datefin>2013-03-10</datefin>
+      <environnement>netVibes</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>J'ai mené une veille technologique sur Mega pendant les vaccances de février.</commentaireactivite>
+      </activitecitee>
+      <production numero="355">
+        <numero>355</numero>
+        <designation>ma page netVibes</designation>
+        <adresse>http://www.netvibes.com/privatepage/2#mega_actualites</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="678">
+      <ref>678</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage (1er année) Association jeanne d'Arc Rennes</libcourt>
+      <descriptif>étude et mise à jours du site internet. Audit du système informatique.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-29</datedebut>
+      <datefin>2013-05-30</datefin>
+      <environnement>site internet statique en HTLM 4</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>un des ordinateurs n'avait ni antivirus, ni pare feu. je l'ai signalé à mon maitre de stage et j'ai installé un antivirus et un pare feu gratuits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>J'ai aidé le responsable à reprendre mon travail et j'ai laissé des instruction pour utiliser la newsletter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>J'ai repéré plusieurs erreurs dans le site: liens ne renvoyant pas l'utilisateur vers la bonne page, liens ne fonctionnant pas du tout...
+j'ai également déterminé la cause de ces dysfonctionnements :erreur dans le code, erreur de construction du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai conçu l'interface des pages manquantes du site en m'inspirant des pages existantes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>j'ai fait plusieurs prototypes avant de publier la version finale</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>J'ai mis en œuvre les corrections identifiées ci-dessus, et leur bon fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>j'ai examiné les éléments suivants sur 5 PC: système d’exploitation, processeur, mémoire vive, espace disque (maximal et restant), antivirus, pare feu et suite bureautique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite>je me suis renseigné sur l'utilisation de ces ordinateurs et j'ai fournis un conseil sur les améliorations à apporter. J'ai également conseillé mon maitre de stage sur les coût de remplacement du matériel.</commentaireactivite>
+      </activitecitee>
+      <production numero="473">
+        <numero>473</numero>
+        <designation>compte rendu de l'état des lieux =&gt; Identification, qualification et évaluation d'un problème</designation>
+        <adresse>P:Mes documentsSIO1Stage1etat des lieux</adresse>
+      </production>
+      <production numero="644">
+        <numero>644</numero>
+        <designation>pages modifiées/ crées =&gt; conception adaptation IHM</designation>
+        <adresse>P:Mes documentsSIO1Stage1site internetPages web</adresse>
+      </production>
+      <production numero="645">
+        <numero>645</numero>
+        <designation>compte rendu de l'audit (rouge) =&gt; recueil d'info</designation>
+        <adresse>P:Mes documentsSIO1Stage1audit</adresse>
+      </production>
+      <production numero="646">
+        <numero>646</numero>
+        <designation>compte rendu de l'audit (bleu) =&gt; évaluation d'info</designation>
+        <adresse>P:Mes documentsSIO1Stage1audit</adresse>
+      </production>
+      <production numero="647">
+        <numero>647</numero>
+        <designation>compte rendu de l'audit page 3 (gras) =&gt; évaluation des risques</designation>
+        <adresse>P:Mes documentsSIO1Stage1audit</adresse>
+      </production>
+      <production numero="694">
+        <numero>694</numero>
+        <designation>Rapport de stage (page 6) =&gt; prototypage d'une solution logiciélle</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage JA</adresse>
+      </production>
+      <production numero="695">
+        <numero>695</numero>
+        <designation>Rapport de stage (page 11) =&gt; accompagnement des utilisateurs</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage JA</adresse>
+      </production>
+      <production numero="697">
+        <numero>697</numero>
+        <designation>Rapport de stage (page 7) =&gt; analyse et correction d'un dysfonctionnement.</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="798">
+      <ref>798</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage (2éme année) Capgemini</libcourt>
+      <descriptif>Recette usine d'un site internet, correction des erreurs relevés lors de la recette, vérification de la compatibilité du site avec IE8, étude de la méthode agile.</descriptif>
+      <contexte>chez Capgemini Cesson Sevigne (SSII) service?</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement>Html, Jsp, serveur Apache</environnement>
+      <moyen>Ordinateur(windows7) Html, Jsp </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai parcouru les spécifications fonctionnelles d'un site internet et identifié les fonctionnalités attendues par le client</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>J'ai relevé les écarts entre les pages site et les spécifications</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai géré mon planning, pour tester une spécification par jour, et j'ai rendu compte au fur et à mesure à mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai modifié l'IHM du site (fichiers jsp), pour la rendre conforme au spécifications fonctionnelles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>J'ai corrigé les écarts entre les 'specs' et le site, puis, à chaque fois, j'ai testé le résultat. Après chaque commit, j'ai vérifié le succès de l’intégration de mes corrections. J'ai aussi relevé les dysfonctionnements du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Je me suis informé sur les méthodes agile auprès de mes collègues, et j'ai appliqué ces méthodes dans mon travail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Je me suis renseigné sur les méthodes de travail utilisées (SCRUM, notamment), et j'ai participé aux réunions de projets (Rétrospective, Planning meeting, daily meeting)</commentaireactivite>
+      </activitecitee>
+      <production numero="586">
+        <numero>586</numero>
+        <designation>Rapport de stage (page 11, 12, 13 (capture d'écran)) =&gt; annalyse d'un cahier des charges</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <production numero="587">
+        <numero>587</numero>
+        <designation>Rapport de stage (page 13 (texte), 14, 15) =&gt; test d'integration/ adaptation d'un service</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <production numero="589">
+        <numero>589</numero>
+        <designation>Rapport de stages (pages 4 à 11 (capture d'écran)) =&gt; participation à un projet</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <production numero="648">
+        <numero>648</numero>
+        <designation>Rapport de stage(pages 6 et 7 (point II-3, première partie)) =&gt; veille technologique</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <production numero="649">
+        <numero>649</numero>
+        <designation>Rapport de stage(pages 6 et 7 (point II-3, seconde partie)) =&gt; étude d'une téchnologie</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <production numero="650">
+        <numero>650</numero>
+        <designation>Rapport de stage (page 17) =&gt; modification de l'IHM</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <production numero="651">
+        <numero>651</numero>
+        <designation>Rapport de stage (page 16 et 18) =&gt; correction de dysfonctionnement</designation>
+        <adresse>P:Mes documentsSIO2Rapport de stage CAPGEMINI</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="800">
+      <ref>800</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet digicode</libcourt>
+      <descriptif>Développement d'une application android (en java), utilisant un service web pour afficher un digicode</descriptif>
+      <contexte>Travail en équipe avec Colin RICHARD et Guillaume POIGNANT</contexte>
+      <datedebut>2013-12-13</datedebut>
+      <datefin>2013-12-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>TP par groupe de 3, sur 3 semaines</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'une application mobile de java, avec appel de service web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation d'un programme de test des classes. (Ce n'était pas des tests unitaires)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'un compte-rendu, avec un graphe MPM</commentaireactivite>
+      </activitecitee>
+      <production numero="606">
+        <numero>606</numero>
+        <designation>liste des tâches</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet DigicodeProjet Digicode - Les étapes</adresse>
+      </production>
+      <production numero="611">
+        <numero>611</numero>
+        <designation>projet digicode sous Eclipse</designation>
+        <adresse>P:Mes documentsSIO2workspaceDigicode</adresse>
+      </production>
+      <production numero="613">
+        <numero>613</numero>
+        <designation>compte rendu du projet (page 9)</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet DigicodeProjet Digicode - CR LAMBERT RICHARD POIGNANT(avec les améliorations)</adresse>
+      </production>
+      <production numero="614">
+        <numero>614</numero>
+        <designation>compte rendu du projet (tout le document)</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet DigicodeProjet Digicode - CR LAMBERT RICHARD POIGNANT(avec les améliorations)</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="801">
+      <ref>801</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP GLPI</libcourt>
+      <descriptif>Mise en place d'un système de gestion de configurations</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-02-05</datedebut>
+      <datefin>2014-02-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place du logiciel de gestion de configuration GLPI sous Linux</commentaireactivite>
+      </activitecitee>
+      <production numero="625">
+        <numero>625</numero>
+        <designation>compte rendu du tp</designation>
+        <adresse>P:Mes documentsSIO2SI7compte rendu de glpi ocs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="905">
+      <ref>905</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet vouzetou</libcourt>
+      <descriptif>Projet de développement d'une application de géolocalisation</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-03-21</datedebut>
+      <datefin>2014-04-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Le projet c'est fait par équipe de trois (avec Colin RICHARD et Guillaume POIGNAND), pour l'élaboration des services web, nous avons utilisé un 'backlog' pour suivre l'avancement des taches</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Nous avons créé l'interface utilisateur sous Android</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Nous avons développé l'application Android en Java et les services web en php, par nous même, du début jusque à la fin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Nous avons testé et validé la solution développé avec des tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <production numero="653">
+        <numero>653</numero>
+        <designation>Backlog du projet (planning) =&gt; Suivie d'un projet</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet VouzetouBacklog Vouzetou - Richard-Poignand-Lambert</adresse>
+      </production>
+      <production numero="691">
+        <numero>691</numero>
+        <designation>Captures d'écran de l'IHM =&gt; Création d'une interface homme/machine</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet VouzetouCapture d'écran IHM</adresse>
+      </production>
+      <production numero="692">
+        <numero>692</numero>
+        <designation>Capture d'écran classes en Java =&gt; Conception/adaptation d'une solution logicielle</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet VouzetouCapture d'écran Java</adresse>
+      </production>
+      <production numero="693">
+        <numero>693</numero>
+        <designation>Capture d'écran classes de test =&gt; réalisation des test nécessaires à la validation de la solution</designation>
+        <adresse>P:Mes documentsSIO2SLAM 4-5JavaProjet VouzetouCapture d'écran tests</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

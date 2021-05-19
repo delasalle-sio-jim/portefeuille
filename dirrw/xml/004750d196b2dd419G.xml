@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d196b2dd419">
+    <ref>50d196b2dd419</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="47">
+    <nom>GROSDEMOUGE</nom>
+    <prenom>Corentin</prenom>
+    <mel>grosdemo.c@lyceedelasalle.fr</mel>
+    <situation ref="178">
+      <ref>178</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Conception et adaptation d'une base de données</libcourt>
+      <descriptif>Création et adaptation d'une base de données en fonction des besoins voulus.</descriptif>
+      <contexte>Dutoit</contexte>
+      <datedebut>2012-11-08</datedebut>
+      <datefin>2012-11-15</datefin>
+      <environnement></environnement>
+      <moyen>MySQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="184">
+      <ref>184</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Analyse et modification d'un code source</libcourt>
+      <descriptif>Recherche des erreurs et modifications adéquates</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-11-09</datedebut>
+      <datefin>2012-11-09</datefin>
+      <environnement>Sur PC, avec Visual Studio 2010</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Nous avons analysé puis modifier le code du logiciel, puis nous avons développer d'autres éléments de cette solution</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="201">
+      <ref>201</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Droits d'accès et création de comptes</libcourt>
+      <descriptif>Créer des comptes utilisateurs et leur donner des droits sur une base de données</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-06</datedebut>
+      <datefin>2012-12-06</datefin>
+      <environnement>Mise à disposition d'un serveur sur lequel notre base de données est hébergée.</environnement>
+      <moyen>MySQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Nous avons donné des droits et créé d'autres comptes utilisateurs</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="218">
+      <ref>218</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Rédaction d'une doc technique</libcourt>
+      <descriptif>Rédaction d'une doc technique d'installation d'une imprimante réseau.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-19</datedebut>
+      <datefin>2012-09-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="586b7834c3ee1">
+    <ref>586b7834c3ee1</ref>
+    <datesv>2017-01-03</datesv>
+  </sauvegarde>
+  <etudiant numero="186">
+    <nom>Martin</nom>
+    <prenom>Grégory</prenom>
+    <mel>delasalle.sio.martin.g@gmail.com</mel>
+    <situation ref="2009">
+      <ref>2009</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises</contexte>
+      <datedebut>2016-11-29</datedebut>
+      <datefin>2016-12-01</datefin>
+      <environnement>Serveur WAMP, PhpMyAdmin, Mysql Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

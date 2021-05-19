@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e1eefedf1878">
+    <ref>5e1eefedf1878</ref>
+    <datesv>2020-01-15</datesv>
+  </sauvegarde>
+  <etudiant numero="239">
+    <nom>Bergoend</nom>
+    <prenom>Ferdinand</prenom>
+    <mel>delasalle.sio.bergoend.f@gmail.com</mel>
+    <situation ref="2787">
+      <ref>2787</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de donnée pour une société de formation et mise en oeuvre d'une base de donnée pour un site.</descriptif>
+      <contexte>La société de formation continue dutoit propose des stages sur différents logiciel informatiques de différents niveaux. Elle utilise pour stocker ces informations une base de donnée MySQL comprenant 3 table</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2018-11-22</datefin>
+      <environnement>Serveur WAMP, PHP MyAdmin, SGBDR MySQL, lagunage SQL.</environnement>
+      <moyen>MySQLWORKBENCH, language PHP, Javascript, CSS, Bibliothèque, FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs su les contextes d'utilisation, identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les différents utilisateurs et leurs attribuer les droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (serv-wamp2). Faire l'extension de la base de donnée initiale . Modéliser la base de données finale. Manipuler les données liés à la solution applicative à travers le langage de requête SQL (vues) .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2783">
+        <numero>2783</numero>
+        <designation>TP9 - Dutoit</designation>
+        <adresse>https://docs.google.com/document/d/1iW4AUkCl1byuWBYURUMtWGyVu7RsknOlqH07CMX-1Bo/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2871">
+      <ref>2871</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2 Mission ISOLE_WiFi</libcourt>
+      <descriptif>Mettre un place un réseau wifi isolé du reste du réseau.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-01-22</datedebut>
+      <datefin>2019-02-26</datefin>
+      <environnement>Word, Trello, Packet Tracer, Invite de commande</environnement>
+      <moyen>Routeur, Point d'acces sans fil, telephone, ordinateur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Choisir entre les differente solutions proposée la meilleur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquettage sur packet tracer de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un routeur et du point d'acces wifi fonctionnel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Doc technique sur comment mettre en place le point d'acces WiFi.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Explication à l'utilisateur comment se connecter sur ce point d'acces WiFi.</commentaireactivite>
+      </activitecitee>
+      <production numero="2829">
+        <numero>2829</numero>
+        <designation>Isole WiFi</designation>
+        <adresse>https://drive.google.com/open?id=1zN2iST5mFGiivQvpFZYAGFyaFu-QEnb6</adresse>
+      </production>
+      <production numero="2830">
+        <numero>2830</numero>
+        <designation>Trello</designation>
+        <adresse>https://i.imgur.com/WBpWjxW.png</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3102">
+      <ref>3102</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE</libcourt>
+      <descriptif>Amélioration du site web du lycee de la salle, pour le Bureau des étudiants</descriptif>
+      <contexte>Bureau des étudiants</contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-09</datefin>
+      <environnement>Serveur WAMP.</environnement>
+      <moyen>PHPMYADMIN, MYSQL, PHP, HTML, CSS, APACHE, Atom, gitHub</moyen>
+      <avisperso>Bon travail en équipe</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisations, les processus et les acteurs sur lequel le service à produire aura un impact.
+Identifier les fonctionnalité attendus du service a produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaire à la validation du service et les résultats attendus. Préparer les jeux d'essai et les procédures pour la réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet et rendre compte des son activité auprès de M. Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conçu et valider la maquette en collaboration avec M. Guerin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter un schéma de donnée dans un SGBD. Manipuler les données liées a la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer des éléments d'une solution en PHP, HTML et CSS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques a intégrer.</commentaireactivite>
+      </activitecitee>
+      <production numero="3057">
+        <numero>3057</numero>
+        <designation>Site et cahier des charges</designation>
+        <adresse>https://drive.google.com/open?id=1j6bVj4EpS1eQOWU1Dz8YCc2Y97o7NTHI</adresse>
+      </production>
+      <production numero="3058">
+        <numero>3058</numero>
+        <designation>GitHub de l'équipe</designation>
+        <adresse>https://github.com/D-XIII/ProjetBDE</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3141">
+      <ref>3141</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création de sites web</libcourt>
+      <descriptif>Création de sites web pour l'entreprise Confort Ouest, CedricAssistance.net et La gamelle</descriptif>
+      <contexte>Stage 2019 1ére année</contexte>
+      <datedebut>2019-05-20</datedebut>
+      <datefin>2019-06-27</datefin>
+      <environnement>Serveur WAMP</environnement>
+      <moyen>Atom, Uwamp, CSS, HTML, Framework UIkit</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>il faudra tester fonctions des sites sont t'elles fonctionnels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planification à l'aide d'un Trello</commentaireactivite>
+      </activitecitee>
+      <production numero="3243">
+        <numero>3243</numero>
+        <designation>Rapport de test la gamelle</designation>
+        <adresse>https://drive.google.com/open?id=1Y_vkt-Rxy_60L4oVRDMxxhIVUo2wrfrf_4gHz7vvGLk</adresse>
+      </production>
+      <production numero="3244">
+        <numero>3244</numero>
+        <designation>Trello la gamelle</designation>
+        <adresse>https://trello.com/invite/b/TCd14hFy/49bf159745a614d8b3d27c076e6f3020/la-gamelle</adresse>
+      </production>
+    </situation>
+    <situation ref="3247">
+      <ref>3247</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation et configuration de postes pour la vente</libcourt>
+      <descriptif>Préparer et configurer différents ordinateurs pour la vente</descriptif>
+      <contexte>Stage</contexte>
+      <datedebut>2019-05-24</datedebut>
+      <datefin>2019-05-28</datefin>
+      <environnement>Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer une fiche de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>remplir la fiche de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installer windows et les applications de bases</commentaireactivite>
+      </activitecitee>
+      <production numero="3245">
+        <numero>3245</numero>
+        <designation>Fiche de test</designation>
+        <adresse>https://drive.google.com/open?id=1Ny2mFRj5vn1UUwVzKp06aXpYXpGMsv5PIHdS-Qx_PgM</adresse>
+      </production>
+      <production numero="3246">
+        <numero>3246</numero>
+        <designation>Install windows</designation>
+        <adresse>https://drive.google.com/open?id=1X43i2te4Yo_l-pCKtl7Js56aKLgMPn5IBnItdgCQYZ4</adresse>
+      </production>
+    </situation>
+    <situation ref="3248">
+      <ref>3248</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance informatique/Electronique</libcourt>
+      <descriptif>maintenance informatique/electronique pour clients et l'entreprise</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-05-20</datedebut>
+      <datefin>2019-06-20</datefin>
+      <environnement>Imprimante, fer à souder</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Identification du problème </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement toner imprimante</commentaireactivite>
+      </activitecitee>
+      <production numero="3247">
+        <numero>3247</numero>
+        <designation>Maintenance imprimante</designation>
+        <adresse>https://drive.google.com/open?id=1X43i2te4Yo_l-pCKtl7Js56aKLgMPn5IBnItdgCQYZ4</adresse>
+      </production>
+      <production numero="3248">
+        <numero>3248</numero>
+        <designation>Soudage clé de voiture</designation>
+        <adresse>https://drive.google.com/open?id=1Ual8VNRZhwv4JzuS5ETDGEdRfkYY1voYamjQPJ98nqY</adresse>
+      </production>
+      <production numero="3249">
+        <numero>3249</numero>
+        <designation>Installation combinés</designation>
+        <adresse>https://drive.google.com/open?id=1edPH5ED7FM1TNvlGPgkkElA7V7pn_RgVwdk5d9hiujw</adresse>
+      </production>
+    </situation>
+    <situation ref="3249">
+      <ref>3249</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Eurofins, désactivation d’un ransomware</libcourt>
+      <descriptif>Eurofins est attaqués par en ransomware (ryuk), nous devons nettoyer les pc client et serveurs</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-06-04</datedebut>
+      <datefin>2018-06-13</datefin>
+      <environnement>Windows, McAfee, cmd, EsXi, windows XP,</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test que le ransomware est supprimé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>installation des antivirus et des patchs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Demande aux différents utilisateurs du besoin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résoudre l'incident et assurer la continuité de service des serveurs.
+Avec des procédures</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation Eurofins à lire</commentaireactivite>
+      </activitecitee>
+      <production numero="3250">
+        <numero>3250</numero>
+        <designation>Eurofins explication</designation>
+        <adresse>https://docs.google.com/document/d/14xxDY02DN-w-P1agXEYxahuubN6PcE_gv7-GCqZ6-E8/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3251">
+        <numero>3251</numero>
+        <designation>Procédure, exe, liste des ordi, extra a mettre...</designation>
+        <adresse>https://drive.google.com/open?id=18NMolzz1Y7Uhcd-exD2a4mbC1eo6EvCk</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

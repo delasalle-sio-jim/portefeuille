@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5902ea4f5266e">
+    <ref>5902ea4f5266e</ref>
+    <datesv>2017-04-28</datesv>
+  </sauvegarde>
+  <etudiant numero="142">
+    <nom>BERTHELOT</nom>
+    <prenom>Antoine</prenom>
+    <mel>delasalle.sio.berthelot.a@gmail.com</mel>
+    <situation ref="1861">
+      <ref>1861</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet WebCar</libcourt>
+      <descriptif>Création d'un site web et rédaction de son dossier utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-22</datedebut>
+      <datefin>2016-04-22</datefin>
+      <environnement>ordinateur</environnement>
+      <moyen>notepad++, serveur wamp, internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite> Identifier les fonctionnalités attendues du service à produire
+Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+ Tester le site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Programmer des éléments de la solution applicative dans le langage d'un SGBD
+Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests de fonctionnement (connexion utilisateur ou admin)
+Mettre en évidence et corriger les écarts</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite> Rédiger la documentation d'utilisation
+Adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1949">
+      <ref>1949</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1er année (Site web interne)</libcourt>
+      <descriptif>Création d'un site web (intranet/extranet) avec carte france interactive</descriptif>
+      <contexte>BPCE-IT</contexte>
+      <datedebut>2016-05-25</datedebut>
+      <datefin>2016-06-28</datefin>
+      <environnement>Serveur Linux</environnement>
+      <moyen>GIMP, paint, Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.
+Recenser et caractériser les contextes d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyser les interactions entre services(NETDISCO).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire.(contraintes)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Informer et former les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Automatiser l'installation de la solution.
+Mettre en exploitation le service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité.
+ Établir son planning personnel en fonction des exigences et du déroulement du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite> Suivre l'exécution du projet.
+Analyser les écarts entre temps prévu et temps consommé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite> Identifier les composants logiciels nécessaires à la conception de la solution(GIMP, serveur linux).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre un outil (GIMP).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode(url des sites web).</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1974">
+      <ref>1974</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L Développement appli web</libcourt>
+      <descriptif>M2L met à disposition des salles pour les adhérents. Ils peuvent récupérer le digicode via le site web.</descriptif>
+      <contexte>Lycée de la Salle</contexte>
+      <datedebut>2016-10-04</datedebut>
+      <datefin>2016-11-15</datefin>
+      <environnement>serv-wamp1, eclipse, bdd mysql mrbs, github</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.2 Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>C1.2.4.1 Test des pages du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>C1.2.5.1 Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.1 Établir un planning de groupe en fonction des exigences et du déroulement du projet
+C1.4.1.2 Chacun rend compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>C1.4.2.1 Suivre l'exécution du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>C1.4.3.2 Adapter son planning personnel en fonction des ressources disponibles (planning xml)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>C4.1.2.1 Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.4 Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>C4.1.6.1 Mettre en place et exploiter un environnement de développement (développement des pages)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>C4.1.7.3 Analyser et modifier le code d'un composant logiciel
+C4.1.7.4 Utiliser des composants d'accès aux données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>C5.1.1.2 Paramétrer une solution de gestion des éléments d'une configuration (configurer/associer eclipse et github)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>C5.1.2.1 Renseigner les événements relatifs au cycle de vie d'un élément de la configuration (commentaire avec les commit)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>C5.1.3.2 Reconstituer un historique des modifications effectuées sur les éléments de la configuration </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>C5.2.1.2 Identifier et partager les bonnes pratiques à intégrer</commentaireactivite>
+      </activitecitee>
+      <production numero="2068">
+        <numero>2068</numero>
+        <designation>Bdd du digicode</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/#PMAURL-1:db_structure.php?db=mrbs02&amp;table=&amp;server=1&amp;target=&amp;token=756af0682f89d6bee038e1180d48b904</adresse>
+      </production>
+      <production numero="2069">
+        <numero>2069</numero>
+        <designation>Site web</designation>
+        <adresse>http://localhost/ws-php-Berthelot/m.m2l/</adresse>
+      </production>
+      <production numero="2104">
+        <numero>2104</numero>
+        <designation>github projet commun</designation>
+        <adresse>https://github.com/delasalle-sio-paulin-i/m.m2l</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2057">
+      <ref>2057</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2e année (optimisation fichier Excel)</libcourt>
+      <descriptif>Automatisation de données Excel</descriptif>
+      <contexte>Entreprise Maurice Théaud à St Meen le Grand (250 salariés).
+Activité : Gestion des déchets.
+Service informatique : 1 seule personne</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-10</datefin>
+      <environnement>Excel, MySql, VBA</environnement>
+      <moyen>Poste de travail sous Windows et Excel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tester avec des jeux d'essais, et comparaison des résultats obtenus avec les résultat attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité chaque semaine par écrit (pour les professeurs) et tous les matins à l'oral (maître de stage), afin de voir l'avancement effectué.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Formation des utilisateurs au fonctionnement de leur nouveau fichier, avec l'aide d'un document utilisateur.
+Bilan avec les utilisateurs pour savoir si les améliorations correspondent à leurs attentes.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'une documentation technique qui explique en partie le code développé, afin de pouvoir le modifier ultérieurement si besoin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Production d'un document suffisamment explicite pour les futurs utilisateurs du fichier. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Formation sur le langage VBA.
+Formation sur un logiciel de base de données : MySQLmanagement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Formation sur le langage VBA.
+Formation sur un logiciel de base de données : MySQLmanagement</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2160">
+      <ref>2160</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Description du block chain</descriptif>
+      <contexte>Block Chain</contexte>
+      <datedebut>2017-04-25</datedebut>
+      <datefin>2017-04-25</datefin>
+      <environnement>Médias, internet</environnement>
+      <moyen>Internet, médias &amp; réseaux sociaux</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Tenir à jour une veille technologie sur un thème choisi.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2164">
+      <ref>2164</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GestSUP</libcourt>
+      <descriptif>Utilisation d'un logiciel de gestion de support, qui prend en charge les incidents et les demandes d’assistance</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-04-25</datedebut>
+      <datefin>2017-04-25</datefin>
+      <environnement>Salle réseaux</environnement>
+      <moyen>Ordinateur fixe, logiciel GESTSUP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite> Paramétrer une solution de gestion des éléments d'une configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite> Actualiser les caractéristiques des éléments de la configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite> Contrôler et auditer les éléments de la configuration
+Reconstituer un historique des modifications effectuées sur les éléments de la configuration</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

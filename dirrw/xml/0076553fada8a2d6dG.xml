@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="553fada8a2d6d">
+    <ref>553fada8a2d6d</ref>
+    <datesv>2015-04-28</datesv>
+  </sauvegarde>
+  <etudiant numero="76">
+    <nom>Auplat</nom>
+    <prenom>Florent</prenom>
+    <mel>florent.auplat@gmail.com</mel>
+    <situation ref="779">
+      <ref>779</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Cas GSB</libcourt>
+      <descriptif>Etude de cas d'un appel d'offre et proposition d'une solution.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement>Drop box, word, powerpoint</environnement>
+      <moyen>Entre 611 000 et 616 000 euros de budget</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>pas de réunion </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>étude du cas GSB en détail pour définir ses besoins</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>rédaction du dossier GSB ainsi que le powepoint avec un maximum d'information</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>définition des droits des utilisateurs des STA de l'entreprise GSB</commentaireactivite>
+      </activitecitee>
+      <production numero="698">
+        <numero>698</numero>
+        <designation>GSB</designation>
+        <adresse>Autre/portefeuille de competence/production/gsb </adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="851">
+      <ref>851</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Mise en place d'un site web pour consulter et/ou modifier un digicode permettant d'accéder à des salles</descriptif>
+      <contexte>Maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-02-04</datefin>
+      <environnement>Architecture client/serveur</environnement>
+      <moyen>NotePad++, serv WAMP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Développer l’application en PHP cas par cas en tenant compte des normes de développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbsxx afin de répondre aux besoins
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaboration de tests sur les fonctionnalités offertes aux utilisateurs comme la connexion / déconnexion et l'envoi de mail en cas de mot de passe oublié</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="579">
+        <numero>579</numero>
+        <designation>Digicode</designation>
+        <adresse>Autre/portefeuilledecompetence/Production/PPE/Digicode</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="989">
+      <ref>989</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Valrès</libcourt>
+      <descriptif>L'application web de réservations de salles vient d'être mise à jour suivant la dernière version de la solution logicielle MRBS sur laquelle elle se base. Le déploiement de cette nouvelle version doit être précédé d'une validation de l'application. </descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2013-12-10</datedebut>
+      <datefin>2013-12-24</datefin>
+      <environnement>Architecture client/serveur</environnement>
+      <moyen>Serveur Web Apache avec l'extension PHP, serveur Mysql.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Elaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier de tests.
+Passage des tests du dossier de tests avec consignation des résultats.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence les liens entre les tables sous MySQL et justification de celles-ci par des règles de gestion.
+Modélisation de la base de données sous MySQL Workbench.</commentaireactivite>
+      </activitecitee>
+      <production numero="740">
+        <numero>740</numero>
+        <designation>Valrès</designation>
+        <adresse>Autre/portefeuille de competence/production/PPE/Valres</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1014">
+      <ref>1014</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gesform</libcourt>
+      <descriptif>Le CROSL (Comité Régional Olympique et Sportif de Lorraine) offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues (législation, éthique, comptabilité associative, etc.). </descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-03-11</datefin>
+      <environnement>Architecture client/serveur</environnement>
+      <moyen>Serveur WAMP, notePad++, Power AMC</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recensement des documents, interviews, annexes
+Recherche des informations élémentaires (dictionnaire des données sous Power AMC) avec un exemple issu des documents (type, longueur, contraintes, valeurs possibles, valeur par défaut, …)
+Élaboration des fo</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Définir les droits des salariés et ceux des responsables</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Présentation de la circulation des informations dans ce système d’information
+Présentation des cas d’utilisation
+Elaboration du modèle conceptuel des données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Génération du Schéma relationnel correspondant au MCD puis du script de création de la base de données
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests de fonctionnement des inscriptions aux formations
+Tests de connexion / déconnexion des responsables </commentaireactivite>
+      </activitecitee>
+      <production numero="757">
+        <numero>757</numero>
+        <designation>Gesform</designation>
+        <adresse>Autre/portefeuille de competence/production/PPE/Gesform</adresse>
+      </production>
+      <production numero="1152">
+        <numero>1152</numero>
+        <designation>serv-wamp1</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/AuplatJolivet/GesForm/index.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1031">
+      <ref>1031</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail</libcourt>
+      <descriptif>Amélioration du portail du CROS Lorraine afin d'accéder aux applications développé précédemment</descriptif>
+      <contexte>Maison des Ligue de Lorraine (M2L)</contexte>
+      <datedebut>2014-04-08</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement>CMS (système de gestion de contenu), architecture client/serveur</environnement>
+      <moyen>WordPress, serveur MAMP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Choix du CMS WordPress
+Conception du portail permettant d'accéder au différentes applications</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>liste des sites étudié concernant le CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin d'auto-formation du CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du CMS: possibilités et limites</commentaireactivite>
+      </activitecitee>
+      <production numero="752">
+        <numero>752</numero>
+        <designation>Portail</designation>
+        <adresse>Autre/portefeuille de competence/production/PPE/Portail</adresse>
+      </production>
+      <production numero="1151">
+        <numero>1151</numero>
+        <designation>serv-wamp1</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/AuplatJolivet/Portail/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1037">
+      <ref>1037</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Site Consoles</libcourt>
+      <descriptif>Création d'un site internet &quot;marchand&quot; </descriptif>
+      <contexte>La société Consoles commercialise des consoles et des accessoires. Il s'agit d'un négociant important et sa clientèle est essentiellement composée de particuliers.</contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-17</datefin>
+      <environnement>Architecture client/serveur</environnement>
+      <moyen>Serveur WAMP, PHP, SGBDR MySQL, CSS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du dossier LaFleur qui permet la réalisation du site personnel (console) après modification</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Détermination des droits des utilisateurs, des clients et des administrateurs du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Partie administration, données à intégrer dans le site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planifier les tâches à faire d'une semaine sur l'autre</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de la mise en page du site ainsi que du style
+Cas d'utilisations</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification et ajout de table dans la base de données </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests de connexion / déconnexion des différents utilisateurs
+Test de validation des commandes
+Test des ajouts / suppressions des produits ou des clients (admin)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Réalisation d'un dossier papier</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Réalisation d'un dossier papier</commentaireactivite>
+      </activitecitee>
+      <production numero="764">
+        <numero>764</numero>
+        <designation>Site Consoles</designation>
+        <adresse>Autre/portefeuille de competence/production/SI6/Site Consoles</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1086">
+      <ref>1086</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage première année</libcourt>
+      <descriptif>Conception, développement et test d'une application web permettant aux élèves de consulter des propositions de stages.</descriptif>
+      <contexte>Au lycée De La Salle</contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>SGBDR phpMyAdmin , PHP , HTML</environnement>
+      <moyen>Un poste de travail en environnement Mac.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des besoins et des attentes de Mme MICHEL (responsable des relations Ecole-Entreprise au lycée De La Salle).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>3 niveaux d'accès : élève, professeur et administrateur
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Note quotidienne sur le travail effectué en cours de journée et le travail restant à faire.
+Compte-rendu hebdomadaire pour le suivi des professeurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Composants nécessaires : serveur XAMPP, framework Bootstrap.
+Délai imposé de 5 semaines.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définition de l'ergonomie du site.
+Développement des pages (HTML, CSS via Bootstrap).
+Mise en place d'un thème bootstrap (très épuré comme le site du lycée).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception et réalisation de la base de données &quot;stage&quot; en m'inspirant de celle proposée par Mr CARTRON sur l'ancienne application de  l'intranet du lycée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Utilisation de Bootstrap pour générer les styles graphiques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation d'une série de tests fonctionnels pour chaque formulaire pour vérifier que tout fonctionne bien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique (structure de la base de données, architecture MVC du site, guide administrateur).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Framework CSS Bootstrap
+Architecture MVC (Modèle-Vue-Contrôleur)
+Framework Symfony</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Framework CSS Bootstrap
+Architecture MVC (Modèle-Vue-Contrôleur)
+Framework Symfony</commentaireactivite>
+      </activitecitee>
+      <production numero="1003">
+        <numero>1003</numero>
+        <designation>Stage</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1204">
+      <ref>1204</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage de deuxième année</libcourt>
+      <descriptif>Résolution des problèmes de nature informatique dans l'entreprise Lingorama. Maintenance et amélioration du blog et du site marchand. </descriptif>
+      <contexte>Entreprise Lingorama : vente de linge de maison au détail</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-06</datefin>
+      <environnement>MySQL, PhpMyAdmin, Wordpress, Magento, Affinity Designer, HTML, CSS</environnement>
+      <moyen>Poste de travail environnement Mac</moyen>
+      <avisperso>Très bonne expérience qui m'a permis de toucher à de nombreux domaines d'activité tels que le développement web, le web design, le référencement, l'infographie, le réseau et aussi la gestion du matériel informatique.</avisperso>
+      <avisprof>
+        <numero>37</numero>
+        <commentaire>Description de la situation :
+Résolution des problèmes de nature informatique sur le blog et le site marchand de l'entreprise Lingorama.</commentaire>
+        <datecommentaire>2015-02-02</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>38</numero>
+        <commentaire>Quelques fautes dans l'avis personnel :
+Très bonne expérience qui m'a permis de toucher à de nombreux domaines d'activité tels que le développement web, le web design, le référencement, l'infographie, le réseau et aussi la gestion du matériel informa</commentaire>
+        <datecommentaire>2015-02-02</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>39</numero>
+        <commentaire>A1.4.3 Gestion des ressources
+Il n'y a pas de reformulation. Si tu ne sais pas quoi mettre, il faut supprimer cette activité.</commentaire>
+        <datecommentaire>2015-02-02</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>40</numero>
+        <commentaire>A4.2.1 et A5.1.5 :
+Il n'y a pas de reformulation. Si tu ne sais pas quoi mettre, il faut supprimer ces activités.</commentaire>
+        <datecommentaire>2015-02-02</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>41</numero>
+        <commentaire>A5.1.6 :
+Mise .... </commentaire>
+        <datecommentaire>2015-02-02</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>42</numero>
+        <commentaire>Tu peux peut-être rajouter A5.2.3 pour repérer le besoin d'auto-formation sur Magento.</commentaire>
+        <datecommentaire>2015-02-02</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Notes quotidienne sur le travail effectué en cours de journée et le travail restant à faire.
+Compte-rendu hebdomadaire pour le suivi des professeurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Inventaire du parc informatique &amp; schéma de l'architecture réseaux </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Repérage, identification et correction de bugs &quot;mineurs&quot; sur le site marchand ainsi que sur le blog, qui pouvaient entraver la navigation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Amélioration de la navigabilité et ajout &quot;d'options&quot; sur le blog et le site marchand</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Refonte totale du style du blog</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests en local systématiques avant la mise en production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation sur l'utilisation des codes promos mis en place sur magento </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Mise en évidence de la simplicité voire de l'inexistence des mots de passe des ordinateurs dans l'espace de vente ainsi que dans les bureaux</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Mise en évidence de l'obsolescence du matériel et recherche du matériel de remplacement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin de se former sur le framework Magento </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude de magento (framework e-commerce), recherche sur le référencement (magento et wordpress), </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1303">
+      <ref>1303</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation de base de GLPI</libcourt>
+      <descriptif>Installation de GLPI sur un Linux et d'OCS Inventory sur Windows afin de tester la prise en charge de gestion de tickets</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-10-16</datedebut>
+      <datefin>2014-10-23</datefin>
+      <environnement>Architecture client / serveur, 1 ordinateur sous linux &amp; 1 sous windows</environnement>
+      <moyen>MySQL, OCS, OCS-agent, GLPI</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1150">
+        <numero>1150</numero>
+        <designation>GLPI</designation>
+        <adresse>https://drive.google.com/drive/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1306">
+      <ref>1306</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'une veille technologique sur l'entreprise Apple et les technologies environnantes</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-07</datedebut>
+      <datefin>2015-05-04</datefin>
+      <environnement>Un Macbook Pro &amp; un iPhone</environnement>
+      <moyen>NewsBar, Flux Rss, Applications, twitter, pocket, Xcode</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Etude quand à la réalisation d'applications IOS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception d'applications et de jeux sur IOS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Mise en place de récupération de flux RSS grâce à des applications Mac OSX et IOS puis classement et trie des données dans une autre application (Pocket)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Repérage des différents outils &amp; technologies nécessaire à la réalisation d'application IOS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Apprentissage de Swift &amp; Objective-C, prise en main de Xcode</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

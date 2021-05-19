@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5304703bea6a1">
+    <ref>5304703bea6a1</ref>
+    <datesv>2014-02-19</datesv>
+  </sauvegarde>
+  <etudiant numero="71">
+    <nom>JOUAULT</nom>
+    <prenom>Antonin</prenom>
+    <mel>jouault.a@lyceedelasalle.fr</mel>
+    <situation ref="231">
+      <ref>231</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>tp decouverte matereils </libcourt>
+      <descriptif>découverte du matériel info du labo et lycee
+fonctionnement d'un pc 
+
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-10-10</datedebut>
+      <datefin>2012-10-17</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="262">
+      <ref>262</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>configuration d'elements: contexte santé +</libcourt>
+      <descriptif>configuration pc ( pilote, installation os ...)
+configuration d'élément actif ( routeur, switch ...)</descriptif>
+      <contexte>santé+</contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="300">
+      <ref>300</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>analyse du cahier des charges de la communauté de commune</libcourt>
+      <descriptif>Réponse au cahier des charges sur la communauté de commune cote d’émeraude.
+Étude de la situation, et proposition d'une solution adaptée.  </descriptif>
+      <contexte>situation actuelle de la communauté de commune </contexte>
+      <datedebut>2012-12-22</datedebut>
+      <datefin>2013-01-07</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="545">
+      <ref>545</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Prototype PacketTracer</libcourt>
+      <descriptif>Réalisation de divers infrastructure via PacketTracer (adressage, configuration d'élément actif), puis réalisation de la maquette en réel si elle est fonctionnel et correspond a nos attente.  </descriptif>
+      <contexte>TP 4 5 ...</contexte>
+      <datedebut>2012-11-13</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement>labo réseau, domicile </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="548">
+      <ref>548</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>gestion d'equipe projet GSB</libcourt>
+      <descriptif>réalisation de planning et de compte rendu pour la réalisation de projet lors des ppe, pour suivre le bon déroulement en la gestion du temps pour répondre a l'appel d'offre. </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-01</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="553">
+      <ref>553</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion de ticket d'incident </libcourt>
+      <descriptif>sisr1 
+mis en place ocs + glpi + logicil de prise en main a distance (logmein)
+réalisation d'une base panne </descriptif>
+      <contexte>cours sisr 1 </contexte>
+      <datedebut>2013-03-21</datedebut>
+      <datefin>2013-04-15</datefin>
+      <environnement>cas anti-bug</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="610">
+      <ref>610</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>reponse au cahier des charge cote d'emeraude</libcourt>
+      <descriptif>analyse des besoins de l'administration, analyse de l’existant, proposition de la solution la mieux adapté a leurs besoins.
+Rédaction d'une réponse a l'appel d'offre</descriptif>
+      <contexte>cote d'émeraude</contexte>
+      <datedebut>2012-12-04</datedebut>
+      <datefin>2012-12-30</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="629">
+      <ref>629</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>veille technologique</libcourt>
+      <descriptif>Mis en place de flux RSS pour la veille technologique (thème : sécurité informatique)
+</descriptif>
+      <contexte>Veille techno</contexte>
+      <datedebut>2013-01-01</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="637">
+      <ref>637</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission GSB</libcourt>
+      <descriptif>Proposition d'une solution adapté au besoin de l'entreprise</descriptif>
+      <contexte>Contexte GSB</contexte>
+      <datedebut>2013-01-01</datedebut>
+      <datefin>2013-03-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="691">
+      <ref>691</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Site web AVMI</libcourt>
+      <descriptif>Etablir un cahier des charge avec le responsable pour la réalisation d'un futur site WEB.
+Réalisation d'une comparaison des différent hébergeur, gratuit si possible.
+Puis réalisation du site web. </descriptif>
+      <contexte>stage AVMI </contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-14</datefin>
+      <environnement>Société AVMI </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="695">
+      <ref>695</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>sauvegarde PC AVMI</libcourt>
+      <descriptif>Création d'images disque pour les pc client au cours du stage chez AVMI.
+Puis réinstallation des images réalisé en cas de besoin ( pc infecté, remise au propre ...)
+Puis réalisation d'un doc d'utilisation du logiciel TrueImage</descriptif>
+      <contexte>AVMI SARL</contexte>
+      <datedebut>2013-06-03</datedebut>
+      <datefin>2013-06-14</datefin>
+      <environnement>AVMI SARL - atelier informatique</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="731">
+      <ref>731</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>réalisation site WEB AVMI</libcourt>
+      <descriptif>Proposition de plusieurs solution (hébergement + solution de création de site pour une modification plus facile par la suite (joomla ou Wordpress)
+Proposition de plusieurs styles de sites web
+Puis réalisation de celui-ci avec sa base de données</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-04</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>AVMI SARL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="732">
+      <ref>732</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Document pour Wordpress</libcourt>
+      <descriptif>Document pour aider a la prise en main de Wordpress et de hébergeur pour l'entreprise pour aider au future modification possible de la solution.  </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-05</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>avmi SARL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

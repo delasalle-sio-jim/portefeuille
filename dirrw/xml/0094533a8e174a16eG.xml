@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="533a8e174a16e">
+    <ref>533a8e174a16e</ref>
+    <datesv>2014-04-01</datesv>
+  </sauvegarde>
+  <etudiant numero="94">
+    <nom>Loisance</nom>
+    <prenom>Emmanuel</prenom>
+    <mel>emmanuel.loisance@gmail.com</mel>
+    <situation ref="769">
+      <ref>769</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Société de formation</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-11-22</datedebut>
+      <datefin>2013-12-03</datefin>
+      <environnement>serveur wamp</environnement>
+      <moyen>SQL - MySQL WorkBench - PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>sauf C4.1.3.3</commentaireactivite>
+      </activitecitee>
+      <production numero="511">
+        <numero>511</numero>
+        <designation>Compte rendu SI3 - Dutoit</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="873">
+      <ref>873</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm</libcourt>
+      <descriptif>Création d'un site en html / php et utilisation de requête SQL.
+Création de la base de données.
+</descriptif>
+      <contexte>Le CROSL offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues. Les ligues organisent également des formations</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-04-08</datefin>
+      <environnement>Serveur Wamp </environnement>
+      <moyen>PhpMyAdmin - Sublime Text 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="626">
+        <numero>626</numero>
+        <designation>Site GesForm</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/LoisanceLepelletier/GesForm/index.php</adresse>
+      </production>
+      <production numero="629">
+        <numero>629</numero>
+        <designation>Base de données GesForm</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gesform19&amp;token=9bab857d40d3d824a9fe3dbfe48d2c39</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

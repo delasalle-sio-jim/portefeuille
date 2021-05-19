@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ab10cc8bc658">
+    <ref>5ab10cc8bc658</ref>
+    <datesv>2018-03-20</datesv>
+  </sauvegarde>
+  <etudiant numero="183">
+    <nom>Rossi</nom>
+    <prenom>Duncan</prenom>
+    <mel>delasalle.sio.rossi.d@gmail.com</mel>
+    <situation ref="2010">
+      <ref>2010</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-11-29</datedebut>
+      <datefin>2017-01-01</datefin>
+      <environnement>Serveur WAMP, PhpMyAdmin, MySQL WorkBench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation et les acteurs sur lequels le service a produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et affecter des droits aux utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma avec MySQL Workbench
+Implémenter le schéma de données sous MySQL Workbench
+Manipuler les données liées à la solution applicative à travers un language de requête  </commentaireactivite>
+      </activitecitee>
+      <production numero="2128">
+        <numero>2128</numero>
+        <designation>TP6-Dutoit </designation>
+        <adresse>https://docs.google.com/document/d/1oSvQycmeqB9qBSWl-LMpYjm5OAwAaU3KgFAcYKjZdfg/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2041">
+      <ref>2041</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>VALRES-M2L</libcourt>
+      <descriptif>Gestion des réservation de salles</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2016-12-13</datedebut>
+      <datefin>2017-01-10</datefin>
+      <environnement>Serveur wamp/ Phpmyadmin / navigateur / mySQLworkbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les testes d'acceptation nécessaires à la validation du service et les résultat attendus.
+Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+Tester le service et rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaires avec MySQLWorkBench
+Implémenter le scéma de données sous MySQL</commentaireactivite>
+      </activitecitee>
+      <production numero="2145">
+        <numero>2145</numero>
+        <designation>Compte rendu VALRES</designation>
+        <adresse>https://docs.google.com/document/d/13Bw5EzJ-ek-zmO0a8bKY9pbDi-9MIC4iNt-9JNtR1HQ/edit</adresse>
+      </production>
+      <production numero="2147">
+        <numero>2147</numero>
+        <designation>cahier des charges</designation>
+        <adresse>https://drive.google.com/drive/folders/0B7-xf3R6wxYYbWtlWTB3NmVqYW8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2050">
+      <ref>2050</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail</libcourt>
+      <descriptif>Développer les portail du site M2L</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2017-01-10</datedebut>
+      <datefin>2017-01-24</datefin>
+      <environnement>Serveur wamp / navigateur / CMS (wordpress)</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service a produire </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en oeuvre un technologie </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter a propos d'une technologie </commentaireactivite>
+      </activitecitee>
+      <production numero="2153">
+        <numero>2153</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://drive.google.com/drive/folders/0B7-xf3R6wxYYZjQ4RUtfcExCVWM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2235">
+      <ref>2235</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission digicode</libcourt>
+      <descriptif>M2L met à la disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via l'application.
+Deux versions ont été élaborées (1 digicode unique, puis 1 digicode par salle).</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-02-07</datedebut>
+      <datefin>2017-04-18</datefin>
+      <environnement>serveur WAMP2, Atom, bdd mySQL mrbs12</environnement>
+      <moyen>langage php.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service ( la base de données avait déjà été installée pour la mission Valrès).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelle table digicode) et manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="2340">
+        <numero>2340</numero>
+        <designation>Preuve mission Digicode</designation>
+        <adresse>https://drive.google.com/drive/folders/0B3BjvnymfOZjUzFIaXdHT3ZwVVk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2250">
+      <ref>2250</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet site web &quot;ledisquaire.com&quot;</libcourt>
+      <descriptif>site demandé par une entreprise de ventes de disque </descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-03</datedebut>
+      <datefin>2017-04-07</datefin>
+      <environnement>serveur wamp, phpMyadmin, php, SQL, Atom, MySQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+ Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus.
+Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service.
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD.
+Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développer un prototype.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution.
+Analyser et modifier le code d'un composant logiciel.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mettre en évidence et corriger les écarts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Adapter la documentation d'utilisation à chaque contexte d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite> Identifier et partager les bonnes pratiques à intégrer</commentaireactivite>
+      </activitecitee>
+      <production numero="2354">
+        <numero>2354</numero>
+        <designation>fichier de configuration</designation>
+        <adresse>https://drive.google.com/drive/folders/0B3BjvnymfOZjYU9HT1FaRlBmbkE</adresse>
+      </production>
+      <production numero="2355">
+        <numero>2355</numero>
+        <designation>dossier utilisateur </designation>
+        <adresse>https://drive.google.com/drive/folders/0B3BjvnymfOZjRndvYm4wN1A5ZEk</adresse>
+      </production>
+      <production numero="2362">
+        <numero>2362</numero>
+        <designation>cahier des charges </designation>
+        <adresse>https://drive.google.com/drive/my-drive</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2295">
+      <ref>2295</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage de Première année</libcourt>
+      <descriptif>Développement d'un site web</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-29</datedebut>
+      <datefin>2017-07-21</datefin>
+      <environnement>serveur wamp, phpMyadmin, php, SQL, Atom, MySQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>129</numero>
+        <commentaire>pour l'activité A413, les 3 compétences sauf celle que tu as indiquée C4133 qui fait partie du programme de SIO2</commentaire>
+        <datecommentaire>2017-07-19</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire,   Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus.
+Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service.
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire à la mise en place de la solution applicative, Implémenter le schéma de données dans un SGBD,
+Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développer un prototype.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution.
+Analyser et modifier le code d'un composant logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mettre en évidence et corriger les écarts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire ou mettre à jour la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite> Identifier et partager les bonnes pratiques à intégrer</commentaireactivite>
+      </activitecitee>
+      <production numero="2428">
+        <numero>2428</numero>
+        <designation>Preuves</designation>
+        <adresse>https://drive.google.com/drive/u/0/folders/0B3BjvnymfOZjOXQ1YnNoS2JmV3M</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2414">
+      <ref>2414</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Mise en place d'une veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-01</datedebut>
+      <datefin>2018-03-20</datefin>
+      <environnement>Pearltrees.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Tenir à jour une liste de sources d'information</commentaireactivite>
+      </activitecitee>
+      <production numero="2489">
+        <numero>2489</numero>
+        <designation>lien vers le PearlTree</designation>
+        <adresse>http://www.pearltrees.com/duncan_rossi</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

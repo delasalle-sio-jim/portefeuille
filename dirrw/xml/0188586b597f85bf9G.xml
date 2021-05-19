@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="586b597f85bf9">
+    <ref>586b597f85bf9</ref>
+    <datesv>2017-01-03</datesv>
+  </sauvegarde>
+  <etudiant numero="188">
+    <nom>Guillaume</nom>
+    <prenom>Hugo</prenom>
+    <mel>delasalle.sio.guillaume.h@gmail.com</mel>
+  </etudiant>
+</suivicomp>

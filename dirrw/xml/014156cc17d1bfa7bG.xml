@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56cc17d1bfa7b">
+    <ref>56cc17d1bfa7b</ref>
+    <datesv>2016-02-23</datesv>
+  </sauvegarde>
+  <etudiant numero="141">
+    <nom>AULOY</nom>
+    <prenom>Arthur</prenom>
+    <mel>delasalle.sio.auloy.a@gmail.com</mel>
+    <situation ref="1494">
+      <ref>1494</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. </descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement>Serveur wamp1 avec MySQL via PhpMyAdmin, langages SQL</environnement>
+      <moyen>MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>- Recenser et caractériser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact.
+- Identifier les fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>- Gérer des utilisateurs en leurs affectant des droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Modéliser le schéma de données (MySQLWorkBench).
+- Implémenter le schéma de données dans un SGBD sous MySQL et l'adapter.
+- Manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1532">
+        <numero>1532</numero>
+        <designation>TP Dutoit corrigé</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1643">
+      <ref>1643</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>WifiConf</libcourt>
+      <descriptif>Connexion d'un téléphone ou d'une tablette sur une borne WiFi.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-23</datedebut>
+      <datefin>2016-02-23</datefin>
+      <environnement>LaboRéseau</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="1650">
+      <ref>1650</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PictoLan</libcourt>
+      <descriptif>Configuration borne WiFi</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-12</datedebut>
+      <datefin>2016-01-19</datefin>
+      <environnement>LaboRéseau</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Configuration borne WiFi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Inventaire du parc</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1657">
+      <ref>1657</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>WLAN_ISOLE</libcourt>
+      <descriptif>Solution d'infrastructure pour sécuriser l'accès au WiFi</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-26</datedebut>
+      <datefin>2016-02-02</datefin>
+      <environnement>LaboRéseau</environnement>
+      <moyen>https://trello.com/b/rgkPvZ0v/isolation-wifi
+https://prezi.com/-w69p1nu8xiw/mission_4_wlan_isole/</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Législation WiFi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Cf Prezi</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1663">
+      <ref>1663</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>DLS_SUP : Mission1_Evolution du réseau</libcourt>
+      <descriptif>En tant que stagiaire vous accompagnez la mise à jour du réseau du lycée de La Salle dans le cadre de la construction de son nouveau bâtiment « DLS SUP ».</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-13</datedebut>
+      <datefin>2016-01-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

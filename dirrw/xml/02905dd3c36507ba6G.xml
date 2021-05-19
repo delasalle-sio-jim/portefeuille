@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5dd3c36507ba6">
+    <ref>5dd3c36507ba6</ref>
+    <datesv>2019-11-19</datesv>
+  </sauvegarde>
+  <etudiant numero="290">
+    <nom>Lemoine</nom>
+    <prenom>Théo</prenom>
+    <mel>delasalle.sio.lemoine.t@gmail.com</mel>
+    <situation ref="3183">
+      <ref>3183</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Création et extension de la base de données Dutoit.
+
+Puis extension du site web dynamique.</descriptif>
+      <contexte>La société du formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilisera pour stocker ses informations un base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2019-11-05</datedebut>
+      <datefin>2020-04-02</datefin>
+      <environnement>Serveur wamp1, PhPMyAdmin, SGBDR MySQL, langage SQL.</environnement>
+      <moyen>Langage HTML5, PhP5 ou 7, JavaScript, CSS, BootStrap, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

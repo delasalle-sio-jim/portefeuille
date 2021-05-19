@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50ed3fd06f587">
+    <ref>50ed3fd06f587</ref>
+    <datesv>2013-01-09</datesv>
+  </sauvegarde>
+  <etudiant numero="54">
+    <nom>CHARRON</nom>
+    <prenom>Nicolas</prenom>
+    <mel>charron.n@lyceedelasalle.fr</mel>
+    <situation ref="168">
+      <ref>168</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Adressage d'un réseau</libcourt>
+      <descriptif>Adressage d'un réseau via Cisco Packet Tracer</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="177">
+      <ref>177</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Réalisation d'une documentation technique</libcourt>
+      <descriptif>Étude d'un serveur NAS via un Devoir Maison</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="191">
+      <ref>191</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Droits d'acces sous Linux</libcourt>
+      <descriptif>Utilisation des commandes Linux sur une machine virtuelle contenant Ubuntu Serveur afin de créer, modifier, supprimer des utilisateurs, des répertoires , des fichiers et des droits.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="306">
+      <ref>306</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Analyse d'un cahier des charges</libcourt>
+      <descriptif>Analyse du cahier des charges de la communauté de commune de la Côte d’émeraude, réponse a l'appel d'offre spécifique au renouvellement du parc informatique ainsi que du réseau.</descriptif>
+      <contexte>Renouvellement du parc informatique.</contexte>
+      <datedebut>2013-01-09</datedebut>
+      <datefin>2013-01-09</datefin>
+      <environnement></environnement>
+      <moyen>25 000 €</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

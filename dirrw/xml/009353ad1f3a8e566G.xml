@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53ad1f3a8e566">
+    <ref>53ad1f3a8e566</ref>
+    <datesv>2014-06-27</datesv>
+  </sauvegarde>
+  <etudiant numero="93">
+    <nom>Lhoest</nom>
+    <prenom>Bastien</prenom>
+    <mel>lhoest.bastien@gmail.com</mel>
+    <situation ref="934">
+      <ref>934</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion de formation</libcourt>
+      <descriptif>Le CROSL offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues (législation, éthique, comptabilité associative, etc.). Les ligues organisent également des formations, en général plus techniques, sur l'usage de logiciels </descriptif>
+      <contexte>CROSL, M2L</contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-04-01</datefin>
+      <environnement>serveur wamp, php, notepad++</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="987">
+      <ref>987</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Toutes ces salles sont accessibles en soirée : un système de &quot;digicode&quot; permet d'entrer dans les locaux en dehors des heures d'ouverture des bureaux.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-02-04</datefin>
+      <environnement>serveur wamp</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="705">
+        <numero>705</numero>
+        <designation>site digicode</designation>
+        <adresse>SERV-WAMP1LesSitesSIO1_2013_2014HarelleLhoestClouetmdlDigicode</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="996">
+      <ref>996</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Appel d'offre GSB</libcourt>
+      <descriptif>a</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-13</datedebut>
+      <datefin>2014-05-13</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="998">
+      <ref>998</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valres</libcourt>
+      <descriptif>la mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application web de réservation de salles
+</descriptif>
+      <contexte>Maison des ligues M2L</contexte>
+      <datedebut>2013-12-17</datedebut>
+      <datefin>2014-01-14</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>serveur wamp, sgbdr mysql, logiciel MySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier de tests.
+Passage des tests du dossier de tests avec consignation des résultats.
+Vérification des conséquences dans les tables</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence les liens entre les tables sous MySQL  et justification de celles-ci par des règles de gestion.
+Modélisation de la base de données sous MySQL Workbench.
+implémentation de la base de données sous mySql
+</commentaireactivite>
+      </activitecitee>
+      <production numero="711">
+        <numero>711</numero>
+        <designation>Systéme de réservation de salles</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/HarelleLhoestClouet/mdl/web/day.php?year=2014&amp;month=05&amp;day=13&amp;area=1&amp;room=5</adresse>
+      </production>
+      <production numero="724">
+        <numero>724</numero>
+        <designation>schéma de la bdd</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="738">
+        <numero>738</numero>
+        <designation>dossier des tests complété</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1012">
+      <ref>1012</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail CMS</libcourt>
+      <descriptif>portail regroupant les applications PPE2</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-08</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1052">
+      <ref>1052</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>BZH SURF</libcourt>
+      <descriptif>mise en oeuvre d'un site marchand</descriptif>
+      <contexte>entreprise de ventes de planche accessoire via internet</contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-25</datefin>
+      <environnement>sublime, notepad++, php, wamp</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Partie administration, donnée à intégrer dans l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>cas utilisation + image/écran</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1076">
+      <ref>1076</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GAELIG V2  (STAGE CG35)</libcourt>
+      <descriptif>Installation maquette google map pour l'extraire en xml (format php via la base de données)</descriptif>
+      <contexte>GAELIG(Gestion des admissions en établissements et des listes d'inscription gérontologiques)</contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-10</datefin>
+      <environnement>netbean, oracle, notepad++, php, xml, kml, google map api</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>un flux mensuel qui alimente le webservice</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>qualité attendue : facilité d'accès aux établissements par tous publics </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>jeux d'essais mais le souci vient de Google api V3 (format xml)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception et validation de la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1107">
+      <ref>1107</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>ol-prod-lamp (STAGE CG35)</libcourt>
+      <descriptif>Transfert des sites vers le nouveau serveur 
+ren-vmw-24 vers ol-prod-lamp</descriptif>
+      <contexte>Conseil général 35 DSI</contexte>
+      <datedebut>2014-06-11</datedebut>
+      <datefin>2014-06-18</datefin>
+      <environnement>netbean, notepad++, php, ssh, virtuel host</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>mise en place d'un serveur de test
+essai de la migration pour 35 sites
+rédaction d'un rapport de test (tableur)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un nouveau serveur 
+configuration des niveaux d'accès dossiers(commande shell)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Installation d'une nouvelle version du logiciel libre LIMESURVEY</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Après les test, phase de production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recenser les caractéristiques techniques(liste)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1117">
+      <ref>1117</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise à jour des bannières (STAGE CG35)</libcourt>
+      <descriptif>Mise à jour des bannières esperluette (&amp;)</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-06-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>netbean, php, filezilla,chrome, css, images</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>adaptation de l'interface utilisateur pour 41 sites (bandeaux supérieurs)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

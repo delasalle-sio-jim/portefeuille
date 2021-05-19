@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ebbf61bd9ab3">
+    <ref>5ebbf61bd9ab3</ref>
+    <datesv>2020-05-13</datesv>
+  </sauvegarde>
+  <etudiant numero="248">
+    <nom>Gouedo</nom>
+    <prenom>Vincent</prenom>
+    <mel>delasalle.sio.gouedo.v@gmail.com</mel>
+    <situation ref="2804">
+      <ref>2804</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE Dutoit </libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit 
+et modification du site web</descriptif>
+      <contexte>Société proposant des formations en bureautique au entreprises </contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>serveur wamp, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen>php, CSS, FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>préparation de jeux d'essai pour réaliser des test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et une structure organisationnelle.
+Création d'une table utilisateur dans la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>créer la base de données Dutoit sous MySQL. Faire l'extension de la base de données initiale. Modéliser la base données initiale. Modéliser la base de données finale. Manipuler les données lier a la solution applicative à travers le langages de requetés </commentaireactivite>
+      </activitecitee>
+      <production numero="2793">
+        <numero>2793</numero>
+        <designation>SI3-TP9 - Dutoit</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2951">
+        <numero>2951</numero>
+        <designation>SI6-site web sur serv-wamp2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Gouedo/SI6%20-%20TP/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2884">
+      <ref>2884</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2, Mission 3, isolation réseau wifi </libcourt>
+      <descriptif>mise en place d'un réseau wifi isoler du reste du réseau </descriptif>
+      <contexte>PPE M2L</contexte>
+      <datedebut>2019-02-05</datedebut>
+      <datefin>2019-02-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Evaluations des risques lié a l'utilisation d'un réseau wifi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>maquettage du réseau de la M2L avec le réseau wifi </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation et configuration d'un routeur wifi</commentaireactivite>
+      </activitecitee>
+      <production numero="2841">
+        <numero>2841</numero>
+        <designation>drive</designation>
+        <adresse>https://drive.google.com/drive/folders/1Gd71EjBqVACR4_KK-dhu3JoTt3LEV0XQ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3082">
+      <ref>3082</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>BDE commande produit </libcourt>
+      <descriptif>Ajout de la possibilité de commande des vêtement sur le site du BDE.
+Et administration et affichage des commandes avec un compte administrateur.</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-16</datefin>
+      <environnement>Wamp2</environnement>
+      <moyen>notepad++, SQL , HTML</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation, les processus te les acteurs sur lesquelles le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Utilisation d'un jeux d'essai</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Suivi du planning établi
+Compte rendu a M Guérin </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en place de la base de données a partir d'un script </commentaireactivite>
+      </activitecitee>
+      <production numero="3031">
+        <numero>3031</numero>
+        <designation>Preuves (cahier des charges, script SQL, jeux d'essai)</designation>
+        <adresse>https://drive.google.com/drive/folders/1csWuq0Unmz2RRE5B2_ILN7qRMRgoP22-</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3152">
+      <ref>3152</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Rédaction d'un doc pour parer un pb de réseau téléphonique </libcourt>
+      <descriptif>rédaction d'un document qui propose des solutions pour parer les problèmes de réseau dans la partie cuisson de l'usine </descriptif>
+      <contexte></contexte>
+      <datedebut>2019-06-20</datedebut>
+      <datefin>2019-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3236">
+        <numero>3236</numero>
+        <designation>document fourni au maître de stage </designation>
+        <adresse>https://drive.google.com/drive/folders/1JMCW-5jxxTwT1-ZNHG5ftLU62MMaGgvD</adresse>
+      </production>
+    </situation>
+    <situation ref="3153">
+      <ref>3153</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>rédaction d'une procédure pour gérer un logiciel de supervision</libcourt>
+      <descriptif>rédaction d'une procédure pour ajouter du matériel sur le logiciel EyesOfNetwork</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-06-11</datedebut>
+      <datefin>2019-06-12</datefin>
+      <environnement>EyesOfNetwork</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3237">
+        <numero>3237</numero>
+        <designation>document fourni au maître de stage </designation>
+        <adresse>https://drive.google.com/drive/folders/1WlXZ7jdKjLFr7jFmZ0dGVD9_rSKkSSIG</adresse>
+      </production>
+      <production numero="3238">
+        <numero>3238</numero>
+        <designation>tuto utilisation EON</designation>
+        <adresse>https://pellenalexandre.wordpress.com/2018/01/22/eyes-of-network-eon-3-3/</adresse>
+      </production>
+    </situation>
+    <situation ref="3154">
+      <ref>3154</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>création de plan des prises RJ45</libcourt>
+      <descriptif>création de deux plans pour répertorier les prises RJ45 du bâtiments administratif </descriptif>
+      <contexte></contexte>
+      <datedebut>2019-05-22</datedebut>
+      <datefin>2019-05-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3239">
+        <numero>3239</numero>
+        <designation>document fourni au maître de stage </designation>
+        <adresse>https://drive.google.com/drive/folders/1l-jzm22uo_G0Z6teKsdYwyPuvVvU9tEU</adresse>
+      </production>
+    </situation>
+    <situation ref="3155">
+      <ref>3155</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>préparation de poste informatique </libcourt>
+      <descriptif>préparation de poste informatique pour l'usine</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-05-29</datedebut>
+      <datefin>2019-05-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3156">
+      <ref>3156</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>assistance d'un employé sur un nouveau poste </libcourt>
+      <descriptif>aide a la prise en main d'un nouvelle ordinateur a un employé qui a changer de poste </descriptif>
+      <contexte></contexte>
+      <datedebut>2019-06-28</datedebut>
+      <datefin>2019-06-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3157">
+      <ref>3157</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>documentation des STA et de leur connections </libcourt>
+      <descriptif>documentation des STA et de la manière et la prise ou il sont connecté </descriptif>
+      <contexte></contexte>
+      <datedebut>2019-05-27</datedebut>
+      <datefin>2019-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3158">
+      <ref>3158</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>remplacement d'un AP wifi</libcourt>
+      <descriptif>remplacement d'un point d’accès wifi </descriptif>
+      <contexte></contexte>
+      <datedebut>2019-06-10</datedebut>
+      <datefin>2019-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3340">
+      <ref>3340</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance du parc informatique</libcourt>
+      <descriptif>réparation poste, changement lampe vidéoprojecteur, intervention auprès du personnel  </descriptif>
+      <contexte></contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-02-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3341">
+      <ref>3341</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'outil de prise en main a distance </libcourt>
+      <descriptif>mise en place de SSH et xRDP sur serveur linux</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-01-08</datedebut>
+      <datefin>2020-01-10</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3342">
+      <ref>3342</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>mise en place du service WSUS</libcourt>
+      <descriptif>mise en place d'un service de gestion des mises a jours pour Windows </descriptif>
+      <contexte></contexte>
+      <datedebut>2020-01-20</datedebut>
+      <datefin>2020-02-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

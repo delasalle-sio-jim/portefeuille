@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="571e0c22e6263">
+    <ref>571e0c22e6263</ref>
+    <datesv>2016-04-25</datesv>
+  </sauvegarde>
+  <etudiant numero="92">
+    <nom>Lepelletier</nom>
+    <prenom>Théo</prenom>
+    <mel>lepelletier.theo@hotmail.fr</mel>
+    <situation ref="871">
+      <ref>871</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm</libcourt>
+      <descriptif>Création d'un site en html / php dynamique et utilisation de requêtes SQL
+Création d'une base de donnée</descriptif>
+      <contexte>Société proposant des stages de formation aux entreprises</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-04-08</datefin>
+      <environnement>Serveur Wamp</environnement>
+      <moyen>Sublime Text 2; PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur d'une solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception de la base de données</commentaireactivite>
+      </activitecitee>
+      <production numero="630">
+        <numero>630</numero>
+        <designation>Site GesForm, Maison des Ligues</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/LoisanceLepelletier/GesForm/index.php</adresse>
+      </production>
+      <production numero="631">
+        <numero>631</numero>
+        <designation>Base de données GesForm19</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gesform19&amp;token=de86cb715f8dc5931c188aac6565d159</adresse>
+      </production>
+    </situation>
+    <situation ref="1000">
+      <ref>1000</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Valrés (Gestion des plannings)</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application</descriptif>
+      <contexte>La Maison Des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2013-12-17</datedebut>
+      <datefin>2014-01-14</datefin>
+      <environnement>Architecture c/s</environnement>
+      <moyen>Serveur wamp, sgbdr Mysql, logiciel MySQL WorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier de tests.
+Passage des tests du dossier de tests avec consignation des résultats.
+Vérification des conséquences dans les tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables sous MySQL et justification de celles-ci par des règles de gestion.
+Modélisation de la base de données sous MySQL Workbench.
+Implémentation de la base de données sous Mysql</commentaireactivite>
+      </activitecitee>
+      <production numero="715">
+        <numero>715</numero>
+        <designation>Schéma de la bdd</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="725">
+        <numero>725</numero>
+        <designation>Dossier des tests complété</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="1017">
+      <ref>1017</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Digicode</libcourt>
+      <descriptif>Toutes les salles de M2L sont accessibles en soirée : un système de &quot;digicode&quot; permet d'entrer dans les locaux en dehors des heures d'ouverture des bureaux.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-02-04</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Recenser et caractériser des solutions répondant au cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service et leurs rôles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1025">
+      <ref>1025</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - GesForm</libcourt>
+      <descriptif>Le CROSL offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues. Les ligues organisent également des formations, en général plus techniques, sur l'usage de logiciels spécifiques de gestion des clubs ou des compétitions sp</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-04-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1285">
+        <numero>1285</numero>
+        <designation>Site GesForm, Maison des Ligues</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/LoisanceLepelletier/GesForm/index.php</adresse>
+      </production>
+      <production numero="1286">
+        <numero>1286</numero>
+        <designation>Base de données GesForm19</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gesform19&amp;token=de86cb715f8dc5931c188aac6565d159</adresse>
+      </production>
+    </situation>
+    <situation ref="1029">
+      <ref>1029</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Portail</libcourt>
+      <descriptif>Permettre l'accès aux différents site précédemment créés comme GesForm, Digicode, m2l</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-08</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Liste des sites étudiés concernant le CMS (Joomla)
+http://www.joomla.fr/
+http://fr.openclassrooms.com/
+http://kiwik.net/</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin d'auto-formation du CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du CMS : possibilités, limites,....</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1056">
+      <ref>1056</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet lafleur</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand</descriptif>
+      <contexte>Création d'un site de vente dynamique de </contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="815">
+        <numero>815</numero>
+        <designation>Siter Rhapsodea</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/Lepelletier_RicharddeChicourt/Rhapsodea/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1118">
+      <ref>1118</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage1 - Tchat</libcourt>
+      <descriptif>Tchat interne entre les salariés</descriptif>
+      <contexte>Société SI COBEX</contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-06</datefin>
+      <environnement>Powerbuilder</environnement>
+      <moyen>PowerBuilder, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les acteurs et les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests nécessaires à la validation des programmes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur et validation avec mon maître de stage en fonction des maquettes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une BDD
+Manipulation du langage SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>S'informer sur l'outil PowerBuilder via internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Autoformation sur l'outil PowerBuilder via internet</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1119">
+      <ref>1119</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage1 - Planning des salariés</libcourt>
+      <descriptif>Conception d'une application de gestion de planning</descriptif>
+      <contexte>Entreprise SI COBEX</contexte>
+      <datedebut>2014-06-09</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>PowerBuilder</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues (saisie du travail des salariés afin d'avoir un planning bilan de la semaine souhaitée)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en œuvre de tests fonctionnels de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Mise en œuvre d'une interface utilisateur, saisie par les salariés et visualisation du planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation d'une base de données : création d'une table planning en lien avec les salariés et activités</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respecter des bonnes pratiques (commentaires)
+Souhait de l'entreprise de respecter les préfixes des variables</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>S'informer sur l'outil PowerBuilder via internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Autoformation sur l'outil PowerBuilder via internet</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1211">
+      <ref>1211</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2</libcourt>
+      <descriptif>- Modification de fichiers Excel extraits de la base de données &quot;articles&quot; afin de la mettre à jour
+- Aide à la modification d'une maquette, la critiquer et y apporter des modifications</descriptif>
+      <contexte>Entreprise Discount35, magasin de vente de papeterie situé à Montauban-de-Bretagne</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-06</datefin>
+      <environnement></environnement>
+      <moyen>Excel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Critique d'une maquette et apport de modifications à celle-ci.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Documentation d'utilisation sur comment mettre à jour la base de données via l'outil Oxatis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Mise à jour de la base de données : exportation de la base de données -&gt; excel : articles.xlsx -&gt; modification du fichier -&gt; vérifications puis importation dans la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Suivi d'une formation en ligne proposée par Oxatis</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation de l'aide en ligne afin de se documenter</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1286">
+      <ref>1286</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'une veille technologique</descriptif>
+      <contexte>La robotique</contexte>
+      <datedebut>2013-09-04</datedebut>
+      <datefin>2015-05-28</datefin>
+      <environnement>Twitter ( https://twitter.com/hashtag/robot?src=hash ; https://twitter.com/hashtag/robotique?src=hash )
+
+Google Actualité ( https://www.google.fr/search?hl=fr&amp;gl=fr&amp;tbm=nws&amp;authuser=0&amp;q=robotique&amp;oq=robotique&amp;gs_l )
+
+01net</environnement>
+      <moyen>Internet, presse</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Collecte d'articles sur la robotique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formation à l'utilisation d'un outil de veille technologique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter sur la robotique</commentaireactivite>
+      </activitecitee>
+      <production numero="1201">
+        <numero>1201</numero>
+        <designation>Twitter</designation>
+        <adresse>https://twitter.com/hashtag/robotique?src=hash</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1287">
+      <ref>1287</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation GLPI</libcourt>
+      <descriptif>Prise en charge d’incidents et de demandes d’assistance à l'aide de l'outil GLPI (Gestionnaire Libre de Parc Informatique)</descriptif>
+      <contexte>GLPI</contexte>
+      <datedebut>2014-11-06</datedebut>
+      <datefin>2014-11-13</datefin>
+      <environnement>GLPI, ocsinventory</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1313">
+      <ref>1313</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB - Appel d'offre</libcourt>
+      <descriptif>Comprendre et répondre à un appel d'offre</descriptif>
+      <contexte>GSB - Galaxy-Swiss Bourdin</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1404">
+      <ref>1404</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>RSSFinder</libcourt>
+      <descriptif>Création d'un site analysant de nombreux flux RSS lors d'une recherche et qui retourne des résultats et liens en rapport avec la recherche</descriptif>
+      <contexte>Projet SI7</contexte>
+      <datedebut>2014-09-15</datedebut>
+      <datefin>2015-05-28</datefin>
+      <environnement>Internet via différents sites tel que clubic, lemondeinformatique, zdnet, nextinpact ...</environnement>
+      <moyen>Editeur de texte, serveur ftp, ssh (installation d'apache, php, phpmyadmin, mysql ...)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1205">
+        <numero>1205</numero>
+        <designation>RSSFinder</designation>
+        <adresse>http://theo-lepelletier.fr/rssfinder/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d180c4189e3">
+    <ref>50d180c4189e3</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="60">
+    <nom>GIL</nom>
+    <prenom>Marc</prenom>
+    <mel>gil.m@lyceedelasalle.fr</mel>
+    <situation ref="208">
+      <ref>208</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'un hyperviseur de type 2 (VmWare) et exploitatio</libcourt>
+      <descriptif>Installation d'un serveur linux sur VmWare pour apprendre les commandes Linux / les scripts.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-11-05</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

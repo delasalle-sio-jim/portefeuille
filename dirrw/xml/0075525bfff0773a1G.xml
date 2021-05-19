@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="525bfff0773a1">
+    <ref>525bfff0773a1</ref>
+    <datesv>2013-10-14</datesv>
+  </sauvegarde>
+  <etudiant numero="75">
+    <nom>DERSU</nom>
+    <prenom>Thomas</prenom>
+    <mel>mr-dersu@hotmail.com</mel>
+    <situation ref="540">
+      <ref>540</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Hébergement d'un site dynamique</libcourt>
+      <descriptif>Création d'un hébergement d'un site dynamique, mise en place de DNS, routage, mise en place de certificats (SFTP, SSH..)</descriptif>
+      <contexte>PPE : Mission GSB + veille Technologique</contexte>
+      <datedebut>2013-04-09</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement>Windows 2008 serveur, routeur Cisco</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en place un service DNS, Apache et MySQL sur un réseau relié à Internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Proposition de projets pour l'établissement d'infrastructure, avec mise en commun et analyse de chacun des membres du groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="552">
+      <ref>552</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Assistance et dépannage informatique</libcourt>
+      <descriptif>Etablissement d'un diagnostic suite à une panne informatique, résolution de cette panne, établissement d'une documentation technique.</descriptif>
+      <contexte>Tp SISR1 (pannes informatiques)</contexte>
+      <datedebut>2013-04-10</datedebut>
+      <datefin>2013-04-30</datefin>
+      <environnement>Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="570">
+      <ref>570</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Utilisation et administration d'un windows serveur</libcourt>
+      <descriptif>Mise en place de service DHCP, d'active directory, de GPO, des service DNS</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en place un serveur + des postes clients qui communiquent </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="579">
+      <ref>579</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Evolution d'un réseau </libcourt>
+      <descriptif>Demande d'évolution d'un réseau, propositions de solutions, présentation de la proposition</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="726">
+      <ref>726</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>maintenance informatique (stage)</libcourt>
+      <descriptif>Diagnostic et réparations de pannes légères, installation de Windows et des différents drivers</descriptif>
+      <contexte>Stage de première année chez un assembleur</contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Windows xp, vista, 7. Ordinateurs moyennes configurations (core 2 duo, petite carte graphique etc..)</environnement>
+      <moyen>CD des différents OS, clé USB contenant les logiciels de base(Nero, Office etc..), connexion internet pour les drivers</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="750">
+      <ref>750</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'un serveur linux avec gestion d'incident</libcourt>
+      <descriptif>Mise en place d'un serveur Ubuntu avec OCS inventory, lié à un MySQL server et GLPI.</descriptif>
+      <contexte>Travaux pratique.</contexte>
+      <datedebut>2013-09-17</datedebut>
+      <datefin>2014-10-21</datefin>
+      <environnement>Ubuntu serveur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a8f041194b35">
+    <ref>5a8f041194b35</ref>
+    <datesv>2018-02-22</datesv>
+  </sauvegarde>
+  <etudiant numero="204">
+    <nom>Perreau</nom>
+    <prenom>Louise</prenom>
+    <mel>delasalle.sio.perreau.l@gmail.com</mel>
+    <situation ref="2379">
+      <ref>2379</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation et sécurisation d'un FTP</libcourt>
+      <descriptif>Le TP de l'installation et la sécurisation d'un FTP a été réalisé durant un cours de SI1</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-11-28</datedebut>
+      <datefin>2016-11-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="2380">
+      <ref>2380</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Active directory GESTION5</libcourt>
+      <descriptif>Le TP de l'active directory a été réalisé sous  un serveur Windows 2003</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-09-03</datedebut>
+      <datefin>2018-09-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="2381">
+      <ref>2381</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Audit du pôle Recherche &amp; Développement Marketing </libcourt>
+      <descriptif>- Mise à jour de infrastructure du service en montrant le schéma actuel et le schéma de l'infra qui doit être a jour
+- Prise en compte du niveau de sécurité et la RGDP
+- Passer de serveurs physiques au serveurs virtuels
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-02-20</datedebut>
+      <datefin>2018-02-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2386">
+      <ref>2386</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille Technologique </libcourt>
+      <descriptif>Thème : Sécurité Informatique &amp; RGPD</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-10-03</datedebut>
+      <datefin>2018-02-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2387">
+      <ref>2387</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Des formation e-learning</libcourt>
+      <descriptif>des formations obligatoires pour tout stagiaire</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2388">
+      <ref>2388</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Rédaction d'une documentation </libcourt>
+      <descriptif>Rédaction d'une documentation d'utilisation des tablettes de caisses locales</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

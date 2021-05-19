@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5170e3f92dd37">
+    <ref>5170e3f92dd37</ref>
+    <datesv>2013-04-19</datesv>
+  </sauvegarde>
+  <etudiant numero="4">
+    <nom>BATTISTA</nom>
+    <prenom>Régis</prenom>
+    <mel>regis_battista@yahoo.fr</mel>
+    <situation ref="126">
+      <ref>126</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage première année</libcourt>
+      <descriptif>Création et publication d'un site web dynamique permettant à l'administrateur de gérer les pages et leurs contenu (vidéos, images et texte), aux membres de visionner toutes les pages, et au public de visionner que les pages communes.</descriptif>
+      <contexte>L'assosiation West Line contry Dancers, est une association de dance contry à l'hemittage.
+Composée d'une cinquantaine de membres est dirigée par un burreau.
+Ce burreu gere les sorties, bals, et la communication.
+La communication aux membres se fait</contexte>
+      <datedebut>2012-09-28</datedebut>
+      <datefin>2012-09-28</datefin>
+      <environnement>PC portable Windows 7 (personnel)
+Logiciels :
+	Développement expression web 2;
+	BDD MySQL;
+	Serveurs : OVH et EasyPhp;
+	Client ftp : FileZila;
+	Navigateurs : google chrome, IE, Mozilla;</environnement>
+      <moyen>Trésorerie pour payer le serveur et le nom de domaine pour OVH.</moyen>
+      <avisperso>J'ai trouvé ce stage intéressant car c'est un projet concret, et le site crée aura une utilité réelle et importante pour la partie communication de l'organisation.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Rédaction avec le maître de stage un cahier des charges indiquant toutes les fonctionnalités.
+Une réunion a eu lieu avec le futur administrateur, pour parler des éventuelles évolutions du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Ils y a trois types d'utilisateurs :
+-les visiteurs, aucun droits
+-les membres peuvent consulter toutes les pages publiés
+les administrateurs peuvent ajouter, modifier et supprimer les pages, et les liste des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Formation de deux membres du bureau, dont mon maître de stage.
+Démonstration de toutes les fonctionnalités du site et rédaction d'un manuel d'utilisation pour les administrateurs et utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'un diagramme de Gantt afin de m'organiser dans mon travail.
+J'ai rendu compte de mon activité chaque semaine à mon maître de stage en lui montrant l'avancement du site, ou en lui expliquant par téléphone.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Mise en place d'une connection (admin ou membre) sur le site avec identifiant et mot de passe. La comparaison de la saisie et des informations sur la bdd est transparente pour l'utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique pour l’éventuelle reprise du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un manuel d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="23">
+        <numero>23</numero>
+        <designation>Nouveau site de l'association WLD35</designation>
+        <adresse>http://www.westlinedancers35.fr/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="400">
+      <ref>400</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage OATIC</libcourt>
+      <descriptif>La start-up OATIC édite un logiciel éditeur d'exercices pour l'enseignement en école primaire.</descriptif>
+      <contexte>Actuellement les écoles primaires sont peu équipées en matériel informatique, l’objectif de « l’école numérique » est d'utiliser la tablette électronique comme support d'apprentissage.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Windows 7, Android, XAMPP, JMerise</environnement>
+      <moyen>Windows 7, Android, XAMPP, JMerise</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>le cahier des charges publié sur Google Drive liste les fonctionnalités de l'application que je dois mettre en oeuvre.
+Des réunions ont eu lieu pour décrire l'environnement actuel et les objectifs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Chaque procédure du web service avant d'être intégrée à été testée individuellement avec des formulaires PHP sur XAMPP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Au sein de la base de données, il a fallu différencier les acteurs : élève, prof et administrateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Des formulaires PHP m'ont permis de tester manuellement chaque procédure, je comparais ensuite les résultat attendus depuis ma bdd avec les valeurs retournées par le formulaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Méthode d'organisation AGILE car l'application est amenée à être souvent modifiée (opposée à WATERFALL)
+Tous les codes des scripts valides sont transmis au maître de stage (SQL, formulaires, fonctions et procédures) pour être ensuite intégrés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Avec le logiciel JMerise, j'ai conçu le dictionnaire des données, édité un MCD et généré le script de création de la bdd.
+Plus la mise en place de requêtes SQL dans les fonctions PHP et procédures stockées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Les pages de test, la bdd et son contenu et même l'application sont des prototypes, jusqu’à ce que le logiciel soit opérationnel.
+Pour ma part je me suis concentré sur le prototypage concernant la gestion des images et des exercices.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement des pages PHP testant les fonctions et procédures.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test des formulaires PHP avec des jeux d'essais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Création d'un document définissant la structure de la base de données mise en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>J'ai dû me documenter sur les web services, sur le protocole REST et en particulier sur  le protocole SOAP.
+Sources : site de Mickael Baron, le site du zéro</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude des web services, protocoles REST et SOAP.</commentaireactivite>
+      </activitecitee>
+      <production numero="115">
+        <numero>115</numero>
+        <designation>mon espace perso sur le réseau du lycée</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="453">
+      <ref>453</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - gestion des utilisateurs</libcourt>
+      <descriptif>La Maison des Ligues de Lorraine (M2L) a besoin d'améliorer son application C# avec l'ajout d'une nouvelle fonctionnalité: la gestion des utilisateurs.</descriptif>
+      <contexte>A partir d’une Application Windows, développée en C# avec l'EDI VS 2010 articulée autour d'une bdd locale sous Access (pour les clubs) et MySql (pour le CRIB), notre mission consistait à ajouter la gestion complète des utilisateurs.</contexte>
+      <datedebut>2012-10-01</datedebut>
+      <datefin>2012-12-21</datefin>
+      <environnement>Les systèmes de gestions de base de données MySql et Access
+Application Windows, développée en C# avec l'EDI Visual Studio 2010
+</environnement>
+      <moyen>C# et MySQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude du cahier des charges, du contexte de l'entreprise et de leurs attentes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test d'ajout, de modification et de suppression. Ainsi que le test de l'affichage de message d'erreur en cas de saisie erronée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Ajout d'un champ niveau dans la bdd qui différencie les simples utilisateurs des administrateurs, cette différence se traduit par l'interdiction d’accès à certains ressources comme le formulaire de gestion des utilisateurs dans le menu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Les composants :
+Global.cs pour les traitements communs
+formUtilisateurs pour l'interface homme/machine
+utilisateurs.cs pour définir une classe Utilisateur
+gestionTableUtilisateurs.cs pour automatiser les traitements avec la bdd</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création du formulaire formUtilisateurs.cs permettant l'affichage, l'ajout, la modification, suppression d'utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Ajout d'un champ Type dans la table utilisateurs. Ce champ aura comme valeur 1 (utilisateur), et 2 (administrateur) </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Adaptation de la classe utilisateur et du formulaire pour permettre la gestion des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <production numero="177">
+        <numero>177</numero>
+        <designation>Application C#</designation>
+        <adresse>P:Mes documentsProductions CCF E6PPE_M2L_gestionDesUtilisateursLogiciel_FREDI</adresse>
+      </production>
+      <production numero="192">
+        <numero>192</numero>
+        <designation>P:Mes documentsProductions CCF E6PPE_M2L_gestionDesUtilisateursCahierDesCharges_FREDI</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="457">
+      <ref>457</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - outil de communication</libcourt>
+      <descriptif>Mettre en œuvre un outil de communication pour la gestion du projet en équipe</descriptif>
+      <contexte>Création d'un site web permettant aux membres du projet M2L de communiquer entre eux.</contexte>
+      <datedebut>2013-01-01</datedebut>
+      <datefin>2013-03-31</datefin>
+      <environnement>Gestionnaire de contenu en l’occurrence WordPress</environnement>
+      <moyen>Serveur Xampp
+MySql
+Navigateur web : Chrome, IE, Mozilla</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Ø</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Ø</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Ø</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Wordpress définit 5 rôles d'utilisateurs, sur ce projet nous utiliserons  le mode &quot;abonné&quot; qui permet le visionnage et l'ajout de commentaires, et &quot;administrateur&quot; qui contient tous les droits</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Ø</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Ø</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Le CMS possède nativement une gestion des comptes utilisateurs. Il a fallu paramétrer les droits pour autoriser ou non l’accès à certaines pages.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création de l'interface graphique en utilisant des styles pré-configurés et en les adaptant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Recherche et utilisation de divers modules wordpress, que ce soit des modules pour l'interface, pour intégrer de nouvelles fonctionnalités comme le forum; </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Via des recherches sur internet, il a fallu repérer ce que permet ou non de faire le CMS. De plus chaque module est développé par des intégrateurs différents, il a fallu suivre les tutoriels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Le CMS wordpress est une site dynamique auquel on rajoute des modules pour personnaliser son site, comme par exemple un gestionnaire d'image, ou un module de forum.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

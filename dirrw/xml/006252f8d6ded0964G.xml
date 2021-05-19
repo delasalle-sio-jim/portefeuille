@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="52f8d6ded0964">
+    <ref>52f8d6ded0964</ref>
+    <datesv>2014-02-10</datesv>
+  </sauvegarde>
+  <etudiant numero="62">
+    <nom>RUAULT</nom>
+    <prenom>Yannick</prenom>
+    <mel>ruault.y@lyceedelasalle.fr</mel>
+    <situation ref="280">
+      <ref>280</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP programmation  en VB et en C#</libcourt>
+      <descriptif>- chaînes de caractères
+- débogage
+- structures itératives 
+- tableau à une et deux dimensions
+- Fonctions et Procédures</descriptif>
+      <contexte></contexte>
+      <datedebut>2011-10-03</datedebut>
+      <datefin>2012-12-21</datefin>
+      <environnement>Visual studio 
+langage : C# et VB </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Réparation de programme défectueux </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Amélioration de divers programmes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquette de la bataille naval </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement l'or des TP en VB, C#, et java. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Compte rendu de TP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Mode opératoire d'une application </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="534">
+      <ref>534</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Modification et création de pages en PHP et en HTML pour l'application GSB
+</descriptif>
+      <contexte>Entreprise galaxy swiss bourdin laboratoire dédié au service des pharmaciens</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Architecture client/serveur, PhpMyAdmin
+MySQL</environnement>
+      <moyen>SQL, PHP, HTML</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et prise en compte du contexte d'application : AppliFrais </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Gestion de deux types d'utilisateurs : Visiteur et Comptable
+(pas les mêmes droits d’accès)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Diagramme de gant et compte rendu de fin d'activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>C4.1.1.1 : notepad ++ , serv-wamp, MySql</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modification de l’espace visiteur et création de l’espace comptable</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>bdd, sql</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Pages déjà créées de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Document technique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="363">
+        <numero>363</numero>
+        <designation>document utilisateur</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpWVFjRW5PeGpyanc/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="677">
+      <ref>677</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Modification annuaire utilisateurs de l'entreprise PASQUIER</libcourt>
+      <descriptif>stage au groupe Brioche PASQUIER, dans l'équipe Domino.
+Cette équipe gère les problème liée au logiciel de gestion documentaire collaboratif de l'entreprise, aussi bien du coté utilisateur que du côté administration.
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>serveurs virtualisés sur BLADE CENTER sous Windows server 2008
+Technologie RDP (Remote Desktop Protocol) et CITRIX
+Gestion de BDD sur AS400 IBM et gestion documentaire sous Lotus Notes  </environnement>
+      <moyen>Lotus Notes Administrator et designer</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>22</numero>
+        <commentaire>concernant la situation : ce que tu as mis en description correspond au contexte (lieu) du stage tu peux parler éégalement des différents services où tu as travaillé. le description correspond à la présentation de ton projet.</commentaire>
+        <datecommentaire>2013-06-21</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>23</numero>
+        <commentaire>pour chaque activité sélectionnée, tu dois avoir une preuve (url de production)</commentaire>
+        <datecommentaire>2013-06-21</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>24</numero>
+        <commentaire>activité A111 : changement de libellés des utilisateurs : à préciser c'est trop vaque</commentaire>
+        <datecommentaire>2013-06-21</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>25</numero>
+        <commentaire>fautes d'orthographe à divers endroits : leurs droit sans s, les droits sans s, a au lieu de à, de jour en jour et non jours en jours, Excel et non Exel, A211 aux différents problèmes.... à au, </commentaire>
+        <datecommentaire>2013-06-21</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charge et prise en compte du contexte d'application : changement d'UO des utilisateurs, à cause d'un changement de nom des site de production de PSQUIER. 
+ex: yannick ruault/BPC/PASQUIER/FR devient yannick ruault/BPCX/PASQUIER/FR</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Comprendre les effets du changement de libellé des utilisateurs pour voir les répercutions sur leurs droit d’accès aux documents  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Vérifier que le changement de libellé s'est passé de manière transparente pour l'utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Risque de problèmes sur les droit d’accès sur les document et sur les marqueurs de &quot;lus/non lus&quot; dans la base mail des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Jeu de test sur mon propre profil, migration sur quelques individus les premiers temps et augmentation du volume des utilisateurs par la suite.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>S'assurer que les utilisateurs peuvent continuer leur travail sans effets secondaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Informer les utilisateur par mail du nouveau changement de leur libellé et des risques de problème du a cette recertification</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Augmentation des migrations de jour en jour pour atteindre les 1700 en fin de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'un diagramme de GANTT et compte rendu de l'avancement du changement de libellé des utilisateurs sous forme de fichier Exel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aide au différents problème qui peuvent intervenir à cause du changement de libellé des utilisateurs en réponse à au mail   </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Demande par mail envoyée aux utilisateurs du bon fonctionnement de leur espace de travail après le renommage </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résolution d'incidents en relançant des requêtes serveur ou en créant des agents en &quot;Lotus script&quot;  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Prise en main à distance sur les postes des utilisateurs ayant des difficultés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Présentation des documents inappropriée sur certaines bases.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Extraction des erreurs au sein de la log, et agent pour pouvoir les traiter en masse.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>création d'un agent pour automatiser un problème lier au renommage </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Duplication des bases ayant des défauts, sur pc en local pour test de correctif</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Procédure de migration pour les cas restant et tableau de synthèse sous exel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Test du scipt de correction sur les bases ayant des défauts, avec une soixantaine de documents contre 9000 en prod.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Procédure de migration pour les cas restant et tableau de synthèse sous exel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude et approche du logiciel de gestion documentaire collaboratif &quot;Lotus Notes&quot; et de ses logiciel complémentaire : &quot;Domino admin&quot; et &quot;Domino designer&quot;</commentaireactivite>
+      </activitecitee>
+      <production numero="487">
+        <numero>487</numero>
+        <designation>Synopsis des objets Lotus Notes</designation>
+        <adresse>http://www-12.lotus.com/ldd/doc/uafiles.nsf/docs/designer65poster/</adresse>
+      </production>
+      <production numero="488">
+        <numero>488</numero>
+        <designation>Diagramme de GANTT</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpYmk3alphNEJBTXc/edit</adresse>
+      </production>
+      <production numero="489">
+        <numero>489</numero>
+        <designation>Compte rendu hebdomadaire - 1ère semaine</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpemNudEJmcUJ4Y0E/edit</adresse>
+      </production>
+      <production numero="490">
+        <numero>490</numero>
+        <designation>Compte rendu hebdomadaire - 2nd semaine</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpRE5yeUIwOEFZcms/edit</adresse>
+      </production>
+      <production numero="491">
+        <numero>491</numero>
+        <designation>Compte rendu hebdomadaire - 3ème semaine</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpZFdyTHFwb2oySXc/edit</adresse>
+      </production>
+      <production numero="492">
+        <numero>492</numero>
+        <designation>Compte rendu hebdomadaire - 4ème semaine</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpZUxBQUlUdFlaSnc/edit</adresse>
+      </production>
+      <production numero="495">
+        <numero>495</numero>
+        <designation>Attestation de stage</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpRm9RZkkzbnN5OTQ/edit</adresse>
+      </production>
+      <production numero="500">
+        <numero>500</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpTDF2aHNYTzg5c2s/edit</adresse>
+      </production>
+      <production numero="501">
+        <numero>501</numero>
+        <designation>Annexe : Tableau récapitulatif des certifications</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpdkFyckN4TGdka2c/edit</adresse>
+      </production>
+      <production numero="502">
+        <numero>502</numero>
+        <designation>Compte rendu hebdomadaire - 5ème semaine</designation>
+        <adresse>https://docs.google.com/file/d/0BwmfpoKCvfjpRVhEdlNOYzd4SEk/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="803">
+      <ref>803</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création d'une application en c++</libcourt>
+      <descriptif>stage à CIDELEC, dans l'équipe recherche et developpement.
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement>Réseau collaboratif</environnement>
+      <moyen>C++ Builder XE</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Réalisation d'un cahier des charges. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>j'ai créé plusieurs interface graphique, puis mon responsable à choisi le mieux adapter a la demande. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un cahier des charges complet. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Création de jeux d’essais. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test de l'application avec les jeux d'essais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Création d'un diagramme de GANTT.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Création d'un manuel utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Estimation des délai par le biais du diagramme de GANTT. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une interface graphique (maquette).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Création du cahier des charges interface.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Validation du cahier des charges interface et d'une maquette. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Environnement de développement sous C++Builder XE.
+Création de jeux d'essais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l'application du projet de A à Z. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Les jeux d'essais on permis ces tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'un cahier des charges ainsi que des cas d'utilisations. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Création d'une documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Création des jeux d'essais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Adaptation aux nouvelles demandes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Création de jeux d'essais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Le cahier des charges est fréquemment mis a jours en fonction des nouvelles demandes.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="804">
+      <ref>804</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique </libcourt>
+      <descriptif>Mise en place d'un site internet puis ajout d'articles et d'analyse d'article pour suivre la veille technologique </descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-07</datedebut>
+      <datefin>2014-08-01</datefin>
+      <environnement>Poste de travail au lycée et au domicil</environnement>
+      <moyen>NotePad++ et filezilla</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>création d'une base de donnée pour y stocker les articles de la veille technologique 
+
+utilisation de php pour l'affichage desarticles sur le site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Pour metre en place la veille technologique j'ai crée un site internet contenant des articles de presse, leurs analyses et leurs sources</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>des nouvelle competence en language web on été aborder en créant le site internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>La veile technologique porte sur les smartphone</commentaireactivite>
+      </activitecitee>
+      <production numero="519">
+        <numero>519</numero>
+        <designation>Site internet de la veille techno </designation>
+        <adresse>http://veilletech.webatu.com/</adresse>
+      </production>
+      <production numero="521">
+        <numero>521</numero>
+        <designation>Schéma relationnel</designation>
+        <adresse>https://drive.google.com/?urp=https://www.google.fr/_/chrome/newtab?espv%3D210%26ie%3D&amp;authuser=0#folders/0BwmfpoKCvfjpcG9YZ0gyZ3IzalE</adresse>
+      </production>
+      <production numero="522">
+        <numero>522</numero>
+        <designation>SQL de création de base de donnée</designation>
+        <adresse>https://drive.google.com/?urp=https://www.google.fr/_/chrome/newtab?espv%3D210%26ie%3D&amp;authuser=0#folders/0BwmfpoKCvfjpcG9YZ0gyZ3IzalE</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

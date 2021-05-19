@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fe80a1e8cb0a">
+    <ref>4fe80a1e8cb0a</ref>
+    <datesv>2012-06-25</datesv>
+  </sauvegarde>
+  <etudiant numero="15">
+    <nom>GORON</nom>
+    <prenom>Fabrice</prenom>
+    <mel>goron.fabrice@gmail.fr</mel>
+    <situation ref="46">
+      <ref>46</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>stage1</libcourt>
+      <descriptif> Configuration PPPoE et VPN de routeurs Cisco 1841 : la section étant équipé d'un DSLAM, nous cherchons à configurer nos routeurs Cisco 1841 en PPPoE pour se connecter à Internet via un modem adsl. Une fois cela fait, nous cherchons à mettre en place un </descriptif>
+      <contexte>situation réel entre le client et le FAI</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>bien comprendre le cahier des charges donnée par le tuteur, pour bien le respecter</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>quel sont les solutions pour installer l interface graphique sur le 1751, quel est sont coût, et si c est envisageable </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>testé chaque service qu'on vient de mettre en place pour le bon fonctionnement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>installation des services PPPoE, VPN, avec leur configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>la maquette est celle d un FAI et d'un client</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>partiellement juste avec le vpn et le PPPoE</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation de l'interface graphique, du PPPoE et du VPN sur les routeurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>procédure de remplacement pour le routeur 1751, non effectuer vue de l analyse</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>pas de mise a jour, mais plutôt création</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>problème de la version de java</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>pas de mise à jour mais plutôt une régression </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>la veille technologique par rapport a cisco a son matériel et ses logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>être en autonomie pour les recherche et mettre en oeuvre les solution trouvé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>documentation sur les routeurs, les logiciel</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="531f1ab8d6c73">
+    <ref>531f1ab8d6c73</ref>
+    <datesv>2014-03-11</datesv>
+  </sauvegarde>
+  <etudiant numero="42">
+    <nom>LORRE</nom>
+    <prenom>Alexandre</prenom>
+    <mel>lorre.a@lyceedelasalle.fr</mel>
+    <situation ref="196">
+      <ref>196</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Utilisation d'une base de données MySql, administration via PhpMyAdmin.
+Apprentissage de création, modification, suppression d'une table.
+Gestion des droits d'accès à une base de données.
+Création utilisateurs.</descriptif>
+      <contexte>Tp cours
+Dutoit</contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Création d'utilisateurs.
+Gestion des droits utilisateurs (formateurs, utilisateurs).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>création, modification, suppression d'une table de la base de données.</commentaireactivite>
+      </activitecitee>
+      <production numero="335">
+        <numero>335</numero>
+        <designation>Requêtes effectuées</designation>
+        <adresse>P:Mes documentsSI3SI3 - Dutoit</adresse>
+      </production>
+      <production numero="336">
+        <numero>336</numero>
+        <designation>Base de données</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/ puis dans dutoit26</adresse>
+      </production>
+    </situation>
+    <situation ref="234">
+      <ref>234</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Formiris, Soretal, InfoDev, Belle Saison</libcourt>
+      <descriptif>Gestion d'une base de donnée sous Access 2007 à l'aide du langage SQL.
+Créer, modifier, supprimer.
+Ajout, modification.</descriptif>
+      <contexte>Tp en majorité,Cours ,Devoirs</contexte>
+      <datedebut>2012-09-27</datedebut>
+      <datefin>2012-11-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.3 et C1.1.1.4 Non réalisées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="346">
+        <numero>346</numero>
+        <designation>Tp Formiris, Soretal, InfoDev, Belle Saison</designation>
+        <adresse>P:Mes documentsSI3...</adresse>
+      </production>
+      <production numero="350">
+        <numero>350</numero>
+        <designation>Base de données</designation>
+        <adresse>\SERV-WAMP1LesSitesSIO1_2012_2013Lorre...</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="246">
+      <ref>246</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Programmation</libcourt>
+      <descriptif>Utilisation de boucles
+Utilisation de tableaux à deux dimensions.
+Utilisation de Test unitaire</descriptif>
+      <contexte>TP cours (SI4 + Slame2)</contexte>
+      <datedebut>2012-09-10</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen>langages Visual Basic et C#</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>C2.3.1.4 et C2.3.1.5 non réalisées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="533">
+      <ref>533</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Adaptation d'une application pour permettre une gestion plus précise et uniforme au sein du laboratoire médicale.
+Création et modification de pages php...</descriptif>
+      <contexte>Projet laboratoire Bourdin</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>PowerAMC 16, NotePad++, PHP, HTML, SQL
+Architecture client/serveur sur wamp</environnement>
+      <moyen>Un poste.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Uniquement : C1.1.1.1, C1.1.1.2
+Elaboration d'un diagramme des cas d'utilisation, d'un schéma de la base de données, des règles de gestion.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Modification d'une base de données contenant : les comptables et les visiteurs médicaux, avec des droits différents pour les deux catégories  d'utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Entretien avec les membres de l'équipe, en début de séance et en fin de séance, pour définir les objectifs du jour et pour les objectifs réellement réalisés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Uniquement C4.1.1.2, Respect des délais.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification d'une base de données traitée grâce à des requêtes SQL.
+(ajout d'une colonne pour les comptables dans la table)</commentaireactivite>
+      </activitecitee>
+      <production numero="312">
+        <numero>312</numero>
+        <designation>Intranet du laboratoire Galaxy-Swiss Bourdin</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/LorreGuegan/cSeConnecter.php</adresse>
+      </production>
+      <production numero="330">
+        <numero>330</numero>
+        <designation>Cahier des charges (GSB-AppliFrais-Fiche Descriptive)</designation>
+        <adresse>\SERV-WAMP1LesSitesSIO1_2012_2013LorreGuegan</adresse>
+      </production>
+      <production numero="331">
+        <numero>331</numero>
+        <designation>Base de données</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/ puis dans gsb5</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="592">
+      <ref>592</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet la fleur</libcourt>
+      <descriptif>Réalisation d'un site internet.
+Affichage des produit, commande.</descriptif>
+      <contexte>Tp cours</contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="602">
+      <ref>602</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Guide d'utilisation &quot;Lycée&quot;</libcourt>
+      <descriptif>Rédaction d'un manuel d'utilisation pour l'application &quot;Lycée&quot;</descriptif>
+      <contexte>Devoir Personnel</contexte>
+      <datedebut>2013-02-15</datedebut>
+      <datefin>2013-03-04</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Création d'un guide d'utilisation pour l'application &quot;Lycée&quot;</commentaireactivite>
+      </activitecitee>
+      <production numero="345">
+        <numero>345</numero>
+        <designation>Mode opératoire Gestion Lycée Lorre Alexandre</designation>
+        <adresse>P:Mes documentsSlam2</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="603">
+      <ref>603</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Côte Emeraude</libcourt>
+      <descriptif>Proposition de réponse au cahier des charges sous forme de &quot;devis&quot;</descriptif>
+      <contexte>Devoir personnel</contexte>
+      <datedebut>2013-02-15</datedebut>
+      <datefin>2013-03-04</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.3 et C1.1.1.4 non réalisé
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recensement du matériel existant et proposition d'amélioration en conséquence.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="641">
+      <ref>641</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place de la veille technologique sur la vidéo à la demande (VOD.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-07</datedebut>
+      <datefin>2014-05-23</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="356">
+        <numero>356</numero>
+        <designation>La VoD</designation>
+        <adresse>P:Mes documents</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="711">
+      <ref>711</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Adaptation d'un site web (Stage 1)</libcourt>
+      <descriptif>Site intranet et extranet permettant de gérer plus facilement les clients, les demandes, les projets de la société.</descriptif>
+      <contexte>Axes et Sites, société de services spécialisée dans la création de sites, hébergement et formation.</contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Un ordinateur et un serveur local</environnement>
+      <moyen>Php, Html, Css, Javascript.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude du cahier des charges et identification des nouvelles fonctionnalités du site à développer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests fonctionnels permettant de vérifier le bon fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Effectué pour l'onglet utilisateur.
+Table user qui définit les droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Effectué en fin semaine.
+Compte rendu hebdomadaire, présentation du travail réalisé régulièrement à mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Effectué en fin de projet, à la fin du stage.
+Présentation de l’application et de son fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation de pages existantes et création de nouvelles pages.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Script originaux et requêtes sql.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Arborescence du site : Projet réalisé en difféents modules centrés sur un index par module.
+Même structure sur chaque page. (menu d'en tête)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur le site du zero.</commentaireactivite>
+      </activitecitee>
+      <production numero="470">
+        <numero>470</numero>
+        <designation>Pages php du site aes</designation>
+        <adresse>Bureau/Stage/Extranet</adresse>
+      </production>
+      <production numero="471">
+        <numero>471</numero>
+        <designation>Base de données aes</designation>
+        <adresse>Bureau/Stage</adresse>
+      </production>
+      <production numero="472">
+        <numero>472</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>Feuilles à numériser ...</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="813">
+      <ref>813</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Réalisation d'une interface graphique (Stage 2)</libcourt>
+      <descriptif>Projet web permettant de simuler une vitrine de pharmacie.</descriptif>
+      <contexte>SM Europe,société de distribution d'attelles médicales principalement, au sein d'une équipe informatique.</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement>Mon ordinateur</environnement>
+      <moyen>Php, Html, Javascript.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude du cahier des charges et identification des nouvelles fonctionnalités en fonction de l'évolution du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests fonctionnels permettant de vérifier le bon fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte rendu et présentation hebdomadaire du travail réalisé à mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création des pages du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données et des requêtes sql.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation des tutoriels et de la documentation de la librairie Fabric.js, tutoriels des sites w3schools et openclassrooms.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="825">
+      <ref>825</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Pharmacie</libcourt>
+      <descriptif>pharmacie</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-02-25</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du dossier fournis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Présentation du site de la pharmacie créé grâce à l'outil Giphar.</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

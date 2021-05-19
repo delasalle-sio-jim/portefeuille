@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="60704ec9e67a5">
+    <ref>60704ec9e67a5</ref>
+    <datesv>2021-04-09</datesv>
+  </sauvegarde>
+  <etudiant numero="287">
+    <nom>Le Normand</nom>
+    <prenom>Xavier</prenom>
+    <mel>delasalle.sio.lenormand.x@gmail.com</mel>
+    <situation ref="3165">
+      <ref>3165</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SI3_Dutoit</libcourt>
+      <descriptif>Création et extension de la base de données Dutoit.
+Puis extension du site dynamique.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables. </contexte>
+      <datedebut>2019-11-05</datedebut>
+      <datefin>2019-11-19</datefin>
+      <environnement>serveur-wamp, PhpMyAdmin, SGBDR MySQL, langage SQL </environnement>
+      <moyen>langage HTML5, Php5 ou 7, Javasript, CSS, bootstrap, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySql (serv-wamp1) , Faire l'extension de la base de données initiale, modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="3147">
+        <numero>3147</numero>
+        <designation>TP9-Dutoit</designation>
+        <adresse>https://drive.google.com/file/d/1j5iGQuz9B4nAaKr6lQpbdUJCWrelAQ57/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3211">
+      <ref>3211</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE_Valres</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles puis rédaction d'un document utilisateur.</descriptif>
+      <contexte>Maison des ligues de Lorraines (M2L)</contexte>
+      <datedebut>2019-11-26</datedebut>
+      <datefin>2019-12-17</datefin>
+      <environnement>Architecte client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, PHPMyAdmin, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service. Tester le service et rédiger le rapport de test (compte-rendu).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données sous MySQL sur le serveur ser-wamp1.
+Manipuler les données à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="3462">
+        <numero>3462</numero>
+        <designation>Mode opératoire</designation>
+        <adresse>https://drive.google.com/file/d/1h23cy25OL9JFbA8mGGHpM94CXeENFnaF/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3264">
+      <ref>3264</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2.3 Isole_WIFI</libcourt>
+      <descriptif>-On souhaite une présentation complète de la réalisation de la séparation du réseau sans fil par rapport au réseau actuel de la M2L.
+-Il faut également proposer une maquette permettant de mettre en œuvre la solution technique proposé.
+-Mise en applicati</descriptif>
+      <contexte>Maison des ligues de Lorraines (M2L)</contexte>
+      <datedebut>2020-01-21</datedebut>
+      <datefin>2020-02-04</datefin>
+      <environnement>-Cisco Packet Tracer
+-Internet 
+-Trello
+-Doc technique LinkSys</environnement>
+      <moyen>-Cisco Packet Tracer
+-Internet 
+-Trello
+-Doc technique LinkSys</moyen>
+      <avisperso>Difficulté sur la mise en place d'un réseau sans fil. Surtout accéder a l’interface du point d'accès LykSys (via un navigateur) , configuration relativement simple.</avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un dossier technique expliquant la solution d’isolation du réseau retenue.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un dossier technique expliquant la solution d’isolation du réseau retenue.
+Mise en place d'une maquette virtuel et prototypage sur du matériel physique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Rédaction d'une documentation EDM sensibilisant aux risques du WIFI en entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'un Trello permettant la répartition des tâches, 
+avec un travail en équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Rédaction d'un mode opératoire permettant de guider les utilisateurs afin de se connecter au réseau sans fil de la M2L.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquettage et prototypage de la solution technique.</commentaireactivite>
+      </activitecitee>
+      <production numero="3263">
+        <numero>3263</numero>
+        <designation>Trello</designation>
+        <adresse>https://trello.com/b/PxJ5J8OT/mission-3-isolewifi</adresse>
+      </production>
+      <production numero="3264">
+        <numero>3264</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://drive.google.com/open?id=1dqUFLZW8kb8UETBHSjFWIoiOJXFh35fY</adresse>
+      </production>
+      <production numero="3265">
+        <numero>3265</numero>
+        <designation>Documentation EDM</designation>
+        <adresse>https://drive.google.com/file/d/16bmUuI0jrbk2TzlcmyukpTtPEl44b9uy/view?usp=sharing</adresse>
+      </production>
+      <production numero="3266">
+        <numero>3266</numero>
+        <designation>Mode opératoire version FR</designation>
+        <adresse>https://drive.google.com/file/d/1iUYcVmnwIQM4CnJC1aKEKbeHWtm2Hkyo/view?usp=sharing</adresse>
+      </production>
+      <production numero="3267">
+        <numero>3267</numero>
+        <designation>Mode opératoire version EN</designation>
+        <adresse>https://drive.google.com/file/d/1VDQbu30SA9QfEt17XsAQ6K-ZgcNcM5nZ/view</adresse>
+      </production>
+      <production numero="3485">
+        <numero>3485</numero>
+        <designation>Intitulé de mission page 1</designation>
+        <adresse>https://drive.google.com/file/d/1LJ7seA2o7-RSCJBayuYtYiJIbFefe19j/view?usp=sharing</adresse>
+      </production>
+      <production numero="3486">
+        <numero>3486</numero>
+        <designation>Intitulé de mission page 2</designation>
+        <adresse>https://drive.google.com/file/d/1nfpAKu6YJvdEyOeYee62ZigQuVIK8mmU/view?usp=sharing</adresse>
+      </production>
+      <production numero="3492">
+        <numero>3492</numero>
+        <designation>Diaporama de pré-réalisation</designation>
+        <adresse>https://docs.google.com/presentation/d/1TOMMkK_q8brfXknWLb0qEzfrlbFV5eNck9NU8U8rt8A/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3497">
+        <numero>3497</numero>
+        <designation>maquette PT</designation>
+        <adresse>https://drive.google.com/file/d/1BwpD1or5m5mI-AU54-aekibu_HKpbA_r/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3304">
+      <ref>3304</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2.4 Data save</libcourt>
+      <descriptif>Installation de solutions de sauvegardes en version interne et externe.
+Recherche d'une solution en externe , choix et comparaison des solutions , puis on choisira One Drive.
+Recherche d'une solution en interne , choix et comparaison de solutions , pu</descriptif>
+      <contexte>Installation d'un système de sauvegarde automatisé des données des utilisateurs de la M2L (Maison des ligues de Lorraines)</contexte>
+      <datedebut>2020-02-25</datedebut>
+      <datefin>2020-03-10</datefin>
+      <environnement>One Drive , FreeNAS , VirtualBox , solutions non retenue (Google Drive , Box...)</environnement>
+      <moyen>Organisation et répartition des tâches , travail en équipe </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse de solutions en externes et en interne dans le but de mettre en place une solution externe et interne. (One drive et FreeNAS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un dossier technique présentant les spécificités techniques de One Drive et FreeNAS (chiffrement, cout , stockage, utilisation...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un dossier technique présentant les spécificités techniques de One Drive et FreeNAS (chiffrement, cout , stockage, utilisation...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Notions EDM 1 Obligation de sécuriser les données numériques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail en équipe 
+Répartition des tâches sur un trello.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Documentation et installations de OneDrive et de FreeNas (sur une VM), rédaction d'un dossier technique de choix de solutions.</commentaireactivite>
+      </activitecitee>
+      <production numero="3311">
+        <numero>3311</numero>
+        <designation>Trello</designation>
+        <adresse>https://drive.google.com/file/d/1p7i05H7PDZlDw7wJtnhjIoD0-AHJbvLt/view?usp=sharing</adresse>
+      </production>
+      <production numero="3312">
+        <numero>3312</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://docs.google.com/document/d/1g014ZK0ILA007IGJQvjsbv3Cnm8X-nl1jXaXZpixIpk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3313">
+        <numero>3313</numero>
+        <designation>Documentation EDM 1 (Obligation de sécuriser les données numériques)</designation>
+        <adresse>https://docs.google.com/document/d/1_aoIE6ZcpaucNEVmAa9Mc1WlI_xbybW80-Pn8Kqe6a4/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3483">
+        <numero>3483</numero>
+        <designation>Documenation EDM 2 (Le système d'information et les risques organisationnels)</designation>
+        <adresse>https://docs.google.com/document/d/1ZmRCsTm7Z9YR8aew6AsYVbs8Kt6Qkp6gQ1aCaJsLDYA/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3484">
+        <numero>3484</numero>
+        <designation>Mode opératoire de OneDrive</designation>
+        <adresse>https://drive.google.com/file/d/1sf0H4GKjiyAoXuLtFNXMit3GQqdjPS5M/view?usp=sharing</adresse>
+      </production>
+      <production numero="3487">
+        <numero>3487</numero>
+        <designation>Intitulé de mission page 1</designation>
+        <adresse>https://drive.google.com/file/d/1R6JSpion38J8RNgXc8KIBxAoJg7gyyk6/view?usp=sharing</adresse>
+      </production>
+      <production numero="3488">
+        <numero>3488</numero>
+        <designation>Intitulé de mission page 2</designation>
+        <adresse>https://drive.google.com/file/d/1pD7x2wuflF5Qw6-NeTiwLGur0FHqHKx-/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3309">
+      <ref>3309</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE 2.8 GEST_IP</libcourt>
+      <descriptif>Proposition et installation d’une solution de gestion du plan d’adressage de l’infrastructure de la M2L afin d’accompagner l’administrateur réseau.
+
+1. Présentation d’un comparatif des 3 solutions testées.
+2. Tests des 3 solutions proposées.
+3. Sélect</descriptif>
+      <contexte>Installation d’une solution de gestion de plan d’adressage IP de la Maison des ligues de Lorraine.</contexte>
+      <datedebut>2020-03-10</datedebut>
+      <datefin>2020-03-24</datefin>
+      <environnement>WampServer , VirtualBox , Windows 10 pro , Windows Server 2016 , Windows 10 Client.</environnement>
+      <moyen>Windows 10 pro , Windows Server 2016 , Windows 10 Client.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Déterminer quel besoins sont nécessaires via l'installation de tel ou tel logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un dossier technique pour exposer les solutions techniques retenues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Description des solutions adoptées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à un projet avec un tableau d'avancement sur trello.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Mode opératoire sur TeemIP pour accompagner les utilisateurs dans l'installation et l'utilisation du logiciel</commentaireactivite>
+      </activitecitee>
+      <production numero="3317">
+        <numero>3317</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://docs.google.com/document/d/1-Aw68V0gXb8lG-cLhcjywpTdT143nrm5LAuxs_ccseY/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3318">
+        <numero>3318</numero>
+        <designation>Trello</designation>
+        <adresse>https://trello.com/b/z1xBlOw1/ppe-28-gestip</adresse>
+      </production>
+      <production numero="3489">
+        <numero>3489</numero>
+        <designation>Intitulé de mission </designation>
+        <adresse>https://drive.google.com/file/d/1fnT_KHHug_cybiJ9d8UiSyTNUaXoKLyX/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3310">
+      <ref>3310</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE 2.10 REPA_ROUTEUR</libcourt>
+      <descriptif>Réparation d'un routeur en mode rommon, installation du nouvel IOS par serveur TFTP (Trivial FTP donc simplifié).</descriptif>
+      <contexte>Réparation du routeur de la salle de formation de la M2L</contexte>
+      <datedebut>2020-03-31</datedebut>
+      <datefin>2020-03-31</datefin>
+      <environnement>Cisco Packet Tracer et Internet :
+
+https://www.fingerinthenet.com/ios-rommon/
+https://www.youtube.com/watch?v=WhNS9DMYr7E
+</environnement>
+      <moyen>Maquette sur Packet Tracer, Protocole TFTP, configuration en mode remmon sur routeur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Préparation d'un petit dossier technique parlant de la solution choisie et de sa mise en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Préparation d'un petit dossier technique parlant de la solution choisie et de sa mise en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Réparation d'un routeur CISCO en mode rommon.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Réparation d'un routeur CISCO en mode rommon. 
+Remplissage de la fiche d'intervention d'incident.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquette packet tracer fourni, élaboration et application d'une solution </commentaireactivite>
+      </activitecitee>
+      <production numero="3319">
+        <numero>3319</numero>
+        <designation>Rapport d'intervation et recette de solution</designation>
+        <adresse>https://drive.google.com/file/d/1lVc6wU8m2UsicMbguVe9rALGtgYfOvKY/view?usp=sharing</adresse>
+      </production>
+      <production numero="3320">
+        <numero>3320</numero>
+        <designation>Fiche d'intervention d'incident</designation>
+        <adresse>https://drive.google.com/file/d/1wZ79t5dp2Ocz2xq8Pe5Zs58_Cv1J9_kx/view?usp=sharing</adresse>
+      </production>
+      <production numero="3490">
+        <numero>3490</numero>
+        <designation>Intitulé de mission </designation>
+        <adresse>https://drive.google.com/file/d/1pr77o4W8t9_UcStoV61jRyXV93c-f3aR/view?usp=sharing</adresse>
+      </production>
+      <production numero="3496">
+        <numero>3496</numero>
+        <designation>maquette PT</designation>
+        <adresse>https://drive.google.com/file/d/14jFLDUMHL4VZ_5nlmYhlxKQZMnP2_8aY/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3420">
+      <ref>3420</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE 2.12 FANS_ZONE_EURO_2021 </libcourt>
+      <descriptif>Couverture wifi de la FANS ZONE de la ville de Rennes.
+
+Il s'agit de réfléchir à une infrastructure réseau capable d’accueillir 1000 personnes quotidiennement. </descriptif>
+      <contexte>Il s'agit de concevoir et prototyper l'informatique nomade liée à une manifestation sportive.</contexte>
+      <datedebut>2020-05-26</datedebut>
+      <datefin>2020-06-23</datefin>
+      <environnement>Draw.io et  Cisco PT pour le travail
+LDLC, TopAchat et Amazon pour le devis mtériel
+ITConnect en cas de besoin pour la configuration d'élements actifs de niveau 2  et 3.</environnement>
+      <moyen>Schéma Réseau
+Devis matériel
+Maquettage</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du CDC, début de la mise en forme du projet et premières solutions. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un plan d'adressage, mise en forme d'un schéma réseau et d'une maquette PT, Devis matériel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place de 5 points d'accès sans fil sécurisé avec configuration VLAN + Protocole Radius.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Répartition des tâches sur trello. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>A partir d'un CDC, mettre en pratique pour pouvoir trouver des solutions adéquates et pertinentes au problèmes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquette complète de l'infrastrucure sur cisco PT</commentaireactivite>
+      </activitecitee>
+      <production numero="3444">
+        <numero>3444</numero>
+        <designation>Devis matériel</designation>
+        <adresse>https://docs.google.com/document/d/1Z9zs-w-fR2qhTnDZRBEisaujirJoBW5ZXbo3zdiV8bw/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3445">
+        <numero>3445</numero>
+        <designation>Trello</designation>
+        <adresse>https://trello.com/b/7jDDuuWR/212-fans-zone-euro-2020</adresse>
+      </production>
+      <production numero="3447">
+        <numero>3447</numero>
+        <designation>Plan d'adressage</designation>
+        <adresse>https://docs.google.com/document/d/1xiaRpYhty5bzu56tQjclAGpTZAs0XfybOjlTLoJcXcY/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3448">
+        <numero>3448</numero>
+        <designation>Réformultaion du CDC </designation>
+        <adresse>https://docs.google.com/document/d/1UZ94-B5mQkNjVPdR9GtnVZEheSzXymKEyuzWiNIIy4k/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3491">
+        <numero>3491</numero>
+        <designation>Intitulé de mission</designation>
+        <adresse>https://drive.google.com/file/d/1viAY2VWEcgkb4RQiqIyrZwIcJhB6Hlr1/view?usp=sharing</adresse>
+      </production>
+      <production numero="3493">
+        <numero>3493</numero>
+        <designation>Mode opératoire connexion au réseau sans fil version FR (copie de la mission 2.3 ISOLE_WIFI)</designation>
+        <adresse>https://drive.google.com/file/d/1oaqS638WZXG5_wVteKrfdUAX8m_unkHV/view</adresse>
+      </production>
+      <production numero="3494">
+        <numero>3494</numero>
+        <designation>Mode opératoire connexion au réseau sans fil version EN (copie de la mission 2.3 ISOLE_WIFI)</designation>
+        <adresse>https://drive.google.com/file/d/15v1ia_Kq9daa5bIz9NQ7iehFMto0AT8X/view</adresse>
+      </production>
+      <production numero="3498">
+        <numero>3498</numero>
+        <designation>schéma réseau </designation>
+        <adresse>https://drive.google.com/file/d/11oG9nDyS8gkrJYVaeoD8sUw-nimY793o/view?usp=sharing</adresse>
+      </production>
+      <production numero="3499">
+        <numero>3499</numero>
+        <designation>schéma maquette PT</designation>
+        <adresse>https://drive.google.com/file/d/1U3zasyQHsPA7Psbq_KoXzPGu34Ug3vQK/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3456">
+      <ref>3456</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SI6-Site web marchand</libcourt>
+      <descriptif>La société jeuxpascher.com souhaitait un site e-commerce pour promouvoir ses jeux vidéos et permettre aux internautes de passer commande.</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-06-12</datedebut>
+      <datefin>2020-06-25</datefin>
+      <environnement>Wamp Server, PhpMyAdmin, SGBDR MySQL, langage SQL </environnement>
+      <moyen>Langage PHP, HTML, CSS, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité pour la version 0 en visio et la version 1 à l'aide d'un document.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette de la solution applicative en fonction des produits de la société.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD (MySQL).
+Manipuler les données liées à la solution applicative à travers un langage de requête. </commentaireactivite>
+      </activitecitee>
+      <production numero="3480">
+        <numero>3480</numero>
+        <designation>Compte rendu version 1</designation>
+        <adresse>https://drive.google.com/file/d/11WYLz26PFQQGWUM6xUE8eU7K3ylNc4WL/view?usp=sharing</adresse>
+      </production>
+      <production numero="3481">
+        <numero>3481</numero>
+        <designation>Contenu et organisation  du site WEB</designation>
+        <adresse>https://docs.google.com/document/d/1Amhk_S3L28ZOnD69akw7qAEL68OKX7TTiTE9i4ah6k0/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3482">
+        <numero>3482</numero>
+        <designation>Page d'accueil</designation>
+        <adresse>https://drive.google.com/file/d/1SDFxugXrfn8AAXmi_7Fs5aSSYaa443a4/view?usp=sharing</adresse>
+      </production>
+      <production numero="3495">
+        <numero>3495</numero>
+        <designation>Arborescence</designation>
+        <adresse>https://drive.google.com/file/d/162vGwBABLRtvGgTII-ZxTNigAVgt_t04/view?usp=sharing</adresse>
+      </production>
+      <production numero="3725">
+        <numero>3725</numero>
+        <designation>Compte rendu réunion</designation>
+        <adresse>https://docs.google.com/document/d/1krhzCLnBuPbh1z6eYwhyMKZm5TuKwMLe2HgEj63gExo/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3457">
+      <ref>3457</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SISR1-W10-Contrôle à distance</libcourt>
+      <descriptif>L'objet de la mission est prendre le contrôle à distance d'un poste utilisateur sous le système d'exploitation Windows 10.
+La prise de contrôle à distance permet de :
+- Dépanner le PC à distance
+- Assister un utilisateur à distance
+ 
+1. Rédiger la</descriptif>
+      <contexte>Vous êtes technicien informatique dans la société DLS.
+Vous travaillez au service &quot;Systèmes et Réseaux&quot;.
+ 
+Vous utiliserez vos 2 machines virtuelles Windows 10 pour faire cette mission.</contexte>
+      <datedebut>2020-06-18</datedebut>
+      <datefin>2020-06-18</datefin>
+      <environnement>TeamViewer 15, VirtualBox, Windows 10 </environnement>
+      <moyen></moyen>
+      <avisperso>Remplace le PPE télétravail que je pouvais pas  faire</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Rédactions es procédures d'utilisations pour guider les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Mise en place d'une documentation dans le but d'accompagner les utilisateurs dans la prise en main d'un  logiciel.</commentaireactivite>
+      </activitecitee>
+      <production numero="3500">
+        <numero>3500</numero>
+        <designation>Présentation de mission</designation>
+        <adresse>https://drive.google.com/file/d/1G0cgo7ARkaxTMSoAgFdmA4L0W7Coac-K/view?usp=sharing</adresse>
+      </production>
+      <production numero="3501">
+        <numero>3501</numero>
+        <designation>Procédure d'installation</designation>
+        <adresse>https://drive.google.com/file/d/10LRaSpS9OZrJvzfuSycIwbtZwXOEFaXL/view?usp=sharing</adresse>
+      </production>
+      <production numero="3502">
+        <numero>3502</numero>
+        <designation>Procédure d'utilisation</designation>
+        <adresse>https://drive.google.com/file/d/14oCyYna8mPrL5UWCzUoCy_1sA7KMebrU/view?usp=sharing</adresse>
+      </production>
+      <production numero="3503">
+        <numero>3503</numero>
+        <designation>Rapport de test</designation>
+        <adresse>https://drive.google.com/file/d/1BZEmPbQwUErfln46qoqMb-hJUsGgVkib/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3458">
+      <ref>3458</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SISR2-DLS SUP</libcourt>
+      <descriptif>En tant que futur technicien vous accompagnez la mise à jour du réseau du lycée dans le cadre de la construction d'un nouveau bâtiment.
+</descriptif>
+      <contexte>Le pôle supérieur du lycée est composés de 5 BTS et d'une CPGE regroupant environ 500 étudiants.</contexte>
+      <datedebut>2020-01-13</datedebut>
+      <datefin>2020-06-26</datefin>
+      <environnement>Cisco PT pour l'élaboration des maquettes.
+
+Internet en particulier IT Connect en cas de besoin pour la configuration Telnet/SSH/DHCP/Commutateur L3.
+ </environnement>
+      <moyen>Cisco PT</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des exigences pour fournir une infrastructure fonctionnelle et optimisé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Analyse du cahier des charges de DLS SUP, élaboration de documents répondants aux exigences attendues. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>=&gt; adaptation d'une solution existante 
+
+Élaboration d'un dossier technique avec devis matériel, plan d'adressage et maquettes avec des variantes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place d'une extension de réseau pour la société DLS.
+Rédaction de la documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Extension du réseau informatique DLS avec construction d'un nouveau bâtiment.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Mission 3 et 4, mise en place de la séparation logique et optimisation avec commutateur L3.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Élaboration de maquettes PT avec différentes versions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Élaboration de maquettes PT avec différentes versions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Mise en place des éléments actifs de niveau 2 et 3 ainsi que leurs configurations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Mission 3 et 4, mise en place de la séparation logique et optimisation avec commutateur L3.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Rédaction de la documentation technique. Modifications et adaptations des solutions dans les missions 3 et 4.</commentaireactivite>
+      </activitecitee>
+      <production numero="3504">
+        <numero>3504</numero>
+        <designation>Mission 1 : Intitulé</designation>
+        <adresse>https://drive.google.com/file/d/1ZZl5-jqX2OhVNB9hduOpDEuXt32TREn1/view?usp=sharing</adresse>
+      </production>
+      <production numero="3505">
+        <numero>3505</numero>
+        <designation>Mission 1 : Document réponse avec devis matériel</designation>
+        <adresse>https://docs.google.com/document/d/1mQgMhUfxKrL_e1QS4BxAOot8al3JD0nPxqDi0jONIBs/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3506">
+        <numero>3506</numero>
+        <designation>Mission 2 :  Document réponse PARTIE 1/3</designation>
+        <adresse>https://drive.google.com/file/d/1q5Ix5c_8b6fbjqEUce9mTf9fLDvbYIp7/view?usp=sharing</adresse>
+      </production>
+      <production numero="3507">
+        <numero>3507</numero>
+        <designation>Mission 2 : Document réponse PARTIE 2/3</designation>
+        <adresse>https://drive.google.com/file/d/1IWFOp-8c872bX5qjfJj0N5cVeqtv-fG8/view?usp=sharing</adresse>
+      </production>
+      <production numero="3508">
+        <numero>3508</numero>
+        <designation>Mission 2 :  Document réponse PARTIE 3/3</designation>
+        <adresse>https://drive.google.com/file/d/12GXbt3TCAnMS6lQjGbCa11UwJjcFJLx7/view?usp=sharing</adresse>
+      </production>
+      <production numero="3509">
+        <numero>3509</numero>
+        <designation>Mission 2 :  Intitulé PARTIE 1/3</designation>
+        <adresse>https://drive.google.com/file/d/10FTKkPvimUzkwY0c1H8IIQ2lMSe4mnU7/view?usp=sharing</adresse>
+      </production>
+      <production numero="3510">
+        <numero>3510</numero>
+        <designation>Mission 2 :  Intitulé PARTIE 2/3</designation>
+        <adresse>https://drive.google.com/file/d/1SP43J-M_Ql_FaCQ87YqNYIsYmy07M3Km/view?usp=sharing</adresse>
+      </production>
+      <production numero="3511">
+        <numero>3511</numero>
+        <designation>Mission 2 :  Intitulé PARTIE 3/3</designation>
+        <adresse>https://drive.google.com/file/d/1BJZTZgsrdW5DMt6qaT5nhzSmgWqrpkL-/view?usp=sharing</adresse>
+      </production>
+      <production numero="3512">
+        <numero>3512</numero>
+        <designation>Mission 3 : Intitulé</designation>
+        <adresse>https://drive.google.com/file/d/1AJ7BXFtRDBF_UU4C5Bgdprws_DRZpBHZ/view?usp=sharing</adresse>
+      </production>
+      <production numero="3513">
+        <numero>3513</numero>
+        <designation> Mission 3 : Mini-dossier avec document réponse</designation>
+        <adresse>https://drive.google.com/file/d/1Ig0bb-gApWEVCDRN66x2gZpGw5dMg1EG/view?usp=sharing</adresse>
+      </production>
+      <production numero="3529">
+        <numero>3529</numero>
+        <designation> Mission 3 : Configuration de la maquette</designation>
+        <adresse>https://drive.google.com/file/d/1A9sFZKF7RCtFhYZzburjpjbaFDaeiLS3/view?usp=sharing</adresse>
+      </production>
+      <production numero="3530">
+        <numero>3530</numero>
+        <designation> Mission 4 : Intitulé</designation>
+        <adresse>https://drive.google.com/file/d/1DgAwKaDGLf_GABX_A84Sk8S4TOwBJo70/view?usp=sharing</adresse>
+      </production>
+      <production numero="3531">
+        <numero>3531</numero>
+        <designation>Mission 4  : Configuration technique</designation>
+        <adresse>https://docs.google.com/document/d/1N_otI33Whqvrcd_Kce8GZxAP2uVGp8Tz4hO2uE1cHZE/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3459">
+      <ref>3459</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SISR1-Contexte 1 Inventaire mini parc</libcourt>
+      <descriptif>Vous devez inventorier le matériel de votre parc informatique.
+Vous élaborez un modèle de fiche d’inventaire, des fiches d'inventaire pour chaque machine, le schéma de la topologie et le plan d’adressage de votre réseau.</descriptif>
+      <contexte>Vous êtes administrateur du parc informatique de la société PIXEL.
+Sur la demande de votre DSI, vous devez renouveler les postes de travail des utilisateurs, les actifs, ainsi que le câblage (câblage existant obsolète) de la société.
+</contexte>
+      <datedebut>2020-04-02</datedebut>
+      <datefin>2020-04-16</datefin>
+      <environnement>Draw.io pour le schéma réseau
+Speecy,MaConfig.com (DriverClound) et SIW trial edition pour les logiciels d'inventaire.</environnement>
+      <moyen>VirtualBox avec 2 machines virtuelles sous Win10 pro et un serveur sous WinServ édition 2016.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cf mise en contexte
+
+On souhaite avoir un logiciel d'inventaire manuel pour notre parc informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Dossier technique complet avec mode opératoire, fiche d'installation et de configuration des STA.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Modes opératoires des solutions retenue.
+Comparaison de solutions parmi une dizaine proposés.
+Élaboration de plusieurs fiches d'inventaires.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place d'un nouveau système de gestion d'inventaire par logiciel au lieu d'avoir à chercher les informations un peu partout.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Installation et utilisation du logiciel d’inventaire speecy permettant d'inventorier le matériel du parc informatique. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Modes opératoires de 3 solutions de logiciels d'inventaires informatiques (non automatisé).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Mise en place d'un nouveau système de gestion d'inventaire par logiciel informatique, au lieu d'avoir à chercher les informations à la main (panneau de configuration,paramètres systèmes,BIOS...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Schéma réseau de la société PIXEL avec détail du câblage.  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de plusieurs logiciels d'inventaires manuels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Utilisation d'un logiciel dans le but de collecter des  informations sur le matériel informatique utilisé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Faire un inventaire complet à l'aide des différents logiciels proposés et dresser le bilan (machines obsolètes,modifications à apporter, amélioration d’infrastructure...).</commentaireactivite>
+      </activitecitee>
+      <production numero="3514">
+        <numero>3514</numero>
+        <designation>Intitulé de mission</designation>
+        <adresse>https://drive.google.com/file/d/1AXOJM2lIXbnfj3s1-0Gcm6CkCmR1IQGq/view?usp=sharing</adresse>
+      </production>
+      <production numero="3515">
+        <numero>3515</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://drive.google.com/file/d/156DTGiscNLT-9DMK5-UjH-UN-49uqpDM/view?usp=sharing</adresse>
+      </production>
+      <production numero="3516">
+        <numero>3516</numero>
+        <designation>Schéma réseau</designation>
+        <adresse>https://drive.google.com/file/d/1TX-kBm0VM6g7Dmy-acgagGl9d_pZ6LgF/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3515">
+      <ref>3515</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SIO2_PPE M2L</libcourt>
+      <descriptif>Le projet consiste à mettre en place une infrastructure de virtualisation de serveurs pour améliorer et sécuriser l'architecture système existante et remplacer la plupart des serveurs physiques actuels.</descriptif>
+      <contexte>Maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2020-09-15</datedebut>
+      <datefin>2021-07-04</datefin>
+      <environnement>VMWare esxi, Windows 10, Linux (Unbuntu, popOS), Windows server 2016, Cisco PT, Draw.IO</environnement>
+      <moyen>Virtualisation , hyperviseur, OS, routage, adressage, installation de VM</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du CDC de la M2L en prenant en compte les contraintes imposées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Prise en compte des risques et niveaux d'habilitation.
+Recensement du nombre de machines virtuelles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recensement du nombre de machines virtuelles et leurs spécificités techniques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Comparaison de solutions de serveurs physiques et d'hyperviseurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Prise en compte des exigences liés au CDC ainsi qu'au recherche de solutions adéquates.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Recensement des risques de ce projet avec deux niveaux de risques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Rédaction des rapports de tests fonctionnelles. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Prise en compte des risques et niveaux d'habilitation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Rédaction des rapports de tests fonctionnelles. 
+Tests fonctionnelles de la solution finale.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Achat de matériel supplémentaire, définition des risques, serveur de sauvegarde. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Monter une infrastructure complète et fonctionnelle pour la M2L.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement du réseau de machines virtuelles de la M2L</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail en équipe de deux personnes (Informaticien et chef de projet) et répartition des tâches sur un trello.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Recherche et comparatif de solution de serveurs physiques, prise en compte des critères du CDC et choix d'une solution;
+(idem pour la solution de virtualisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquettage du prototype de la solution sur Cisco PT</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Définition des niveaux d'habilitation et de sécurité d'accès à l’infrastructure de la M2L.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Mise en place de plusieurs VM avec différentes fonctions (routeurs, postes clients, serveurs spécifique)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour de la documentation tout au long du projet</commentaireactivite>
+      </activitecitee>
+      <production numero="3547">
+        <numero>3547</numero>
+        <designation>Cahier des charges (Support)</designation>
+        <adresse>https://drive.google.com/file/d/1GEilZLoA1msxiXJGIvh4dv4pMILDpGtu/view?usp=sharing</adresse>
+      </production>
+      <production numero="3548">
+        <numero>3548</numero>
+        <designation>Étape 1 : Planification du projet  / Trello, répartition des tâches</designation>
+        <adresse>https://drive.google.com/file/d/1oS2cgS55SagzC4KuvMPc2lKE_ILMMjUP/view?usp=sharing</adresse>
+      </production>
+      <production numero="3549">
+        <numero>3549</numero>
+        <designation>Gestion des ressources</designation>
+        <adresse>https://drive.google.com/file/d/1534wyWZzTmxYmFjodRcU6JnAvEBxTeje/view?usp=sharing</adresse>
+      </production>
+      <production numero="3550">
+        <numero>3550</numero>
+        <designation>Étape 2 : Analyse de la demande / Critères de qualité et de sécurité</designation>
+        <adresse>https://drive.google.com/file/d/18xpKV2wpHzWdkV0I-gbHPsqg_dEWxJ2J/view?usp=sharing</adresse>
+      </production>
+      <production numero="3551">
+        <numero>3551</numero>
+        <designation>Fonctionnalités du service de virtualisation</designation>
+        <adresse>https://drive.google.com/file/d/1q9Q1Tnb8okwWvQYSTLwzSFooFiaUVdTC/view?usp=sharing</adresse>
+      </production>
+      <production numero="3552">
+        <numero>3552</numero>
+        <designation>Liste serveurs à virtualiser</designation>
+        <adresse>https://drive.google.com/file/d/1SJeAvvLqS260ZDr3MaBKy--B-ERlEqi2/view?usp=sharing</adresse>
+      </production>
+      <production numero="3553">
+        <numero>3553</numero>
+        <designation>schéma UML</designation>
+        <adresse>https://drive.google.com/file/d/1CWBIxYYjtEQIRGTEIAGxNIMHZJMXwR7i/view?usp=sharing</adresse>
+      </production>
+      <production numero="3554">
+        <numero>3554</numero>
+        <designation>Étaper 3 : Choix d'une solution de virtualisation / Dossier de choix d'un serveur physique</designation>
+        <adresse>https://drive.google.com/file/d/199wA1RxIelCSecu3gJEr-cVktrPoXFWP/view?usp=sharing</adresse>
+      </production>
+      <production numero="3555">
+        <numero>3555</numero>
+        <designation>Dossier de choix de la solution logiciel</designation>
+        <adresse>https://drive.google.com/file/d/1YzH783KGqfWWPDbXktou1Bh8xKXsdR5X/view?usp=sharing</adresse>
+      </production>
+      <production numero="3556">
+        <numero>3556</numero>
+        <designation>Évaluation des risques liés à l’utilisation d’un service de virtualisation</designation>
+        <adresse>https://drive.google.com/file/d/1h6NnnVD1oQeIHXh2d_TyhjJHDlrjgjrp/view?usp=sharing</adresse>
+      </production>
+      <production numero="3557">
+        <numero>3557</numero>
+        <designation>Niveaux d'habilitations</designation>
+        <adresse>https://drive.google.com/file/d/1tcz3vX6gD99e9GTXcafDDj9gFCpRP_zL/view?usp=sharing</adresse>
+      </production>
+      <production numero="3558">
+        <numero>3558</numero>
+        <designation>Spécifications techniques de la solution retenue</designation>
+        <adresse>https://drive.google.com/file/d/1sLvl9JNjUsB9oaAHxgt8fjslub79nMm1/view?usp=sharing</adresse>
+      </production>
+      <production numero="3559">
+        <numero>3559</numero>
+        <designation>Tests nécessaires à la validation d’un service de virtualisation</designation>
+        <adresse>https://drive.google.com/file/d/1lBq6v5yJ5Ktmrr9xGOSXLyYbKdei-3wA/view?usp=sharing</adresse>
+      </production>
+      <production numero="3560">
+        <numero>3560</numero>
+        <designation>Étape 4 : Conception d'une solution d'infrastructure de virtualisation / Prise en compte du niveau de sécurité nécessaire à une infrastructure de virtualisation</designation>
+        <adresse>https://drive.google.com/file/d/19U_02cs2o-KwagElG3KnslwEqM6UzYXm/view?usp=sharing</adresse>
+      </production>
+      <production numero="3561">
+        <numero>3561</numero>
+        <designation>Proposition d'une solution d_infrastructure de virtualisation</designation>
+        <adresse>https://drive.google.com/file/d/1uUwoMbvEhuYnqroVKiJ2yIexAsuf4Zys/view?usp=sharing</adresse>
+      </production>
+      <production numero="3562">
+        <numero>3562</numero>
+        <designation>Schéma de la solution</designation>
+        <adresse>https://drive.google.com/file/d/1r4yhImlYOl0h3m48NR12rGtBiGC-wSJh/view?usp=sharing</adresse>
+      </production>
+      <production numero="3563">
+        <numero>3563</numero>
+        <designation>Prototype de la solution</designation>
+        <adresse>https://drive.google.com/file/d/1JmCJO_qynIDG9nJ37VEOefKzBaRSVwCR/view?usp=sharing</adresse>
+      </production>
+      <production numero="3646">
+        <numero>3646</numero>
+        <designation>Schéma réseau (support)</designation>
+        <adresse>https://drive.google.com/file/d/1QOreGEj-eKJU6XoPktW_hrwBAEtDNiGc/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3518">
+      <ref>3518</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2_Audit et migration de serveurs </libcourt>
+      <descriptif>Audit et Analyse de deux serveurs (actuellement sous Windows server 2008).
+Audit et Inventaire complet de chaque rôle et chaque fonctionnalité pertinente.
+Analyse des données présente sur les deux serveurs avec les lecteurs réseaux.
+Suppression des rôl</descriptif>
+      <contexte>Collège Immaculée, Lycée Jean-Paul II (Groupe Saint Jean) pendant mon stage
+</contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>Windows server 2008
+VMWare Vsphere
+Documentation et information trouvé sur internet pour la construction du dossier
+</environnement>
+      <moyen>Documentation et information trouvé sur internet pour la construction du dossier
+[Insérer le lien des sources]
+
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Se poser les questions, quelles conséquences va t'il y avoir si (par exemple) on supprime le rôle du serveur WEB ou le rôle du serveur déploiement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Étude de deux serveurs et suppression des données inutiles pour une migration future.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Récapitulatif et définition du fonctionnement des rôles pour chacun des 2 serveurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Qui peut accéder au réseau WIFI ? Qui peut accéder aux ESX ? Qui peut accéder à quels dossiers partagés sur les domaines administratif et pédagogique ?
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration sur site (via interface WEB) de 2 serveurs avec des rôles diversifiés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Relever les services utilisés en temps réel et ceux qui ne le sont plus, supprimer les services obsolètes ou inutilisés depuis longtemps.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Audit et inventaire détaillé des rôles de chaque service installé sur les deux serveurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Audit de deux serveurs avec leurs rôles ce qu’ils font, ainsi que les logiciels tierces permettant de compléter l'infrastructure serveur déjà existante.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Répertorier tous les rôles sur les deux serveurs et essayer de dégager un maximum d'éléments pertinents à l’aide des connaissances et à partir de sources fiables trouvées sur internet.</commentaireactivite>
+      </activitecitee>
+      <production numero="3597">
+        <numero>3597</numero>
+        <designation>Audit du premier serveur</designation>
+        <adresse>https://drive.google.com/file/d/1dZ0Cyh749RgWQMlot70mKCSa5YNQ4Hka/view?usp=sharing</adresse>
+      </production>
+      <production numero="3598">
+        <numero>3598</numero>
+        <designation>Audit du second serveur</designation>
+        <adresse>https://drive.google.com/file/d/198CQaz5R8XLtlSJ1Pi56cmeVuMg09dK-/view?usp=sharing</adresse>
+      </production>
+      <production numero="3599">
+        <numero>3599</numero>
+        <designation>Sources utilisées</designation>
+        <adresse>https://drive.google.com/file/d/1st4TYsTySMH7qX4IV-MJwyomOThIKVM0/view?usp=sharing</adresse>
+      </production>
+      <production numero="3622">
+        <numero>3622</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://drive.google.com/file/d/1GGXAJNPR2zylbnyuDbnQKkOTQIP0psPu/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3519">
+      <ref>3519</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2_Gestions des incidents utilisateurs</libcourt>
+      <descriptif>Schéma type d'une intervention suite à une demande d'utilisateurs :
+Un utilisateur a un problème ou une demande spécifique 
+Il prend contact avec le service informatique
+La plupart du temps, j’interviens moi-même si cela concerne un problème ph</descriptif>
+      <contexte>Interventions dans le cadre de mes missions (stage2) au Collège Immaculée, lycée Jean-Paul II (Groupe Saint Jean)
+</contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>Environnement physique des postes clients du collège et du lycée
+logiciels client spécifiques ,bureautiques
+Serveur de déploiement (fog)
+Système d'exploitation Windows 7 et 10
+</environnement>
+      <moyen>Expérience (personnelle) ou mise en œuvre des acquis.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Intervention brève suite à une demande d’un utilisateur (Problème d'écran, de clavier, réponse aux questions de l'utilisateur, apporter des solutions...)  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Intervention en présentiel et suivi des tickets d’incidents sur un tableur excel (pas fait / à faire / fait)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Intervention brève suite à une demande d’un utilisateur (Problème d'écran, de clavier, réponse aux questions de l'utilisateur, apporter des solutions...).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Résoudre un problème venant d’un utilisateur et vérifier les éléments fonctionnels et ceux qui ne le sont pas.</commentaireactivite>
+      </activitecitee>
+      <production numero="3609">
+        <numero>3609</numero>
+        <designation>Exemple tableau des incidents</designation>
+        <adresse>https://drive.google.com/file/d/1X6sdIouwxB8HgzJsFfXjgH9UeyTSrwEz/view?usp=sharing</adresse>
+      </production>
+      <production numero="3610">
+        <numero>3610</numero>
+        <designation>Installation Windows 10 avec serveur de déploiement</designation>
+        <adresse>https://drive.google.com/file/d/1eYniRrM3SZB4mnpHwG7WGUkjJOVbrBOr/view?usp=sharing</adresse>
+      </production>
+      <production numero="3611">
+        <numero>3611</numero>
+        <designation>Exemple d'incidents : Écran cassé</designation>
+        <adresse>https://drive.google.com/file/d/16O35hXd1KD9a3ev59GVWGAGhJ5x0aOMV/view?usp=sharing</adresse>
+      </production>
+      <production numero="3612">
+        <numero>3612</numero>
+        <designation>Démontage d'ordinateur et diagnostics des barrettes mémoire (RAM)</designation>
+        <adresse>https://drive.google.com/file/d/16IMpkTsEb1ID0Td0oHvQX24XJ78IMj2r/view?usp=sharing</adresse>
+      </production>
+      <production numero="3613">
+        <numero>3613</numero>
+        <designation>[1/2] Exemple d'incidents : Câble endommagé</designation>
+        <adresse>https://drive.google.com/file/d/16VTyk1ZAB_O_b1wVW7T9lbYBm5AGT59q/view?usp=sharing</adresse>
+      </production>
+      <production numero="3614">
+        <numero>3614</numero>
+        <designation>[2/2] Exemple d'incidents : Cable management</designation>
+        <adresse>https://drive.google.com/file/d/16lT9wS3m5R1fgAIlbZ7VtTFRkWIOJVED/view?usp=sharing</adresse>
+      </production>
+      <production numero="3615">
+        <numero>3615</numero>
+        <designation>[1/3] Test d'une connexion WIFI avec un ordinateur portable.</designation>
+        <adresse>https://drive.google.com/file/d/16y5ySr1b3Y-z5iioRw49KXy0XIJy4Q6Y/view?usp=sharing</adresse>
+      </production>
+      <production numero="3616">
+        <numero>3616</numero>
+        <designation>[2/3] Test d'une connexion WIFI avec un ordinateur portable.</designation>
+        <adresse>https://drive.google.com/file/d/16wYRhwLkcLrjTQ5jJxc2eSv0s4HWJ0n9/view?usp=sharing</adresse>
+      </production>
+      <production numero="3617">
+        <numero>3617</numero>
+        <designation>[3/3] Test d'une connexion WIFI (ping www.google.fr)</designation>
+        <adresse>https://drive.google.com/file/d/178Pb2hkIBhh0mMEpgBu2j0LaVXaBfwCq/view?usp=sharing</adresse>
+      </production>
+      <production numero="3618">
+        <numero>3618</numero>
+        <designation>[1/2] Problème de clavier et appel avec le SAV constructeur (HP)</designation>
+        <adresse>https://drive.google.com/file/d/16ujrdkV2OafpsD41Bk1bTqqsLV2VUzND/view?usp=sharing</adresse>
+      </production>
+      <production numero="3619">
+        <numero>3619</numero>
+        <designation>[2/2] Document avec diagnostic clavier PC portable (HP)</designation>
+        <adresse>https://drive.google.com/file/d/1cWsqeN-B8t1o_f0T_KNikfwnbVGwBUIT/view?usp=sharing</adresse>
+      </production>
+      <production numero="3623">
+        <numero>3623</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://drive.google.com/file/d/1GGXAJNPR2zylbnyuDbnQKkOTQIP0psPu/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3521">
+      <ref>3521</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2_Inventaire VM</libcourt>
+      <descriptif>Faire la liste des machines virtuelles et annoter tous les éléments qui semblent important de mon point de vue.
+Comprendre le rôle et la fonction de chacune des machines virtuelles. 
+
+</descriptif>
+      <contexte>Stage (SIO2)
+Arrivé dans l'entreprise le premier jour, mon maître de stage souhaitant tester mon niveau me demande de naviguer sur les différentes machines virtuelles et d'y noter les éléments qui me paraissent important.</contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-01-05</datefin>
+      <environnement>Windows Server (2008, 2012, 2012 R2, 2016, 2019) et Windows 10
+Divers distribution de Linux (Debian, CentOS) 
+VMWare esxi (Vshere 6.7 web)
+Documentation de Microsoft server et sources trouvé sur internet</environnement>
+      <moyen>Documentation trouvé sur internet
+Tableau avec caractéristiques techniques de chaque machines.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et lister des spécificités de machines selon des critères à définir. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration sur site de différentes machines virtuelles avec des rôles divers, sous différents systèmes d'exploitations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Chercher à chiffrer (=dénombrer) des valeurs comme le nombre d'utilisateurs dans un annuaire, le nombre de machines d'un parc...
+
+Analyse des journaux de logs utilisateurs et machines.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recensement d'un document qui inventorie les serveurs actuels de la ferme, avec plusieurs spécificités techniques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Recensement d'un document qui inventorie les serveurs actuels de la ferme, avec plusieurs spécificités techniques.
+Analyser les rôles des serveurs et les informations traitées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Recensement d'un document qui inventorie les serveurs actuels de la ferme, avec plusieurs spécificités techniques.</commentaireactivite>
+      </activitecitee>
+      <production numero="3600">
+        <numero>3600</numero>
+        <designation>Documentation Inventaire VM</designation>
+        <adresse>https://drive.google.com/file/d/1ef0ywwtX0wovOLGz8xFtUOzqwn_EsI5k/view?usp=sharing</adresse>
+      </production>
+      <production numero="3601">
+        <numero>3601</numero>
+        <designation>Sources utilisées</designation>
+        <adresse>https://drive.google.com/file/d/13CD6tM0NzUCsMt9_Q8OI-YiWI6lmKkPl/view?usp=sharing</adresse>
+      </production>
+      <production numero="3620">
+        <numero>3620</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://drive.google.com/file/d/1GGXAJNPR2zylbnyuDbnQKkOTQIP0psPu/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3523">
+      <ref>3523</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage2_Mise en service d'un serveur Antivirus</libcourt>
+      <descriptif>Rédaction d'une documentation technique comprenant les éléments suivants:
+
+Création de la machine virtuelle 
+Installation et configuration du système d'exploitation
+Installation et configuration d'une base de données
+Installation et configuration </descriptif>
+      <contexte>Dans le cadre de la migration de certains serveurs, où les systèmes d'exploitation commençaient à être obsolète.
+Ma mission est de créer une VM fonctionnelle permettant d'y administrer un serveur antivirus (Kapsersky). </contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>VMWare
+Windows server 2019 
+SQL Server 2O19 Express
+SQL Server Management Studio
+Kaspersky security center 11 et 12
+Documentation de Microsoft et de Kaspersky ainsi que d'autres sources externes </environnement>
+      <moyen>Documentation de Kaspersky
+Documentation de Microsoft
+(c.f lien des sources)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Mise en place et étude d'un serveur antivirus en mode client/serveur
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Mise en place des mesures de sécurité paramétré sur le serveur d'administration.
+
+Paramétrage des tâches et stratégies permettant le bon fonctionnement du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise à jour et déploiement d'un nouveau serveur antivirus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Vérification des informations remontés sur le serveur antivirus. 
+Ajustement et paramétrage si besoin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>La solution répond aux besoins techniques (la solution est fonctionnel), organisationnelles (Pas besoin de nouveau plan d'organisation car c'est une migration de version), financière (reprise et unification des licences clientes pour le nouveau serveur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un OS du type : Windows Server 2019.
+Installation d'un SGBDR (base de données).
+Installation d'un centre d'administration antiviral et applications clientes. 
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Paramétrage et Installation complète d'un serveur antivirus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Mode opératoire, arborescence des tâches et stratégies antivirales.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Validation des spécificités techniques de la machine virtuelle et des applications externes (SQL Server 2019).
+Documentation et mise à jours de cette dernière.
+</commentaireactivite>
+      </activitecitee>
+      <production numero="3602">
+        <numero>3602</numero>
+        <designation>Documentation avec toutes les manipulations</designation>
+        <adresse>https://drive.google.com/file/d/1gZhqKKwyql4ekK0l4-eqZy_GPCpTu17u/view?usp=sharing</adresse>
+      </production>
+      <production numero="3603">
+        <numero>3603</numero>
+        <designation>Analyse des stratégies antivirales</designation>
+        <adresse>https://drive.google.com/file/d/1Em4h78nG8Eqa7jvHiWqobZJlsQQ4jJGs/view?usp=sharing</adresse>
+      </production>
+      <production numero="3604">
+        <numero>3604</numero>
+        <designation>Analyse des tâches antivirales</designation>
+        <adresse>https://drive.google.com/file/d/1dJWc7MIFNiaEfmb1m13Qxtj0OZT7R-Nn/view?usp=sharing</adresse>
+      </production>
+      <production numero="3605">
+        <numero>3605</numero>
+        <designation>Arborescence et liste des tâches et stratégies antivirales</designation>
+        <adresse>https://drive.google.com/file/d/11_CQXjB9Oz05RooSJfHfda_VjkUqnqYy/view?usp=sharing</adresse>
+      </production>
+      <production numero="3606">
+        <numero>3606</numero>
+        <designation>Diagnostic et solutions des problèmes récurrents</designation>
+        <adresse>https://drive.google.com/file/d/1Q_gClpgxsTMmLR_5RiYVj-_tgDv9IXg0/view?usp=sharing</adresse>
+      </production>
+      <production numero="3607">
+        <numero>3607</numero>
+        <designation>Règles de filtrage (ACL)</designation>
+        <adresse>https://docs.google.com/document/d/1XhotrkEom4CD3Omzv-eN1P0Ydym8qtDfF1wxM4ud8ZY/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3608">
+        <numero>3608</numero>
+        <designation>Sources utilisées</designation>
+        <adresse>https://drive.google.com/file/d/1rf44gZPSOAkyWL2WnpM-AiKD6FMZXwyg/view?usp=sharing</adresse>
+      </production>
+      <production numero="3621">
+        <numero>3621</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://drive.google.com/file/d/1GGXAJNPR2zylbnyuDbnQKkOTQIP0psPu/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3550">
+      <ref>3550</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>MOOC</libcourt>
+      <descriptif>Participation aux MOOC suivants :
+- SecNum académie par l'ANSSI  
+- L'atelier RGPD par la CNIL
+ 
+- Inscription sur la plateforme Rootme</descriptif>
+      <contexte>MOOC facultatifs proposé pour approfondir les notions vu en SI 5 et en SI 7</contexte>
+      <datedebut>2020-07-01</datedebut>
+      <datefin>2020-12-31</datefin>
+      <environnement>https://secnumacademie.gouv.fr/
+https://atelier-rgpd.cnil.fr
+Site et guides de la CNIL et de l'ANSSI</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Participation au MOOC de l'ANSSI et de la CNIL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Approfondissement des notions basiques et des bonnes pratiques à mettre en place avec un système d'information.</commentaireactivite>
+      </activitecitee>
+      <production numero="3637">
+        <numero>3637</numero>
+        <designation>Attestation de suivi (SecNum académie)</designation>
+        <adresse>https://drive.google.com/file/d/1voOG_oOUHauUAD99MnUBvPf606JgQAQj/view?usp=sharing</adresse>
+      </production>
+      <production numero="3638">
+        <numero>3638</numero>
+        <designation>Attestation de suivi (l'atelier RGPD)</designation>
+        <adresse>https://drive.google.com/file/d/1i6HHduu7l5rPwMyki-I_U5rErrJHtf35/view?usp=sharing</adresse>
+      </production>
+      <production numero="3724">
+        <numero>3724</numero>
+        <designation>Profil Rootme</designation>
+        <adresse>https://www.root-me.org/XLN?lang=fr#c9568ef7b2c1f3c46eb28c0f0f484e82</adresse>
+      </production>
+    </situation>
+    <situation ref="3551">
+      <ref>3551</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique, LI-FI</libcourt>
+      <descriptif>Veille technologique sur le thème du LI-FI</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-03-01</datedebut>
+      <datefin>2021-07-01</datefin>
+      <environnement>Google actualités
+Twitter
+Articles et conférences</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Monter un outil de veille technologique pour étudier la technologie du LI-FI</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation à l'aide du WEB (google et twitter en particulier) afin de poursuivre une veille.</commentaireactivite>
+      </activitecitee>
+      <production numero="3644">
+        <numero>3644</numero>
+        <designation>Tableau des sources</designation>
+        <adresse>https://docs.google.com/spreadsheets/d/13jDinmNs4eSk4VAVJicGyARdepYwo7GPbHraw4QYsuQ/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3645">
+        <numero>3645</numero>
+        <designation>Dossier de veille</designation>
+        <adresse>https://drive.google.com/file/d/10gEXinnLYSjzd5QVF5dF8p_oGhlHClfC/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="592e794dac321">
+    <ref>592e794dac321</ref>
+    <datesv>2017-05-31</datesv>
+  </sauvegarde>
+  <etudiant numero="190">
+    <nom>Iradukunda</nom>
+    <prenom>Leilla</prenom>
+    <mel>delasalle.sio.iradukunda.l@gmail.com</mel>
+    <situation ref="1993">
+      <ref>1993</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données dutoit</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-11-17</datedebut>
+      <datefin>2016-12-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et une structure organisationnelle et affecter des droits aux utilisateurs sur les éléments d'une solution d'infrastructure</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite> Modéliser le schéma de données nécessaire à la mise en place de la solution applicative avec MySQlworkbench
+Implémenter le schéma de données dans un SGBD sous MySQL
+Manipuler les données liées à la solution applicative à travers un langage de requête
+</commentaireactivite>
+      </activitecitee>
+      <production numero="2118">
+        <numero>2118</numero>
+        <designation>TP dutoit complété</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2029">
+      <ref>2029</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>M2L-VALRES</libcourt>
+      <descriptif>Gestion des réservations de salles</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2016-12-13</datedebut>
+      <datefin>2017-01-10</datefin>
+      <environnement>Serveur wamp,PhpMyAdmin,Navigateur,MySqlWorkbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+ Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai pour la réalisation des tests
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite> Mettre en place l'environnement de test du service
+Tester le service et Rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite> Modéliser le schéma de données nécessaire avec MySQLWorkbench
+Implémenter le schéma de données avec MySQL</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2030">
+      <ref>2030</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L- PORTAIL</libcourt>
+      <descriptif>Développer le portail du site de M2L</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2017-01-10</datedebut>
+      <datefin>2017-01-24</datefin>
+      <environnement>Serveur wamp,navigateur</environnement>
+      <moyen>CMS wordpress</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire
+Rédiger un compte-rendu de bilan</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2231">
+      <ref>2231</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission DIGICODE</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents.Ils peuvent récupérer le digicode via l'application.
+Deux versions ont été élaborées(1 digicode puis 1 digicode par salle)</descriptif>
+      <contexte>M2L-Mission DIGICODE</contexte>
+      <datedebut>2017-05-01</datedebut>
+      <datefin>2017-05-01</datefin>
+      <environnement>Serveur Wamp2,Navigateur,bdd mysql mbrs14</environnement>
+      <moyen>langage php</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation,les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service(la base de données avait déjà été installée por la mission Valrès</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mbrs</commentaireactivite>
+      </activitecitee>
+      <production numero="2338">
+        <numero>2338</numero>
+        <designation>drive,clé usb,wamp2</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

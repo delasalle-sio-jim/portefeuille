@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50d1712a53e3a">
+    <ref>50d1712a53e3a</ref>
+    <datesv>2012-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="61">
+    <nom>PIQUET</nom>
+    <prenom>Florian</prenom>
+    <mel>piquet.f@lyceedelasalle.fr</mel>
+  </etudiant>
+</suivicomp>

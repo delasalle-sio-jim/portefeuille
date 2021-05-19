@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fc77f0e02f43">
+    <ref>4fc77f0e02f43</ref>
+    <datesv>2012-05-31</datesv>
+  </sauvegarde>
+  <etudiant numero="3">
+    <nom>BARON</nom>
+    <prenom>Aziliz</prenom>
+    <mel>azilizba@gmail.com</mel>
+    <situation ref="9">
+      <ref>9</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Apel35</libcourt>
+      <descriptif>Application en php pour gérer les établissements, l'ogec, l'apel, les adhérents et les cotisations.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="10">
+      <ref>10</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Application en php pour la gestion de frais</descriptif>
+      <contexte>Société pharmaceutique</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="11">
+      <ref>11</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion lycée</libcourt>
+      <descriptif>Application pour la gestion de lycée</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="12">
+      <ref>12</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Application en php </descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

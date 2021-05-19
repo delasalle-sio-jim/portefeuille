@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53adf28e0e2de">
+    <ref>53adf28e0e2de</ref>
+    <datesv>2014-06-28</datesv>
+  </sauvegarde>
+  <etudiant numero="80">
+    <nom>Chappal</nom>
+    <prenom>Johann</prenom>
+    <mel>johannchappal@hotmail.fr</mel>
+    <situation ref="780">
+      <ref>780</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet GSB</libcourt>
+      <descriptif>Analyse d'un appel d'offre et proposition d'une solution, en groupe de trois personnes.</descriptif>
+      <contexte>Une entreprise doit équiper 480 personnes d'ordinateurs, pour cela elle a besoin de conseils sur le matériel et la partie logiciels.</contexte>
+      <datedebut>2013-11-08</datedebut>
+      <datefin>2013-11-13</datefin>
+      <environnement></environnement>
+      <moyen>Internet, OpenOffice, Google Drive pour le partage des fichiers pour le groupe.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="937">
+      <ref>937</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestionnaire de Formation</libcourt>
+      <descriptif>Création d'une application intranet pour gérer l'inscription d'associations a des formations, et la gestion ( validation ou non ) de ces inscriptions.</descriptif>
+      <contexte>Le CROSL (Comité Régional Olympique et Sportif de Lorraine) offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues (législation, éthique, comptabilité associative, etc.). Les ligues organisent également des formations, en </contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-04-01</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>serv wamp, Notepad++, scripts php, html et javascript, requêtes SQL ...</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Évaluation des besoins associés a la demande du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rédaction en commentaire dans les fichiers édition, des actions en cours et des futures actions nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Mise en place d'un système de login avec gestion des droits utilisateur/administrateur afin de gérer les inscriptions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Évaluation des besoins du client et mise en place de l'interface selon ceux-ci.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données nécessaire a l'application.</commentaireactivite>
+      </activitecitee>
+      <production numero="675">
+        <numero>675</numero>
+        <designation>Création d'une application intranet pour gérer l'inscription d'associations a des formations, et la gestion ( validation ou non ) de ces inscriptions.</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/GrailardChappal/GesForm/accueil.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="983">
+      <ref>983</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valres</libcourt>
+      <descriptif>La mission Valres consistait a valider un ensemble de fonctionnalités d'une application web de réservation de salles.</descriptif>
+      <contexte>L'application web de réservations de salles vient d'être mise à jour suivant la dernière version de la solution logicielle MRBS sur laquelle elle se base. Le déploiement de cette nouvelle version doit être précédé d'une validation de l'application. La</contexte>
+      <datedebut>2013-12-17</datedebut>
+      <datefin>2014-01-14</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>Serveur wamp, Notepad++, scripts php, html, requêtes SQL ...</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservation respectant les contraintes spécifiées dans le dossier de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de test.
+Installation de l'application.
+( Création de la base de données associée a l'application et test de celle ci via ajout d'utilisateurs, et suppression de ceux ci, ou en réservant des salles. )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables sous MySQL et justification de celles-ci par des règles de gestion. Modélisation de la base de données sous MySQL Workbench.</commentaireactivite>
+      </activitecitee>
+      <production numero="700">
+        <numero>700</numero>
+        <designation>La mission Valres consistait a valider un ensemble de fonctionnalités d'une application web déjà créée.</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/Chappal/PPE/mdl/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1009">
+      <ref>1009</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>• Adapter la base de données VALRES afin de répondre aux besoins,
+• Présenter les cas d’utilisation (fonctionnalités de l’application),
+• Développer l’application en PHP cas par cas.</descriptif>
+      <contexte>Création d'une application permettant de visualiser et modifier le digicode.</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-02-04</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>serv wamp, Notepad++, scripts php, html et javascript, requêtes SQL ...</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Création et adaptation de la base de données.
+Etudier les cas d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Différenciation des utilisateurs en deux niveaux, selon si ils doivent pouvoir modifier le digicode ou non.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Élaboration d'un planning pour le binôme</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation de l'interface utilisateur afin de correspondre au niveau de l'utilisateur connecté ( selon si il est de niveau 1 ou 2 )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données déjà créée afin de correspondre a l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test des différentes possibilités envisageable, telles que la visualisation de la modification de digicode selon le niveau de l'utilisateur</commentaireactivite>
+      </activitecitee>
+      <production numero="741">
+        <numero>741</numero>
+        <designation>Application Digicode</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/GrailardChappal/Digicode/</adresse>
+      </production>
+      <production numero="748">
+        <numero>748</numero>
+        <designation>Tests</designation>
+        <adresse>https://docs.google.com/document/d/11u0RV2WTAAj6YTdf0oBqU8BIEXBwb_bL-qA9DR_VjPk/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1022">
+      <ref>1022</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail</libcourt>
+      <descriptif>Elaboration d'un nouveau site pour le CROSL, ajout d'un intranet permettant l'accès aux applications Digicode, Valres et Gestionnaire de formation.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-02-10</datedebut>
+      <datefin>2014-04-15</datefin>
+      <environnement>Architecture c/s</environnement>
+      <moyen>Wordpress, serv wamp, Notepad++, scripts php, html et javascript, requêtes SQL ...</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Création de prototype et exécution de différents test afin de valider sa qualité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Etude sur différents site concernant le CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formation sur le CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du CMS : possibilités, limites ...</commentaireactivite>
+      </activitecitee>
+      <production numero="753">
+        <numero>753</numero>
+        <designation>Portail</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/GrailardChappal/Portail/wordpress-3.8.1-fr_FR/wordpress/</adresse>
+      </production>
+      <production numero="754">
+        <numero>754</numero>
+        <designation>Intranet</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/GrailardChappal/Portail/wordpress-3.8.1-fr_FR/wordpress/intranet/index.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1046">
+      <ref>1046</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Site Monogatanime</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand.</descriptif>
+      <contexte>Entreprise de vente d'animés par internet.</contexte>
+      <datedebut>2014-02-07</datedebut>
+      <datefin>2014-05-02</datefin>
+      <environnement>Architecture c/s</environnement>
+      <moyen>Serv wamp, Notepad++, scripts php, html et javascript, requêtes SQL ...</moyen>
+      <avisperso>TP très intéressant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des attentes a prendre en compte.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Différenciation des utilisateurs/administrateurs lors de l'authentification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Intégration de la partie administrative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modification de l'apparence du site de base pour convenir au nouveau thème.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification de la base de donnée pour convenir au nouveau site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests afin de vérifier le bon fonctionnement de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation utilisateur du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formation concernant la partie php/html avancée.</commentaireactivite>
+      </activitecitee>
+      <production numero="808">
+        <numero>808</numero>
+        <designation>Site Monogatanime</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/Chappal/lafleur%20v2/index.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1057">
+      <ref>1057</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Site Dutoit</libcourt>
+      <descriptif>Modification du site Dutoit.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-10</datedebut>
+      <datefin>2014-01-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des attentes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modifications minimes de l'apparence du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création et modification de la base de données.</commentaireactivite>
+      </activitecitee>
+      <production numero="814">
+        <numero>814</numero>
+        <designation>Site Dutoit</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/Chappal/TP/TP1%20Site%20Dutoit/contact.html</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1108">
+      <ref>1108</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création application extranet</libcourt>
+      <descriptif>Gestion des HSE</descriptif>
+      <contexte>Pour le lycée de la salle</contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>architecture c/s</environnement>
+      <moyen>serv wamp, Notepad++, php, javascript, html, requêtes SQL ...</moyen>
+      <avisperso>Très bon stage qui m'a permit d'améliorer ma programmation.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des cas d'utilisation et des besoins de l'administration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Réunion avec les adjointes et Mme BLIVET pour analyser les besoins vis à vis des fonctionnalités de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test des fonctionnalités après ajout de celles-ci</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Définition des niveaux des différents utilisateurs ( professeurs, adjointes, Mme BLIVET )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Explication et démonstration du fonctionnement de l'application aux adjointes et à Mme BLIVET</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planification hebdomadaire rétrospectif</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>??? présentation septembre ?</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur et réunion avec les adjointes et Mme BLIVET pour analyse du respect des attentes ( modifications, pour répondre aux attentes )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception de la base de données ( de façon à pouvoir l'implémenter dans la base de donnée liée à l'extranet )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l'application ( html, php, javascript, SQL )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mise en œuvre de tests unitaires ( partie financière )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Structure de la BDD, arborescence du site, navigabilité, commentaires dans le code ...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Documentation pour les adjointes/Responsables pour la partie administration </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Bonnes pratiques des cours ( TP )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche sur le site du zéro</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formation sur le javascript</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du javascript </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

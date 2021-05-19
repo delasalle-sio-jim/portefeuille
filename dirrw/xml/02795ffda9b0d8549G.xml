@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ffda9b0d8549">
+    <ref>5ffda9b0d8549</ref>
+    <datesv>2021-01-12</datesv>
+  </sauvegarde>
+  <etudiant numero="279">
+    <nom>Exposito</nom>
+    <prenom>Fabio</prenom>
+    <mel>delasalle.sio.exposito.f@gmail.com</mel>
+    <situation ref="3168">
+      <ref>3168</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP 9 Dutoit</libcourt>
+      <descriptif>Création et extension de la base de données Dutoit.
+Puis extension du site web dynamique. </descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations dans une base de données MySql comprenant 3 tables.</contexte>
+      <datedebut>2019-11-05</datedebut>
+      <datefin>2020-04-02</datefin>
+      <environnement>serveur wamp1, PhpMyAdmin, SGBDR, MySQL, langage SQL</environnement>
+      <moyen>langage HTML5, Php5 ou 7, javascript, CSS, bootstrap, bibliothèque, FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateur et commerciaux) sir lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySql (serv-wamp1). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="3153">
+        <numero>3153</numero>
+        <designation>TP9-Dutoit</designation>
+        <adresse>https://docs.google.com/document/d/1lK42-NF8UBbtQAQEF7IHA7gwmnEE47E7/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3212">
+      <ref>3212</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Valres</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles puis rédaction d'un document utilisateur</descriptif>
+      <contexte>Maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2019-11-26</datedebut>
+      <datefin>2019-12-17</datefin>
+      <environnement>Architecte client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, PhPMyAdmin, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation et les acteurs que lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réparer les jeux d'essai pour la réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service. Tester le service et rédiger le rapport de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données sous MySQL sur le serveur serv-wamp1.
+Manipuler les données à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="3195">
+        <numero>3195</numero>
+        <designation>M2L</designation>
+        <adresse>https://drive.google.com/drive/folders/1TJTSUV7VzX-sZtnH8a1Ohn-oqElD_ndg?hl=fr</adresse>
+      </production>
+    </situation>
+    <situation ref="3257">
+      <ref>3257</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2.3_Mission_ISOLE_WIFI</libcourt>
+      <descriptif>Isolement du réseau WIFI pour un réseau privé et public pour les visiteurs de la M2L.</descriptif>
+      <contexte>Actuellement, un réseau Wifi gratuit est disponible pour les visiteurs dans les espaces de réunion du rez-de-chaussée, mais également dans les étages des bureaux des ligues.</contexte>
+      <datedebut>2020-01-21</datedebut>
+      <datefin>2020-01-29</datefin>
+      <environnement></environnement>
+      <moyen>CISCO Packet Tracer, Trello</moyen>
+      <avisperso>Découverte du VLAN</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Trouver une solution pour éviter que le réseau publique et privé puissent communiquer entre-eux tout en étant connecté à Internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Vérifier que les différents services fonctionnent en fonction des réseaux.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recherche de choix de solutions (VLANs + DHCP)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Dossier technique (Choix de solutions, configuration,...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recherche de la configuration du VLAN</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Intégration des commandes sur CISCO Packet tracer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en évidence des commandes pour la configuration du VLAN dans le dossier technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Commandes CISCO référencées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Suivit sur Trello</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Élaboration d'un mode opératoire en français et anglais pour se connecter au réseau de la M2L pour les visiteurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Un second serveur DHCP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>CISCO Packet tracer, maquette de la solution.</commentaireactivite>
+      </activitecitee>
+      <production numero="3252">
+        <numero>3252</numero>
+        <designation>Dossier de la solution technique PPE 2.3 OLIVER &amp; EXPOSITO</designation>
+        <adresse>https://drive.google.com/file/d/1wHePXvX07Gozxn1NZnneADyNR-jXv91x/view?usp=sharing</adresse>
+      </production>
+      <production numero="3253">
+        <numero>3253</numero>
+        <designation>Maquette de l'isolement du réseau sur CISCO Packet tracer</designation>
+        <adresse>https://drive.google.com/file/d/1jQ9-OY6WlOXigv-MObMz5wgGmrQ2CpqC/view?usp=sharing</adresse>
+      </production>
+      <production numero="3254">
+        <numero>3254</numero>
+        <designation>Présentation Trello</designation>
+        <adresse>https://drive.google.com/file/d/1zOIL-RPeyYjMe-uUdiZD95NA_CLXtJSh/view?usp=sharing</adresse>
+      </production>
+      <production numero="3255">
+        <numero>3255</numero>
+        <designation>Mode Opératoire FR</designation>
+        <adresse>https://drive.google.com/file/d/1HkypEoUvwNJ8X9Oq6HtPd0uuTKFlQKbv/view?usp=sharing</adresse>
+      </production>
+      <production numero="3256">
+        <numero>3256</numero>
+        <designation>Mode Opératoire EN</designation>
+        <adresse>https://drive.google.com/file/d/1wHePXvX07Gozxn1NZnneADyNR-jXv91x/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3421">
+      <ref>3421</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2.12_Mission_FANS ZONE EURO_2020(2021)</libcourt>
+      <descriptif>Conception et prototypage d'un service informatique nomade liée à une manifestation sportive.</descriptif>
+      <contexte>Initialement prévu cette année, l’Euro 2020 se déroulera l’année prochaine dans 12 villes européennes.
+
+Le service informatique de la M2L a été sollicité par la FFF (Fédération Française de Football) pour prototyper, puis mettre en place la couverture i</contexte>
+      <datedebut>2020-05-19</datedebut>
+      <datefin>2020-06-23</datefin>
+      <environnement></environnement>
+      <moyen>CISCO Packet Tracer, Google Spreadsheets, Google docs, Draw.io</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Concevoir et prototyper l'informatique nomade liée à une manifestation sportive.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Vérifier que les différents services fonctionnent en fonction des deux réseaux distincts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recherche de choix de solutions (VLANs + DHCP + SWITCH de niveau III)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Dossier technique (Choix de solutions, schéma réseau, Devis, Plan d'adressage, Modes Opératoires, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recherche de la configuration des points d'accès sans fils.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Intégration des commandes sur CISCO Packet tracer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en évidence des commandes pour la configuration des VLAN dans le dossier technique et des différents SWITCH (1,2,3 et niveau III) et des routeurs FIBRE.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Commandes CISCO référencées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Suivit et répartition des tâches un tableau Google Spreadsheets.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Élaboration de modes opératoires en français et anglais pour se connecter au réseau de la Fanzone pour les visiteurs et organisateurs ainsi que des Modes Opératoires du DHCP et de la configuration des éléments actifs de niveau III.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Deux points d'accès sans fils installés sous chaque chapiteau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>CISCO Packet tracer, maquette de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Filtrage de niveau III et sécurisation des ports des commutateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration d'un SWITCH de niveau III.
+</commentaireactivite>
+      </activitecitee>
+      <production numero="3456">
+        <numero>3456</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://docs.google.com/document/d/1kTbP2ootM5YdEk18r0rek_Ai_gqZDGP3qdGSsAdtQ0A/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3457">
+        <numero>3457</numero>
+        <designation>Tableau d'avancement</designation>
+        <adresse>https://docs.google.com/spreadsheets/d/1N6RuffB5xesCCoXT7j7LKeS1mDi8LnBFZT5h-5Vt8tQ/edit?usp=sharing</adresse>
+      </production>
+      <production numero="3458">
+        <numero>3458</numero>
+        <designation>Schéma réseau</designation>
+        <adresse>https://drive.google.com/file/d/11QUsQqsJ30I5AZV8JAD7Jilaefzh45ej/view?usp=sharing</adresse>
+      </production>
+      <production numero="3459">
+        <numero>3459</numero>
+        <designation>Contexte de la mission</designation>
+        <adresse>https://drive.google.com/file/d/1IUHTQMtvVtD0p7RL0lING4ax-PFkslXJ/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3517">
+      <ref>3517</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Dépannage Ordinateur portable</libcourt>
+      <descriptif>Restauration du BIOS d'un ordinateur portable pour un enseignant.</descriptif>
+      <contexte>Le service informatique du lycée de la Salle met à disposition des ordinateurs portables pour les enseignants et le personnel éducatif. </contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-01-04</datefin>
+      <environnement>BIOS, Windows 10</environnement>
+      <moyen>Clé USB avec logiciel de restauration du BIOS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mode opératoire pour la création d'une clé USB de récupération et pour la restauration du BIOS sur un ordinateur portable HP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Récupération des logiciels et pilotes spécifiques à l'ordinateur portable.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Redémarrage de l'ordinateur et ouverture d'une session.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>- Désactivation de la maintenance du système existant dans les options d'amorçage du BIOS pour recréer le problème.
+- Maintenance du système existant désactivé
+- Mise à jour du système
+</commentaireactivite>
+      </activitecitee>
+      <production numero="3564">
+        <numero>3564</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://docs.google.com/document/d/1bbBMvxhn5DBRB8By-j-ZvsqPGRyQ68b42SukDFFb1G0/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3520">
+      <ref>3520</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Migration VM Serv-dls2</libcourt>
+      <descriptif>Renommage de fichier .vmdk pour le serv-dls2
+Migration du disque virtuel de la VM Serv-dls vers la banque de données de la VM Serv-dls2
+Configuration du serveur de services et de fichiers et de stockage
+Recherche d'adresse IP disponible</descriptif>
+      <contexte>Le serv-dls est un serveur (Windows server 2012) de stockage de fichiers et documents accessible par l'admin qui va migrer vers un nouveau serveur (serv-dls2) sur un Windows server 2019  </contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-01-11</datefin>
+      <environnement>VMware vSphere Client, Windows server 2008 R2, Windows server 2012, Windows server 2019, Dipiscan, PuTTY</environnement>
+      <moyen>Ligne de commande linux, Connexion à distance, banque de données</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Recenser les logiciels et applications qui seront impactés par la migration du serveur dls et qui devront être reconfiguré pour le serveur dls2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Les personnes ayant accès au serveur dls doivent pouvoir avoir accès au lecteur réseau contenant leurs fichiers et documents sur le serveur dls2.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Prévention aux utilisateurs du serveur dls avant sa migration afin de ne pas perdre leurs documents en cours d'utilisation.
+Migration à réaliser à froid (serveur éteint)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mode opératoire de la migration du serveur
+Document technique sur la configuration du Serveur dls2
+Mode opératoire pour renommer un fichier de disque virtuel au format vmdk</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Configuration du partage de fichier sur le serveur dls2 avec l'ajout d'un rôle supplémentaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Accès au lecteur réseau serv-dls2 depuis un compte autorisé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour sur la documentation technique de l'adressage du réseau Pédago de l'adresse IP du Serv-dls2 </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Installation d'un agent Check_MK et configuration de la supervision</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un mode opératoire pour renommer un fichier .vmdk pour une migration de fichier dans la banque de données des disques virtuels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour du script de démarrage sur le Contrôleur de domaine primaire pour la connexion du compte admin</commentaireactivite>
+      </activitecitee>
+      <production numero="3565">
+        <numero>3565</numero>
+        <designation>Adressage IP du Serv-dls2 et serv-cd3</designation>
+        <adresse>https://docs.google.com/document/d/1ijHkLAV5jSA2np9mZmopnny5atatWcPUXFDcJHh7Z-Q/edit</adresse>
+      </production>
+      <production numero="3566">
+        <numero>3566</numero>
+        <designation>Mode opératoire de la migration du serveur dls + Configuration du service de fichier</designation>
+        <adresse>https://docs.google.com/document/d/1TrOATOdhwYLugif63ImhUAp_Isn1pZ14oEZV2wVKa3o/edit</adresse>
+      </production>
+      <production numero="3567">
+        <numero>3567</numero>
+        <designation>Mise en place du service de supervision à distance pour le serveur dls2</designation>
+        <adresse>https://docs.google.com/document/d/1Cf_e_VqhOMFXkerOKS6XadEp5IxNoEKQC6I_JEBhABw/edit</adresse>
+      </production>
+      <production numero="3569">
+        <numero>3569</numero>
+        <designation>Relevés d'informations sur le service de fichier du Serveur dls (capture d'écran)</designation>
+        <adresse>https://docs.google.com/document/d/1liTquZR2AJnVr3ha-lLG697CKEC98jxr6jmO8lmzMxU/edit</adresse>
+      </production>
+      <production numero="3570">
+        <numero>3570</numero>
+        <designation>Mode opératoire pour renommer un fichier .vmdk d'une banque de données</designation>
+        <adresse>https://docs.google.com/document/d/1ob3I5FZu_CAEedh1fyGL4RSV19uDMC6A21g-UjihI4U/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

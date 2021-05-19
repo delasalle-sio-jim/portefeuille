@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51935a7269deb">
+    <ref>51935a7269deb</ref>
+    <datesv>2013-05-15</datesv>
+  </sauvegarde>
+  <etudiant numero="47">
+    <nom>GROSDEMOUGE</nom>
+    <prenom>Corentin</prenom>
+    <mel>grosdemo.c@lyceedelasalle.fr</mel>
+    <situation ref="178">
+      <ref>178</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Conception et adaptation d'une base de données</libcourt>
+      <descriptif>Création et adaptation d'une base de données en fonction des besoins voulus.</descriptif>
+      <contexte>Dutoit</contexte>
+      <datedebut>2012-11-08</datedebut>
+      <datefin>2012-11-15</datefin>
+      <environnement></environnement>
+      <moyen>MySQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>sauf &quot;C4.1.3.3 Programmer des éléments de la solution applicative dans le langage d'un SGBD&quot;</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="184">
+      <ref>184</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Analyse et modification d'un code source</libcourt>
+      <descriptif>Recherche des erreurs et modifications adéquates</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-11-09</datedebut>
+      <datefin>2012-11-09</datefin>
+      <environnement>Sur PC, avec Visual Studio 2010</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>&quot;C4.1.7.3 Analyser et modifier le code d'un composant logiciel&quot;
+&quot;C4.1.7.1 Développer les éléments d'une solution&quot;</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="201">
+      <ref>201</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Droits d'accès et création de comptes</libcourt>
+      <descriptif>Créer des comptes utilisateurs et leur donner des droits sur une base de données</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-06</datedebut>
+      <datefin>2012-12-06</datefin>
+      <environnement>Mise à disposition d'un serveur sur lequel notre base de données est hébergée.</environnement>
+      <moyen>MySQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Nous avons donné des droits et créé d'autres comptes utilisateurs</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="218">
+      <ref>218</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Rédaction d'une doc technique</libcourt>
+      <descriptif>Rédaction d'une doc technique d'installation d'une imprimante réseau.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-19</datedebut>
+      <datefin>2012-09-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="524">
+      <ref>524</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'une veille technologique</libcourt>
+      <descriptif>Via un flux RSS ainsi qu'un blog, pour suivre et maintenir à jour cette veille.</descriptif>
+      <contexte>SI 5</contexte>
+      <datedebut>2013-03-01</datedebut>
+      <datefin>2014-06-01</datefin>
+      <environnement>Internet</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="530">
+      <ref>530</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Modification et création de pages PHP.
+Création d'une documentation d'utilisation.</descriptif>
+      <contexte>Entreprise Galaxy Swiss Bourdin lié au secteur pharmaceutique.</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Travail en équipe sur le réseau du centre de formation</environnement>
+      <moyen>MySQL, NotePad++, Power AMC</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests d'accès et de droits des utilisateurs de l'application (ajout / suppression de fiches par exemple)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>identification des composants logiciels uniquement (SGBD / outil de développement)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur du comptable</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>adaptation de la base de données pour accueillir les comptables et définir un niveau d'habilitation pour les utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>rédaction d'un document utilisateur destiné au comptable</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

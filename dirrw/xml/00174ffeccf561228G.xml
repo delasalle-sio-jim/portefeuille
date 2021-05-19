@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4ffeccf561228">
+    <ref>4ffeccf561228</ref>
+    <datesv>2012-07-12</datesv>
+  </sauvegarde>
+  <etudiant numero="17">
+    <nom>LEGALL</nom>
+    <prenom>Elouan</prenom>
+    <mel>legall.elouan@gmail.com</mel>
+    <situation ref="33">
+      <ref>33</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Site MFR Goven - Baulon</libcourt>
+      <descriptif>Conception du site internet du pôle formation services aux personnes de Goven-Baulon.</descriptif>
+      <contexte>Création d'une partie visiteur et administrateur</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>WAMPSERVER</environnement>
+      <moyen>WAMPSERVER
+Notepad++</moyen>
+      <avisperso>Création du site du pôle formation services aux personnes des MFR de Goven-Baulon.</avisperso>
+      <avisprof>
+        <numero>3</numero>
+        <commentaire>tu as créé 2 situations mais ce sont les mêmes. il est préférable de ne créer qu'une seule situation qui se compose de plusieurs activités. conseil : regrouper les différentes activités mises en oeuvre dans la même situation</commentaire>
+        <datecommentaire>2012-06-13</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges, temps estimé, besoin à mettre en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Héberger le site internet, tester pour voir si il fonctionne bien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Expliquer aux utilisateurs comment fonctionne le service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Finir le site internet avec les fonctionnalités demandées et avant la fin du stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Faire une maquette de l'interface du site internet, la mettre en place et la finir.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mettre en place une base de données pour le site internet, écrire les requête SQL, mettre à jour la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Installer et utiliser Wampserver</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création du site en php avec accès à la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests sur les éléments du site internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un manuel utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Problèmes avec l'affichage des informations de la Base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour du manuel utilisateur suite à l'ajout de nouveaux éléments.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place d'une partie administrateur pour pouvoir gérer les données du site internet.</commentaireactivite>
+      </activitecitee>
+      <production numero="20">
+        <numero>20</numero>
+        <designation>Site internet du pôle formation &quot;Services aux personnes&quot; des mfr de Goven - Baulon</designation>
+        <adresse>http://www.formation-alternance-servicespersonnes-rennes.com/</adresse>
+      </production>
+      <production numero="21">
+        <numero>21</numero>
+        <designation>Documentation destiné à l'administrateur du site</designation>
+        <adresse>C:/Users/elegall/Desktop/site_mfr.docx</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

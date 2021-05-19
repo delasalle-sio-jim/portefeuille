@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b362dd218a1a">
+    <ref>5b362dd218a1a</ref>
+    <datesv>2018-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="232">
+    <nom>SOURDIN</nom>
+    <prenom>Maxime</prenom>
+    <mel>delasalle.sio.sourdin.m@gmail.com</mel>
+    <situation ref="2332">
+      <ref>2332</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SI3: Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation</descriptif>
+      <contexte>La société Dutoit propose des stages de formation sur différents logiciels, de différents niveaux. Elle utilise une base de données mysql, avec 3 tables</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>WAMP, PhpMyAdmin, SGDBR, MySqlWorkBench, langage sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données mysql (serv-wamp1). Faire l'extension de la base de données originale. Modéliser la base de données finale.  Manipuler les données liées à la solution applicative à travers un langage de requête SQL(vue)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2348">
+      <ref>2348</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE: Mission4 DATASAVE: Serveur de fichier</libcourt>
+      <descriptif>Mise en place d'un serveur de fichier avec des accès protégés sous Windows et Debian</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2017-01-17</datedebut>
+      <datefin>2018-02-06</datefin>
+      <environnement>Windows Server
+Debian: Samba</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2478">
+        <numero>2478</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/open?id=1-sGnZrEs37l6ErEWVLlo9eoWznRfsFMT</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2644">
+      <ref>2644</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE: covoiturage</libcourt>
+      <descriptif>Nouvelle fonctionnalité sur le site web du BDE pour gérer les covoiturages entre étudiants</descriptif>
+      <contexte>BDE De la Salle</contexte>
+      <datedebut>2018-03-15</datedebut>
+      <datefin>2018-05-17</datefin>
+      <environnement>PHP
+HTML
+notepad ++
+serveur wamp/xampp
+sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendus pour les différents acteurs (membres et admin)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation de tests et la validation du service et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Etablir le planning personnel
+Rendre compte de l'activité à M.Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec M.Guerin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la BDD
+Manipulation des données liées à la solution applicative à travers un langage de requête: SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite> Rédiger la documentation d'utilisation pour M.Guerin</commentaireactivite>
+      </activitecitee>
+      <production numero="2739">
+        <numero>2739</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/open?id=1INxvBtfBM5zKM4-AeWubrRBaJtMl8iNA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2653">
+      <ref>2653</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE: Fan Zone</libcourt>
+      <descriptif>Maquettage et mise en place d'un portail captif.
+
+</descriptif>
+      <contexte>Fan Zone à Rennes </contexte>
+      <datedebut>2018-04-10</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement>Packet Tracer
+PFSense
+</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2647">
+        <numero>2647</numero>
+        <designation>Dossier sur Google Drive</designation>
+        <adresse>https://drive.google.com/open?id=1-D7h8yLx04i9nMLwog3-QgaoFLZ3Q3KO</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2664">
+      <ref>2664</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Veille technologique sur les systèmes d'exploitation basés sur un noyau Linux et un noyau BSD</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-09-01</datedebut>
+      <datefin>2019-09-01</datefin>
+      <environnement>FreshRSS</environnement>
+      <moyen>Lecteur de flux RSS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2736">
+        <numero>2736</numero>
+        <designation>Shaarli</designation>
+        <adresse>https://shaarli.unanargeek.xyz</adresse>
+      </production>
+      <production numero="2737">
+        <numero>2737</numero>
+        <designation>FreshRSS</designation>
+        <adresse>https://rss.unanargeek.xyz</adresse>
+      </production>
+      <production numero="2738">
+        <numero>2738</numero>
+        <designation>Mastodon</designation>
+        <adresse>https://social.unanargeek.xyz/@maximesourdin</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2713">
+      <ref>2713</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d'une solution de clonage et de déploiement</libcourt>
+      <descriptif>Installation de FOG 
+Documentation pour l'installation et l'utilisation
+Clonage et déploiement sur deux salles
+Dualboot Windows/Debian, Kali/Windows
+Liaison avec le NAS Synology</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-29</datedebut>
+      <datefin>2018-06-19</datefin>
+      <environnement>Debian
+Windows
+Kali
+Proxmox
+DSM</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2740">
+        <numero>2740</numero>
+        <designation>documentation</designation>
+        <adresse>https://drive.google.com/open?id=1CbDCgGgqLGC537uV5qXdgNjsgO1HRmoC</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2729">
+      <ref>2729</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d'une solution de supervision+cartographie</libcourt>
+      <descriptif>Installation d'une machine virtuelle CentOS et de Zabbix</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-06-21</datedebut>
+      <datefin>2018-06-26</datefin>
+      <environnement>CentOs
+Proxmox
+Zabbix
+</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2742">
+        <numero>2742</numero>
+        <designation>Comparatif</designation>
+        <adresse>https://drive.google.com/open?id=1BoRYO3o0RkflbypkmSIPfWUmVlD_8Lvy</adresse>
+      </production>
+      <production numero="2743">
+        <numero>2743</numero>
+        <designation>Documentation Zabbix</designation>
+        <adresse>https://drive.google.com/open?id=1FOF10WNl0A6DiIiFRgh3LcPiNAljnJ5C</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2737">
+      <ref>2737</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'un serveur de mises à jour WSUS</libcourt>
+      <descriptif>Installation d'une machine virtuelle Windows Serveur et installation du service de gestion de mises à jour WSUS</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-06-20</datedebut>
+      <datefin>2018-06-29</datefin>
+      <environnement>WSUS
+Windows Server
+Virtualbox</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

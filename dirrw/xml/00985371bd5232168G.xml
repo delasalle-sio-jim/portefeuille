@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5371bd5232168">
+    <ref>5371bd5232168</ref>
+    <datesv>2014-05-13</datesv>
+  </sauvegarde>
+  <etudiant numero="98">
+    <nom>Merle</nom>
+    <prenom>Quentin</prenom>
+    <mel>quentin.merle@me.com</mel>
+    <situation ref="760">
+      <ref>760</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises</contexte>
+      <datedebut>2013-11-29</datedebut>
+      <datefin>2013-12-03</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="791">
+      <ref>791</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission VALRES</libcourt>
+      <descriptif>Validation de l'application web de réservation des salles</descriptif>
+      <contexte>Application web de la Maison des Ligues de Lorraine (M2L) afin de réserver les salles misent à disposition</contexte>
+      <datedebut>2013-11-26</datedebut>
+      <datefin>2014-01-07</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="517">
+        <numero>517</numero>
+        <designation>M2L Intranet Système de réservation de salles</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/Merle/mdl</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="930">
+      <ref>930</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission GESFORM</libcourt>
+      <descriptif>Création d'une application web permettant l'inscription par des associations aux formations proposées par le Comité Régional Olympique et Sportif de Lorraine</descriptif>
+      <contexte>Application web de la Maison des Ligues de Lorraine (M2L) d'inscriptions aux formations.</contexte>
+      <datedebut>2014-03-18</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement>Serveur Apache, MySQL, phpMyAdmin</environnement>
+      <moyen>Power AMC, Sublime Text</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="672">
+        <numero>672</numero>
+        <designation>Application gestion formations M2L</designation>
+        <adresse>http://ppe.furtys.me/gesform/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

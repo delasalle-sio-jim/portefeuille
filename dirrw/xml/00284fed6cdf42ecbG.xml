@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fed6cdf42ecb">
+    <ref>4fed6cdf42ecb</ref>
+    <datesv>2012-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="28">
+    <nom>PARNET</nom>
+    <prenom>Pierre-Emmanuel</prenom>
+    <mel>parnet-pe@voila.fr</mel>
+    <situation ref="71">
+      <ref>71</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veeam Backup &amp; Replications</libcourt>
+      <descriptif>Mise en place d'un système de sauvegardes automatisées de machines virtuelles au sein du lycée Jeanne d'Arc.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-11</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Serveur VmWare ESX(i)</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Depuis un serveur virtualisé(Hyper-v), nous avons testé l'installation du machine virtuelle sur un serveur VmWare ESX(i), pour ensuite tester le rapatriement des sauvegardes sur le serveur (Veeam Backup).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Suite à quelques soucis avec les premières tentatives d'installation de ce service, j'ai réalisé un mode opératoire de l'installation de Veeam B&amp;R, ainsi que de l'installation et la configuration du serveur VmWare ESX(i).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un serveur Windows Server 2003 virtuel, et d'un serveur VmWare ESX(i).</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="73">
+      <ref>73</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance postes</libcourt>
+      <descriptif>Résolution de panne réseau dans l'école primaire de Jeanne d'Arc suite à l'impossibilité de se connecter à Internet et à l'imprimante réseau.
+Panne sur poste de travail de l'administration(disque dur en fin de vie)</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-21</datedebut>
+      <datefin>2012-06-21</datefin>
+      <environnement>Postes de travail sous windows XP.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Tests de connectivité grâce à la commande PING, inspection du matériel actif afin d'identifier la nature de la panne.
+Exportation de données contenues sur le disque dur afin de les réintroduire sur disque sain.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="75">
+      <ref>75</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Serveur ZeroShell</libcourt>
+      <descriptif>Maintenance relative à une interruption de service d'un serveur hotsport wifi (portail captif ZeroShell)</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-06-06</datefin>
+      <environnement>Serveur Linux ZeroShell</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Test de mise en place d'un serveur identique grâce à une machine possédant une configuration identique et à un disque dur cloné</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Constat de l'impossibilité de se connecter en wifi via ce serveur.
+Ce serveur permettant de réaliser des agrégats de connexions, identification de la box ayant cessé de fonctionner, et des différentes interfaces réseau du serveur ayant été déconfigurées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Après que le problème ait été résolu, clonage du disque type sur différents autres disques afin de pouvoir réduire au maximum le temps d'interruption en cas d'une nouvelle panne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Configuration via l'interface web du serveur des logs et mots de passe des différents utilisateurs autorisés à accéder à ce service, ainsi que les différentes étendues DHCP permettant l'affectation des adresses IP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Réalisation de copies d'écrans depuis l'interface web afin d'identifier la configuration à respecter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Lors de la reconfiguration du serveur, nous avons pu nous rendre compte que les différents ports ethernet(2 entrées de boxs adsl + 1 entrée interne réservée à l'administration du serveur) étaient à l'origine des problèmes de connexion en raison d'une i</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

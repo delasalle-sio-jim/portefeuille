@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5591609fb7e85">
+    <ref>5591609fb7e85</ref>
+    <datesv>2015-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="118">
+    <nom>Esteve</nom>
+    <prenom>Nicolas</prenom>
+    <mel>delasalle.sio.esteve.n@gmail.com</mel>
+    <situation ref="1168">
+      <ref>1168</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de donnée pour une société de formation </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>serveur wamp,phpmyadmin, SGBDR MySql, MySqlWorkbench,</environnement>
+      <moyen> langage SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1254">
+      <ref>1254</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valrès</libcourt>
+      <descriptif>Mise en place d'un ensemble de fonctionnalités  de l'application web de réservation de salles.</descriptif>
+      <contexte>La maison des ligues delorraine</contexte>
+      <datedebut>2015-02-03</datedebut>
+      <datefin>2015-02-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Vérification du respect du dossier de test a travers de tests avec consignations dans un fichier.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de test.
+Vérification des conditions d'utilisation de la solution logicielle.
+Installation de l'application</commentaireactivite>
+      </activitecitee>
+      <production numero="1096">
+        <numero>1096</numero>
+        <designation>dossier de test</designation>
+        <adresse>https://drive.google.com/?tab=mo&amp;authuser=0#folders/0B8fNxLtywur-RXdIU2l1eExLTVk</adresse>
+      </production>
+    </situation>
+    <situation ref="1261">
+      <ref>1261</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Création d'une application web où il faut se connecter pour afficher un digicode, pouvoir le modifier seulement si on est reconnus comme administrateur. Pouvoir modifier son mot de passe.De plus ,en tant qu'administrateur, pouvoir envoyer des mails au u</descriptif>
+      <contexte>La maison des ligues de loraine (M2L)</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-01-27</datefin>
+      <environnement>serv-wamp2, mySql </environnement>
+      <moyen>HTMl, PHP, css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1298">
+      <ref>1298</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GestForm</libcourt>
+      <descriptif>Développement d'un formulaire d'inscription en ligne afin de remplacer un système  papier.Affichage dynamique des stage disponibles.</descriptif>
+      <contexte>Maison des ligues de lorraines (M2L)</contexte>
+      <datedebut>2015-02-24</datedebut>
+      <datefin>2015-04-07</datefin>
+      <environnement>serveur wamp</environnement>
+      <moyen>powerAMC16, langage : SQL, HTML5, CSS3, PHP5</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>On a analysé les demande de la maison de ligue de Lorraine qui était de rendre virtuel un formulaire d’inscription qui , à la base était par courrier.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>On a analysé les test nécessaires  afin que le contenu de la base de donnée soit bien remplis avec des valeurs plausibles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>On a recenser les utilisateurs du service afin de emplir le formulaire au mieux. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>On a établie une liste de tache répartis entre moi et mon collègue.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Mise en place d'un base de données et d'un dossier parallèle au développement afin d'y appliquer les test avant de les implémenter,ou non, à l'application   </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mise en place de test afin de vérifier l'enregistrement dans la base de données</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1443">
+      <ref>1443</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Manga5e.com</libcourt>
+      <descriptif>Création d'un site internet dynamique ainsi que sa base de données associée sur un sujet au choix. Rédaction d'un document d'utilisation.</descriptif>
+      <contexte>Projet LaFleur</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-05-05</datefin>
+      <environnement>serveur wamp, phpMyAdmin</environnement>
+      <moyen>langage : SQL, HTML5, php5</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse d'un cahier des charge donné par le professeur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une interface intelligible  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception et adaptation d'une base de donnée en lien avec le site crée précédament</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un document utilisateur afin d'expliquer les fonctionnalités du site.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1451">
+      <ref>1451</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>CMS</libcourt>
+      <descriptif>Mise en place d'un portail CMS.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-05-05</datedebut>
+      <datefin>2015-05-12</datefin>
+      <environnement>Wordpress</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1466">
+      <ref>1466</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Squash TM</libcourt>
+      <descriptif>Installation et formation à l'utilisation du logiciel Squash TM ainsi que les incidences que ce logiciel peut avoir avec l'interface Mantis.
+Ce projet a été fait en coopération avec un autre stagiaire en bts sio de Paris. </descriptif>
+      <contexte>Tata Consultancy Services / Alti</contexte>
+      <datedebut>2015-06-08</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement>WampServeur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>77</numero>
+        <commentaire>Bonsoir Nicolas,
+
+quelques remarques :
+
+- tu as noté stage en équipe : Est-ce parce que tu es entouré d'informaticiens? sinon tu peux mettre seul!
+- la date de fin du 19 juin laisse-t-elle supposer que tu as une autre situation professionnelle en cou</commentaire>
+        <datecommentaire>2015-06-23</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

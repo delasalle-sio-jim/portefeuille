@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5721fd9fae9b9">
+    <ref>5721fd9fae9b9</ref>
+    <datesv>2016-04-28</datesv>
+  </sauvegarde>
+  <etudiant numero="109">
+    <nom>Bachelier</nom>
+    <prenom>Valentin</prenom>
+    <mel>delasalle.sio.bachelier.v@gmail.com</mel>
+    <situation ref="1161">
+      <ref>1161</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur Wamp, PhpMyAdmin, SGBDR MySQL, MySQL Workbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs sur lesquels le service aura un impact 
+identifier les fonctionnalités attendues </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>créer les utilisateurs recensés et attribuer les droits nécessaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données sous MySQL
+extension de la bdd initiale
+modélisation de la bdd finale
+Manipulation des données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="1780">
+        <numero>1780</numero>
+        <designation>Preuves</designation>
+        <adresse>https://drive.google.com/drive/folders/0B-MmGiOS9O-QLXpEZUFjbERjTGM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1234">
+      <ref>1234</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valrès</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application web de réservation de salles</descriptif>
+      <contexte>Maison des Ligues</contexte>
+      <datedebut>2014-12-16</datedebut>
+      <datefin>2015-01-06</datefin>
+      <environnement>architecture c/s 3 tier</environnement>
+      <moyen>serveur wamp 2, sgbdr Mysql, logiciel mySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Elaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier tests.
+Passage des tests du dossier du test avec consignation des résultats.
+Vérification des conséquences dans les tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles.
+Dossier de test complété du jeu d'essai de réservations et des résultats</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence les liens entre les tables sous MySQL et justification de celle-ci par des règles de gestion.
+Modélisation de la bdd sous MySQL Workbench.
+Implémentation de la bdd sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1093">
+        <numero>1093</numero>
+        <designation>schéma de la bdd</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1101">
+        <numero>1101</numero>
+        <designation>dossier des tests complété</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1292">
+      <ref>1292</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gesform</libcourt>
+      <descriptif>Le CROSL offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues. Les ligues organisent également des formatione sur l'usage de logiciels spécifiques de gestion des clubs ou des compétitions sportives</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-02-24</datedebut>
+      <datefin>2015-04-07</datefin>
+      <environnement>serv-wamp2 </environnement>
+      <moyen>Power AM 16C, langages: html5, php5, css3, SQL(Javascript)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs sur lesquels le service aura un impact 
+identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Respecter les contraintes et les objectifs fixés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tester les différentes pages d'inscriptions (association, stagiaire)
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Définir les droits de l'administrateur et des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Fixer des objectifs par date sur un planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modélisation de la bdd sous MySQL Workbench.
+Implémentation de la bdd sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>tester les différentes catégories et que cela soit cohérent avec ce que l'on attend</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1431">
+      <ref>1431</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Bestphone</libcourt>
+      <descriptif>Création d'un site permettant la vente en ligne</descriptif>
+      <contexte>Entreprise de vente de téléphones et d'accessoires via internet</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-09</datefin>
+      <environnement>Serveur wamp, SGBR MySQL</environnement>
+      <moyen>NotePad, phpMyAdmin, mySQL workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs sur lesquels le service aura un impact 
+identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite> modifier les pages pages du site permettant au utilisateurs de pouvoir commander, ajouter ou suprimmer un article du panier</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence les liens entre les tables sous MySQL et justification de celle-ci par des règles de gestion.
+Modélisation de la bdd sous MySQL Workbench.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>tester les différentes catégories et que cela soit cohérent avec ce que l'on attend</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Creation d'une documentation utilisateur</commentaireactivite>
+      </activitecitee>
+      <production numero="1259">
+        <numero>1259</numero>
+        <designation>Projet Bestphone</designation>
+        <adresse>https://drive.google.com/drive/folders/0B_t9FRhqU7aOfkFMR0xTMkxZT3BMWFZXWVkxaG9QWGlWVVhDWF9oVmZsdnFZU25HMGRlOFk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1463">
+      <ref>1463</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1 : Synchronisation d'agenda avec Windev et Google Agenda</libcourt>
+      <descriptif>Développement d'une nouvelle fonctionnalité permettant de synchroniser l'agenda d'une application interne avec Google Agenda dans le but d'accéder à ce calendrier à partir d'autres supports (téléphone mobile par exemple).</descriptif>
+      <contexte>SCR Informatique : Editeur de logiciels développés en WinDev, en particulier pour le marché des ambulanciers.</contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement>EDI WinDev Webdev</environnement>
+      <moyen>EDI WinDev Webdev</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une fenêtre permettant l'exportation d'un agenda vers Google Agenda</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement et amélioration des exemples fournis avec WinDev ainsi que des applications mobiles fournies avec WinDev Mobile</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Utilisation de bibliothèques de fonctions WinDev permettant l'accès à Google Agenda</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Utilisation des livres d'autoformation ainsi que des exemples fournis avec WinDev et Webdev</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découverte d'un nouvel EDI, d'un nouveau langage de programmation ainsi que de Google Agenda</commentaireactivite>
+      </activitecitee>
+      <production numero="1574">
+        <numero>1574</numero>
+        <designation>Compte Rendu Stage</designation>
+        <adresse>https://drive.google.com/drive/folders/0B-MmGiOS9O-QMFotWklXV0FuY0U</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1604">
+      <ref>1604</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage ABSI-Gestion des Contrats</libcourt>
+      <descriptif>Amélioration d'une application permettant de gérer des contrats. Création de nouvelles fenêtres.</descriptif>
+      <contexte>Amélioration des applications existantes</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-05</datefin>
+      <environnement>WLanguage</environnement>
+      <moyen>EDI Windev</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Répondre à des exigences demandés,modification, ajout, suppression etc...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Reprendre une application déjà existante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Amélioration des pages contrat, tâche et agence de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Ajout et modification d'entitées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Test des différentes modifications apportées au projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Tester l'application et trouver les bugs</commentaireactivite>
+      </activitecitee>
+      <production numero="1617">
+        <numero>1617</numero>
+        <designation>1ère tâche ABSI</designation>
+        <adresse>https://drive.google.com/drive/folders/0B-MmGiOS9O-QdS0wOUJSSUJlS1k</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1618">
+      <ref>1618</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage ABSI-Gestion de Temps</libcourt>
+      <descriptif>Amélioration d'une application permettant de gérer les différentes tâches. Création de nouvelles fenêtres. Ajout d'un planning pour planifier des tâches.</descriptif>
+      <contexte>Amélioration des applications existantes</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-05</datefin>
+      <environnement>WLanguage</environnement>
+      <moyen>EDI Windev</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Répondre à des exigences demandées, ajout, modification, suppresion etc ...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Reprendre une application déjà existante appelé Gestion des tâches ABSI</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Amélioration de certaines pages ainsi que création de nouvelle fenêtres comme statistiques et planning.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modifications d’entités dans la base de donnée comme &quot;Collaborateurs&quot;</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Tester les différentes modifications faites comme l'ajout de la fenêtre planning ou statistique.</commentaireactivite>
+      </activitecitee>
+      <production numero="1690">
+        <numero>1690</numero>
+        <designation>Taches ABSI-Avant modification</designation>
+        <adresse>https://drive.google.com/drive/folders/0B-MmGiOS9O-QWlZoRElkQndXdUE</adresse>
+      </production>
+      <production numero="1691">
+        <numero>1691</numero>
+        <designation>Taches ABSI-Après modification</designation>
+        <adresse>https://drive.google.com/drive/folders/0B-MmGiOS9O-QM2RIbEdIWXlyU00</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1675">
+      <ref>1675</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestsup</libcourt>
+      <descriptif>Installation d'un système de gestion d’incidents basé sur la solution libre GestSUP.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-19</datefin>
+      <environnement>Linux</environnement>
+      <moyen>Gestsup</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1680">
+        <numero>1680</numero>
+        <designation>Projet Gestsup</designation>
+        <adresse>https://drive.google.com/drive/folders/0B-MmGiOS9O-QS09EUHhRc1hqNE0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1679">
+      <ref>1679</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'une veille technologique sur l'évolution des imprimantes 3D.</descriptif>
+      <contexte>Dans le but de l'épreuve E6</contexte>
+      <datedebut>2014-12-01</datedebut>
+      <datefin>2016-03-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Utilisation de Google Alert, pour la recherche d'information sur la veille.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formations des outils de veille technologique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter d'une nouvelle technologique sur les imprimantes 3D.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1750">
+      <ref>1750</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Bureau des étudiants</libcourt>
+      <descriptif>Création d'un site responsive pour le bureau des étudiants du Lycée De La Salle. Projet de SI7.</descriptif>
+      <contexte>Le bureau des étudiants voulais un site web responsive adapté pour les mobiles, ordinateurs pour promouvoir les événements, les articles des étudiants au Lycée de la Salle. Ainsi que la création d'une page Facebook.</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-03-16</datefin>
+      <environnement>WampServer, Hébergement OVH, Github</environnement>
+      <moyen>Ordinateur du lycée</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Rédaction d'un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Estimation du coût de la solution(Devis OVH)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recensement des différents composants à la réalisation de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Cas utlisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Information de la mise en place du nouveau service sur la page Facebook</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Trello</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identification des différents composants logiciels pour la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>maquette du site web/responsive</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Conception du MCD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Rédaction d'une documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1755">
+      <ref>1755</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L-GRR (Service web PHP)</libcourt>
+      <descriptif>Débug et réalisation de services web en PHP qui seront utilisées ultérieurement pour une application Jquery</descriptif>
+      <contexte>Maison des Ligues(M2L)</contexte>
+      <datedebut>2015-10-13</datedebut>
+      <datefin>2015-11-24</datefin>
+      <environnement>Serveur wamp en local</environnement>
+      <moyen>IDE Eclipse, Github</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Développement à partir d'un dossier détaillé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test des différents services avec un fichier Word. Avec des tests fonctionnels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Utilisation de Github</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>rendre compte le planning des collaborateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'un composant:API web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test des différents services avec un fichier Word. Avec des tests fonctionnels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Exploitations des normes des fichiers PHP existant, pour créé les nouveaux services.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1757">
+      <ref>1757</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L-GRR (Service classe JAVA)</libcourt>
+      <descriptif>Réalisation de classe JAVA qui seront utilisées ultérieurement pour une application mobile Android</descriptif>
+      <contexte>Maison des Ligues (M2L)</contexte>
+      <datedebut>2016-03-08</datedebut>
+      <datefin>2016-04-26</datefin>
+      <environnement>Serveur Wamp en local</environnement>
+      <moyen>IDE Eclipse, Github</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1758">
+      <ref>1758</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L-GRR (Application web mobile)</libcourt>
+      <descriptif>Réalisation d'une application web mobile permettant aux utilisateurs responsables des clubs et des ligues afin de compléter le système de réservation de salles (GRR) sur mobile.</descriptif>
+      <contexte>Maison des Ligues(M2L)</contexte>
+      <datedebut>2015-11-24</datedebut>
+      <datefin>2015-12-15</datefin>
+      <environnement>Serveur Wamp en local</environnement>
+      <moyen>IDe Eclispe, GitHub</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

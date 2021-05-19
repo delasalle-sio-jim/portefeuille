@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fce2bce78977">
+    <ref>4fce2bce78977</ref>
+    <datesv>2012-06-05</datesv>
+  </sauvegarde>
+  <etudiant numero="11">
+    <nom>DUTERTRE</nom>
+    <prenom>Damien</prenom>
+    <mel>damiendutertre@gmail.com</mel>
+    <situation ref="21">
+      <ref>21</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Serveur de surveillance avec caméra IP</libcourt>
+      <descriptif>Sur le serveur NAS j'ai installé un module de surveillance fonctionnant avec caméra IP.
+Configuration d'alertes e-mails lors de problèmes système, lors de perte de connexion, ou lors de mouvements détectés en dehors des horaires d'ouverture.</descriptif>
+      <contexte>Mise en place de la vidéosurveillance dans un magasin.
+Le but est d'avertir de mouvements suspects en dehors des horaires d'ouverture, et de conserver les vidéos lorsque la caméra détecte un mouvement.</contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-06-01</datefin>
+      <environnement>Serveur NAS Netgear ReadyNAS Pro 2 (deux disques SATA de 1 To en mirroring).
+Caméra IP Axis 207W</environnement>
+      <moyen>Installation sur le NAS du module ReadyNAS Surveillance.
+Configuration de la caméra IP et du serveur NAS.
+</moyen>
+      <avisperso>Intéressant. Je n'avais jamais travaillé sur un serveur NAS ni sur une caméra IP.</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>- déploiement d'un service NAS
+- mise en place d'un système de vidéosurveillance</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>- administration d'un serveur NAS
+- administration d'une caméra IP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>rédaction d'une documentation technique de mise en place de solution de vidéo surveillance avec serveur NAS et caméra IP.</commentaireactivite>
+      </activitecitee>
+      <production numero="3">
+        <numero>3</numero>
+        <designation>Documentation technique de mise en place d'une solution de vidéosurveillance</designation>
+        <adresse>sur ma clé</adresse>
+      </production>
+    </situation>
+    <situation ref="27">
+      <ref>27</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Migration serveur MySQL</libcourt>
+      <descriptif>Il s'agit de réaliser deux machines virtuelles (une Linux et une Windows) avec mysql et de choisir le mieux/plus rapide/plus performant/plus souple d'utilisation</descriptif>
+      <contexte>Une application interne de gestion du parc informatique fonctionne avec une base de données hébergée sur un vieux serveur Linux Mandrake. On a peur qu'il tombe en panne. On souhaite donc le changer.</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-08</datefin>
+      <environnement>Windows 7 Professionnel
+Linux Ubuntu serveur 12.04 LTS
+MySQL 5
+Oracle VM VirtualBox 4</environnement>
+      <moyen>Virtualisation : conception et mise en fonctionnement de machines virtuelles.</moyen>
+      <avisperso>Windows est beaucoup plus lourd (et payant) donc a priori moins intéressant, cependant le personnel de l'entreprise n'a que peu de connaissances sur les environnements linux.</avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Il s'agit de comprendre et analyser les relations entre l'application et le serveur mysql. En effet l'application ne pourra pas être modifiée, c'est donc au serveur de s'adapter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le serveur doit être toujours disponible, fournir les réponses attendues dans les meilleurs délais, ...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Réalisation d'une comparaison entre deux solutions (Linux et Windows) et choix final : ...(pas encore déterminé).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Décrire la solution retenue et rédiger une fiche technique (pas encore fait).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place du serveur dans un réseau clos (sans interaction avec le réseau de l'entreprise) (pas encore fait).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place du service mysql (non terminé).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>On m'a demandé de suivre des étapes successives dans ce projet. J'ai été amené à rendre compte régulièrement de l'avancée de mon travail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Automatisation de la sauvegarde de la base de données (pas encore fait).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation en suivant les étapes du projet.
+Rédaction d'une fiche de conception d'une machine virtuelle.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une fiche d'utilisation pour l'administration du serveur MySQL (pas encore fait).</commentaireactivite>
+      </activitecitee>
+      <production numero="4">
+        <numero>4</numero>
+        <designation>Fiche procédure de conception d'une machine virtuelle</designation>
+        <adresse>sur ma clé</adresse>
+      </production>
+      <production numero="5">
+        <numero>5</numero>
+        <designation>Fiche de projet (suivant les étapes imposées)</designation>
+        <adresse>sur ma clé</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

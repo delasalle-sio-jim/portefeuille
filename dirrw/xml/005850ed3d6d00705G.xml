@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50ed3d6d00705">
+    <ref>50ed3d6d00705</ref>
+    <datesv>2013-01-09</datesv>
+  </sauvegarde>
+  <etudiant numero="58">
+    <nom>BINETTI</nom>
+    <prenom>Kevin</prenom>
+    <mel>binetti.k@hotmail.fr</mel>
+    <situation ref="189">
+      <ref>189</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>commande linux</libcourt>
+      <descriptif>J'ai appris les commandes, on les a testé, et rencontré des erreurs que nous avons su surmonter</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-06</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="202">
+      <ref>202</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'un système d'exploitation</libcourt>
+      <descriptif>Installation des pilotes, de l'imprimantes et de logiciel comme la suite office</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="214">
+      <ref>214</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>veille technologioque pour faire un exposé</libcourt>
+      <descriptif>J'ai fais un exposé sur la faille internet explorer</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-25</datedebut>
+      <datefin>2012-09-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="219">
+      <ref>219</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Documentation technique pour installer une imprimante réseau</libcourt>
+      <descriptif>J'ai créer une documentation technique afin d'installer l'imprimante réseau sur ma machine si je devais formater le disque dur</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-10-03</datedebut>
+      <datefin>2012-10-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="225">
+      <ref>225</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>creation d'un power point sur les competences informatiques</libcourt>
+      <descriptif>j'ai créer un power point afin de presenter les differentes formation informatique </descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="305">
+      <ref>305</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Analyse du cahier des charges de la communauté Cotes d'émeraude</libcourt>
+      <descriptif>Suite à un appel d'offre, j'ai du analyser le cahier des charges de la communauté Cotes d'émeraude. Ceci afin de pouvoir répondre à ces appel.</descriptif>
+      <contexte>La communauté à un parc informatique vieillissant, et ils ont besoin qu'il soit renouvellé en suivant certain critère et un budget de 25 000€</contexte>
+      <datedebut>2012-12-18</datedebut>
+      <datefin>2013-01-08</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

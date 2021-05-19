@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5c18c7928de2e">
+    <ref>5c18c7928de2e</ref>
+    <datesv>2018-12-18</datesv>
+  </sauvegarde>
+  <etudiant numero="248">
+    <nom>Gouedo</nom>
+    <prenom>Vincent</prenom>
+    <mel>delasalle.sio.gouedo.v@gmail.com</mel>
+    <situation ref="2804">
+      <ref>2804</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit </libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit </descriptif>
+      <contexte>Société proposant des formations en bureautique au entreprises </contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2018-11-22</datefin>
+      <environnement>serveur wamp, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et une structure organisationnelle</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>créer la base de données Dutoit sous MySQL. Faire l'extension de la base de données initiale. Modéliser la base données initiale. Modéliser la base de données finale. Manipuler les données lier a la solution applicative à travers le langages de requetés </commentaireactivite>
+      </activitecitee>
+      <production numero="2793">
+        <numero>2793</numero>
+        <designation>TP9 - Dutoit</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="571f63a8676b5">
+    <ref>571f63a8676b5</ref>
+    <datesv>2016-04-26</datesv>
+  </sauvegarde>
+  <etudiant numero="89">
+    <nom>Jolivet</nom>
+    <prenom>Maxime</prenom>
+    <mel>jolivet.maxime@ymail.com</mel>
+    <situation ref="863">
+      <ref>863</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Digicode</libcourt>
+      <descriptif>Mise en place d'un site web pour consulter et/ou modifier un digicode permettant d'accéder à des salles</descriptif>
+      <contexte>La Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-02-04</datefin>
+      <environnement>PHP, Mysql</environnement>
+      <moyen>Utilisation d'un serveur wamp, d'un logiciel NotePad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etudier les cas d’utilisation (fonctionnalités existantes et futures de l’application).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Les utilisateurs autorisés sont enregistrés dans la base de données mrbs du CRIB, dans la table des utilisateurs mrbs_users. Ils doivent s'authentifier avec leur nom et leur mot de passe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Développer l’application en PHP cas par cas en tenant compte des normes de développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter votre base de données Mrbs afin de répondre aux besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Les tests de validation de l’application fournie portent sur les fonctionnalités offertes aux utilisateurs de tout type. Les tests de validation s'articulent autour de : la connexion et déconnexion des utilisateurs, l’envoi d’un mail en cas de mdp oublié</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Réalisation de test unitaires sur le bon fonctionnement de l'application web pour chaque utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Exploitation des règles de programmation</commentaireactivite>
+      </activitecitee>
+      <production numero="1161">
+        <numero>1161</numero>
+        <designation>Dossier production(s) -  Digicode</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifkI0STM5cmdHRUs1dUxkTm5rdDIwOTJhVk02eUd6MDJQcE1xcHY4Y2RFY00&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="981">
+      <ref>981</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Appel offre - GSB</libcourt>
+      <descriptif>Etude d'un appel offre et proposition d'une solution à partir d'un cahier des charges</descriptif>
+      <contexte>La société GSB souhaite équiper 480 personnes en pc</contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement>Drop Box, Word, Powerpoint</environnement>
+      <moyen>Travail collaboratif </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recensement des différents cas du cahier des charges,
+Identification des fonctionnalités nouvelles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recensement d'exigence liée à la qualité et la sécurité du cas GSB.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Élaboration d'un dossier argumentatif sur une solution avec l’estimation du coût.</commentaireactivite>
+      </activitecitee>
+      <production numero="1160">
+        <numero>1160</numero>
+        <designation>Dossier production(s) -  GSB</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifnA1NW1PcE40Y3VCaTZ2UnAyTGF5Z2I0QkU3bS1KTUNsUkdmUE02Y2xHb0U&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="985">
+      <ref>985</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Valres</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application web de réservation de salles.</descriptif>
+      <contexte>La maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2013-12-17</datedebut>
+      <datefin>2014-01-14</datefin>
+      <environnement>Architecture client/serveur</environnement>
+      <moyen>Utilisation d'un serveur WAMP [phpmyadmin], SGBR MySQL, logiciel MySQL WorkBench, NotePad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier de tests. Passage des tests du dossier de tests avec consignation des résultats. Vérification des conséquences dans les tables.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests. 
+Vérification des conditions d'utilisation de la solution logicielle mrbs. 
+Installation de l'application web de réservation de salles.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence les liens entre les tables sous MySQL  et justification de celles-ci par des règles de gestion.
+Modélisation de la base de données sous MySQL Workbench.
+Implémentation de la base de données sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="713">
+        <numero>713</numero>
+        <designation>Dossier production(s) -  Valres</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifjU3c3NwbFk2NnBkTmRPTW9FZGVPZ3VHRG1ha2k4d1BRSEdiZ1g1bTBTZ0k&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1013">
+      <ref>1013</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - Gesform</libcourt>
+      <descriptif>Le CROSL (Comité Régional Olympique et Sportif de Lorraine) offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues (législation, éthique, comptabilité associative, etc.). Les ligues organisent également des formations, en </descriptif>
+      <contexte>Maison des Ligues de lorraine (M2L)</contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-04-01</datefin>
+      <environnement>Architecture client/serveur, PHP, HTML, JavaScript, CSS</environnement>
+      <moyen>Notepad++, Architecture client/serveur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Critiquez le site actuel et justifiez la mise en place de la nouvelle application web.
+Présentez la circulation des informations dans ce système d’information.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Saisie d'un jeu d’essai à l’aide des documents fournis</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Cas d’utilisation (fonctionnalités de la future application)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Développement de l’application en PHP cas par cas.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Recensement des données nécessaires dans un dictionnaire,
+Élaboration du modèle conceptuel des données,
+Création de la base de données sous MySql
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Saisie d'un jeu d’essai à l’aide des documents fournis</commentaireactivite>
+      </activitecitee>
+      <production numero="1162">
+        <numero>1162</numero>
+        <designation>Dossier production(s) -  Gesform</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifkRjZEd6aWdYQWxTOWVxNnlkbTRuZ2FfMk5MYTg0Uk82OHpZN08tSDFqTGs&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1036">
+      <ref>1036</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>iMobile</libcourt>
+      <descriptif>Création d'un site internet &quot;Marchand&quot; en dynamique</descriptif>
+      <contexte>iMobile propose une gestion de panier et un service client par mail très réactif. Le site propose une sélection des meilleurs appareils mobile, répartie selon différentes catégories. </contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-17</datefin>
+      <environnement>Architecture client/serveur</environnement>
+      <moyen>Utilisation d'un serveur WAMP, PHP/Apache, SGBR MySQL [phpmyadmin], CSS, NotePad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du dossier Lafleur qui permet de réaliser un projet perso [iMobile] en équipe de deux personnes sous un cahier des charges bien encadrés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Détermination des droits des utilisateurs, des clients, des administrateurs du sites iMobile.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Partie d'administration donnée à intégrer dans notre application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de la mise en place du site (style) Css.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification et ajout de table dans la base de donnée (script SQL)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de la totalité du site pour un bon fonctionnement de l'application web.
+Test des commandes, des connexions, la partie administrative...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Réalisation d'un document technique au format papier</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Réalisation d'un document utilisation au format papier</commentaireactivite>
+      </activitecitee>
+      <production numero="765">
+        <numero>765</numero>
+        <designation>Dossier production(s) -  iMobile</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifmY5RlVqUXR6YnFWS0dQeVNtUTg4bU9IZGNmdzRNeV9xQVQ3V05jYXppTkU&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1112">
+      <ref>1112</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestionnaire de demandes de transport sanitaire</libcourt>
+      <descriptif>Adaptation de l'application web</descriptif>
+      <contexte>Centre hospitalier de Vitré</contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1 et C1.1.1.2 (Cas utilisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Par exemple : Validation des demandes par le STANDARD. (cf. liste des besoins à effectués avec priorité avec la validation de mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Adaptation d'une solution existante (php, mysql, javascript)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en œuvre régulière des tests nécessaire à la mise au point de l'application web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>cf. Cas utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Migration de l'application web Gestion DTS. Présentation de l'évolution de la nouvelle application aux utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Analyse critique de l'application existante avec les services (Rencontre des utilisateurs)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Les besoins à effectuer avec les couts de réalisation </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaption de l'interface utilisateur (Copie écran ancienne et nouvelle)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification de la structure de la base de données (ajout de colonnes dans certaines tables. Manipulation du langage SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement et adaptation de certain composants de l'application web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Cf. Documentation technique aux Administrateurs informatiques et au contrôleur de gestion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Documentation utilisateur pour tous les services sous forme numérique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude de la technologie du javascript.</commentaireactivite>
+      </activitecitee>
+      <production numero="1165">
+        <numero>1165</numero>
+        <designation>Dossier production(s) -  Stage SIO1</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifmVva2tCbWwzN0VJcU93ZmF6V3dmckNQeHI2aDRpc0JEcFdtUWpEVmxqQW8&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1218">
+      <ref>1218</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Site web Établissement scolaire</libcourt>
+      <descriptif>Création d'un site web pour un établissement scolaire.
+Utilisation du CMS WordPress.</descriptif>
+      <contexte>Etablissement scolaire regroupant maternelle, primaire et collège. L'existant était un simple blog chez un prestataire (over-blog.com).</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-06</datefin>
+      <environnement>CMS WordPress</environnement>
+      <moyen>Ordinateur portable personnel, un bureau</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Participation à une réunion avec le directeur du collège et la directrice de l'école maternelle, primaire ainsi que mon tuteur de stage. Cahier des charges produit suite à cette réunion. Rédaction de compte-rendu de la réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recensement des différents rôles des utilisateurs : 
+- Visiteur (Abonné) : tout le monde
+- Contributeur : les professeurs, équipe de direction
+- Éditeur : équipe de direction
+- Administrateur : professeur de technologie</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Accompagnement de la mise en place du nouveau site web, mise en place d'une formation (une demi journée). Rédaction d'un guide utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Proposition de l'hébergement chez OVH, mise en oeuvre de l'installation du site web chez l'hébergeur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Mise en place de plugin sous WordPress pour répondre aux différents besoins : SEO(référencement moteurs de recherche), Events Manager (gestion de calendrier), ... </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de maquettes sur papier, propositions à la direction et développement de la maquette choisie. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Modification du code d'un plugin de diaporama allégé. 
+Mise en place d'un plugin de sauvegarde du site (fichiers) ainsi que la base de données. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un guide utilisateur pour chaque rôle.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Estimation de deux devis chez un prestataire de service pour l’hébergement et le nom de domaine </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation d'internet. Visite de sites spécialisés sur WordPress.</commentaireactivite>
+      </activitecitee>
+      <production numero="1147">
+        <numero>1147</numero>
+        <designation>Dossier production(s) -  Stage SIO2</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifk1MREc2dUI4bnY1WkUtc0FtLTFta3JRelpmUUVFbF9jeV9wcTdkRzVzMXM&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1311">
+      <ref>1311</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de parc informatique (GLPI - GestSup)</libcourt>
+      <descriptif>Installation de GLPI sur un Linux et d'OCS Inventory sur Windows afin de tester la prise en charge de gestion de tickets.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-10-16</datedebut>
+      <datefin>2014-10-23</datefin>
+      <environnement>Architecture client/serveur, une ordinateur sous linux et un sous windows</environnement>
+      <moyen>MySQL, OCS, OCS-agent, GLPI ou GestSup</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Etudier les conséquences de la mise en place d'un nouveau service. 
+Vérifier l'évolution de l'existant ou intégrer le nouveau service avec l'existant
+-Intégration d'Apache/Mysql
+-Intégration de GLPI</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>- Installation d'une gestion libre de parc informatique
+- Installation OCS inventory</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>- Gestion des configurations avec l'actualisations des caractéristiques de chaque PC.
+- Mettre à jours la base de configuration de l'inventaire du parc informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Suivi d'une configuration et de ses éléments grâce au logiciel de gestion de parc informatique (inventaire plus helpdesk).
+- Gestion des configurations avec l'actualisations des caractéristiques de chaque PC.</commentaireactivite>
+      </activitecitee>
+      <production numero="1167">
+        <numero>1167</numero>
+        <designation>Dossier production(s) -  GLPI</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifjRqNFpTQ1U3cXJOWERJMHRGMkhiNmZKbUZDU1VsLU5aY1FJTV92TGwyRms&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1312">
+      <ref>1312</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'une veille technologique sur le référencement et les technologies de demain.</descriptif>
+      <contexte>Dans le but de l'épreuve E6</contexte>
+      <datedebut>2013-10-07</datedebut>
+      <datefin>2016-05-30</datefin>
+      <environnement>Internet</environnement>
+      <moyen>Flux Rss, Applications, Pealtree, Twitter</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Utilisation de Google Alert, Twitter, NetVibes pour la recherche d'information sur la veille, la diffusion sur Pearltree.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formations des outils de veille technologique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter d'une nouvelle technologie sur le réferencement</commentaireactivite>
+      </activitecitee>
+      <production numero="1156">
+        <numero>1156</numero>
+        <designation>Pearltrees</designation>
+        <adresse>http://www.pearltrees.com/jolivetmaxime</adresse>
+      </production>
+      <production numero="1157">
+        <numero>1157</numero>
+        <designation>Twitter</designation>
+        <adresse>https://twitter.com/jolivetmaxime</adresse>
+      </production>
+      <production numero="1158">
+        <numero>1158</numero>
+        <designation>Auto-formation outils de veille</designation>
+        <adresse>https://culturenum.info.unicaen.fr/blogpost/wfylz84hi06/view</adresse>
+      </production>
+      <production numero="1166">
+        <numero>1166</numero>
+        <designation>Dossier production(s) -  Veille technologique</designation>
+        <adresse>https://drive.google.com/open?id=0BxNJMgdPnE-ifnhvZjZJRE91UUducTh1dlZrV3A0NU9ybklsLVpOMVZ5aHhTeGRvMzEtSHM&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1400">
+      <ref>1400</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - GRR (Service web PHP)</libcourt>
+      <descriptif>Dé-bug et réalisation de services web en PHP qui seront utilisées ultérieurement pour une application mobile Jquery</descriptif>
+      <contexte>Maison des Ligues (M2l)</contexte>
+      <datedebut>2015-10-13</datedebut>
+      <datefin>2015-11-24</datefin>
+      <environnement>Serveur Wamp en local</environnement>
+      <moyen>IDE Eclipse, GitHub</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Développement à partir d'un dossier détaillé sur les fonctionnalités attendues du service à produire de la maison des ligues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test de chaque service web avec une fiche de tests fonctionnels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement des différents services web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Exploitation des normes des fichiers PHP existant, pour crée les nouveaux services.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1626">
+      <ref>1626</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Boutique e-commerce Greentech</libcourt>
+      <descriptif>Développement d'une boutique e-commerce &quot;Greentech&quot;
+Création d'un CMS e-commerce à partir de zéro</descriptif>
+      <contexte>Entreprise Greentech, vendeur agrée de Samsung a une boutique en ligne proposé par une plateforme &quot;Progiciel de gestion intégré&quot;. Mise en question sur l'évolution restreinte du service, ils ont opté pour une boutique e-commerce en prenant en </contexte>
+      <datedebut>2016-01-11</datedebut>
+      <datefin>2016-02-12</datefin>
+      <environnement>PHP, HTML, Framework Boostrap, Jquery</environnement>
+      <moyen>Ordinateur portable personnel, un bureau</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>89</numero>
+        <commentaire>A1.2.4 quelques fautes :
+Fiches des tests réalisés à la fin de chaque tâche effectuée.</commentaire>
+        <datecommentaire>2016-02-05</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>90</numero>
+        <commentaire>A4.1.3 : es-tu sûr pour UML ?
+Implémentation d'un MCD, UML dans un SGBD</commentaire>
+        <datecommentaire>2016-02-05</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>91</numero>
+        <commentaire>A4.1.7 : Mise en place des normes de développement PHP-SQL contre les injections donc utilisation d’éléments de sécurité
+Cette mise en place te permet peut-être d'ajouter la compétence A4.2.1 ?</commentaire>
+        <datecommentaire>2016-02-05</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>88</numero>
+        <commentaire>Dans l'onglet Description, le contexte est tronqué. De plus, les phrases ne semblent pas correctes.</commentaire>
+        <datecommentaire>2016-02-04</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Élaboration du recensement et des caractéristiques d'un cahier des charges. Rédaction d'un compte rendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Estimation des coûts de la nouvelle solution </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recensement de test d'acceptation des services, tests fonctionnels </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Cas d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre au point d'une procédure de l'installation de la solution sur un NAS en interne à l'entreprise ouvert sur la toile.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquette de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'un MCD
+A partir du MCD, la création de la base de donnée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement du site E-commerce</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur la technologie du Boostrap</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1726">
+      <ref>1726</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Bureau des étudiants</libcourt>
+      <descriptif>Création d'un site web responsive pour le bureau des étudiants du Lycée de la Salle. Projet de SI7</descriptif>
+      <contexte>Le bureau des étudiants voulais un site web responsive adpaté pour les mobiles, ordinateurs pour promouvoir les événements, les articles des étudiants au Lycée de la Salle. Ainsi que la création d'une page Facebook.</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-03-16</datefin>
+      <environnement>WampServer, Hébergement OVH, GitHub, Framework Boostrap</environnement>
+      <moyen>Ordinateur portable personnel, un bureau</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Rédaction d'un cahier des charges pour le projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Estimation du coût de la solution (Devis OVH)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recensement des différents composants à la réalisation de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Cas d'utilisation des niveaux d'habilitation </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tests fonctionnels du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Information de la mise en place du nouveau service sur la Page FCB</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Trello (Gestion de projet)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identification des différents composants logiciels pour la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquette du site web / responsive</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception du MCD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Installation de GitHub sur PhpStorm</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Commit sur Github, gestion de version</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1748">
+      <ref>1748</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - GRR (Service classe Java)</libcourt>
+      <descriptif>Réalisation de classe Java qui seront utilisées ultérieurement pour une application mobile Android</descriptif>
+      <contexte>Maison des Ligues (M2l)</contexte>
+      <datedebut>2016-03-08</datedebut>
+      <datefin>2016-04-26</datefin>
+      <environnement>Serveur Wamp en local</environnement>
+      <moyen>IDE Eclipse, GitHub</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Développement à partir d'un dossier détaillé sur les fonctionnalités attendues du service à produire de la maison des ligues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation d'Eclipse pour un environnement de développement ainsi que l'exploitation de Junit test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement des différents services web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation des test unitaires pour les différentes classes Java</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Exploitation des normes des fichiers PHP existant, pour crée les nouveaux services.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1749">
+      <ref>1749</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L - GRR (Application web mobile)</libcourt>
+      <descriptif>Réalisation d'une application web mobile permettant aux utilisateurs responsables des clubs et des ligues afin de compléter le système de réservation de salles (GRR) sur mobile.</descriptif>
+      <contexte>Maison des Ligues (M2l)</contexte>
+      <datedebut>2015-11-24</datedebut>
+      <datefin>2015-12-08</datefin>
+      <environnement>Serveur Wamp en local</environnement>
+      <moyen>IDE Eclipse, GitHub</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Développement à partir d'un dossier détaillé sur les fonctionnalités attendues du service à produire de la maison des ligues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test de chaque page en Jquery avec une fiche de tests fonctionnels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation de l'interface utilisateur avec l'outils Jquery mobile</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement des différents services web avec l'utilisation de Jquery mobile</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Exploitation des normes des fichiers PHP existant, pour crée les nouveaux services.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

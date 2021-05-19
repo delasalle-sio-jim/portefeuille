@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="537da446c217d">
+    <ref>537da446c217d</ref>
+    <datesv>2014-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="98">
+    <nom>Merle</nom>
+    <prenom>Quentin</prenom>
+    <mel>quentin.merle@me.com</mel>
+    <situation ref="760">
+      <ref>760</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises</contexte>
+      <datedebut>2013-11-29</datedebut>
+      <datefin>2013-12-03</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="791">
+      <ref>791</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission VALRES</libcourt>
+      <descriptif>Validation de l'application web de réservation des salles</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2013-12-17</datedebut>
+      <datefin>2014-01-14</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Elaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier de tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Passage des tests du dossier de tests avec consignation des résultats</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables sous MySQL  et justification de celles-ci par des règles de gestion.
+Modélisation de la base de données sous MySQL Workbench.
+Implémentation de la base de données sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="517">
+        <numero>517</numero>
+        <designation>M2L Intranet Système de réservation de salles</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/Merle/mdl</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="930">
+      <ref>930</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission GESFORM</libcourt>
+      <descriptif>Création d'une application web permettant l'inscription par des associations aux formations proposées par le Comité Régional Olympique et Sportif de Lorraine</descriptif>
+      <contexte>Application web de la Maison des Ligues de Lorraine (M2L) d'inscriptions aux formations.</contexte>
+      <datedebut>2014-03-18</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement>Serveur Apache, MySQL, phpMyAdmin</environnement>
+      <moyen>Power AMC, Sublime Text</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="672">
+        <numero>672</numero>
+        <designation>Application gestion formations M2L</designation>
+        <adresse>http://ppe.furtys.me/gesform/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="988">
+      <ref>988</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission DIGICODE</libcourt>
+      <descriptif>Création d'une application permettant de connaitre le digicode d'accès au salle en cas de réservation ainsi que de modifier celui-ci pour les administrateurs.</descriptif>
+      <contexte>Application web de la Maison des Ligues de Lorraine (M2L) afin de connaitre l'accès aux salles réservées.</contexte>
+      <datedebut>2014-01-14</datedebut>
+      <datefin>2014-03-11</datefin>
+      <environnement>Serveur Apache, MySQL, phpMyAdmin</environnement>
+      <moyen>Power AMC, Sublime Text</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="701">
+        <numero>701</numero>
+        <designation>Application digicode M2L</designation>
+        <adresse>http://ppe.furtys.me/digicode/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="993">
+      <ref>993</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission PORTAIL</libcourt>
+      <descriptif>Création d'un nouveau portail pour le site web du CROSL grâce à un CMS (ici WordPress). Celui-ci permettant d'accéder aux différentes applications créées précédemment (Missions Valres, Digicode et Gesform).</descriptif>
+      <contexte>Site internet du CROSL</contexte>
+      <datedebut>2014-04-22</datedebut>
+      <datefin>2014-05-06</datefin>
+      <environnement>Serveur WAMP, serveur MySQLn, phpMyAdmin</environnement>
+      <moyen>CMS (WordPress)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Liste des sites étudiés concernant le CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin d'auto-formation du CMS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du CMS : Possibilités, limites, ...</commentaireactivite>
+      </activitecitee>
+      <production numero="807">
+        <numero>807</numero>
+        <designation>Portail CROSL fait grace à Wordpress</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/MerleSaintLambert/portail/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1048">
+      <ref>1048</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Micro.info</libcourt>
+      <descriptif>Développement et adaptation d'un site web de e-commerce sur le thème de notre choix.</descriptif>
+      <contexte>Entreprise de vente de composants en ligne.</contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-25</datefin>
+      <environnement>Serveur Apache, serveur MySQL, phpMyAdmin</environnement>
+      <moyen>PHP, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Partie administration donnée et à intégrer dans notre application. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Cas d'utilisation + image écran</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="810">
+        <numero>810</numero>
+        <designation>Site web micro.info</designation>
+        <adresse>http://furtys.me/si6/SI6-micro.info</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

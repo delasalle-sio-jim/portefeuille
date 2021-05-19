@@ -1,0 +1,11 @@
+<?php
+$nomServeur="mysql51-46.perso";
+$loginAdminServeur="lyceedelasalle";
+$motPasseAdminServeur="patwcg35";
+$nomBaseDonnee="lyceedelasalle";
+$prefixeTable="port_";
+$crypte=false;
+$smtp=false;
+$melContact="cartron.j@lyceedelasalle.fr";
+$lngmdp=6;
+?>

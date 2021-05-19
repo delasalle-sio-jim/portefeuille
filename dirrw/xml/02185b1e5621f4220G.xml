@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b1e5621f4220">
+    <ref>5b1e5621f4220</ref>
+    <datesv>2018-06-11</datesv>
+  </sauvegarde>
+  <etudiant numero="218">
+    <nom>JALLU</nom>
+    <prenom>Pierre-Thomas</prenom>
+    <mel>delasalle.sio.jallu.p@gmail.com</mel>
+    <situation ref="2322">
+      <ref>2322</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>serveur Wamp, PhpMyAdmin, SGBDR MySQL, MysqlWrokbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (serv-wamp1).
+Faire l'extension de la base de données initiale.
+Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langages de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2452">
+        <numero>2452</numero>
+        <designation>TP8 Dutoit</designation>
+        <adresse>https://google.com/......./TP8 Dutoit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2326">
+      <ref>2326</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Belle Saison</libcourt>
+      <descriptif>Conception ou adaptation d’une base de données.
+Manipuler les données liées à la solution applicative à travers un langage de requête.</descriptif>
+      <contexte>La société Belle Saison dispose d’une base de données sous Access pour gérer ses représentants.
+Le responsable du personnel a élaboré une table Représentants regroupant toutes les informations nécessaires à
+la mise en œuvre :
+&amp;#61623; de l’état des</contexte>
+      <datedebut>2017-10-05</datedebut>
+      <datefin>2017-10-12</datefin>
+      <environnement>Access 2013</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2365">
+      <ref>2365</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2.4 DATA SAVE</libcourt>
+      <descriptif>Installation et configuration d'un Serveur Cloud pour la société M2L</descriptif>
+      <contexte>Appliquer une solution de stockage en ligne pour la société M2L</contexte>
+      <datedebut>2018-01-09</datedebut>
+      <datefin>2018-02-13</datefin>
+      <environnement>Aucun</environnement>
+      <moyen>Utilisation d’apache sur un VM Debian pour créer un serveur owncloud</moyen>
+      <avisperso>Aucun</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Aucun</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2482">
+        <numero>2482</numero>
+        <designation>Agenda sur le suivi de nos projets</designation>
+        <adresse>https://trello.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2646">
+      <ref>2646</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE WIFI LOG</libcourt>
+      <descriptif>Installation d'un portail d'authentification afin que les utilisateurs voulant se connecter sur un réseaux Wifi, puissent s'authentifier, par mesure de sécurités.</descriptif>
+      <contexte>Notre mission en PPE était d'installer un portail d'authentification, ici la nous avons installer PfSense et CoovaChilli, afin de faire une comparaison.</contexte>
+      <datedebut>2018-04-18</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement>PfSense, CoovaChilli, VirtualBox, Windows 10</environnement>
+      <moyen>Installation sur une machine virtuelle via l'outils VirtualBox.</moyen>
+      <avisperso>Très intéressant concernant le fonctionnement.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S'informer du contexte, concernant la mission auquel nous devront traité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Recenser et Analyser les informations diverses sur lesquels, nous installerons notre logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Proposition une solution adaptés à notre situation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédiger un documentation, permettant d'expliquer notre installation et notre solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>S'organiser dans la mission.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Proposer une maquette adaptée à notre installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2648">
+        <numero>2648</numero>
+        <designation>PPE WIFI LOG</designation>
+        <adresse>https://docs.google.com/document/d/1ZQ_pJsh_vK5X-XCuPgU0vumnT-8IreALa3I2swpG7xA/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2661">
+      <ref>2661</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SISR1 - OCS Inventory NG Agent pour Windows</libcourt>
+      <descriptif>Installation d'un logiciel OCS Inventory sur un Windows Server 2012, permettant de relever toutes les configurations des postes utilisateurs dans le réseau.</descriptif>
+      <contexte>Dans le contexte de note </contexte>
+      <datedebut>2018-05-15</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="2675">
+      <ref>2675</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Site Web BDE (Hébergement)</libcourt>
+      <descriptif>Création d'une nouvelle fonctionnalité &quot;Hébergement&quot; pour le site du 
+(Bureau des Etudiants du lycée) du Lycée de la Salle : connaitre et repérer les hébergement libres.</descriptif>
+      <contexte>Le BDE souhaite posséder sur son propre site internet, un formulaire d'inscription, afin de permettre aux futurs étudiants diplômés, de pouvoir déposer une annonce pour mettre en location l'appartement ou ils ont résider pendants leur études, proches du</contexte>
+      <datedebut>2018-06-16</datedebut>
+      <datefin>2018-06-16</datefin>
+      <environnement>Serveur Wamp, Notepad++, bootstrap reponsive, HTML, SQL et PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier la fonctionnalité attendue du service à produire pour les différents acteurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests et la validation du service et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité à Mr Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec Mr Guérin à 2 reprises.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Adaptation de la base de données (...)
+- Manipuler les données liées à la solution applicative à travers un langage de requête SQL.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation pour Mr Guérin.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

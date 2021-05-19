@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="537afb209e3ab">
+    <ref>537afb209e3ab</ref>
+    <datesv>2014-05-20</datesv>
+  </sauvegarde>
+  <etudiant numero="78">
+    <nom>Bouthemy</nom>
+    <prenom>Maxime</prenom>
+    <mel>bouthemy.m@gmail.com</mel>
+    <situation ref="782">
+      <ref>782</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PROJET GSB :Analyse d'un cahier des charges</libcourt>
+      <descriptif>GSB
+Une Entreprise doit répondre a une demande, suite a un salon, en équipant plus de 480 clients, assurer le suivi de ces machines, et former le client si besoin
+et proposer des solutions logicielles ( bureautique par exemple )</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement>Logiciel de collaboration ( Google apps), Navigateur WEB ( Chrome)</environnement>
+      <moyen>Pas de budget défini</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="515">
+        <numero>515</numero>
+        <designation>Dossier Projet GSB ( Google Drive)</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="785">
+      <ref>785</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PROJET GSB : Formation Clients du Salon a Google Apps</libcourt>
+      <descriptif>les clients devaient accéder rapidement à leurs données personnels, être mobiles.
+Ils ont l'habitude de environnement Microsoft et sa Suite bureautique.
+Nous avons proposé la suite Google Apps et créer un mode Opératoire pour les initier.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement>Google Apps</environnement>
+      <moyen>Pas de contraintes</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="699">
+        <numero>699</numero>
+        <designation>Mode opératoire à fournir</designation>
+        <adresse>https://docs.google.com/document/d/14zLN3kaSzLsNDV251o7zyickNvn6EROvPxcFLgMxgUY/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="862">
+      <ref>862</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Inventaire OCS</libcourt>
+      <descriptif>Introduction à OCS : inventaire réseau
+</descriptif>
+      <contexte>Besoin d’inventorier le réseau pour faciliter son suivi</contexte>
+      <datedebut>2014-02-05</datedebut>
+      <datefin>2014-02-19</datefin>
+      <environnement>Serveur windows 2008 R2, Client Windows 7, Machine virtuelle sous Vmware, OCS inventory NG, google Apps.</environnement>
+      <moyen>OCS inventory NG</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="703">
+        <numero>703</numero>
+        <designation>Résultat inventaire</designation>
+        <adresse>https://docs.google.com/document/d/12hWdqCVk4UrKSh_uO-EP3l89dG_20lb9uWX5uYmG3qE/edit?usp=sharing</adresse>
+      </production>
+      <production numero="704">
+        <numero>704</numero>
+        <designation>Présentation Contexte</designation>
+        <adresse>https://docs.google.com/presentation/d/15n_qoxi7nTZWQ3mWe-KeJ1PIOoibc8NvBMQLZI_IRiM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="706">
+        <numero>706</numero>
+        <designation>Correction mode opératoire ( une erreur survenait )</designation>
+        <adresse>https://docs.google.com/document/d/1ZIKotNFbB0039NtwwaHQICx7JF-kj7Bs8UzDOt58QWc/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="927">
+      <ref>927</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE M2L Festibasket</libcourt>
+      <descriptif>Association désirant faire un salon pour promouvoir son activité</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-03-25</datefin>
+      <environnement>Packet tracer, Google apps</environnement>
+      <moyen>2 réseaux distinct ( Orga et public )
+Mode opératoire de connexion a un réseau sans fil</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="671">
+        <numero>671</numero>
+        <designation>Maquette Packet Tracer </designation>
+        <adresse>https://docs.google.com/file/d/0B60m26efAZZxVkl1R1dhd3k3TEE/edit?usp=drive_web</adresse>
+      </production>
+      <production numero="742">
+        <numero>742</numero>
+        <designation>Mode opératoire : connexion a un réseau Wifi</designation>
+        <adresse>https://docs.google.com/document/d/1GwsphEjwoSYGAhfRDKF_r9fWoOl5cwogOuYsSk-grvE/edit?usp=sharing</adresse>
+      </production>
+      <production numero="743">
+        <numero>743</numero>
+        <designation>Configuration routeur</designation>
+        <adresse>https://docs.google.com/document/d/1zkYXDhW6_USjpFRt15PW_86uTNY53JNT_kBKwnRuwy4/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="1004">
+      <ref>1004</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion incidents</libcourt>
+      <descriptif>Gestion de différents incidents rencontrés via GLPI</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-13</datedebut>
+      <datefin>2014-05-13</datefin>
+      <environnement>Windows 7, windows server 2008, glpi</environnement>
+      <moyen>Pas de contraintes spécifiques</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="712">
+        <numero>712</numero>
+        <designation>Fiches panne simple</designation>
+        <adresse>https://drive.google.com/folderview?id=0B51WYGPY9upeM3I4MjRNbkk0N0U&amp;usp=sharing</adresse>
+      </production>
+      <production numero="728">
+        <numero>728</numero>
+        <designation>Fiches panne compliquée</designation>
+        <adresse>https://drive.google.com/folderview?id=0B51WYGPY9upeZkdEV2RVUjZQbkk&amp;usp=sharing</adresse>
+      </production>
+      <production numero="739">
+        <numero>739</numero>
+        <designation>Tickets GLPI</designation>
+        <adresse>https://drive.google.com/folderview?id=0B51WYGPY9upeM3I4MjRNbkk0N0U&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

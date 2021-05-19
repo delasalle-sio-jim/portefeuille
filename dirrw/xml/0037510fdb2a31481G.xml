@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="510fdb2a31481">
+    <ref>510fdb2a31481</ref>
+    <datesv>2013-02-04</datesv>
+  </sauvegarde>
+  <etudiant numero="37">
+    <nom>TRA</nom>
+    <prenom>Cheisda</prenom>
+    <mel>cheisda@gmail.com</mel>
+    <situation ref="78">
+      <ref>78</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>programmation php </libcourt>
+      <descriptif>écrire, modifier, supprimer des évènements dans le calendrier Google via des pages écrites en php
+Ecriture de pages en php (entretien et demandes d'entretien) destiné au personnel OGEC du ménage </descriptif>
+      <contexte>On veut lier, synchroniser les calendriers intranet et Google.
+Ecriture de pages en php (entretien et demandes d'entretien) destiné au personnel OGEC du ménage 
+</contexte>
+      <datedebut>2012-06-21</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Zend Framework
+Google API
+intranet (serveur apache)</environnement>
+      <moyen>notepad ++</moyen>
+      <avisperso>diffcile au début de se mettre dans de la programmation php orientée objet, mais c'est faisable et à force d'en faire on arrive à s'adapter à l'environnement de Zend</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="313">
+      <ref>313</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2ème année</libcourt>
+      <descriptif>Stage au sein d'une entreprise SIB (Syndicat Interhospitalier de Bretagne)</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>Eclipse, windows 7, ldap, phoenix server,Xamp, </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>analyse à faire par rapport au portail web/Prestaion Paie</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Envoie mail à équipe technique (semaine n°2)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Analyse de la demande</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l'appli </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="322">
+      <ref>322</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année</libcourt>
+      <descriptif>Stage de première année. 
+Révision de la charte informatique, instal d'un ordinateur destiné au personnel(ménage)via image ISO, prog php (intranet) accessible à certaines personnes seulement, maintenance ordinateurs et configuration de bornes WIFI.</descriptif>
+      <contexte>Stage de première année au lycée/collège Assomption Rennes</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>windows XP, LDAP, Linux, ...
+Beaucoup de postes dans l'établissement.</environnement>
+      <moyen>notepad ++</moyen>
+      <avisperso>Stage intéressant, basé sur du réseau aussi. cela m'a permis de découvrir plusieurs aspects que je ne connaissait pas.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>seuls les 2ères compétences sont à valider.
+mettre en place un site accessible au personnel ménage de OGEC. sans authentification,accessible par un seul PC(via IP fixe)[mais voulait mettre en place via une MAC address, mais comment ? ne savait pas faire]</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>mise en place des règles (proxy)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>test du proxy (accessibilité de certains sites)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Démontage de la carte graphique d'un pc NEC afin de changer les condensateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Démontage de la carte graphique d'un pc NEC afin de changer les condensateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Remise en forme et à jour de la charte informatique du collège/Lycée</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>test du proxy (accessibilité de certains sites {FIREWALL ALIX 2D13 HDD})
+test de la configuration des bornes wifi. configuration via une interface en php (pdfSense)
+test de redémarrage d'un pc après changement de condensateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de la charte informatique (rajout de règles)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Remise en forme et à jour de la charte informatique du collège/Lycée</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>recherche sur la technologie des bornes wifi, sur les autres proxy mobiles, ect...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>étude de la borne wifi : nanoStation loco m5
+étude du proxy : FIREWALL ALIX 2D13 HDD</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="323">
+      <ref>323</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP de 1ère année</libcourt>
+      <descriptif>Compétences acquises lors des TPs de première année</descriptif>
+      <contexte>en cours</contexte>
+      <datedebut>2011-10-10</datedebut>
+      <datefin>2012-05-25</datefin>
+      <environnement>MySQL, phpMyAdmin, NotePad++, Microsoft Studio, windows 2008 server, virtual Box, Active Directory, ...</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

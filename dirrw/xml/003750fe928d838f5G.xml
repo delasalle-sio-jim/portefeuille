@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50fe928d838f5">
+    <ref>50fe928d838f5</ref>
+    <datesv>2013-01-22</datesv>
+  </sauvegarde>
+  <etudiant numero="37">
+    <nom>TRA</nom>
+    <prenom>Cheisda</prenom>
+    <mel>cheisda@gmail.com</mel>
+    <situation ref="19">
+      <ref>19</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>révision charte Informatique</libcourt>
+      <descriptif>relire la chartre informatique de l'établissement et y apporter des modifications.</descriptif>
+      <contexte>Remise en forme de la charte informatique collège-Lycée.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-05-30</datefin>
+      <environnement></environnement>
+      <moyen>document word 2002</moyen>
+      <avisperso>il faut lire beaucoup de textes en rapport avec les droits et devoirs en informatique et vérifier que l'on est bien dans la légalité.</avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Remise en forme et à jour de la charte informatique du collège/Lycée</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de la charte informatique (rajout de règles)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Remise en forme et à jour de la charte informatique du collège/Lycée</commentaireactivite>
+      </activitecitee>
+      <production numero="18">
+        <numero>18</numero>
+        <designation>charte informatique</designation>
+        <adresse>document pdf</adresse>
+      </production>
+    </situation>
+    <situation ref="77">
+      <ref>77</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>installation complète d'un ordinateur </libcourt>
+      <descriptif>installation complète d'un ordinateur destiné au personnel de ménage de OGEC, avec caractéristiques particulières (navigation en privée automatique), seul cet ordinateur à la possibilité d'accéder à un site (sur l'intranet).
+Installation à partir d'u</descriptif>
+      <contexte>dans le cadre d'une requête du C.E</contexte>
+      <datedebut>2012-06-11</datedebut>
+      <datefin>2012-06-13</datefin>
+      <environnement>windows xp</environnement>
+      <moyen></moyen>
+      <avisperso>pas très difficile à mettre en place.
+</avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>- Navigation sur internet en mode &quot;Private&quot; automatiquement 
+- Pas besoin de s’authentifier pour accéder au site intranet et y laisser des requêtes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>- Recherche des mises à jours des pilotes manquants.
+- Vérification des connections.
+- Attribution d'un adresse IP fixe au poste (ce qui nous a permis de l'identifier dans le code permettant d'accéder à la page de demande d'entretiens).
+- Mise en p</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>test des changements effectués.</commentaireactivite>
+      </activitecitee>
+      <production numero="17">
+        <numero>17</numero>
+        <designation>site de demandes d'entretien (intranet assomption)</designation>
+        <adresse>www.assomption.local/entretien2</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="78">
+      <ref>78</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>programmation php </libcourt>
+      <descriptif>écrire, modifier, supprimer des évènements dans le calendrier Google via des pages écrites en php
+Ecriture de pages en php (entretien et demandes d'entretien) destiné au personnel OGEC du ménage </descriptif>
+      <contexte>On veut lier, synchroniser les calendriers intranet et Google.
+Ecriture de pages en php (entretien et demandes d'entretien) destiné au personnel OGEC du ménage 
+</contexte>
+      <datedebut>2012-06-21</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Zend Framework
+Google API
+intranet (serveur apache)</environnement>
+      <moyen>notepad ++</moyen>
+      <avisperso>diffcile au début de se mettre dans de la programmation php orientée objet, mais c'est faisable et à force d'en faire on arrive à s'adapter à l'environnement de Zend</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="94">
+      <ref>94</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>maintenance ordinateurs</libcourt>
+      <descriptif>maintenance d'ordinateurs du collège 
+ces ordinateurs ne s'allumaient plus, ou étaient prêt à lâcher.</descriptif>
+      <contexte>maintenance d'ordinateurs</contexte>
+      <datedebut>2012-06-01</datedebut>
+      <datefin>2012-06-04</datefin>
+      <environnement>windows xp</environnement>
+      <moyen></moyen>
+      <avisperso>travail intéressant, j'y ai appris beaucoup de choses : démontages de machines, test des matériaux (alimentation, disque dur, lecteur CD DVD, ...)</avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Démontage de la carte graphique d'un pc NEC afin de changer les condensateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Démontage de la carte graphique d'un pc NEC afin de changer les condensateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>test de redémarrage d'un pc après changement de condensateurs</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="95">
+      <ref>95</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>configuration bornes WIFI</libcourt>
+      <descriptif>configuration des bornes wifi destinées à l'internat des filles situé à l'école primaire St Michel (1 rue de chataugiron).
+déplacement sur les lieux, et test de la distance, puissance et intensité de signal .</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-14</datedebut>
+      <datefin>2012-06-15</datefin>
+      <environnement>pdfsense
+proxy </environnement>
+      <moyen></moyen>
+      <avisperso>intéressant, et pédagogique.
+J'y ai appris beaucoup de choses, et a pu voir comment se mettait en place un proxy de ce type.</avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>mise en place des règles (proxy)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>test du proxy (accessibilité de certains sites)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>test du proxy (accessibilité de certains sites {FIREWALL ALIX 2D13 HDD})
+test de la configuration des bornes wifi.
+cette configuration de faisait via une interface en php (pdfSense)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>recherche sur la technologie des bornes wifi, sur les autres proxy mobiles, ect...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>étude de la borne wifi : nanoStation loco m5
+étude du proxy : FIREWALL ALIX 2D13 HDD</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

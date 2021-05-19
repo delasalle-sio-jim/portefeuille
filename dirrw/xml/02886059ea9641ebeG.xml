@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="6059ea9641ebe">
+    <ref>6059ea9641ebe</ref>
+    <datesv>2021-03-23</datesv>
+  </sauvegarde>
+  <etudiant numero="288">
+    <nom>Dupuy</nom>
+    <prenom>Fabien</prenom>
+    <mel>delasalle.sio.dupuy.f@gmail.com</mel>
+    <situation ref="3162">
+      <ref>3162</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Création et extension de la base de données de la société dutoit.
+
+Puis Extension du site web dynamique.</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises.
+Afin de stocker ses informations, la société utilise une base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2019-11-08</datedebut>
+      <datefin>2020-04-02</datefin>
+      <environnement>Serveur WAMP, phpMyadmin, SGBDR MySQL, Langage SQL</environnement>
+      <moyen>MySQLWorkBench, Langage Php, Javascript, CSS, Bootstrap, Bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>- Recenser les acteurs sur lesquels le service à produire aura un impact.
+
+- Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>- Créer les utilisateurs recensés et attribuer les droits réservés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>- Créer la base de données Dutoit sous MySQL (serv-wamp1).
+- Faire l'extension de la base de données initiale.
+- Modéliser la base de données finale.
+- Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="3138">
+        <numero>3138</numero>
+        <designation>TP Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1rCYfhbgMmwE5GBkMrPmo1Q3HU1xc398X</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3210">
+      <ref>3210</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Valres</libcourt>
+      <descriptif>installation et validation des fonctionnalités de l'application web de réservation de salles puis rédaction d'un document utilisateur.</descriptif>
+      <contexte>Maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2019-11-26</datedebut>
+      <datefin>2019-12-17</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, PHPMyAdmin, SQL</moyen>
+      <avisperso>Cette expérience est, et restera enrichissante, afin d'apporter mes connaissances et ainsi de les développer par la suite dans le domaine de l'installation et validation des fonctionnalités d'application web.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>-Recenser et caractériser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact
+-Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>-Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>-Mettre en place l'environnement de test du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>-Implémenter le schéma de données dans un SGBD
+-Manipuler des éléments de la solution applicative dans le langage d'un SGBD
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>-Rédiger la documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3428">
+      <ref>3428</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Site Web Marchand</libcourt>
+      <descriptif>La société &quot;SneakersAddicts.com&quot; souhaitait un site de e-commerce pour promouvoir ses produits afin que ses internautes puissent passer commande.</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-05-12</datedebut>
+      <datefin>2020-06-25</datefin>
+      <environnement>Serveur uWamp</environnement>
+      <moyen>Langages PhP, HTML, SQL, framework bootstrap pour le CSS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>rendre compte de son activité pour la version 0 en visio et la version 1 à l'aide d'un document.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette de la solution applicative en fonction des produits de la société.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SCBD.
+Manipuler les données liées à la solution applicative à travers un langage de requête.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Elaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <production numero="3460">
+        <numero>3460</numero>
+        <designation>Documents fournis concernant les différents versions</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3455">
+      <ref>3455</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Portail</libcourt>
+      <descriptif>Le nouveau portail du site web permettra :
+*de simplifier le portail tout en conservant la carte graphique (couleurs, logos, ...)
+*D'accéder à la consultation des réservations, du digicode.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2020-01-14</datedebut>
+      <datefin>2020-02-04</datefin>
+      <environnement>CMS Wordpress, Serveur Wamp1.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire (cas utilisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>identifier les composants logiciels nécessaires à la conception de la solution (CMS Wordpress, Plug-Ins ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Documentation concernant l'installation de Wordpress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettr en oeuvre le CMS Wordpress (Plug-Ins ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de Wordpress (Doc. papier, Site Web, ...)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3463">
+      <ref>3463</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet Brocéliande</libcourt>
+      <descriptif>Développement d'une application Windows pour visualiser graphiquement des circuits de randonnée</descriptif>
+      <contexte>Communauté de communes du Pays de Brocéliande</contexte>
+      <datedebut>2020-05-13</datedebut>
+      <datefin>2020-06-24</datefin>
+      <environnement>Visual Studio 2013, Langage C#, API GMap.net</environnement>
+      <moyen>poste de travail personnel sous Windows</moyen>
+      <avisperso>Projet (graphique) innovant </avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une interface utilisateur pour visualiser des circuits de randonnée sur une carte géographique </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de l'EDI Visual Studio 2013 (ou autre version); ajout de l'API GMap.net</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création des classes métiers Point, PointDeCircuit, SiteRemarquable, Circuit, CatalogueCircuits
+et d'une classe technique Passerelle ; utilisation des classes de l'API GMap.net</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation des tests unitaires des classes métiers</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3466">
+      <ref>3466</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode V1 &amp; V2</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via l'application.</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2020-02-04</datedebut>
+      <datefin>2020-06-26</datefin>
+      <environnement>serveur wamp1 puis serveur perso : notepad++, Bdd MySQL, mrbsXX</environnement>
+      <moyen>Langages HTML, PhP, Css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendus du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests fournis</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet entre les membres de l'équipe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter les éléments de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter les base de données mrbs (nouvelles tables Digicode), manipuler les données liées à la solution applicative à travers un langage de requête SQL et créer des événements</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires et mette en évidence et corriger les écarts</commentaireactivite>
+      </activitecitee>
+      <production numero="3652">
+        <numero>3652</numero>
+        <designation>Lien</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2019_2020/dupuy/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3486">
+      <ref>3486</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TraceGPS</libcourt>
+      <descriptif>Application logiciel de suivi de parcours GPS.
+Développement Java/C#, Tests &amp; Documentation du projet TraceGPS.</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-10-16</datedebut>
+      <datefin>2020-11-27</datefin>
+      <environnement>Eclipse/Java/JUnit
+VisualStudio/C#</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création de l'application TraceGPS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Mise en place de documentation JavaDoc au sein du code sous Eclipse.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3498">
+      <ref>3498</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Consultation et analyse des différentes avancées technologiques dans le domaine de l'impression 3d et tous les secteurs influencés par cette-dernière.</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-10-21</datedebut>
+      <datefin>2020-05-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3500">
+      <ref>3500</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Visite Virtuelle 360</libcourt>
+      <descriptif>Elaboration et mise en place de notre projet annuel de visite virtuelle 360 du Pôle Sup de la Salle &amp; du Lycée de la Salle.</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-11-30</datedebut>
+      <datefin>2021-02-26</datefin>
+      <environnement>Theasys</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3647">
+        <numero>3647</numero>
+        <designation>Visite virtuelle 360 - Pole Sup de la Salle</designation>
+        <adresse>https://www.polesup-delasalle.fr/etablissement/visite-virtuelle/</adresse>
+      </production>
+      <production numero="3648">
+        <numero>3648</numero>
+        <designation>Visite virtuelle 360 - Lycée de la Salle</designation>
+        <adresse>https://www.lycee-delasalle.fr/etablissement/visite-virtuelle/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3502">
+      <ref>3502</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Injection SQL</libcourt>
+      <descriptif>Expérimentation d'une injection SQL sur un site web développé sous Eclipse.</descriptif>
+      <contexte>TP</contexte>
+      <datedebut>2020-10-16</datedebut>
+      <datefin>2020-10-16</datefin>
+      <environnement>Eclipse</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3530">
+      <ref>3530</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2e Année</libcourt>
+      <descriptif>Mise en place d'un site internet vitrine dynamique (HTML/CSS/PHP/BDD MySQL/Référencement SEO)</descriptif>
+      <contexte>Création d'un site internet pour un tatoueur afin d'accroître sa visibilité</contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>Eclipse / Php MyAdmin / Bootstrap / Github</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3556">
+      <ref>3556</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Engagement Associatif</libcourt>
+      <descriptif>Bénévolat au sein d'une radio Malouine</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-09-01</datedebut>
+      <datefin>2020-03-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3650">
+        <numero>3650</numero>
+        <designation>Site Web de la radio </designation>
+        <adresse>https://www.radio-paroledevie.com/accueil.php</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

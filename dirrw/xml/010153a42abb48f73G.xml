@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53a42abb48f73">
+    <ref>53a42abb48f73</ref>
+    <datesv>2014-06-20</datesv>
+  </sauvegarde>
+  <etudiant numero="101">
+    <nom>Outin</nom>
+    <prenom>Dorian</prenom>
+    <mel>dorian3506@outlook.com</mel>
+    <situation ref="767">
+      <ref>767</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Société de formation. </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-11-22</datedebut>
+      <datefin>2013-12-13</datefin>
+      <environnement>Serveur WAMP</environnement>
+      <moyen>SQL - MySQL - PHPmyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Sauf C4.1.3.3</commentaireactivite>
+      </activitecitee>
+      <production numero="509">
+        <numero>509</numero>
+        <designation>Compte rendu</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="865">
+      <ref>865</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion des incidents - HelpDesk</libcourt>
+      <descriptif>Mise en place d'un outil de Helpdesk. Management des tickets d'incidents. </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-03-19</datedebut>
+      <datefin>2014-04-09</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="637">
+        <numero>637</numero>
+        <designation>Lien du cloud de la mission. </designation>
+        <adresse>https://drive.google.com/folderview?id=0B-ECbRq2DDjzVHpnMmxRTE1nU2s&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="891">
+      <ref>891</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festibasket</libcourt>
+      <descriptif>Mettre en place un réseau wi-fi et des point d'accès. </descriptif>
+      <contexte>Le service informatique de la M2L a été sollicité par la FFBB, pour prototyper, puis mettre en place la couverture informatique nomade lors d'un événement sous un ensemble de chapiteaux montés sur un terrain de football a quelques mètres du bâtiment M2L.</contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-03-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Un poly nous a été confié. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Tableau de type SCRUM</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="634">
+        <numero>634</numero>
+        <designation>Le cloud de la Mission Festibasket</designation>
+        <adresse>https://drive.google.com/folderview?id=0B-ECbRq2DDjzUEZrN2lFS0xvQkU&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="896">
+      <ref>896</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte N°2 &quot;Panne - depanage technicien&quot;-</libcourt>
+      <descriptif>Dépannage d'utilisateurs à distance et sur place</descriptif>
+      <contexte>Vous travaillez en tant que technicien informatique au sein de la société AntiBug. Lorsqu'un utilisateur rencontre un problème, il contacte le service informatique pour lui faire un bref descriptif. 
+Vous ferez une fiche d'intervention pour faciliter l</contexte>
+      <datedebut>2014-02-05</datedebut>
+      <datefin>2014-03-13</datefin>
+      <environnement></environnement>
+      <moyen>Ordinateurs et logiciels de prise en main à distance (Team Viewer) </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="639">
+        <numero>639</numero>
+        <designation>Lien du cloud du context n°2</designation>
+        <adresse>https://drive.google.com/folderview?id=0B-ECbRq2DDjzTFlVdlJtVk53MzQ&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="898">
+      <ref>898</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte GSB</libcourt>
+      <descriptif>Entreprise chargée de communication</descriptif>
+      <contexte>Étude et élaboration d'un cahier des charges</contexte>
+      <datedebut>2014-01-03</datedebut>
+      <datefin>2014-03-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="641">
+        <numero>641</numero>
+        <designation>Lien du Cloud de lu contexte</designation>
+        <adresse>https://drive.google.com/folderview?id=0BydMOr5tBVpJLThQUUQwOGFjblk&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="900">
+      <ref>900</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte N°4 : Sécuritée informatique </libcourt>
+      <descriptif>Mettre en place une politique de sécurités des STA et serveurs du réseau. </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-09</datedebut>
+      <datefin>2014-04-09</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1080">
+      <ref>1080</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Remise en production d'un telephone IP</libcourt>
+      <descriptif>Remise à neuf d'un téléphone IP bloqué ancien opérateur. </descriptif>
+      <contexte>Je devait remettre à neuf la configuration d'un téléphone IP contenant un système de l'ancien prestataire (bloqué).
+J'ai donc remit un firmware neuf et configurer les information SIP.</contexte>
+      <datedebut>2014-06-02</datedebut>
+      <datefin>2014-06-03</datefin>
+      <environnement></environnement>
+      <moyen>Je dispose d'un ordinateur connecté à Internet et du téléphone IP, ainsi que les données de configuration à y placer. </moyen>
+      <avisperso>Une mission inintéressante qui m'a permit de tester le serveur tftp et la modification de firmware sur des appareils IP. </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Mon maitre de stage m'a indiqué ce qu'il voulait que je fasse : 
+&quot;Remise à neuf pour remise en production du téléphone IP&quot;. 
+Je lui ai proposé de remettre une ROM non bloqué et d'y intégrer la nouvelle configuration. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>J'ai suivi la configuration que j’avais effectuée durant le test. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Je l'ai rédigée. </commentaireactivite>
+      </activitecitee>
+      <production numero="1002">
+        <numero>1002</numero>
+        <designation>doc technique </designation>
+        <adresse>https://docs.google.com/document/d/1vcNKiPAMKb1Y3z7VFhVoEZhBP9QsBoeSOIc0YjxlTCc/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1099">
+      <ref>1099</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Restauration et Mise à jour Cisco 1800</libcourt>
+      <descriptif>Restauration d'usine et mise à jour d'un routeur cisco, suivi d'une aide documentaire. </descriptif>
+      <contexte>Une entreprise à un routeur cisco configuré par orange, ce routeur change de place et d’opérateur. 
+Ma mission est d'effacer l'ancienne configuration et d'y mettre une nouvelle version pour qu'il soit remis à neuf. </contexte>
+      <datedebut>2014-06-20</datedebut>
+      <datefin>2014-06-20</datefin>
+      <environnement>Commandes CLI</environnement>
+      <moyen>Ordinateur, routeur, cable console, Internet. </moyen>
+      <avisperso>Cela m'a permi de découvrir le reset d'usine et la mise à jour en tftp d'un iOS cisco. </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>On m'a énoncé la mission</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>J'ai configuré le routeur </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>J'ai mit à jour le routeur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>j'ai mi a jour ma documentation. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une aide à la configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Les utilisateurs, cad les admin réseaux aurons a disposition ma documentation s'ils le désire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>J'ai mi à jour ma documentation.</commentaireactivite>
+      </activitecitee>
+      <production numero="1015">
+        <numero>1015</numero>
+        <designation>La doc technique</designation>
+        <adresse>https://drive.google.com/file/d/0B-ECbRq2DDjzbVBqdjJoa3RRQVU/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

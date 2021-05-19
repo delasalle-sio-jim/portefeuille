@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="583450300bd30">
+    <ref>583450300bd30</ref>
+    <datesv>2016-11-22</datesv>
+  </sauvegarde>
+  <etudiant numero="156">
+    <nom>JOUAULT</nom>
+    <prenom>Simon</prenom>
+    <mel>delasalle.sio.jouault.s@gmail.com</mel>
+    <situation ref="1499">
+      <ref>1499</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels aux salariés d'entreprises.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement>Le serveur Wamp1 avec MySQL via PhpMyAdmin et langage SQL</environnement>
+      <moyen>MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MySQLWorkBench.
+Implémenter le schéma de données sous MySQL et l'adapter.
+Manipuler les données liées à la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1527">
+        <numero>1527</numero>
+        <designation>TP Dutoit Corrigé</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1586">
+      <ref>1586</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Valres</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles.</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, MySqlWorkBench, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application web (mdl) sur le serveur serv-wamp1 (dans mon répertoire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données grâce à MySqlWorkBench
+Implémenter le schéma de données sous MySql sur le serveur serv-wamp1
+</commentaireactivite>
+      </activitecitee>
+      <production numero="1596">
+        <numero>1596</numero>
+        <designation>Compte-rendu des tests</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1710">
+      <ref>1710</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via l'application. 3 versions ont été élaborées.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-02</datedebut>
+      <datefin>2016-03-22</datefin>
+      <environnement>server wamp1, notepad++, bdd mysql mrbs</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service (la base de données avait déjà été installée pour la mission valRes).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.
+Maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la bdd (nouvelle table digicode) et manipuler les données liées à la solution applicative à travers un langage de requête sql.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1667">
+        <numero>1667</numero>
+        <designation>Fichiers php</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1869">
+      <ref>1869</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet DansLaSeance 2016</libcourt>
+      <descriptif>projet si6, creation site web, base de données et document utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-26</datedebut>
+      <datefin>2016-04-22</datefin>
+      <environnement>Le serveur Wamp avec MySQL via PhpMyAdmin et langage SQL / php</environnement>
+      <moyen>MySql, serveur wamp, phpmyadmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <production numero="1822">
+        <numero>1822</numero>
+        <designation>Document utilisateur corrigé</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1824">
+        <numero>1824</numero>
+        <designation>Cahier des charges numériques</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1907">
+      <ref>1907</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage USBF</libcourt>
+      <descriptif>Compétences du stage, site web dynamique USBF</descriptif>
+      <contexte>Association sportive</contexte>
+      <datedebut>2016-05-23</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Le serveur Wamp avec MySQL via PhpMyAdmin et langage SQL / php</environnement>
+      <moyen>MySql, serveur wamp, phpmyadmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+Identifier les fonctionnalités attendues du service à produire
+Préparer sa participation à une réunion</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité
+Proposer les niveaux d'habilitation associés au service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet
+Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données
+Implémenter le schéma de données dans un SGBD
+Programmer des éléments de la solution applicative dans le langage d'un SGBD
+Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Recenser et caractériser les composants existants ou à développer utiles à la réalisation de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation
+Adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Assister la maîtrise d'ouvrage dans l'analyse technique de la proposition de contrat
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à un référentiel, à une norme ou à un standard adopté par le prestataire informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode
+Repérer l'offre et les dispositifs de formation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode
+Identifier le potentiel et les limites d'une technologie, d'un composant, d'un outil ou d'une méthode par rapport à un service à produire</commentaireactivite>
+      </activitecitee>
+      <production numero="2035">
+        <numero>2035</numero>
+        <designation>site web</designation>
+        <adresse>http://www.usbourgbarrefoot.fr/</adresse>
+      </production>
+      <production numero="2037">
+        <numero>2037</numero>
+        <designation>doc utilisateur</designation>
+        <adresse>clé usb</adresse>
+      </production>
+      <production numero="2039">
+        <numero>2039</numero>
+        <designation>rapport stage</designation>
+        <adresse>clé usb</adresse>
+      </production>
+      <production numero="2040">
+        <numero>2040</numero>
+        <designation>doc technique</designation>
+        <adresse>clé usb</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="586b5982b9bcc">
+    <ref>586b5982b9bcc</ref>
+    <datesv>2017-01-03</datesv>
+  </sauvegarde>
+  <etudiant numero="200">
+    <nom>Bonnet</nom>
+    <prenom>Titouan</prenom>
+    <mel>delasalle.sio.bonnet.t@gmail.com</mel>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5c46c4e773e95">
+    <ref>5c46c4e773e95</ref>
+    <datesv>2019-01-22</datesv>
+  </sauvegarde>
+  <etudiant numero="266">
+    <nom>Massé</nom>
+    <prenom>Julien</prenom>
+    <mel>delasalle.sio.masse.j@gmail.com</mel>
+    <situation ref="2799">
+      <ref>2799</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration de la base de données pour une société de formation.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différent niveaux. Elle utilise pour stocker des informations une base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2018-11-22</datefin>
+      <environnement>Serveur wamp, PhpMyAdmin, My SQL , langage SQL.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MYSQL. Faire l'extension de la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2789">
+        <numero>2789</numero>
+        <designation>TP9 - Dutoit</designation>
+        <adresse>http://google.com/......................................../TP9 Dutoit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

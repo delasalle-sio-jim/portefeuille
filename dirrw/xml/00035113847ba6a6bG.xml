@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5113847ba6a6b">
+    <ref>5113847ba6a6b</ref>
+    <datesv>2013-02-07</datesv>
+  </sauvegarde>
+  <etudiant numero="3">
+    <nom>BARON</nom>
+    <prenom>Aziliz</prenom>
+    <mel>azilizba@gmail.com</mel>
+    <situation ref="9">
+      <ref>9</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Apel35</libcourt>
+      <descriptif>Application en php pour gérer les établissements, l'apel et les cotisations.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du besoin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser les différentes exigences liées à la qualité attendue du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Préparer un planning chaque semaine et montrer l'avancé du projet </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Comparer les activités faites par rapport aux activités prévuesP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser le matériel et les logicielles utiles au projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposition d'une application en php et choix des logiciels à utiliser (NotePad++ , MySQL)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquettage des pages et validation de celle-ci avec les utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Faire un MCD, installer la base de donnée, utiliser le langage SQL dans le code php pour manipuler les données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Mettre de fausses données dans la BDD afin de tester le code php</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer une application, modification du code lors de changement ou d'ajout d'éléments, utilisation d'une page de connexion à la BDD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tester certains éléments de l'application et comparer les résultats avec ceux attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Commentaires dans le code et document texte avec explication de certains choix, de ce qui a été fait, de ce qui ne fonctionne pas</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Recherche de site avec des cours sur le langage sql, php et css</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>S'informer sur d'autres méthodes (des jointures, triggers, javascript) et choix d'une méthode appropriée</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="10">
+      <ref>10</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Application en php pour la gestion de frais</descriptif>
+      <contexte>GSB, société pharmaceutique dispose d'une application qui permet aux visiteurs médicaux de saisir leurs frais occasionnés durant leur visite afin de faire rembourser. Nous devions finaliser l'espace comptable afin qu'un comptable vérifie les différents</contexte>
+      <datedebut>2012-01-02</datedebut>
+      <datefin>2012-05-21</datefin>
+      <environnement>apache</environnement>
+      <moyen>notepad++, navigateur web</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des besoins pour l'extension de la partie comptable.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à un projet en équipe de 4 avec compte rendu de ce qui a été fait et qu'il reste à faire à chaque séance.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation des pages de validation et de suivi des fiches de frais</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modélisation avec workbench, implémentation de la base de données dans phpMyAdmin et modification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement et modification de page en php, utilisation de fonctions</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Commentaires dans le code et document texte</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Création d'un mode opérateur pour les comptables</commentaireactivite>
+      </activitecitee>
+      <production numero="6">
+        <numero>6</numero>
+        <designation>modélisation bdd</designation>
+        <adresse>serv-wamp1/LesSitesSIO1_2011_2012/Baron/GSB/Guide Slam</adresse>
+      </production>
+      <production numero="26">
+        <numero>26</numero>
+        <designation>Application gsb</designation>
+        <adresse>http://serv-sites/LesSites/SIO1_2011_2012/Baron/GSB/GSB_Appli/appliFrais/cSeConnecter.php</adresse>
+      </production>
+      <production numero="28">
+        <numero>28</numero>
+        <designation>Base de données gsb_baronmauduit</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gsb_mauduitbaron&amp;token=c45b244a1e8e7b645f5f1cd1ea369666</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="11">
+      <ref>11</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion lycée</libcourt>
+      <descriptif>Application en C# de gestion pour lycée</descriptif>
+      <contexte>Lycée</contexte>
+      <datedebut>2012-03-07</datedebut>
+      <datefin>2012-05-09</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="12">
+      <ref>12</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Extension du site web dynamique de la société Dutoit</descriptif>
+      <contexte>Société qui propose des stages de formation en bureautique aux entreprises</contexte>
+      <datedebut>2012-03-08</datedebut>
+      <datefin>2012-05-03</datefin>
+      <environnement>serveur apache</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="334">
+      <ref>334</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage Hogunsoft</libcourt>
+      <descriptif>Stage dans une entreprise d'édition de loiciel avec poru objectif de créer un module drupal pour ajouter les contacts qui envoient un mail par le formulaire de leur site dans leur base de données de leur logiciel.</descriptif>
+      <contexte>Entreprise d'édition de logiciel. Composé de 2 informaticiens et une secrétaire</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

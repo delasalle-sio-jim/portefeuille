@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51929c6e1ef1a">
+    <ref>51929c6e1ef1a</ref>
+    <datesv>2013-05-14</datesv>
+  </sauvegarde>
+  <etudiant numero="52">
+    <nom>TAZIGH</nom>
+    <prenom>Abdelaaziz</prenom>
+    <mel>tazigh.a@lyceedelasalle.fr</mel>
+  </etudiant>
+</suivicomp>

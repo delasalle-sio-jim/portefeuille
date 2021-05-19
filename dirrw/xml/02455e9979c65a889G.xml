@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e9979c65a889">
+    <ref>5e9979c65a889</ref>
+    <datesv>2020-04-17</datesv>
+  </sauvegarde>
+  <etudiant numero="245">
+    <nom>Gadani</nom>
+    <prenom>Romain</prenom>
+    <mel>delasalle.sio.gadani.r@gmail.com</mel>
+    <situation ref="2805">
+      <ref>2805</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Mise en oeuvre d'une base de données puis d'un site web.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatique de différents niveaux. Elle utilise pour stocker ses informations une base de données MySQL comprenant 3 tables.</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>serveur wamp2, phpMyAdmin, MySQL, Workbench</environnement>
+      <moyen>MySQLWorkbench, langages PHP, SQL, Javascript, CSS, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateur et commerciaux) sur lesquels le service aura in impact. Identifier les fonctionnalité attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai et les procédures pour la réalisation des tests et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuée les droits nécessaires. Créer une table utilisateur dans la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous Mysql (serv-wamp2). Faire l'extension de la base de donnée initiale. Modéliser la base de donnée finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaire.</commentaireactivite>
+      </activitecitee>
+      <production numero="2791">
+        <numero>2791</numero>
+        <designation>TP9 - Dutoits</designation>
+        <adresse>https://drive.google.com/drive/folders/1dOg92XkqMJ8e2KjBiynpEqys9Utu4j0i</adresse>
+      </production>
+      <production numero="2943">
+        <numero>2943</numero>
+        <designation>Site web sur le serveur serv-wamp2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Gadani/SI6%20-%20TP5%20-%20Admin/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2845">
+      <ref>2845</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Démontage et montage d'un pc</libcourt>
+      <descriptif>Démontage et montage d'un pc</descriptif>
+      <contexte>tp sisr1</contexte>
+      <datedebut>2019-01-24</datedebut>
+      <datefin>2019-01-31</datefin>
+      <environnement>pc labo</environnement>
+      <moyen>pc trouces</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2883">
+      <ref>2883</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2_Mission_3_Isole_Wi-Fi</libcourt>
+      <descriptif>Mise en place d'un réseau Wifi isoler du réseau filaire.</descriptif>
+      <contexte>PPE2 M2L</contexte>
+      <datedebut>2019-02-05</datedebut>
+      <datefin>2019-02-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Évaluation des risques lié à l’utilisation d'un réseau Wifi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3088">
+      <ref>3088</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE</libcourt>
+      <descriptif>Création d'un site web lié à une base de données</descriptif>
+      <contexte>Création d'un site web pour le BDE destiné à la ventes et à la gestion de produit du lycée.</contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-16</datefin>
+      <environnement>Ordinateur sous Windows 10, serveur wamp</environnement>
+      <moyen>notepad ++, SQL, HTML, PHP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus.
+Préparer les jeux d'essai et les procédures pour la réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet.
+Rendre compte de son activité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD.
+Manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution en PHP, HTML.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires.
+Mettre en évidence et corriger les écarts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques à intégrer.</commentaireactivite>
+      </activitecitee>
+      <production numero="3037">
+        <numero>3037</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://drive.google.com/drive/folders/1C5jzbcAtk3ew5sI4Jhr1WUXTgjtrfAqU</adresse>
+      </production>
+      <production numero="3041">
+        <numero>3041</numero>
+        <designation>Site développé</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Miszczuk/SI6%20-%20BDE%20-%20Projet%20%20cde/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3118">
+      <ref>3118</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Études et mise en place d'une solution GLPI</libcourt>
+      <descriptif>Étude et mise en place de l’évolution du logiciel d'inventaire GLPI vers une version ressente du logiciel.</descriptif>
+      <contexte>Stage DREAL</contexte>
+      <datedebut>2019-05-20</datedebut>
+      <datefin>2019-06-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Vérification que tous les élément de l'ancienne base de données se retrouve bien dans la nouvelle.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre au point une procédure d'installation de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Installation de la solution sur une vm de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration d'un serveur Debian ainsi que du logiciel GLPI, </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Élaborer une procédure de remplacement ou de migration respectant la continuité d'un service
+Mettre en œuvre une procédure de remplacement ou de migration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour de la documentation en fonction de l'avancement du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Le logiciel GLPI permet de gérer le parc informatique en en faisant l'inventaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Le logiciel GLPI permet de gérer le parc informatique en en faisant l'inventaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3287">
+      <ref>3287</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration de serveurs</libcourt>
+      <descriptif>Étude et migration de plusieurs serveur (Windows serveur)</descriptif>
+      <contexte>Stage au lycée de La Salle</contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-02-14</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

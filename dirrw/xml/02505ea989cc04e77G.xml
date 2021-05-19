@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ea989cc04e77">
+    <ref>5ea989cc04e77</ref>
+    <datesv>2020-04-29</datesv>
+  </sauvegarde>
+  <etudiant numero="250">
+    <nom>Le Bihan</nom>
+    <prenom>Alexandre</prenom>
+    <mel>delasalle.sio.lebihan.a@gmail.com</mel>
+    <situation ref="2788">
+      <ref>2788</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société Dutoit.
+Création d'un site web HTML / Php
+</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises, elle utilise une Base de données MySql comportant 8 tables.</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>serveur WAMP, PhpMyAdmin, MySQL Workbench, Javascript, CSS, bibliothèque, FPDF</environnement>
+      <moyen>WAMP, NotePad++, Sublime Text 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.
+Créer une table utilisateur dans la base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySql. Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL. Réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <production numero="2803">
+        <numero>2803</numero>
+        <designation>TP3/4/5 - Dutoit</designation>
+        <adresse>https://drive.google.com/open?id=1BippgZY7HSFjATlAzuY2Zk34VBF088FO</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2843">
+      <ref>2843</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Démontage - Remontage d'un PC</libcourt>
+      <descriptif>Démontage complet d'un PC</descriptif>
+      <contexte>Labo Réseau - Pôle Sup De La Salle</contexte>
+      <datedebut>2019-01-24</datedebut>
+      <datefin>2019-01-31</datefin>
+      <environnement></environnement>
+      <moyen>PC HP, outils de démontage... </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2878">
+      <ref>2878</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Isolation Wifi dans un réseau informatique</libcourt>
+      <descriptif>Mission Isole_Wifi, terminé le 26/02/19.
+-&gt; Recherche d'informations sur les risques liés à l'utilisation du Wifi au sein d'une entreprise
+-&gt; Modification de la maquette Packet Tracer avec la configuration proposée dans la proposition technique</descriptif>
+      <contexte>Mission PPE2, labo réseau.
+Travail en binôme.</contexte>
+      <datedebut>2019-01-29</datedebut>
+      <datefin>2019-02-26</datefin>
+      <environnement>Laboratoire réseau</environnement>
+      <moyen>PC hp client,Câbles RJ45,Point d'accès Wifi,Routeur
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3085">
+      <ref>3085</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Site BDE DLS - Projet commande</libcourt>
+      <descriptif>Création de la base de données &quot;bde&quot; comportant une table 'commande', 'couleur', 'lignecde', 'membre', 'produit' et 'taille'.
+Développement partiel d'un site web en HTML / Php
+</descriptif>
+      <contexte>Site internet du bureau des étudiants, projet de pouvoir passer des commandes de vêtements sur le site web.</contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-10</datefin>
+      <environnement>serveur WAMP, PhpMyAdmin, MySQL Workbench, Javascript, CSS, bibliothèque, FPDF</environnement>
+      <moyen>NotePad++, Sublime Text 3, SQL, HTML, PHP et javascript</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les test d'acceptation nécessaires à la validation du service et les résultats attendus. 
+Préparer les jeux d'essai pour la réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet et rendre compte de son activité auprès de M.Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web en collaboration avec M. Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données. Manipuler les données liées à la solution applicative à travers le langage de requête SQL. Réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution en php, html, css et js.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire la documentation technique du site internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Produire la documentation utilisation du site internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques à intégrer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Prise d'information sur internet sur le RaspBerry Pi3B+ pour  l'installation</commentaireactivite>
+      </activitecitee>
+      <production numero="3030">
+        <numero>3030</numero>
+        <designation>Projet cde -bde</designation>
+        <adresse>https://drive.google.com/drive/folders/12N89OUFaA3eo4NewMDchaNnwWXboPouP?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3160">
+      <ref>3160</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet RaspBerry</libcourt>
+      <descriptif>Installation et configuration d'un RaspBerry Pi3B+ pour le contrôle à distance d'une télévision (VNC)</descriptif>
+      <contexte>Pour une télévision de l'équipe marketing de l'entreprise </contexte>
+      <datedebut>2020-05-26</datedebut>
+      <datefin>2021-05-28</datefin>
+      <environnement></environnement>
+      <moyen>Remmina, VNC Viewer, RaspBerry Pi3B+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Rédaction d'une documentation d'installation et livraison du service fonctionnel aux utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir un planning avec date de livraison et informer de l'avancement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Réalisation d'une fiche utilisateur et explication orale du fonctionnement du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Réponses aux tickets et classement du ticket (à faire, en cours, fait). </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Prise d'information sur internet sur le RaspBerry Pi3B+ pour  l'installation</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3253">
+      <ref>3253</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Inventaire de l'existant d'un parc informatique</libcourt>
+      <descriptif>Inventaire de l'existant d'un parc informatique avant refonte du réseau informatique complet de l'entreprise.</descriptif>
+      <contexte>Stage de deuxième année (Sinad-emploi), semaine n°1
+Entreprise de veille dans le domaine des offres d'emploi. Commerce B2B / B2B2C</contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-01-10</datefin>
+      <environnement>Environnement Windows, réseau interne type LAN</environnement>
+      <moyen>Ordinateur personnel, outil Lansweeper</moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="3262">
+      <ref>3262</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création Script Lecteur Réseau</libcourt>
+      <descriptif>Conception et application d'un script permettant la connexion de lecteurs réseau pour tous les utilisateurs d'un domaine</descriptif>
+      <contexte>Stage de deuxième année (Sinad-emploi), semaine n°5
+Entreprise de veille dans le domaine des offres d'emploi. Commerce B2B / B2B2C</contexte>
+      <datedebut>2020-02-05</datedebut>
+      <datefin>2020-02-05</datefin>
+      <environnement>Environnement Windows (Windows 10, server 2008), réseau interne type LAN</environnement>
+      <moyen>Sublime Text 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3263">
+      <ref>3263</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Refonte globale d'une infrastructure informatique</libcourt>
+      <descriptif>Création d'un réseau informatique complet (LAN, WiFi,AD...)
+</descriptif>
+      <contexte>Stage de deuxième année (Sinad-emploi)
+Entreprise de veille dans le domaine des offres d'emploi. Commerce B2B / B2B2C</contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-02-14</datefin>
+      <environnement>Environnement Windows (Windows10, Windows Server 2008), réseau interne type LAN</environnement>
+      <moyen>Ordinateur personnel, Serveur, suite Office, Routeurs, Switch, Imprimantes, Ordinateurs, Smartphone avec Hotspot, Routeur FAI</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

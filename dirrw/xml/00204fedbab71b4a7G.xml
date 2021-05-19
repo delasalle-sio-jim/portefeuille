@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fedbab71b4a7">
+    <ref>4fedbab71b4a7</ref>
+    <datesv>2012-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="20">
+    <nom>LEBASTARD</nom>
+    <prenom>Maxime</prenom>
+    <mel>lebastardmaxime@gmail.com</mel>
+    <situation ref="13">
+      <ref>13</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Modification d'une application de gestion des appels</libcourt>
+      <descriptif>Application interne développée par un ancien développeur qui n'est plus dans l'entreprise. Un certain nombre de petites fonctionnalités ne sont plus appropriées à la situation actuelle et demandent donc une mise à jour.</descriptif>
+      <contexte>Il s'agit de gérer les differentes demandes des clients faites par téléphone et de transmettre ces demandes aux salariés concernés.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-05</datefin>
+      <environnement>Langage propriétaire WinDev. Application réseau local fonctionnant sur un serveur Windows 2003.</environnement>
+      <moyen>Station de travail personnelle (Windows 7) et accès au serveur.</moyen>
+      <avisperso>Le code à été fait un peu &quot;à la va vite&quot; et ne présente absolument aucun commentaire ce qui est assez génant, d'autant que le developpeur n'est plus dans l'entreprise. Mais le WinDev est un langage en français, qui est proche du VB et très </avisperso>
+      <avisprof>
+        <numero>5</numero>
+        <commentaire>OK
+Vu le 22/6/12 par JM CARTRON</commentaire>
+        <datecommentaire>2012-06-22</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>L'application qui plante lors de son premier démarrage (liaison à la compta impossible, donc fermeture, donc impossible d'accéder au paramétrage).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>La mise en place d'une gestion superviseur/salarié.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modification de l'apparition des fenêtres</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Serveur WinDev</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="20">
+      <ref>20</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Préparation d'un poste &amp; Création d'un ghost</libcourt>
+      <descriptif>Préparation d'une nouvelle machine pour livraison au client</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-01</datedebut>
+      <datefin>2012-06-01</datefin>
+      <environnement>Machine HP3400 Series</environnement>
+      <moyen>Utilitaire de sauvegarde Windows</moyen>
+      <avisperso>Petit moment de stress après avoir supprimé la mauvaise partition (celle de restauration système), mais tout est rentré dans l'ordre par la copie de la partition d'une machine similaire</avisperso>
+      <avisprof>
+        <numero>4</numero>
+        <commentaire>OK
+Vu le 22/6/12 par JM CARTRON</commentaire>
+        <datecommentaire>2012-06-22</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Nettoyage des logiciels préinstallés, installation des logiciels vendus (Office...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Création du Ghost pour les machines HP</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="31">
+      <ref>31</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Reformatage d'une machine</libcourt>
+      <descriptif>Reformatage d'une machine ayant subi des erreurs disque par le biais de l'outil de Recovery d'Acer</descriptif>
+      <contexte>Client ayant de nombreuses erreurs disques et infections informatiques.</contexte>
+      <datedebut>2012-06-07</datedebut>
+      <datefin>2012-06-07</datefin>
+      <environnement></environnement>
+      <moyen>Utilitaire de restauration Acer</moyen>
+      <avisperso>Suivant&gt;, Suivant&gt;, Suivant&gt;, J'accepte les termes du contrat de licence&gt;, Terminer</avisperso>
+      <avisprof>
+        <numero>7</numero>
+        <commentaire>Documente un peu plus, et utilise les champs de reformulation. De plus, as-tu vraiment géré le problème des sauvegardes et restaurations ?
+Vu le 22/6/12 par JM CARTRON</commentaire>
+        <datecommentaire>2012-06-22</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="36">
+      <ref>36</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Réparation et explication panne</libcourt>
+      <descriptif>Décontamination d'un poste et explication à la cliente des raisons de la panne et de la conduite à adopter à l'avenir.</descriptif>
+      <contexte>Machine infectée de multiples spywares et virus. Utilisation d'antimalwares pour décontaminer la machine. Explication par la suite au client de ce qu'il s'est passé et comment s'en prémunir.</contexte>
+      <datedebut>2012-06-08</datedebut>
+      <datefin>2012-06-08</datefin>
+      <environnement>Station de travail classique (HP)</environnement>
+      <moyen>AdAware, Spybot, MalwareBytes, Avast!, Kaspersky</moyen>
+      <avisperso>Pour un smiley telechargé, un virus offert!</avisperso>
+      <avisprof>
+        <numero>8</numero>
+        <commentaire>Documente un peu plus, et utilise les champs de reformulation.
+
+Vu le 22/6/12 par JM CARTRON</commentaire>
+        <datecommentaire>2012-06-22</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="49">
+      <ref>49</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création d'une application interne</libcourt>
+      <descriptif>Création d'une application de gestion des territoires de chasse et de statistiques par saison</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-22</datedebut>
+      <datefin>2012-06-28</datefin>
+      <environnement>Windev</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="50">
+      <ref>50</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Prise en charge d'une panne</libcourt>
+      <descriptif>Prise en charge d'une panne d'un client dont la machine se coupe subitement peu après le démarrage. Reproduction de la situation.
+
+Solution apportée: Réinstallation des pilotes, remplacement d'un dongle wifi défectueux.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-22</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>9</numero>
+        <commentaire>Documente un peu plus, et utilise les champs de reformulation. Indique la solution trouvée au problème.
+Vu le 22/6/12 par JM CARTRON</commentaire>
+        <datecommentaire>2012-06-22</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

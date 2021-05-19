@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50572510b8887">
+    <ref>50572510b8887</ref>
+    <datesv>2012-09-17</datesv>
+  </sauvegarde>
+  <etudiant numero="33">
+    <nom>RUES</nom>
+    <prenom>Guillaume</prenom>
+    <mel>ruesguillaume@hotmail.fr</mel>
+    <situation ref="45">
+      <ref>45</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1ère année</libcourt>
+      <descriptif>Durant mon stage de première année j'ai dû refaire l'apparence du site &quot;www.choisirmonmobile.com&quot;
+J'ai donc utilisé beaucoup de html et de ccs dans un premier temps afin de reproduire le travail d'un web designer. ET, en seconde partie de</descriptif>
+      <contexte>Le site choisirmonmobile.com n'a pas été réactualisé (d'un point de vue graphique depuis sa création de plus il contient des erreurs, et donc a besoin d'être rénové.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Eclipse, notepad ++, photoshop,macromedia fireworks.
+En plus de différents navigateurs internet.</environnement>
+      <moyen></moyen>
+      <avisperso>C'est un projet très intéressant et valorisant, et en plus à le mérite d'être public.</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Dans ce projet, il fallait une interface impeccable, car du site dépende une partie des revenus de la société, il est donc important, que le site de par son ergonomie, et son aspect graphique, accroche,plaise au clients et aux prospect.
+Les qualités grap</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Avant de pouvoir passer à une autre étape, il est important de pouvoir certifier du bon fonctionnement, de telle ou telle partie.
+Via de la création de données ou de l'ajout de texte ou autre il est facile de vérifier si une page, est fonctionnelle, ou </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Comme je l'ai dit pour la compétence A.1.2.4 :
+Beaucoup de test ont étés  réalisés afin de vérifier le bon fonctionnement, et la qualité des différentes fonctionnalités du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mon stage consistait en un projet, donc j'ai participé à un projet.
+J'ai rendu compte de mon activité à mon maître de stage ou à une personne référente si celui-ci était absent. De plus j'ai aussi organisé mon temps de travail de manière à pouvoir fin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>J'ai réalisé de nombreux &quot;bug&quot; lors de ce projet (boucles infinies ect...)
+J'ai donc du résoudre ces problème, avec ou sans aide, afin de valider les exigences de qualité du futur site.
+Et, au fur et à mesure des jours j'ai retenu mes err</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Comme spécifié dans l'activité A2.3.1 :
+J'ai dû résoudre des problèmes, et donc par voie de conséquences, les qualifier et trouver leurs origines. Les un après les autres suivant, l'ordre d'apparition de ceux-ci.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Lors de ce projet j'ai dû adapter du code vieux de plusieurs années, et donc, je suis parfois &quot;tombé&quot; sur des bouts de codes obsolètes, ou poussifs.
+J'ai donc été amené à les remplacer où les améliorer.
+De plus la majeure partie de mon sta</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Mon stage consistais en la réalisation d'une solution logicielle, afin de répondre à un besoin urgent de changement, c'est ce à quoi je me suis employé durant ces 5 semaines.
+J'ai donc identifié les différentes pages à créer et estimé le délai de cell</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Pour mon stage je suis parti du travail d'un web designer, j'ai don été amené à réaliser ce que cette personne avais imaginé.
+J'ai donc procédé à des découpes d'images afin des les intégrer de manière adéquate dans les différentes pages.
+De plus j'</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Pour la réalisation des différents tests liés à la vérification des exigences en matière de qualité, j'ai du manipuler (un peu) la base de donnée et changer les types de données de certains champs, ou encore, créer des enregistrements afin de pouvoir vér</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Lors de mon stage j'ai dû, créer beaucoup de fichiers, et donc les utiliser de manière optimale, par exemple en utilisant une même fonction depuis plusieurs pages. De plus j'ai aussi dû prendre en compte les éléments existants afin de les optimiser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Durant mon stage j'ai aussi, dû prototyper certain composant ne fonctionnant pas ou peu, afin de valider le fonctionnement de certaines fonctionnalités. Comme par exemple prototyper le traitement d'un fichier xml.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai, durant mon stage créé de nombreuses pages, afin de répondre à un besoin.
+J'ai donc crée des composants logiciels (feuilles de style, pages de fonction ect...)
+J'ai aussi adapté le code de composants logiciels précédemment créés, et, utilisé des</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Durant mon stage j'ai dû, vérifier le bon fonctionnement des fonctionnalités développées. Et j'ai donc dû corriger les éléments défaillants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>J'ai dû corriger, durant mon stage, les problèmes liés, au code précédent, et ceux liés à mon code. De manière à réaliser une application fonctionnelle.</commentaireactivite>
+      </activitecitee>
+      <production numero="7">
+        <numero>7</numero>
+        <designation>Site comparatif de téléphonie mobile.</designation>
+        <adresse>www.choisirmonmobile.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

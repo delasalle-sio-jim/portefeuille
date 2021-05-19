@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51c8332ceb940">
+    <ref>51c8332ceb940</ref>
+    <datesv>2013-06-24</datesv>
+  </sauvegarde>
+  <etudiant numero="66">
+    <nom>BOURGAIN</nom>
+    <prenom>Simon</prenom>
+    <mel>bourgain.s@lyceedelasalle.fr</mel>
+    <situation ref="304">
+      <ref>304</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Analyse du cahier des charges d'un service à la production</libcourt>
+      <descriptif>- Analyse du Cahier des charges de la Communauté de Commune de Côtes d'émeraude, réponse à l'appel d'offre spécifique au renouvellement du parc informatique ainsi que du réseau.</descriptif>
+      <contexte>Renouvellement du parc et du réseau informatique, pour cause le matériel vieillissant.</contexte>
+      <datedebut>2012-12-18</datedebut>
+      <datefin>2013-01-08</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso> </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="50">
+        <numero>50</numero>
+        <designation>Réponse à l'appel d'offre</designation>
+        <adresse>https://docs.google.com/open?id=0Byn4SKn9XdFkVndzSU9hWmhJNGM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="537">
+      <ref>537</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Amélioration de l'infrastructure Santé +</libcourt>
+      <descriptif>Amélioration de l'infrastructure Santé +</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="550">
+      <ref>550</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte GSB</libcourt>
+      <descriptif>Mise en place d'un serveur DHCP
+Mise en place d'un serveur DNS
+Mise en place d'un serveur Web
+Cryptage sur le serveur Web
+Authentification des utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="598">
+      <ref>598</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Réalisé à l'aide de Google Reader, à la vue de la fermeture de ce service, j'ai été contraint de la réalisé grâce à l'outil Feedly</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-15</datedebut>
+      <datefin>2014-06-01</datefin>
+      <environnement></environnement>
+      <moyen>Google Reader, Feedly (Sur PC et Smartphone Android)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="605">
+      <ref>605</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>HelpDesk</libcourt>
+      <descriptif>Mise en place d'un outil de HelpDesk. GLPI couplé à OCS Inventory.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="652">
+      <ref>652</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Lafleur</libcourt>
+      <descriptif>Mise en place d'un site web dynamique en binôme avec création d'une base de données sous Phpmyadmin</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-22</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="715">
+      <ref>715</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Test de nouveaux clients légers</libcourt>
+      <descriptif>Afin de remplacer un parc informatique de client léger Wyse(DELL) vieillissant, j'ai été chargé de rencontrer des représentants de sociétés proposant des clients légers. Afin de pouvoir les comparer j'ai pu tous les avoir en test (Wyse, IGEL, Axel,...).</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="478">
+        <numero>478</numero>
+        <designation>Comparatifs clients légers</designation>
+        <adresse>https://docs.google.com/spreadsheet/ccc?key=0Ain4SKn9XdFkdDVLZk9RSXFrcTJzc3VqWjRQUEttTFE&amp;usp=sharing</adresse>
+      </production>
+      <production numero="485">
+        <numero>485</numero>
+        <designation>Compte rendu entretien IGEL</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkNGtMcm9uaGVacjg/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="716">
+      <ref>716</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création et Mise en place de la mise à jour - Wyse T50</libcourt>
+      <descriptif>La société ayant faite l'acquisition de clients légers Wyse T50 et rencontrant de multiple problème, j'ai eu comme projet de créer un mise à jour avec un système de déploiement automatique. </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="479">
+        <numero>479</numero>
+        <designation>Mail de déploiement de la mise à jour</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkOWlKaGZzZ1V3dnc/edit?usp=sharing</adresse>
+      </production>
+      <production numero="480">
+        <numero>480</numero>
+        <designation>MANUEL ELEARNING</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkM19EOG9MS2Z2a28/edit?usp=sharing</adresse>
+      </production>
+      <production numero="481">
+        <numero>481</numero>
+        <designation>MANUEL UTILISATEUR ELEARNING</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkU3VYbG93RGVQVjQ/edit?usp=sharing</adresse>
+      </production>
+      <production numero="482">
+        <numero>482</numero>
+        <designation>MANUEL SI</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkYW1RWUJSNEUwRGc/edit?usp=sharing</adresse>
+      </production>
+      <production numero="483">
+        <numero>483</numero>
+        <designation>MANUEL UTILISATEUR</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkdHEwaG1JWU83emc/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="717">
+      <ref>717</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>HELPDESK </libcourt>
+      <descriptif>Avec l'outil d'HelpDesk GIMI de la société, je reçois des demandes d'aide de la part des utilisateurs.</descriptif>
+      <contexte>Entreprise Sabena Technics</contexte>
+      <datedebut>2013-06-24</datedebut>
+      <datefin>2013-06-24</datefin>
+      <environnement></environnement>
+      <moyen>GIMI</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="484">
+        <numero>484</numero>
+        <designation>GIMI</designation>
+        <adresse>https://docs.google.com/file/d/0Byn4SKn9XdFkTHhnUHMzRm1pZlk/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

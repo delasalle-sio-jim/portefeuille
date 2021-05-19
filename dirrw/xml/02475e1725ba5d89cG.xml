@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e1725ba5d89c">
+    <ref>5e1725ba5d89c</ref>
+    <datesv>2020-01-09</datesv>
+  </sauvegarde>
+  <etudiant numero="247">
+    <nom>Gautier</nom>
+    <prenom>Simon</prenom>
+    <mel>delasalle.sio.gautier.s@gmail.com</mel>
+    <situation ref="2869">
+      <ref>2869</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>dutoit corrigé</libcourt>
+      <descriptif>Amélioration d'une base de données pour un site de formation
+Création d'un site web en php/html via l'utilisation de la base de données 
+pour l'évolution vers un site web dynamique</descriptif>
+      <contexte>La société de formation continu Dutoit propose des atges sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations sur une base de données MySQL comprenant 3 tables</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>Serveur Wamp. PHP MyAdmin. SGBDR MySQL. Langage SQL, Javascript, CSS
+FPDF</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2945">
+        <numero>2945</numero>
+        <designation>Site web sur le sevreur wamp 2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Gautier/SI6%20-%20TP5%20-%20Admin/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2870">
+      <ref>2870</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Point d'acces Wi-Fi</libcourt>
+      <descriptif>Mise en place d'un point d'accès Wi-Fi et gestion de son isolation</descriptif>
+      <contexte>Le centre M2L souhaite améliorer son système de WiFi public et le rendre isolé du reste du réseau.</contexte>
+      <datedebut>2019-02-05</datedebut>
+      <datefin>2019-02-26</datefin>
+      <environnement>routeur Wi-Fi avec portail, config de routeur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2885">
+      <ref>2885</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Cas DLS</libcourt>
+      <descriptif>Réalisation d'un prototype réseau donné en équipe en suivant des spécifications techniques données et des indications.</descriptif>
+      <contexte>Mise en place d'un serveur TFTP pour récupérer les configurations de différents routeurs</contexte>
+      <datedebut>2019-02-06</datedebut>
+      <datefin>2019-02-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3086">
+      <ref>3086</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Site du BDE - Commande</libcourt>
+      <descriptif>Réalisation finale d'un site utilisateur et administrateur dans le but de saisie, récupération et envoie de commandes par requêtes PHP vers une base de données</descriptif>
+      <contexte>Administration du lycée</contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-10</datefin>
+      <environnement>Développement sur un poste en local connecté à un serveur Wamp commun où sont stockées les bases de données</environnement>
+      <moyen>HTML, PHP, PHPMyAdmin, WampServer, notepad++, SublimeText</moyen>
+      <avisperso>Peu d'attraits pour les langages de développement donc plutôt compliqué.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des spécifications exigés par l'administration quand  à la réalisation du site, identification des fonctionnalités du service finale attendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en place de différents accès et types de requêtes nécessaires a la réalisation d'une attente.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Recherches des solutions les mieux adaptés a la réalisation des tâches confiés au sein du groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Réalisation d'un projet commun à la classe avec l'aide et la collaboration des autres étudiants et mise en place des outils de gestion de projet (Trelo), avec études et répartitions des tâches entre les différents membres du groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implantation de fichiers SQL dans une base de données créer, mise en places de requêtes, création et modification des tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques à intégrer, explicitez dans un document.</commentaireactivite>
+      </activitecitee>
+      <production numero="3038">
+        <numero>3038</numero>
+        <designation>cahier des charges</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="3051">
+        <numero>3051</numero>
+        <designation>site développé</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3240">
+      <ref>3240</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration de Devices Mobiles vers une plateforme InTune</libcourt>
+      <descriptif>L'ancienne plateforme MobileIron qui est une application de gestions de Dzevices mobiles a planté il y a trois mois rendant la gestion des devices impossibles et tous les profils ont été remis à zéro. Pour refaire le gestionnaire propre, BCE a opté pour </descriptif>
+      <contexte></contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-01-06</datefin>
+      <environnement>MobileIron, IOS, Android, InTune, Microsoft</environnement>
+      <moyen>InTune, MobileIron, IOS, Android</moyen>
+      <avisperso>premier système de migration de masse donc très intréessant.</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement du Service InTune Management Portal sur les portable sprofessionnels des utilisateurs qui subissent la migration afin de leur faciliter l'accès a toutes leurs données personelles et notamment leurs données professionnels en temps réels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au projet de migration des mobiles et de leur management</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Mise à jour d'un tableur Excel comportant l'ensemble des appareils a migrés, leur particularité et leur propriétaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude de la plateforme de gestion InTune relié a un service AD Microsoft Azur pour remplacer l'ancien gestionnaire MobileIron</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5c18c792ebcb9">
+    <ref>5c18c792ebcb9</ref>
+    <datesv>2018-12-18</datesv>
+  </sauvegarde>
+  <etudiant numero="270">
+    <nom>Tertrais</nom>
+    <prenom>Cyril</prenom>
+    <mel>delasalle.sio.tertrais.c@gmail.com</mel>
+    <situation ref="2800">
+      <ref>2800</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations sur une base de données MySQL comprenant 3 tables.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2018-11-22</datefin>
+      <environnement>serveur wamp, PhpMyAdmin, SGBDR MySQL, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (serv-wamp2). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2799">
+        <numero>2799</numero>
+        <designation>TP9 - Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1yRJ0OqGWBMoD_4YIQIwLdqJYYxgW2dCK</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

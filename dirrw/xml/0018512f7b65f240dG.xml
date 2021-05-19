@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="512f7b65f240d">
+    <ref>512f7b65f240d</ref>
+    <datesv>2013-02-28</datesv>
+  </sauvegarde>
+  <etudiant numero="18">
+    <nom>LEGOURRIEREC</nom>
+    <prenom>Mickael</prenom>
+    <mel>legourri.m@lyceedelasalle.fr</mel>
+    <situation ref="14">
+      <ref>14</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Modification du site web dynamique de la société Dutoit.</descriptif>
+      <contexte>Société qui propose des formations en bureautique aux entreprises.</contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-05-30</datefin>
+      <environnement>serveur apache</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="15">
+      <ref>15</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Devis</libcourt>
+      <descriptif>Réalisation de devis pour l'équipement d'un petite structure.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-05-30</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="16">
+      <ref>16</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place routage</libcourt>
+      <descriptif>Réalisation de maquettes réseau sur packet tracer
+Configuration des hotes et des routeurs</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-05-30</datefin>
+      <environnement>Packet tracer</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="17">
+      <ref>17</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place active directory</libcourt>
+      <descriptif>Mise en place et configuration d'un système active directory
+Configuration des utilisateurs/groupes
+Mise en place GPO</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-05-30</datefin>
+      <environnement>serveur windows 2008</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="18">
+      <ref>18</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Cas antibug</libcourt>
+      <descriptif>Résolution de panne de différents niveau
+Maintenance à distance
+Mise à jour base panne
+Bilan intervention</descriptif>
+      <contexte>cas société antibug</contexte>
+      <datedebut>2012-05-30</datedebut>
+      <datefin>2012-05-30</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="35">
+      <ref>35</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Supervision Nagios</libcourt>
+      <descriptif>Dans le but d'identifier la source des problèmes réseau intempestif qui touche un collège depuis presque un an on me demande de tester puis mettre en place un serveur de supervision.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-11</datedebut>
+      <datefin>2012-06-11</datefin>
+      <environnement>Serveur virtuel Debian (test Nagios), client virtuel Ubuntu, Serveur virtuel CentOS (FAN).</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="52">
+      <ref>52</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Désinfection d’un PC touché par le virus  Gendarmerie national</libcourt>
+      <descriptif>Le PC étant bloqué dès le chargement du bureau je fus obligé de booter en mode sans échec invite de commande, c’est seulement à partir de la console qu’il a été possible de lancer un environnement graphique (explorer.exe). J’ai ensuite à partir d’une clé </descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="53">
+      <ref>53</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Préparation machines</libcourt>
+      <descriptif>Installation OS, drivers, suite office, logiciels divers….</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="54">
+      <ref>54</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Découverte du logiciel de supervision Nagios </libcourt>
+      <descriptif>lecture de forums, tuto trouvé sur internet ainsi qu’un TP illustré fournit par une stagiaire en licence pro (Administration et sécurité des réseaux). Nagios sera à terme implanté dans un collège afin de découvrir d’où viennent certains problèmes récurent</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="55">
+      <ref>55</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Début test Nagios</libcourt>
+      <descriptif>- Installation de deux machines virtuelles, Ubuntu et Debian dans le but de    mettre en place Nagios à des fins de test.
+- Installation des services nécessaires au fonctionnement du logiciel (Apache)
+- Installation de Nagios (cœur, plugins, agents nrpe</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="57">
+      <ref>57</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Intervention de maintenance dans un collège</libcourt>
+      <descriptif>- Plusieurs ordinateurs rencontre des soucis lors du démarrage, ils affichent un message indiquant qu’il manque certains fichiers dans le répertoire système 32
+
+-  Un ordinateur boot en boucle
+
+Solution: Étant donné que le collège dispose d’un serveur</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="67">
+      <ref>67</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Rédaction documentation FAN</libcourt>
+      <descriptif>- Explication du rôle/fonctionnement de certains fichiers de configuration
+- Explication de certaines tâches à l'aide de tuto illustré de capture d'écran</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-26</datedebut>
+      <datefin>2012-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="53">
+        <numero>53</numero>
+        <designation>Utilisation de centreon (non fini)</designation>
+        <adresse>http://www.mixturecloud.com/media/IBzhhOHb</adresse>
+      </production>
+      <production numero="54">
+        <numero>54</numero>
+        <designation>Description fichier de configuration</designation>
+        <adresse>http://www.mixturecloud.com/media/pHbsLc0D</adresse>
+      </production>
+    </situation>
+    <situation ref="312">
+      <ref>312</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Etude virtualisation</libcourt>
+      <descriptif>Rédaction de documentation concernant le système de virtualisation en vue d'implanter une infrastructure virtuelle au sein de l'entreprise:
+- Présentation générale
+- Analyse du SI (definition de test pour évaluer charge serveur/reseau)
+- Ébauche de s</descriptif>
+      <contexte>Projet de virtualisation en vu d'améliorer les performance global du SI, tout en limitant les coût d'exploitation.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-01-21</datefin>
+      <environnement></environnement>
+      <moyen>Accès ressource internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="51">
+        <numero>51</numero>
+        <designation>Présentation principe virtualisation</designation>
+        <adresse>http://www.mixturecloud.com/media/6NGfJ0HD</adresse>
+      </production>
+      <production numero="52">
+        <numero>52</numero>
+        <designation>Début phase analyse (non complet)</designation>
+        <adresse>http://www.mixturecloud.com/media/WUetVNia</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

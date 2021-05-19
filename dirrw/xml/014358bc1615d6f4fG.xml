@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="58bc1615d6f4f">
+    <ref>58bc1615d6f4f</ref>
+    <datesv>2017-03-05</datesv>
+  </sauvegarde>
+  <etudiant numero="143">
+    <nom>BIENVENU</nom>
+    <prenom>Erwann</prenom>
+    <mel>delasalle.sio.bienvenu.e@gmail.com</mel>
+    <situation ref="1500">
+      <ref>1500</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose aux salariés d'entreprises des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement>Serveur WAMP1 via PhpMyAdmin et langage SQL</environnement>
+      <moyen>MySQLWorkbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leur affectant des droits
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire à la mise en place de la solution applicative avec MySQLWorkBench.
+
+Implémenter le schéma de données sous MySQL et l'adapter.
+
+Manipuler les données liées à la solution applicative à travers un langage de req</commentaireactivite>
+      </activitecitee>
+      <production numero="1533">
+        <numero>1533</numero>
+        <designation>TP Dutoit Corrigé</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1588">
+      <ref>1588</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Valrès</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation des salles.</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-05</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, Serveur Wamp , MySQLWorkbench, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application web (mdl) sur le serveur ser-wamp1 (dans mon répertoire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données grâce à MySqlWorkbench .
+Implémenter le schéma de données sous MySql sur le serveur serv-wamp1</commentaireactivite>
+      </activitecitee>
+      <production numero="1605">
+        <numero>1605</numero>
+        <designation>Compte rendu des test</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFRTNBLUp2VUxqY1E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1716">
+      <ref>1716</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via l'application.
+Trois versions ont été élaborées.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-26</datedebut>
+      <datefin>2016-03-22</datefin>
+      <environnement>serveur wamp1, notepad++, bdd mysql mrbs</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service (la base de données avait déjà été installée pour la mission Valrès).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelle table Digicode) et manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1672">
+        <numero>1672</numero>
+        <designation>Mission DIGICODE </designation>
+        <adresse>https://drive.google.com/file/d/0BzyVoqRlN6BFVHRIeGxGQkdOX2c/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1862">
+      <ref>1862</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet site Ronditude 2016</libcourt>
+      <descriptif>Modification d'un site existant afin de le personnaliser et de l'améliorer.
+Elaboration d'une documentation technique pour l'administrateur du site</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-26</datedebut>
+      <datefin>2016-04-22</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySql , Php , Bootstrap , serveur wamp</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.
+
+Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service.
+Tester le service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.
+Maquetter un élément de la solution applicative.
+Concevoir et valider la maquette en collaboration avec des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD
+Programmer des éléments de la solution applicative dans le langage d'un SGBD.
+Manipuler les données liées à la solution applicative à travers un langage de requête.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires.
+Mettre en évidence et corriger les écarts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation, une aide en ligne, une FAQ.
+Adapter la documentation d'utilisation à chaque contexte d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="1826">
+        <numero>1826</numero>
+        <designation>Projet Ronditude 2016</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1913">
+      <ref>1913</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année chez Technicolor</libcourt>
+      <descriptif>Adaptation et test d'une application de statistiques sur les compressions d'images. </descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-23</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>langage : C++ , EDI : QtCreator , Versionning : Git , Git Bash</environnement>
+      <moyen>Poste de travail Windows</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Exigences : 
+- Facilité d'utilisation
+- Rapidité des traitements</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Echange avec le maître de stage après chaque développement d'une nouvelle fonctionnalité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation de tests unitaires en C++ grâce à un FrameWork (catch).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Mesure du temps d'exécution des programmes réalisés et optimisation du code pour améliorer la rapidité des traitements.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Élaborer et réaliser les tests unitaires des composants mis à jour.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Test de l'application avec un jeu d'images fournies et comparaison des résultats avec ceux de l'ancienne application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respect des normes d'écriture du code de l'entreprise.
+Respect des règles d'utilisation du versionning (fréquence des commits , commentaires, ...).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Langage C++ , EDI QtCreator , Versionning Git et Git Bash , Principes de compression d'images , Tests unitaires FrameWork Catch , Recherches sur les licences logicielles .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Langage C++ , EDI QtCreator , Versionning Git et Git Bash , Principes de compression d'images , Tests unitaires FrameWork Catch , Recherches sur les licences logicielles .</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1962">
+      <ref>1962</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission FREDI</libcourt>
+      <descriptif>Travail à deux sur une application de gestion de frais de déplacements dans une association : visualisation / ajout / modification et création de bordereaux</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-22</datedebut>
+      <datefin>2016-05-17</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Étude du cahier des charges afin de réaliser l'application selon les attentes de la mission.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail collaboratif en duo sur un projet donné.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition d'amélioration avec du code en JavaScript permettant une actualisation des données en temps réel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation du menu header afin d'ajouter de nouvelles pages (en relation les bordereaux).
+Modification des pages afin d'améliorer leur design et leur contenu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Ajout d'une nouvelle table permettant de sélectionner une ville dans une liste déroulante en fonction d'un numéro de département.</commentaireactivite>
+      </activitecitee>
+      <production numero="2054">
+        <numero>2054</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://drive.google.com/file/d/0BzyVoqRlN6BFSU41N3pNTElGbFk/view?usp=sharing</adresse>
+      </production>
+      <production numero="2055">
+        <numero>2055</numero>
+        <designation>A1.4.1 Participation à un projet</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2060">
+        <numero>2060</numero>
+        <designation>A2.3.2 Proposition d'amélioration d'un service</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFX1JfMDZWR3l6SVE</adresse>
+      </production>
+      <production numero="2062">
+        <numero>2062</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFQ3lwNXNMNlF6OTg</adresse>
+      </production>
+      <production numero="2063">
+        <numero>2063</numero>
+        <designation>A4.1.3 Conception ou adaptation d'une base de données</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFZUROSE03d1FsTkE</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1968">
+      <ref>1968</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maison des ligues version mobile</libcourt>
+      <descriptif>Compléter le système de réservation en développant une application web.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-09-27</datedebut>
+      <datefin>2016-10-14</datefin>
+      <environnement>Architecture MVC en PHP, Git, Eclipse.</environnement>
+      <moyen>Github, PhpMyAdmin.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Anlyse du cahier des charges, identification des fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Pages test pour chaque page créée permettant de les valider</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test de l'application sur un serveur distant en format mobile.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Hébergement de l'application sur un serveur web distant</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Distribution des tâches à produire, travail en groupe de 3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Suivi de l'avancement du projet grâce à des commit sur Github</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Adaptation des tâches à effectuer en fonction du temps disponible et de l'avancement de chacun des collaborateur dans la liste des tâches</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur de la solution en fonction de la maquette fournie </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données avec une table spéciale pour les digicodes et programmation des éléments de la solution applicative dans le langage d'un SGBD avec des triggers en relation avec celle-ci</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de Eclipse pour développer l'application web et Github pour le travail en collaboration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement des éléments de la solution.
+Analyse des différentes fonction déjà codées.
+Utiliser des composants d'accès aux données avec la classe DAO.
+Mettre en place des éléments de sécurité avec des requêtes sécurisées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des test unitaires sur chaque classe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de Github pour le versionning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Utilisation de Github pour le versionning (cycle de vie)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Utilisation de Github pour le versionning (historique)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Utilisation de l'architecture MVC fournie au départ </commentaireactivite>
+      </activitecitee>
+      <production numero="2071">
+        <numero>2071</numero>
+        <designation>Site hébergé sur un serveur distant</designation>
+        <adresse>http://catwyth12.no-ip.org/m.m2l/</adresse>
+      </production>
+      <production numero="2088">
+        <numero>2088</numero>
+        <designation>Architecture MVC sous eclipse</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFU01xbkgyZTRYOVk</adresse>
+      </production>
+      <production numero="2090">
+        <numero>2090</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFYzdrRlRJdVZ1WTA</adresse>
+      </production>
+      <production numero="2091">
+        <numero>2091</numero>
+        <designation>Travail Collaboratif Github</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFUGwwUXZNSHpDeG8</adresse>
+      </production>
+      <production numero="2092">
+        <numero>2092</numero>
+        <designation>Liste des tâches fichier excel</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFRWZYSzItRkNoSDg</adresse>
+      </production>
+      <production numero="2099">
+        <numero>2099</numero>
+        <designation>Tests nécéssaires</designation>
+        <adresse>https://drive.google.com/open?id=0BzyVoqRlN6BFZWFaUmZNNUoxLWc</adresse>
+      </production>
+      <production numero="2102">
+        <numero>2102</numero>
+        <designation>Gestion de version , historique , cycle de vie </designation>
+        <adresse>https://github.com/delasalle-sio-boutin/m.m2l</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2102">
+      <ref>2102</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2ème année : Cadets de Bretagne</libcourt>
+      <descriptif>Stage de deuxième année chez les Cadets de Bretagne.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-10</datefin>
+      <environnement>Architecture MVC en PHP, Eclipse.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.
+Préparer sa participation à une réunion.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Recenser les risques liés à une mauvaise utilisation ou à une utilisation malveillante du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>dentifier les éléments à sauvegarder et à journaliser (sauvegarde des bases de données)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Informer et former les utilisateurs (documentation technique pour former les administrateurs)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite> Mettre en exploitation le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité (compte rendu hebdomadaire).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs dans l'appropriation du nouveau service (documentation et accompagnement dans la prise en main avant déploiement)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite> Identifier les besoins en gestion d'identité permettant de protéger les éléments d'une infrastructure (comptes administrateurs)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données et adaptation au fur et à mesure</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Mettre en place des éléments de sécurité liés à l'utilisation d'un composant logiciel (mots de passe, sessions et unset)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'une documentation pour la prise en main du site web par les administrateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Descriptions explicites au maximum pour guider les utilisateurs sur le site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Vérification des problèmes de comptabilité ou de compatibilité lors de l'importation des vraies bases sur le site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identification des besoins de langages non étudiés en cours (Javascript, AngularJS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Javascript, AngularJS</commentaireactivite>
+      </activitecitee>
+      <production numero="2213">
+        <numero>2213</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2214">
+        <numero>2214</numero>
+        <designation>A1.1.3 Étude des exigences liées à la qualité attendue d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2215">
+        <numero>2215</numero>
+        <designation>A1.2.3 Évaluation des risques liés à l'utilisation d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2216">
+        <numero>2216</numero>
+        <designation>A1.2.4 Détermination des tests nécessaires à la validation d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2217">
+        <numero>2217</numero>
+        <designation>A1.3.1 Test d'intégration et d'acceptation d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2218">
+        <numero>2218</numero>
+        <designation>A1.3.2 Définition des éléments nécessaires à la continuité d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2219">
+        <numero>2219</numero>
+        <designation>A1.3.3 Accompagnement de la mise en place d'un nouveau service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2220">
+        <numero>2220</numero>
+        <designation>A1.3.4 Déploiement d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2221">
+        <numero>2221</numero>
+        <designation>A1.4.1 Participation à un projet</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2222">
+        <numero>2222</numero>
+        <designation>A2.1.1 Accompagnement des utilisateurs dans la prise en main d'un service</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2223">
+        <numero>2223</numero>
+        <designation>A3.3.3 Gestion des identités et des habilitations</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2224">
+        <numero>2224</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2225">
+        <numero>2225</numero>
+        <designation>A4.1.3 Conception ou adaptation d'une base de données</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2226">
+        <numero>2226</numero>
+        <designation>A4.1.7 Développement, utilisation ou adaptation de composants logiciels</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2227">
+        <numero>2227</numero>
+        <designation>A4.1.9 Rédaction d'une documentation technique</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2228">
+        <numero>2228</numero>
+        <designation>A4.1.10 Rédaction d'une documentation d'utilisation</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2229">
+        <numero>2229</numero>
+        <designation>A4.2.1 Analyse et correction d'un dysfonctionnement, d'un problème de qualité de service ou de sécurité</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2230">
+        <numero>2230</numero>
+        <designation>A5.2.3 Repérage des compléments de formation ou d'auto-formation utiles à l'acquisition de nouvelles compétences</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2231">
+        <numero>2231</numero>
+        <designation>A5.2.4 Étude d‘une technologie, d'un composant, d'un outil ou d'une méthode</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

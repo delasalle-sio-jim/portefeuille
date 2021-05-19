@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a38c3daa8cd1">
+    <ref>5a38c3daa8cd1</ref>
+    <datesv>2017-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="215">
+    <nom>EPS</nom>
+    <prenom>Erwan</prenom>
+    <mel>delasalle.sio.eps.e@gmail.com</mel>
+  </etudiant>
+</suivicomp>

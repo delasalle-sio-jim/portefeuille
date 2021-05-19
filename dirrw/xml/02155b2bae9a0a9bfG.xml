@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b2bae9a0a9bf">
+    <ref>5b2bae9a0a9bf</ref>
+    <datesv>2018-06-21</datesv>
+  </sauvegarde>
+  <etudiant numero="215">
+    <nom>EPS</nom>
+    <prenom>Erwan</prenom>
+    <mel>delasalle.sio.eps.e@gmail.com</mel>
+    <situation ref="2325">
+      <ref>2325</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte>Société proposant des fonctions en bureautique aux entreprises</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un un impact.
+Identifier les fonctionnalités attendues du service à produire.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (serv-wamp1).
+Faire l'extension de la base de données initiale.
+Modéliser la base de données sous MySQL Workench.
+Manipuler les données liées à la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="2445">
+        <numero>2445</numero>
+        <designation>TP8 Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1__IjUGzDmjB-vK9zbe-t3yVefe4X_Bx9</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2452">
+      <ref>2452</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission PORTAIL</libcourt>
+      <descriptif>Le nouveau portail du site web permettra :
+- D'améliorer le design du portail tout en conservant la charte graphique (couleurs, logos,...)
+- D'accéder à la consultation des formations (*) page précédente,
+- D'accéder à la page Facebook (https://fr-f</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-01-16</datedebut>
+      <datefin>2018-02-06</datefin>
+      <environnement>WordPress, serveur wamp1, php &amp; html, SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre le CMS WordPress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de WordPress</commentaireactivite>
+      </activitecitee>
+      <production numero="2501">
+        <numero>2501</numero>
+        <designation>Adresse drive</designation>
+        <adresse>https://drive.google.com/open?id=1Y2rlfAavKUwcm-ladDXD1M7wZTd9XCAN</adresse>
+      </production>
+      <production numero="2504">
+        <numero>2504</numero>
+        <designation>site WordPress</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2017_2018/Eps/wordpress/</adresse>
+      </production>
+      <production numero="2505">
+        <numero>2505</numero>
+        <designation>site WordPress 2</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2017_2018/Vallee/wordpress/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2468">
+      <ref>2468</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode V1 &amp; V2 &amp; V3</libcourt>
+      <descriptif>M2L met à disposition des salles pour ces adhérents. Ils peuvent récupérer le digicode via l'application.
+Deux ou trois versions ont été élaborées (1 seul digicode puis 1 par salle puis 1 digicode par réservation)</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-03-06</datedebut>
+      <datefin>2018-03-27</datefin>
+      <environnement>HTML, PHP, CSS, JavaScript</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire (scénarios fournis)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests fournis
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service (la base de données avait déjà été installer pour la mission valrés)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet entre les membres de l'équipe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelle table Digicode) et manipuler les données liées à la solution applicative à travers un langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2471">
+      <ref>2471</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission VALRES</libcourt>
+      <descriptif>Modéliser la base de données sous MySQL Workbench.
+
+Mettre en évidence les liens entre les tables (contraintes de clés étrangères non mise
+en œuvre sous MySQL volontairement) et comprendre les liens entre ces tables.
+
+Élaborer un jeu d'essai de rése</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2017-11-21</datedebut>
+      <datefin>2017-12-05</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs
+Identifier les fonctionnalités</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire avec MySQL Workbench
+Implémenter le schéma de données dans un SGBD</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2715">
+      <ref>2715</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Alliance Française de Cork -  PMB</libcourt>
+      <descriptif>Mise en place et modification du SIGB (Système intégré de gestion de bibliothèque) : PMB.</descriptif>
+      <contexte>Mise en place d'un logiciel qui permet de faire des prêts de livre et de DVD par rapport à leur bibliothèque.</contexte>
+      <datedebut>2018-05-21</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement>Oracle VirtualBox, Debian 9 (Linux), PHP, HTML, SQL, XDebug, Serveur WAMP (pour les tests).</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.
+Caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Informer et former les utilisateurs via une documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Installation du serveur sur un poste et sur quel système d'exploitation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs dans l'appropriation du nouveau service et rendre compte de la satisfaction des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Plusieurs essais sur le l'application PMB et débogage de celui-ci avec XDebug</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger et adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à une norme : RGPD.
+Identifier et partager les bonnes pratiques à intégrer : sécurité des données par rapport à PMB.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter sur le choix d'un serveur (système d'exploitation, version, ...), d‘une technologie, d'un composant, d'un outil ou d'une méthode.</commentaireactivite>
+      </activitecitee>
+      <production numero="2726">
+        <numero>2726</numero>
+        <designation>Dossier en rapport avec le stage</designation>
+        <adresse>https://drive.google.com/open?id=1Mgxqtr3x-m26iKSbDRUNzWXZ3AW6hX_0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

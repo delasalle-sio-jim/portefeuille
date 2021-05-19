@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51932fb7a556c">
+    <ref>51932fb7a556c</ref>
+    <datesv>2013-05-15</datesv>
+  </sauvegarde>
+  <etudiant numero="65">
+    <nom>EMILY</nom>
+    <prenom>Juliette</prenom>
+    <mel>emily.j@lyceedelasalle.fr</mel>
+    <situation ref="193">
+      <ref>193</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Commandes Linux</libcourt>
+      <descriptif>Test des commandes, gestion des droits d'utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-11-20</datedebut>
+      <datefin>2012-12-13</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="205">
+      <ref>205</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installations de systèmes d'exploitation</libcourt>
+      <descriptif>Installation de Windows 7 (installation des pilotes, configurations de base), 2008 Serveur</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="212">
+      <ref>212</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Présentation d'articles de presse en relation avec la veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="224">
+      <ref>224</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE métiers</libcourt>
+      <descriptif>Forum des métiers et création d'un powerpoint de présentation des métiers.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-12-19</datedebut>
+      <datefin>2012-12-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="332">
+      <ref>332</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Analyse d'un cahier des charges </libcourt>
+      <descriptif>Analyse d'une situation et réponse à un cahier des charges (choix de solutions logicielles, propositions de nomenclatures pour nommer les équipements, les comptes, ... )</descriptif>
+      <contexte>PPE Mission 1</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-02-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="526">
+      <ref>526</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>hg</libcourt>
+      <descriptif>h</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-15</datedebut>
+      <datefin>2013-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

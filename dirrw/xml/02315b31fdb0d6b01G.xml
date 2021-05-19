@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b31fdb0d6b01">
+    <ref>5b31fdb0d6b01</ref>
+    <datesv>2018-06-26</datesv>
+  </sauvegarde>
+  <etudiant numero="231">
+    <nom>SAUVEE</nom>
+    <prenom>Florian</prenom>
+    <mel>delasalle.sio.sauvee.f@gmail.com</mel>
+    <situation ref="2645">
+      <ref>2645</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique </libcourt>
+      <descriptif>on doit effectuer une veille technologique pour notre bts et notre culture  </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-15</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement></environnement>
+      <moyen>utilisation de flux rrs</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2647">
+      <ref>2647</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2 Mission 7 fan zone </libcourt>
+      <descriptif>Mise en place d'une wifi public, et un sécurisation des connexion sur le wifi  </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-15</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>comprendre et respecter les demandes du client  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>savoir comuniquer avec les membre de l’équipe,et bien repartir les taches   </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>réaliser un plan de l’infrastructure et teste notre solution sur packet traceur </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2652">
+      <ref>2652</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SISR 1  inventaire </libcourt>
+      <descriptif>inventaire d'un parque informatique, du lycée en groupe </descriptif>
+      <contexte>Nous devions réaliser un inventaire de chaque machine a l'aide d'un logiciel de notre choix ,la contraire était que nous ne pouvions pas faire l'inventaire via le ressaut    </contexte>
+      <datedebut>2018-05-15</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>comprendre le besoin,et respecter les demandes  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une doc d’utilisation pour Aida 64</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>tableau concernant les configuration des postes inventorier  </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2687">
+      <ref>2687</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE Covoiturage</libcourt>
+      <descriptif>Nouvelle fonctionnalité sur le site du BDE connaitre et repérer les covoiturages libres </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-03-16</datedebut>
+      <datefin>2018-05-25</datefin>
+      <environnement>serveur wamp,Notepad++,bootstrap reponsive,HTML,SQL et PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier la fonctionnalité attendue du service a produire pour les déferrements acteurs </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour  la réalisation des teste et de la validation du service et les résultats </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte a Monsieur Guerin 
+Établir son planning personnel en fonction des exigences et du déroulement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite> Concevoir et valider la maquette en collaboration avec Monsieur Guerin </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2699">
+      <ref>2699</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Déploiment d'une image windows </libcourt>
+      <descriptif>je devais installer Windows 10 via le déploiement son image iso. Le déploiement a été réaliser avec le logicielle fog </descriptif>
+      <contexte>En stage </contexte>
+      <datedebut>2018-06-11</datedebut>
+      <datefin>2018-06-11</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2724">
+      <ref>2724</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion d'un parc informatique </libcourt>
+      <descriptif>Lors de mon stage j'ai du géré le parc informatique, cela consistais a renseigner le fichier inf (inf est le numéro qui est pressent sur chaque poste et qui est attribuer par Itga)   </descriptif>
+      <contexte>en stage </contexte>
+      <datedebut>2018-06-26</datedebut>
+      <datefin>2018-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2725">
+      <ref>2725</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Réinstalation d'une imprimante </libcourt>
+      <descriptif>j'ai du réinstaller une imprimant qui a eu un problème de driver  </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-06-26</datedebut>
+      <datefin>2018-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2726">
+      <ref>2726</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Instlation de net framework 3.5</libcourt>
+      <descriptif>J'ai du installer net framework 3.5 via Cmd
+ </descriptif>
+      <contexte>En stage </contexte>
+      <datedebut>2018-06-26</datedebut>
+      <datefin>2018-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

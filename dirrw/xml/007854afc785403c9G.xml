@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54afc785403c9">
+    <ref>54afc785403c9</ref>
+    <datesv>2015-01-09</datesv>
+  </sauvegarde>
+  <etudiant numero="78">
+    <nom>Bouthemy</nom>
+    <prenom>Maxime</prenom>
+    <mel>bouthemy.m@gmail.com</mel>
+    <situation ref="782">
+      <ref>782</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PROJET GSB :Analyse d'un cahier des charges</libcourt>
+      <descriptif>GSB
+Une Entreprise doit répondre a une demande, suite a un salon, en équipant plus de 480 clients, assurer le suivi de ces machines, et former le client si besoin
+et proposer des solutions logicielles ( bureautique par exemple )</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement>Logiciel de collaboration ( Google apps), Navigateur WEB ( Chrome)</environnement>
+      <moyen>Pas de budget défini</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="515">
+        <numero>515</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://drive.google.com/file/d/0B60m26efAZZxYkdROXhYS29BOEE/edit?usp=sharing</adresse>
+      </production>
+      <production numero="821">
+        <numero>821</numero>
+        <designation>Mode opératoire Google Apps</designation>
+        <adresse>https://docs.google.com/document/d/14zLN3kaSzLsNDV251o7zyickNvn6EROvPxcFLgMxgUY/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="862">
+      <ref>862</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Inventaire OCS</libcourt>
+      <descriptif>Introduction à OCS : inventaire réseau
+</descriptif>
+      <contexte>Besoin d’inventorier le réseau pour faciliter son suivi</contexte>
+      <datedebut>2014-02-05</datedebut>
+      <datefin>2014-02-19</datefin>
+      <environnement>Serveur windows 2008 R2, Client Windows 7, Machine virtuelle sous Vmware, OCS inventory NG, google Apps.</environnement>
+      <moyen>OCS inventory NG</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="703">
+        <numero>703</numero>
+        <designation>Résultat inventaire</designation>
+        <adresse>https://docs.google.com/document/d/12hWdqCVk4UrKSh_uO-EP3l89dG_20lb9uWX5uYmG3qE/edit?usp=sharing</adresse>
+      </production>
+      <production numero="704">
+        <numero>704</numero>
+        <designation>Présentation Contexte</designation>
+        <adresse>https://docs.google.com/presentation/d/15n_qoxi7nTZWQ3mWe-KeJ1PIOoibc8NvBMQLZI_IRiM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="706">
+        <numero>706</numero>
+        <designation>Correction mode opératoire ( une erreur survenait )</designation>
+        <adresse>https://docs.google.com/document/d/1ZIKotNFbB0039NtwwaHQICx7JF-kj7Bs8UzDOt58QWc/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="927">
+      <ref>927</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE M2L Festibasket</libcourt>
+      <descriptif>Association désirant faire un salon pour promouvoir son activité</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-02-04</datedebut>
+      <datefin>2014-03-25</datefin>
+      <environnement>Packet tracer, Google apps</environnement>
+      <moyen>2 réseaux distinct ( Orga et public )
+Mode opératoire de connexion a un réseau sans fil</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="671">
+        <numero>671</numero>
+        <designation>Maquette Packet Tracer </designation>
+        <adresse>https://docs.google.com/file/d/0B60m26efAZZxVkl1R1dhd3k3TEE/edit?usp=drive_web</adresse>
+      </production>
+      <production numero="742">
+        <numero>742</numero>
+        <designation>Mode opératoire : connexion a un réseau Wifi</designation>
+        <adresse>https://docs.google.com/document/d/1GwsphEjwoSYGAhfRDKF_r9fWoOl5cwogOuYsSk-grvE/edit?usp=sharing</adresse>
+      </production>
+      <production numero="743">
+        <numero>743</numero>
+        <designation>Configuration routeur</designation>
+        <adresse>https://docs.google.com/document/d/1zkYXDhW6_USjpFRt15PW_86uTNY53JNT_kBKwnRuwy4/edit?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="1004">
+      <ref>1004</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion d'incidents</libcourt>
+      <descriptif>Gestion de différents incidents rencontrés via GLPI</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-13</datedebut>
+      <datefin>2014-05-13</datefin>
+      <environnement>Windows 7, windows server 2008, glpi</environnement>
+      <moyen>Pas de contraintes spécifiques</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="712">
+        <numero>712</numero>
+        <designation>Fiches panne simple</designation>
+        <adresse>https://drive.google.com/folderview?id=0B51WYGPY9upeM3I4MjRNbkk0N0U&amp;usp=sharing</adresse>
+      </production>
+      <production numero="728">
+        <numero>728</numero>
+        <designation>Fiches panne compliquée</designation>
+        <adresse>https://drive.google.com/folderview?id=0B51WYGPY9upeZkdEV2RVUjZQbkk&amp;usp=sharing</adresse>
+      </production>
+      <production numero="739">
+        <numero>739</numero>
+        <designation>Tickets GLPI</designation>
+        <adresse>https://drive.google.com/folderview?id=0B51WYGPY9upeM3I4MjRNbkk0N0U&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1069">
+      <ref>1069</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet de création d'un  site</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand </descriptif>
+      <contexte>Entreprise de vente de produits de jeu de rôles Papiers</contexte>
+      <datedebut>2014-05-22</datedebut>
+      <datefin>2014-05-22</datefin>
+      <environnement>Serveur WAMP, MySQL, </environnement>
+      <moyen>MySQLworkbench,Notepad, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>- CDC = Contexte
+- Cas utilisations
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>La partie administration fournie a du être intégré au site développé puis testée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="818">
+        <numero>818</numero>
+        <designation>Dossier utilisateur</designation>
+        <adresse>https://docs.google.com/document/d/1j_hZm2G5-joKTzUFIjwNz5DfXHZOVSWv5HPrldKxfj4/edit?usp=sharing</adresse>
+      </production>
+      <production numero="819">
+        <numero>819</numero>
+        <designation>Dossier technique</designation>
+        <adresse>https://docs.google.com/document/d/1mBHVyLSh5DPjmamN5MuzSlVmoprqueYZeCN2QzAP6cM/edit?usp=sharing</adresse>
+      </production>
+      <production numero="820">
+        <numero>820</numero>
+        <designation>Contexte</designation>
+        <adresse>https://drive.google.com/file/d/0B60m26efAZZxYkdROXhYS29BOEE/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1074">
+      <ref>1074</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Mairie : mise en place de l'environement de travail</libcourt>
+      <descriptif>Mettre en place un réseau doté d'un serveur nas, d'un serveur esx, de plusieurs VLAN.
+Création de machines virtuelles : ubuntu serveur et Windows server 2008
+Monter deux serveurs de supervisions Nagios et Zabbix ( basés sur Linux) qui remonte les info</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-13</datefin>
+      <environnement></environnement>
+      <moyen>2 postes serveurs ( NAS et ESX ), un routeur zyXEL, switch HP
+Ubuntu serveur , Windows Serveur 2008, poste client Win7</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="990">
+        <numero>990</numero>
+        <designation>Configuration des éléments actifs ( Dossier )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxazdGMEIzVk1aTzA&amp;usp=sharing</adresse>
+      </production>
+      <production numero="991">
+        <numero>991</numero>
+        <designation>Capture d'écrans des interfaces WEB ( Dossier )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxclNOc3NhalliWmc&amp;usp=sharing</adresse>
+      </production>
+      <production numero="997">
+        <numero>997</numero>
+        <designation>Schéma Inkscape ( Fichier )</designation>
+        <adresse>https://drive.google.com/file/d/0B60m26efAZZxUmQxclBkcHZqSjg/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1094">
+      <ref>1094</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Mairie : Intégration de Chrome dans l'AD</libcourt>
+      <descriptif>Suite a une discussion, recherche si possibilité de contrôler chrome via AD</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-06-19</datedebut>
+      <datefin>2014-06-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1004">
+        <numero>1004</numero>
+        <designation>Tuto + résultat</designation>
+        <adresse>https://docs.google.com/document/d/10f_CnPgelgMxBbLf5TbLbfyH6JMjh10LGVk4_5N0uvk/edit?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1115">
+      <ref>1115</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Mairie Mise en place et comparatif d'outils de supervisio</libcourt>
+      <descriptif>Mise en place de deux serveurs de supervisions : Nagios et Zabbix</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-28</datedebut>
+      <datefin>2014-06-18</datefin>
+      <environnement>Serveur Linux ( ubuntu), Windows serveur 2008, Switch HP, routeur ZyXel, </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1027">
+        <numero>1027</numero>
+        <designation>Rapport comparaison Supervision ( .docx a DL)</designation>
+        <adresse>https://drive.google.com/file/d/0B60m26efAZZxazkzemwwQ3JERDg/edit?usp=sharing</adresse>
+      </production>
+      <production numero="1028">
+        <numero>1028</numero>
+        <designation>Modes opératoires Nagios ( dossier / 3 fichiers )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxS0RSNTg3TnBIdTg&amp;usp=sharing</adresse>
+      </production>
+      <production numero="1029">
+        <numero>1029</numero>
+        <designation>résultat ( dossier / 2 fichiers )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxNG5jRWRVaFQxc3M&amp;usp=sharing</adresse>
+      </production>
+      <production numero="1030">
+        <numero>1030</numero>
+        <designation>Modes opératoires Zabbix ( dossier / 2 fichiers )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxMVRXU3FMcEZLSEk&amp;usp=sharing</adresse>
+      </production>
+      <production numero="1031">
+        <numero>1031</numero>
+        <designation>Résultat de Zabbix ( fichier )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxdnEzNkJLVjFDSmM&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1136">
+      <ref>1136</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'un server SRVLAN</libcourt>
+      <descriptif>Virtualisation d'un client ubuntu serveur 14.04</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-10-03</datedebut>
+      <datefin>2014-10-03</datefin>
+      <environnement>EsX 5.5</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1055">
+        <numero>1055</numero>
+        <designation>Dossier ( Contexte, procédures, Rapports de Test )</designation>
+        <adresse>https://drive.google.com/folderview?id=0B60m26efAZZxbXVNdURzaF9laTg&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

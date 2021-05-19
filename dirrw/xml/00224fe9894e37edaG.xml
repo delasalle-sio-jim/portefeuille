@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fe9894e37eda">
+    <ref>4fe9894e37eda</ref>
+    <datesv>2012-06-26</datesv>
+  </sauvegarde>
+  <etudiant numero="22">
+    <nom>LEMETAYER</nom>
+    <prenom>Gwennaig</prenom>
+    <mel>gwenna35@hotmail.fr</mel>
+    <situation ref="62">
+      <ref>62</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création d'un site web</libcourt>
+      <descriptif>Il s'agit d'un site web en dur. L'entreprise Limeul souhaite être visible sur internet, car elle s'inscrit dans une démarche d'innovation et souhaite évoluer en parallèle des NTIC.</descriptif>
+      <contexte>Entreprise Limeul (servon s/ vilaine). Société du BTP dans le secteur de la Couverture, Etanchéité, Ossature bois et charpente.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>-le site doit être lisible, agréable, efficace, pas trop d'animation, sérieux, rapide 
+-Il faut cibler de nouveaux clients
+-On veut voir apparaître les différents métiers de l'entreprise, son histoire, ses démarches qualité et sécurité, sa volonté de </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>il n'y a actuellement pas de vrai site web disponible, il est en fait factice et correspond à une vitrine vide.
+Il est donc important que ce nouveau site ait des données actualisées en permanence (bloc actualités avec photos et explications)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Il a fallu décider quel éditeur de texte choisir :
+M.Reverdy souhaitait pouvoir administrer le site tout seul à l'avenir. Certains logiciel WYSIWYG sont pratiques mais je n'ai pas retenu cette solution car ces logiciels fournissent un code obsolète et </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Je vais prendre l'exemple de la page entretien.php.
+Il s'agit pour le client de prendre contact avec l'entreprise. Il remplit le formulaire (nom, prénom, adresse mail, n° de téléphone, objet du message et message)
+il faut, à la réception du message v</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>page entretien.php
+
+Il faut donc, au moment du traitement de l'envoi du message, concaténer les champs nom, prenom, n° tel à la fin du champ &quot;message&quot; en guise de signature</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>L'entreprise possède une trentaine de poste en réseau. Au début de la quatrième semaine, j'ai mis le site sur le serveur afin que chacun puisse le consulter et donner des avis en retour</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>-mettre le site sur le réseau pour montrer l'état d'avancement 
+-prévoir une marge de quelques jours pour régler les derniers problèmes de mise en ligne </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>-un éditeur de texte
+-un serveur apache (wamp)
+-un navigateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>-choix des couleurs, de la structure générale des pages
+-maquette de l'accueil (pour les div page, contenu, gauche, droite, pied de page etc ..) il est important de bien comprendre où se placent les blocs les uns par rapport aux autres pour ne pas perdr</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Il a fallu tester le site sur plusieurs navigateurs et entre autre sur plusieurs versions d'internet explorer.
+Logiciel utilisé : IETester pour émuler IE 5.5 jusqu'à IE9</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Adaptation de :
+- composant diaporama photo (colorbox)
+- composant pour la page entretien.php qui à la base ne comprenait que adresse mail, objet et message.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Certains plugins jquery n'étaient pas à jour
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Dysfonctionnement lors du passage de IE9 à IE7
+les div ne s'affichaient pas correctement. Il a fallu travailler la feuille de style et faire des recherches sur les hack css </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="66">
+      <ref>66</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>application standard téléphonique</libcourt>
+      <descriptif>Le but est d'aider la standardiste lors de la redirection d'appel. Chaque employé peut indiquer via l'application son statut (présent, ne pas déranger, absent) Ainsi, la standardiste gagne du temps et évite d'appeler le poste de tel ou tel employé et </descriptif>
+      <contexte>Entreprise Limeul à servon sur vilaine - Couverture, charpente, etanchéité et ossature bois</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>application interne à l'entreprise utilisé par les employés 
+On veut pouvoir indiquer son statut (présent, absent, ne pas déranger)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Cette application n'a pas besoin d'être en ligne. Donc elle est installé sur le serveur de l'entreprise (wamp)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Le service est valide si les statuts se changent bien et s'affichent bien pour la standardiste
+
+Test sur plusieurs postes reliés au réseau (un simulant le poste du standard et un simulant le poste d'un employé)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>- la secrétaire peut voir les statuts des employés sur la page d'accueil
+- les employés peuvent voir les statuts des autres sur la page d'accueil  et peuvent se connecter avec un login pour changer leur statut
+- l'administrateur peut ajouter un nouve</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Plusieurs postes en réseau pour simuler en même temps le standard et l'employé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Expliquer aux employés pourquoi une telle explication. Elle est donc pratique et utile surtout pour la standardiste. Explication du fonctionnement et de certaines particularités :
+ Par exemple si on ferme la page de l'application, le statut ne passe pas</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>La solution est installée sur le serveur de l'entreprise sous wamp.
+Chaque poste doit donc juste attaquer le serveur pour arriver directement sur la page index de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>l'application n'était plus disponible. Le serveur wamp s'était arrêté.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Pouvoir changer automatiquement tous les statuts, tous jours à la même heure. En fin de journée et à la pause du midi, tous les statuts doivent passer à &quot;absent&quot; pour contrer les oublis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Base de donnée limeul avec une table utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

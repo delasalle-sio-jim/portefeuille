@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51276bcb07455">
+    <ref>51276bcb07455</ref>
+    <datesv>2013-02-22</datesv>
+  </sauvegarde>
+  <etudiant numero="34">
+    <nom>STRUBHARD</nom>
+    <prenom>Christophe</prenom>
+    <mel>christophe.strubhard@gmail.com</mel>
+    <situation ref="383">
+      <ref>383</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation et configuration d'un Active Directory</libcourt>
+      <descriptif>C</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-19</datedebut>
+      <datefin>2013-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

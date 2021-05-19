@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="589872b4a30d4">
+    <ref>589872b4a30d4</ref>
+    <datesv>2017-02-06</datesv>
+  </sauvegarde>
+  <etudiant numero="154">
+    <nom>GREMY</nom>
+    <prenom>Florentin</prenom>
+    <mel>delasalle.sio.gremy.florentin@gmail.com</mel>
+    <situation ref="1593">
+      <ref>1593</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Valrès 1ère année</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles.</descriptif>
+      <contexte>maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, MySqlWorkbench, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation web (mdl)sur le serveur serv-wamp1 (dans mon répertoire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schémas de donnés grâce à MySqlWorkbench
+Implémenter le schémas de données sous MySQL sur le serveur serv-wamp1</commentaireactivite>
+      </activitecitee>
+      <production numero="1587">
+        <numero>1587</numero>
+        <designation>Compte-rendu des tests</designation>
+        <adresse>https://drive.google.com/drive/folders/0B2XEeLtMVUINOUdIVGtiaEg3aDA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1701">
+      <ref>1701</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode 1ère année</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via une application web.Trois versions sont disponibles.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-02</datedebut>
+      <datefin>2016-03-15</datefin>
+      <environnement>serveur wamp1; BDD MySQl; notepad++; mrbs  </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite> Tester le service. (la base de données avait déjà été installer pour la mission valres)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite> Identifier les composants logiciels nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.
+ Maquetter un élément de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Manipuler les données liées à la solution applicative à travers un langage de requête.
+Adaptez la base de donnée et création d'une nouvelle table digicode manipulez avec le langage SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite> Produire ou mettre à jour la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <production numero="1665">
+        <numero>1665</numero>
+        <designation>Lien du dossier sur le google drive</designation>
+        <adresse>https://drive.google.com/drive/folders/0B2XEeLtMVUINbHVqLWExNW9RNkk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1874">
+      <ref>1874</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>projet site AuCuirChevelu</libcourt>
+      <descriptif>Production d'un site sur le thème d'un salon de coiffure. Le site possède une partie utilisateur et une administrateur.</descriptif>
+      <contexte>Création d'un site html dynamique php avec une base de données MySql. Par groupe de deux. </contexte>
+      <datedebut>2016-01-13</datedebut>
+      <datefin>2016-04-23</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges en fonction des demandes du site a produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le bon fonctionnement du site et des services.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation d'un base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tester le fonctionnement complet du site en adaptant des éléments déjà fournit.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation administrateur.</commentaireactivite>
+      </activitecitee>
+      <production numero="1836">
+        <numero>1836</numero>
+        <designation>adresse du drive lien partageable du dossier complet du site</designation>
+        <adresse>https://drive.google.com/open?id=0B2XEeLtMVUINcWgtUU5CdnhoUXc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1886">
+      <ref>1886</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP dutoit</libcourt>
+      <descriptif>La société dutoit propose des stages sur différents logiciels aux salariés d'entreprises</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1940">
+      <ref>1940</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage de 1ère année</libcourt>
+      <descriptif>Mise en place d'un programme en vba avec Business object pour chercher l'ensemble des droits des utilisateurs sur ce dossier.</descriptif>
+      <contexte>Les utilisateurs de Businness object avais besoin d'un programme pour afficher ces droits. Il offrait un gain de temps pour la recherches des droits.</contexte>
+      <datedebut>2016-05-23</datedebut>
+      <datefin>2016-05-27</datefin>
+      <environnement>bureau avec téléphone fixe, ordinateur fixe fournis par l'entreprise.</environnement>
+      <moyen>langage utilisé vba. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Recherche de la cause du dysfonctionnement de l'application, de sa solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'application.</commentaireactivite>
+      </activitecitee>
+      <production numero="2044">
+        <numero>2044</numero>
+        <designation>Lien partagable</designation>
+        <adresse>https://drive.google.com/open?id=0B2XEeLtMVUINMU16a1B1X0NUelE</adresse>
+      </production>
+    </situation>
+    <situation ref="1980">
+      <ref>1980</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Fredi 1ère année</libcourt>
+      <descriptif>Site Web Permettant la gestion de bordereaux pour la maison des ligues.</descriptif>
+      <contexte>maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2016-03-04</datedebut>
+      <datefin>2016-05-23</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, php, html, css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2087">
+        <numero>2087</numero>
+        <designation>Lien drive projet</designation>
+        <adresse>https://drive.google.com/open?id=0B2XEeLtMVUINcnFNOGdFUEczZ0E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2059">
+      <ref>2059</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage de 2ème année</libcourt>
+      <descriptif>Développement d'une application web permettant aux clients de l'entreprise d'installer facilement un CMS parmi 4 CMS proposés (Wordpress, Joomla, Prestashop, Spip).</descriptif>
+      <contexte>Entreprise Vezim SARL (une personne).
+Développement et hébergement de site web.</contexte>
+      <datedebut>2016-01-05</datedebut>
+      <datefin>2017-02-10</datefin>
+      <environnement>PHP, MySQL, JavaScript, Bootstrap, Ajax, jQuery.
+Sublime text, FileZilla.</environnement>
+      <moyen>Ordinateur portable personnel.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement des scripts PHP et de la page formulaire sur le site.
+Déploiement des CMS a chaque installation de l'utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception du formulaire php qui envoie les paramètres requis lors de l'installation d'un CMS.
+Conception de 4 pages de présentation de CMS.
+Conception de la classe MySql regroupant des functions comme creerDatabase.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de scripts permettant de télécharger la dernière version des CMS.
+Développement de scripts d'installation automatique selon des paramètres envoyer en POST pour Wordpress, Joomla, Presta et Spip.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respect de la charte graphique du site web lors de la conception du formulaire et des 4 pages de présentation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Formation sur de multiples site web, notamment pour JavaScript et pour Ajax.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude général de Wordpress, Joomla, Prestashop et Spip. Mais surtout une étude approfondis du fonctionnement de leurs processus d'installation.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

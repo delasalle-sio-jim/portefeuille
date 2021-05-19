@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5cdd0a1b5ad9e">
+    <ref>5cdd0a1b5ad9e</ref>
+    <datesv>2019-05-16</datesv>
+  </sauvegarde>
+  <etudiant numero="272">
+    <nom>Verrier</nom>
+    <prenom>Thomas</prenom>
+    <mel>delasalle.sio.verrier.t@gmail.com</mel>
+    <situation ref="2795">
+      <ref>2795</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation + mise en place d'un site web pour permettre la gestion de la BDD.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une de données Mysql comprenant 3 tables.</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>serveur wamp, PhpMyAdmin, SGBDR Mysql, langage SQL, bootstrap, css/php/html/javascript/SQL/bibliothèque fpdf</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser et caractériser le contexte d'utilisation et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des testes et les résultats attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits.
+Créer une table 'utilisateur'</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de donnée avec MySQLWorkBench.
+Implémenter le schéma de données sous MySQL et l'adapter, manipuler les données liées à la solution applicative à travers le langage SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2787">
+        <numero>2787</numero>
+        <designation>SI3 - TP Dutoit </designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2947">
+        <numero>2947</numero>
+        <designation>Site web Dutoit</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Verrier/TP/SI6%20-%20TP3%20-%20Site%20Dutoit/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2810">
+      <ref>2810</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>VALRES</libcourt>
+      <descriptif>Installation et validations des fonctionnalités de l'application web MRBS via une base de donnée et un site. Réalisation de test sur les réservations et analyse de ces dernières dans la base de donnée.</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2018-12-04</datedebut>
+      <datefin>2019-01-08</datefin>
+      <environnement>Architecture client / serveur 3 tiers </environnement>
+      <moyen>MySQL, serveur wamp, MySQLWorkbench, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rédiger le rapport de test(compte-rendu)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application web (mdl)sur le serveur wamp 2 (dans mon répertoire) </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données grâce à MySQLWorkBench 
+Implémenter me schéma de données sous MySQL sur le serveur serv-wamp2
+Manipuler les données à travers le langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <production numero="2810">
+        <numero>2810</numero>
+        <designation>Compte-rendu des tests</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2868">
+      <ref>2868</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L</libcourt>
+      <descriptif>Création d'un site web reprenant la charte graphique du site de la ligue de Lorraine via un CMS(WordPress).</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-01-22</datedebut>
+      <datefin>2019-02-05</datefin>
+      <environnement>Serveur wamp, CMS</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2897">
+      <ref>2897</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mission Portail</libcourt>
+      <descriptif>Le nouveau portail du site web permettra:
+- de simplifier le portail tout en conservant la charte graphique (couleurs, logos, ...)
+- d'accéder à la consultation des réservation, du digicode,
+- d'accéder à la page Facebook et autres réseaux sociaux</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-01-15</datedebut>
+      <datefin>2019-02-05</datefin>
+      <environnement>WordPress, serveur wamp2, php &amp; html</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire (cas utilisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution (wordpress, plugins ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Documentation concernant l'installation de WordPress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formations pour mettre en oeuvre le CMS wordpress</commentaireactivite>
+      </activitecitee>
+      <production numero="2929">
+        <numero>2929</numero>
+        <designation>Portail via digicode</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Benard-Verrier/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3006">
+      <ref>3006</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mission digicode V1, V2 et V3</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via l'application.
+Trois versions ont été élaborées :
+V1 -&gt; 1 digicode unique pour toutes les salles
+V2 -&gt; 1 digicode par salle
+V3 -&gt; 1 digicode par réser</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-02-26</datedebut>
+      <datefin>2019-04-02</datefin>
+      <environnement>serveur wamp2, atom, BDD MySQL mrbs04</environnement>
+      <moyen>langage html, php, css + bootstrap</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lequel le service aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests fournis</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du serveurs, leurs rôles et leur niveau de responsabilité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet entre les membres.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter les éléments de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelles tables Digicode), manipuler les données liées à la solution applicative à travers un langage de requêtes SQL et créer des événements et des triggers.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires et mettre en évidence et corriger les écarts.</commentaireactivite>
+      </activitecitee>
+      <production numero="2924">
+        <numero>2924</numero>
+        <designation>M2L Digicode</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Benard-Verrier/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3084">
+      <ref>3084</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE commande</libcourt>
+      <descriptif>Création et intégration d'une fonction de commande et de gestion de commande sur le site existant du BDE. </descriptif>
+      <contexte>BDE Lycee de la salle</contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-10</datefin>
+      <environnement>Architecture client / serveur 3 tiers </environnement>
+      <moyen>HTML / CSS (Bootstrap) / SQL / PHP
+==&gt; Atom</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet.
+Rendre compte de son activité auprès de M. Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec M. Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD
+Manipuler les données liées à la solution applicative à travers un langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution en PHP,HTML,CSS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques à intégrer </commentaireactivite>
+      </activitecitee>
+      <production numero="3043">
+        <numero>3043</numero>
+        <designation>site développé</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Lebihan-verrier/SI6%20-%20BDE%20-%20Projet%20%20cde/</adresse>
+      </production>
+      <production numero="3045">
+        <numero>3045</numero>
+        <designation>cahier des charges</designation>
+        <adresse>drive</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

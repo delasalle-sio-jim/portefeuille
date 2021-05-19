@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55507cde01e49">
+    <ref>55507cde01e49</ref>
+    <datesv>2015-05-11</datesv>
+  </sauvegarde>
+  <etudiant numero="131">
+    <nom>Perrot</nom>
+    <prenom>Alexandre</prenom>
+    <mel>delasalle.perrot.a@gmail.com</mel>
+    <situation ref="1175">
+      <ref>1175</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Création/Amélioration de bases de données pour une société de formations.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux.
+Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables.</contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur wamp, PhpMyAdmin, SGBDR MySql, MySQLWorkBench, language SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (commerciaux et formateurs) sur lesquels le service aura un impact.
+Identifier les fonctionnalités attendues </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données sous MySql à partir d'un script.
+Extension de la bdd initiale
+Modélmisation de la BDD finale sous MySqlWorkBench.
+Manipulations de données liées à la solution applicative à travers le langage de requêtes SQL (vues). </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1355">
+      <ref>1355</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>FestiBasket</libcourt>
+      <descriptif>Mise en place d'une couverture wifi. Concevoir et prototyper l'informatique nomade liée à une manifestation installée en extérieur. (Deux réseaux distincts, un pour l'organisation et un pour les visiteurs). Sécurisation WPA2. 
+Mise en place d'une cou</descriptif>
+      <contexte>Le service informatique de la M2L a été par la FFBB pour prototyper, puis mettre en place la couverture informatique nomade d'une manifestation appelés &quot;Les cinquièmes assises nationales du basket&quot;. </contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement>3 postes informatiques
+Elements actifs utilisés : 1 commutateur, 1 routeur, 1 borne wifi</environnement>
+      <moyen>NULL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1365">
+      <ref>1365</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion automatisée d'un parc informatique</libcourt>
+      <descriptif>- Installation et déploiement d'un agent OCS
+- Installation d'un serveur OCS sous W2008
+- Interfaçage OCSInventory et GLPI
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-04-28</datefin>
+      <environnement>3 postes de travail</environnement>
+      <moyen>NULL</moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1418">
+      <ref>1418</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet AuBonTicket.com</libcourt>
+      <descriptif>Vente de tickets de concerts/spectacles en ligne. Site avec BDD. Gestion de panier. </descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-11</datedebut>
+      <datefin>2015-05-11</datefin>
+      <environnement>WAMP</environnement>
+      <moyen>php/MySql/HTML</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

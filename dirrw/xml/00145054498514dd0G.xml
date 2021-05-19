@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5054498514dd0">
+    <ref>5054498514dd0</ref>
+    <datesv>2012-09-15</datesv>
+  </sauvegarde>
+  <etudiant numero="14">
+    <nom>GHANI</nom>
+    <prenom>Abdelhakim</prenom>
+    <mel>ghaniabdelhakim@yahoo.fr</mel>
+    <situation ref="122">
+      <ref>122</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Sophos NAC Manager</libcourt>
+      <descriptif>Installation et configuration de &quot;Sophos NAC Manager&quot; afin de mettre en place des restrictions d'accès au domaine de la Mairie de Vannes pour les stagiaires.
+J'ai testé cette fonction qui est le &quot;NAC Manager&quot; sur des machines vi</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-06-08</datefin>
+      <environnement>VMware Workstation:
+- Windows Server 2008 et Windows 7
+Sophos Endpoint Protection : Console d'administration + Contrôle d'accès réseau (NAC Manager)
+</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé plusieurs guides d'installation et de configuration des deux fonctions que j'ai pu mettre en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Je me suis documenté grâce aux notices qui étaient disponible sur le site officiel de Sophos, afin d'installer et configurer les deux fonctions de Sophos Endpoint Protection, qui sont : Sophos Entreprise Console&quot; et Sophos NAC Manager</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

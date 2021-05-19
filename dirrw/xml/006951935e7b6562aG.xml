@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51935e7b6562a">
+    <ref>51935e7b6562a</ref>
+    <datesv>2013-05-15</datesv>
+  </sauvegarde>
+  <etudiant numero="69">
+    <nom>LADAM</nom>
+    <prenom>Ludovic</prenom>
+    <mel>ladam.l@lyceedelasalle.fr</mel>
+    <situation ref="523">
+      <ref>523</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Adaptation d'une base de donnée (ajout d'une table comptable) et développement d'une application web.</descriptif>
+      <contexte>GSB est un laboratoire pharmaceutique. L'application permet la vérification des frais effectué par les visiteurs, la vérification se fera par les comptables.</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>architecture client/serveur(base de donnée)</environnement>
+      <moyen>Serveur Apache, serveur MySQL, langages utilisés : HTML, PHP.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Non réalisé :
+C1.1.1.3, C1.1.1.4</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>C1.2.4.1 : Vérifier qu'une personne est inscrite dans la bdd.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Détermine si un visiteur ou un comptable se connecte et établit des services en fonction.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Réalisation d'un projet en équipe de 4, 2 SLAM et 2 SISR.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Analyse des cas d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Non réalisé :
+C4.1.2.3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en place de la base de donnée sur MySQL et manipulation des données dans la cadre de l'application. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Documentation utilisateur pour aider les comptables à utiliser l'application.</commentaireactivite>
+      </activitecitee>
+      <production numero="313">
+        <numero>313</numero>
+        <designation>Lien vers application et document utilisateur </designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/PoignandLadam/appliFrais/</adresse>
+      </production>
+      <production numero="316">
+        <numero>316</numero>
+        <designation>lien vers bdd</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gsb6&amp;token=ad16f84d23bd16174255bb36226fdb32</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="580">
+      <ref>580</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Dossier Emeraudes</libcourt>
+      <descriptif>Réponse apporté à un cahier des charges</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-02-19</datedebut>
+      <datefin>2013-03-12</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Non réalisé : 
+C1.1.1.3, C1.1.1.4</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="591">
+      <ref>591</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de Lycée</libcourt>
+      <descriptif>Réalisation d'une documentation utilisateur.</descriptif>
+      <contexte>L'application gestion de lycée permet de gérer les différentes tâches au sein d'un lycée.</contexte>
+      <datedebut>2013-03-22</datedebut>
+      <datefin>2014-02-12</datefin>
+      <environnement></environnement>
+      <moyen>Word</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Réalisation d'une documentation d'utilisation papier.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="597">
+      <ref>597</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Guitares Vintages</libcourt>
+      <descriptif>Mise à jour du site web Guitares Vintages par rapport aux étapes inscrites dans le cahier des charges de La Fleure.</descriptif>
+      <contexte>Guitares Vintages est un site marchand vendant des guitares.</contexte>
+      <datedebut>2013-02-22</datedebut>
+      <datefin>2013-05-24</datefin>
+      <environnement>Architecture client/serveur (base de donnée)</environnement>
+      <moyen>Serveur de base de donnée, serveur apache, langages utilisés : HTML, PHP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Non réalisé :
+C1.1.1.3, C1.1.1.4</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Non réalisé :
+C4.1.2.3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en place de la base de donnée : guitaresvin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement et évolution de l'application à partir du cahier des charges. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un document utilisateur permettant de montrer les services disponibles.</commentaireactivite>
+      </activitecitee>
+      <production numero="338">
+        <numero>338</numero>
+        <designation>Application Web : Guitares Vintages</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2012_2013/ladam/SI6%20-%20Projet%20Lafleur%20-%20Version2/</adresse>
+      </production>
+      <production numero="339">
+        <numero>339</numero>
+        <designation>Base de donnée : Guitaresvin</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=guitaresvin&amp;token=ad16f84d23bd16174255bb36226fdb32</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

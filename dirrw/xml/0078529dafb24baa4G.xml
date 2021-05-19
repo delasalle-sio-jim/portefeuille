@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="529dafb24baa4">
+    <ref>529dafb24baa4</ref>
+    <datesv>2013-12-03</datesv>
+  </sauvegarde>
+  <etudiant numero="78">
+    <nom>Bouthemy</nom>
+    <prenom>Maxime</prenom>
+    <mel>bouthemy.m@gmail.com</mel>
+    <situation ref="782">
+      <ref>782</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PROJET GSB :Analyse d'un cahier des charges</libcourt>
+      <descriptif>GSB
+Une Entreprise doit répondre a une demande, suite a un salon, en équipant plus de 480 clients, assurer le suivi de ces machines, et former le client si besoin
+et proposer des solutions logicielles ( bureautique par exemple )</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement>Logiciel de collaboration ( Google apps), Navigateur WEB ( Chrome)</environnement>
+      <moyen>Pas de budget défini</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="515">
+        <numero>515</numero>
+        <designation>Dossier Projet GSB ( Google Drive)</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

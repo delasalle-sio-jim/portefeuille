@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5170fa9dba30a">
+    <ref>5170fa9dba30a</ref>
+    <datesv>2013-04-19</datesv>
+  </sauvegarde>
+  <etudiant numero="33">
+    <nom>RUES</nom>
+    <prenom>Guillaume</prenom>
+    <mel>ruesguillaume@hotmail.fr</mel>
+    <situation ref="45">
+      <ref>45</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1ère année</libcourt>
+      <descriptif>Durant mon stage de première année j'ai dû refaire l'apparence du site &quot;www.choisirmonmobile.com&quot;
+J'ai donc utilisé beaucoup de html et de ccs dans un premier temps afin de reproduire le travail d'un web designer. ET, en seconde partie de</descriptif>
+      <contexte>Le site choisirmonmobile.com n'a pas été réactualisé (d'un point de vue graphique) depuis sa création de plus il contient des erreurs, et donc a besoin d'être rénové.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Eclipse, notepad ++, photoshop,macromedia fireworks.
+En plus de différents navigateurs internet.</environnement>
+      <moyen></moyen>
+      <avisperso>C'est un projet très intéressant et valorisant, et en plus à le mérite d'être public.</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Dans ce projet, il fallait une interface impeccable, car du site dépende une partie des revenus de la société, il est donc important, que le site de par son ergonomie, et son aspect graphique, accroche,plaise au clients et aux prospect.
+Les qualités grap</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Avant de pouvoir passer à une autre étape, il est important de pouvoir certifier du bon fonctionnement, de telle ou telle partie.
+Via de la création de données ou de l'ajout de texte ou autre il est facile de vérifier si une page, est fonctionnelle, ou </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Comme je l'ai dit pour la compétence A.1.2.4 :
+Beaucoup de test ont étés  réalisés afin de vérifier le bon fonctionnement, et la qualité des différentes fonctionnalités du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mon stage consistait en un projet, donc j'ai participé à un projet.
+J'ai rendu compte de mon activité à mon maître de stage ou à une personne référente si celui-ci était absent. De plus j'ai aussi organisé mon temps de travail de manière à pouvoir fin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>J'ai réalisé de nombreux &quot;bug&quot; lors de ce projet (boucles infinies ect...)
+J'ai donc du résoudre ces problème, avec ou sans aide, afin de valider les exigences de qualité du futur site.
+Et, au fur et à mesure des jours j'ai retenu mes err</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Comme spécifié dans l'activité A2.3.1 :
+J'ai dû résoudre des problèmes, et donc par voie de conséquences, les qualifier et trouver leurs origines. Les un après les autres suivant, l'ordre d'apparition de ceux-ci.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Lors de ce projet j'ai dû adapter du code vieux de plusieurs années, et donc, je suis parfois &quot;tombé&quot; sur des bouts de codes obsolètes, ou poussifs.
+J'ai donc été amené à les remplacer où les améliorer.
+De plus la majeure partie de mon sta</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Mon stage consistais en la réalisation d'une solution logicielle, afin de répondre à un besoin urgent de changement, c'est ce à quoi je me suis employé durant ces 5 semaines.
+J'ai donc identifié les différentes pages à créer et estimé le délai de cell</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Pour mon stage je suis parti du travail d'un web designer, j'ai don été amené à réaliser ce que cette personne avais imaginé.
+J'ai donc procédé à des découpes d'images afin des les intégrer de manière adéquate dans les différentes pages.
+De plus j'</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Pour la réalisation des différents tests liés à la vérification des exigences en matière de qualité, j'ai du manipuler (un peu) la base de donnée et changer les types de données de certains champs, ou encore, créer des enregistrements afin de pouvoir vér</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Lors de mon stage j'ai dû, créer beaucoup de fichiers, et donc les utiliser de manière optimale, par exemple en utilisant une même fonction depuis plusieurs pages. De plus j'ai aussi dû prendre en compte les éléments existants afin de les optimiser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Durant mon stage j'ai aussi, dû prototyper certain composant ne fonctionnant pas ou peu, afin de valider le fonctionnement de certaines fonctionnalités. Comme par exemple prototyper le traitement d'un fichier xml.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai, durant mon stage créé de nombreuses pages, afin de répondre à un besoin.
+J'ai donc crée des composants logiciels (feuilles de style, pages de fonction ect...)
+J'ai aussi adapté le code de composants logiciels précédemment créés, et, utilisé des</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Durant mon stage j'ai dû, vérifier le bon fonctionnement des fonctionnalités développées. Et j'ai donc dû corriger les éléments défaillants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>J'ai dû corriger, durant mon stage, les problèmes liés, au code précédent, et ceux liés à mon code. De manière à réaliser une application fonctionnelle.</commentaireactivite>
+      </activitecitee>
+      <production numero="7">
+        <numero>7</numero>
+        <designation>Site comparatif de téléphonie mobile.</designation>
+        <adresse>www.choisirmonmobile.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="151">
+      <ref>151</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GSB</libcourt>
+      <descriptif>Projet de PPE, Galaxy-swiss Bourdin.</descriptif>
+      <contexte>L'application GSB ne réponds pas aux besoins de l'entreprise. Il faut en effet prévoir que le comptable puisse valider des fiches de frais et les consulter.</contexte>
+      <datedebut>2012-01-09</datedebut>
+      <datefin>2012-05-28</datefin>
+      <environnement>Notepadd ++, phpmyadmin, mysql, navigateurs internet</environnement>
+      <moyen></moyen>
+      <avisperso>Un projet intéressant et constructif qui permet de simuler un travail en équipe.
+</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="343">
+      <ref>343</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage de deuxième année</libcourt>
+      <descriptif>Stage à Dakar (Sénégal) dans l'entreprise A.R.C. informatique. </descriptif>
+      <contexte>Il nous fallait créer une application qui permet de gérer  : les clients, les contacts appartenant aux clients, les services que les clients ont contractés. Ce sont les utilisateurs qui gèrent cette application, ils ont chacun des droits liés à leurs post</contexte>
+      <datedebut>2013-01-22</datedebut>
+      <datefin>2013-02-21</datefin>
+      <environnement>PHP,mysql,javascript (Jquery),AJAX,UML,firefox, chrome, explorer, opera css en local puis export sur un serveur interne à l'entreprise</environnement>
+      <moyen>WAMP, firebug, eclipse, web developper, firequery, notepadd++, dreamviewer,photoshop, macromedia fireworks,power amc</moyen>
+      <avisperso>Projet très intérressant, complexe, et long. Mais très formateur.</avisperso>
+      <avisprof>
+        <numero>19</numero>
+        <commentaire>j'ai mis quelques commentaires à Robin que tu peux appliquer également
+ceux que je t'indique son également pour lui car vous avez les mêmes activités</commentaire>
+        <datecommentaire>2013-02-19</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>20</numero>
+        <commentaire>exemple : la base de données a subi des évolutions ==> schéma de la base à fournir avec éventuellement les différentes versions</commentaire>
+        <datecommentaire>2013-02-19</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>21</numero>
+        <commentaire>idem pour les maquettes d'écran que tu dois pouvoir présenter... etc</commentaire>
+        <datecommentaire>2013-02-19</datecommentaire>
+        <numprof>3</numprof>
+        <nomprof>LEGENDRE</nomprof>
+        <prenomprof>Catherine</prenomprof>
+        <melprof>cat-legendre@wanadoo.fr</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>On a du bien étudier le contexte afin de bien cerner les tenants et aboutissants. Car le contexte évoluait au fur et à mesure de l'avancée du stage. On avait un compte-rendu journalier à fournir, de plus on a participé à des réunions pour présenter l'av</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Notre application doit servir à toute l'entreprise. Quelque soit le service (comptabilité, hotline, secrétariat, administrateurs).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Les exigences étaient nombreuses : ergonomie, sécurité, fonctionnalité, délai. Il fallait une ergonomie attractive pour que les utilisateurs aiment l'application. De plus d'un point de vue sécurité. Il fallait un droit de consultation et de modification</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Il nous fallait tout d'abord une base de données. L'analyse était à faire. Il nous fallait aussi des scripts de vérification de la connexion de l'utilisateur afin d'éviter toute intrusion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Il fallait vérifier pour chaque affichage si une personne avait le droit de voir ou non cet élément, de même pour la modififcation, la suppression.
+Les risques liés à un dysfonctionnement d'un service sont la corruption ou la perte de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>On a fait beaucoup de tests en équipe afin de valider notre application, de plus des tests ont été réalisés par d'autres personnes afin de vérifier si oui ou non, l'application correspondait aux exigences de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>On a du créer des postes, auxquels sont rattachés des droits.
+Les niveaux de responsabilité et d'habilitation ont donc été étudiés.
+Cette création s'est faite en rapport avec des responsables de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>On a réinitialisé la base de données afin de mettre en place une simulation (test) de mise en production de l'application.
+L'application a été testée, et à chaque fois on nous fournissait un rapport avec des corrections à envisager.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Le planning était décidé à deux en fonction des priorités que nous donnaient les responsables. Un délai était imposé.
+On rendait compte de notre avancée tous les jours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>On a donc suivi l’exécution du projet, puisque nous étions aux commandes.
+On a donc pris du retard sur certains points qui ont été rattrapés sur d'autres. Nous devions justifier ces écarts. 
+On nous a souvent demandé où on pensait en être en terme de r</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Nous avons eu de nombreux soucis, de nombreuses recherches ont été effectuées, notamment sur l'encodage, les conflits entre css et javascript ainsi que ceux liés à l'intégration de librairies.
+Si malgré ces recherches on ne trouvait pas de solution, n</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Nous avons repérés des problèmes lors de l'intégration de librairies, notamment le fait que certains composants n'étaient plus maintenus et entraient en conflit avec d'autres composants. Le degré d'urgence des problèmes était évalué afin d'optimiser </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Les incidences liées aux changement proposés (ou imposés) ont été nombreuses, il y a ainsi eu environ 10 versions de la base de données car le contexte évoluait au fur et à mesure de l'avancée du projet. Certaines parties de l'application complétements</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Les composants logiciels ont été nombreux puisque nous devions retoucher des images, coder, utiliser des ide, faire de l'analyse et de la modélisation uml.
+La mise en oeuvre de la solution a été fixée avec un certain délai : 1 mois.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Nous avons du proposer une solution applicative ergonomique et conviviale, afin de plaire à tout le monde. Le but étant de faciliter l'utilisation de l'application, par les utilisateurs. Beaucoup d'éléments on été maquettés afin de prévoir au mieux l'</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>La modélisation de la base de données a été faite de nombreuses fois afin de prendre en considération les évolutions demandées. La base de données a ainsi connu de nombreuses versions et de nombreuses implantations. Ainsi le php était privilégié pour mani</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Nous avons intégré de nombreuses bibliothèques (librairies) (composants déjà développés), et les faire cohabiter avec notre application qui était réalisée par nous de A à Z.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Certains éléments de l'application ont été prototypés afin de gérer au mieux leur intégration et leurs mise à jour.
+Les prototypes étaient ensuite validés ou écartés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Nous avons mis en place un environnement de développement via notamment la génération de données aléatoires.
+Cet environnement a ensuite été exploité afin de faire des tests, d'intégration et de fonctionnement de certains services.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>La quasi-totalité des éléments de la solutions ont été développés par nous, certains ont été adaptés et donc modifiés.Ces composants logiciels ainsi créés forment maintenant l'application dans son ensemble.Des éléments de sécurité liés aux droits des uti</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Des test ont étés réalisés sur certains composants logiciels afin de mettre en évidence de corriger les écarts vis à vis des exigences de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Nous avons réalisé un document &quot;développeur&quot; en fin de stage afin de présenter le fonctionnement interne de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Nous avons élaboré des jeux d'essais afin de vérifier le bon affichage et la bonne manipulation des données dans l'application.
+Les mises à jour à effectuer ont donc été nombreuses notamment suite aux réunions avec les responsables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Les évolutions des composants ont été étudiées afin d'écarter des éléments qui ne sont plus maintenus par leurs créateurs.
+Nous avons donc mis à jour certains composants en les remplaçant totalement ou partiellement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Les tests ont été nombreux, et ont fait l'objet de nombreuses validations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Nous avons adopté la manière de faire de l'entreprise, afin de satisfaire ses exigences. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Nous avons opéré une veille technologique afin de respecter les standards (w3c notamment ).
+Nous avons aussi repéré certains composants obsolètes ou non maintenus afin de les écarter et de les remplacer. 
+Nous avons donc opéré une veille technologique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Nous nous sommes auto-formés sur des fonctionnalités javascript, php et css, via internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Nous avons ainsi étudié de nombreuses méthodes afin de parvenir à nos exigences et à celles de l'entreprise.
+Nous avons ainsi repéré certains composants obsolètes ou non maintenus afin de les écarter et de les remplacer.</commentaireactivite>
+      </activitecitee>
+      <production numero="67">
+        <numero>67</numero>
+        <designation>Application intranet</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="466">
+      <ref>466</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 8-5 site php</libcourt>
+      <descriptif>Créer et tester la page de création du compte du demandeur lors de sa première connexion avec envoi du mot de passe par mail.
+Créer et tester la page d'authentification des demandeurs à l'aide d'un identifiant (l'adresse mail) et d'un mot de passe.</descriptif>
+      <contexte>Maison des ligues de Loraine</contexte>
+      <datedebut>2013-01-25</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>Serveur mysql
+php, javascript, sql, jquery</environnement>
+      <moyen></moyen>
+      <avisperso>Mission agréable et constructive car tout était à faire.
+Contraintes présentes, mais relativement peux nombreuses.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Un cahier des charges était fourni il fallait s'y conformer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>De nombreuses exigences étaient présentes. 
+Nous les avons étudiées afin d'y répondre.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Nous avons effectué de nombreux test afin de vérifier le bon fonctionnement de notre application ainsi que sa conformité face aux exigences du cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons réalisés de nombreux test afin de vérifier si oui ou non un service fonctionnait ou pas.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Nous étions deux à travailler sur cette mission. 
+Nous avons donc séparés nos tâches afin de mener à bien cette mission.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Nous avons eu de nombreux soucis. Comme la mise en place de l'envoi des mails.
+De nombreuses recherches ont étés effectuées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Nous avons repéré un problème lors de la validation des inscriptions.
+Il a fallu rechercher et identifier la cause afin de le corriger.
+Le degré d'urgence à aussi été pris en compte.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Nous avons configuré les serveur afin que celui-ci face appel à un smtp distant.
+Ceci afin de permettre l'envoi de mail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Une gestion des identités à été mise en place.
+En effet il faut pouvoir identifier de façon formelle la personne qui se connecte.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Nous avons identifiés d'autres composants logiciels nécessaires à cette mission. Comme la partie &quot;mot de passe oublié&quot;. Ceci afin de ne pas dérouter les futurs utilisateurs et de rendre plus pratique notre application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Tout l'interface utilisateur à été créée par nous. L'ergonomie, le choix des éléments etc...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>La base de données à été adaptée puisque celle-ci avait un problème à un endroit.
+En effet l'intégrité référentielle n'était pas mise en œuvre.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Nous avons choisi d'intégrer ou non certains composants supplémentaires.
+Comme par exemple la partie &quot;gestion du compte&quot; ou &quot;contact&quot; qui n'étaient pas spécifiées dans le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Certains composants logiciels ont étés prototypés afin pouvoir les dupliquer et les adapter aux différents endroits où on en avait besoin. 
+Certains ont étés validés d'autres non.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Tous les éléments on étés développés par nous. Sauf une fonction qui elle a été adaptée.
+Le code à donc été analysé pour caque cas puisque nous avons fait évoluer le fonctionnement de nos composants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Nous avons réalisés des test afin de vérifier si oui ou non nos composants fonctionnaient ou pas.
+Le but étant de corriger ces dysfonctionnements. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Nous avons analysé le fonctionnement et le dysfonctionnement de certains composants, ceci afin de prévoir et corriger tout écart.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Nous fait évoluer certains composants, ceci afin de faire correspondre notre application au cahier des charges. La solution à donc du évoluer suite à l'évolution de ses composants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Certains éléments ont étés mis à jour. Nous les avons donc testé afin de vérifier leur bon fonctionnement et leur praticité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Nous nous sommes documenté sur les technologies liées à l'envoie de mail, ainsi que celle liées au jquery, ainsi que celles pour écrire et lire un fichier csv.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="471">
+      <ref>471</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 8-1 gestion des utilisateurs en c#</libcourt>
+      <descriptif>Enrichir  la classe Utilisateur en y ajoutant 2 nouvelles méthodes :
+Une méthode CreerLogin permettant de créer un login de 8 caractères maximum, formé du nom, d’un point, et de la première lettre du prénom (comme fonfec.s) ; si le nom est trop long, on </descriptif>
+      <contexte>Maison des ligues de loraine</contexte>
+      <datedebut>2013-04-08</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement>C# visual studio, access.</environnement>
+      <moyen></moyen>
+      <avisperso>Situation constructive permettant de bien rappeler les principes de l'objet.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Un cahier des charges nous était fourni, nous avons donc du nous y conformer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Dans le cahier des charges étaient spécifiées des exigences de qualités.
+Nous avons donc respecté ces exigences.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Une des exigences était la définition et la gestion de niveau d'habilitation. Nous avons là encore respecté le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons testé à de nombreuses reprises les services mis en œuvre afin de vérifier leur bon fonctionnement et leur conformité par rapport au cahier des charges. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Nous étions deux à travailler sur cette mission.
+Nous nous sommes donc séparé les tâches.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Dans le cahier des charges étaient spécifiées  des exigences de sécurité, comme l'accès ou non à certains menu.
+Nous avons donc pris en compte ces niveau de sécurité afin de respecter le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Nous avons gérés les identification et les habilitations comme spécifié dans le cahier des charges.
+Certaines personnes peuvent accéder à certains menus tandis que d'autres non.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Nous avons proposé une solution applicative améliorée.
+En effet une solution applicative existait déjà. Nous l'avons donc améliorée en suivant le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Nous avons adapté l'interface utilisateur de la solution applicative afin de proposer une ergonomie en rapport avec l'existant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Nous avons adapté la base de données afin de permettre la gestion des habilitations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Nous avons développé certains composants afin de respecter le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Nous avons développé notre solution applicative sous visual studio, l'interface à entièrement été réalisée grâce à cet environnement de développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Nous donc développé certains composants afin de mettre en œuvre le cahier des charges.
+Nous avons bien-sûr aussi utilisé et adapté ce qui existait déjà.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Nous avons fait des tests afin de valider ou non certains composants logiciels développés ou adaptés.
+Ceci afin de respecter le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Nous avons constatés certains problèmes lors du développement de l'application.
+Nous avons corrigé ces problèmes afin de respecter le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="473">
+      <ref>473</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>J'ai mis en place différents outils de veille technologique.
+&quot;Appy geek&quot; sur android
+&quot;One republic&quot; sur Windows 8
+ainsi que la visite régulière sur certains journaux comme &quot;korben.info&quot; &quot;Journal du geek&quot;</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>La veille technologique à été mise en place sur différentes plateformes.
+Afin de multiplier les sources d'information. Et de prévoir les risques de pannes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Grâce à la veille technologique mise en place j'ai pu compléter ma formation par de l'auto-formation suite à la visite sur certains forums etc...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>J'ai étudié beaucoup de documentation sur différentes technologies, suite à des articles de journaux. 
+J'ai notamment appris l'existence de certains plugins javascript mais aussi des l’existence de failles de sécurité et de chose à faire ou ne pas fai</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="475">
+      <ref>475</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>achat de matériel informatique</libcourt>
+      <descriptif>Choix des éléments d'une configuration pour l’achat d'un ordinateur de bureau en vue d'un montage manuel.
+Choix d'un ordinateur portable.
+Choix des différents composants matériels et logiciels à intégrer dans ou avec ces les ordinateurs achetés. </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-19</datedebut>
+      <datefin>2013-04-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>Cela a été très formateur sur les erreurs qu'il ne faut pas faire.
+De plus cela m'a permit de mieux comprendre le fonctionnement interne d'un ordinateur.</avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

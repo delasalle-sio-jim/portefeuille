@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51c85969139b3">
+    <ref>51c85969139b3</ref>
+    <datesv>2013-06-24</datesv>
+  </sauvegarde>
+  <etudiant numero="68">
+    <nom>JEANNEAU</nom>
+    <prenom>Adrien</prenom>
+    <mel>jeanneau.a@lyceedelasalle.fr</mel>
+    <situation ref="538">
+      <ref>538</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Resolution de panne (anti-bug)</libcourt>
+      <descriptif>TP sur la maintenance des utilisateurs</descriptif>
+      <contexte>Maintenance à distance, résolutions de pannes, etc.</contexte>
+      <datedebut>2013-01-01</datedebut>
+      <datefin>2013-02-15</datefin>
+      <environnement>Windows 7
+Windows serveur 2008
+GLPI
+OCS
+Team Viewer</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="645">
+      <ref>645</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE - GSB</libcourt>
+      <descriptif>Dans le cadre du PPE GSB : mise en place de 3 solutions techniques, rédaction d'une charte, fiches de procédure...</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-22</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Windows 7
+VMWare
+Ubuntu Server</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="647">
+      <ref>647</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP Inventaire</libcourt>
+      <descriptif>Inventaire du parc informatique</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-22</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="653">
+      <ref>653</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille juridique</libcourt>
+      <descriptif>Veille juridique mise en place avec un outil</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-22</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement></environnement>
+      <moyen>netvibes</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="699">
+      <ref>699</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Remplacement d'un PC + écran</libcourt>
+      <descriptif>Remplacement d'un PC+écran + mise en place d'Ammy sur PC chaudiere</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-16</datedebut>
+      <datefin>2013-06-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="720">
+      <ref>720</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration Oane</libcourt>
+      <descriptif>Migration Oane vers Erable (Logiciel de SELF)</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-24</datedebut>
+      <datefin>2013-06-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="721">
+      <ref>721</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Remplacement d'une badgeuse</libcourt>
+      <descriptif>Remplacement d'une badgeuse défectueuse dans un collège</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-24</datedebut>
+      <datefin>2013-06-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="570ba2e915cf3">
+    <ref>570ba2e915cf3</ref>
+    <datesv>2016-04-11</datesv>
+  </sauvegarde>
+  <etudiant numero="115">
+    <nom>de oliveira</nom>
+    <prenom>Nicolas</prenom>
+    <mel>delasalle.sio.deoliveira.n@gmail.com</mel>
+    <situation ref="1159">
+      <ref>1159</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formations.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur WAMP, PhpMyAdmin, SGBDR MySql, MySqlWorkbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs sur lesquels le service aura un impact
+Identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de donnée sous MySql
+Extension de la base de donnée initiale
+Modélisation de la base de donnée finale
+Manipulation des données liées à la solution à travers le langage de requête SQL (vues)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1233">
+      <ref>1233</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valrés</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application web de réservation de salles.</descriptif>
+      <contexte>La maison des ligues de Lorraine M2L</contexte>
+      <datedebut>2014-12-17</datedebut>
+      <datefin>2015-01-14</datefin>
+      <environnement>Architecture C/S, 3-tier</environnement>
+      <moyen>SGBDR MySQL, serv-wamp2, logiciel MySQL Workbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservations respectant les contraintes spécifiées dans le dossier de tests.
+Passage des tests de dossier de tests avec consignation des résultats.
+Vérification des conséquences dans les tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservation de salles. Dossier de tests complété de jeu d'essai de réservations et de résultat</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables sous MySQL et justification de celles-ci par des règles de gestion.
+Modélisation de la base de donnée sous MySQL Workbench.
+Implémentation de la basse de donnée sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1086">
+        <numero>1086</numero>
+        <designation>schéma de la bdd</designation>
+        <adresse>...BTS_SIO1PPE1_PPE2PPE2PPE2 - M2L - 1 - VALRES</adresse>
+      </production>
+      <production numero="1097">
+        <numero>1097</numero>
+        <designation>dossier de tests</designation>
+        <adresse>...BTS_SIO1PPE1_PPE2PPE2PPE2 - M2L - 1 - VALRES</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1246">
+      <ref>1246</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Toutes les salles de M2L sont accessibles en soirée : un système de &quot;digicode&quot; permet d'entrer dans les locaux en dehors des heures d'ouverture des bureaux.
+Extension d'une application web permettant d'obtenir et de gérer le digicode.</descriptif>
+      <contexte>Mise en oeuvre d'un digicode pour M2L</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-02-27</datefin>
+      <environnement>Serv WAMP 2, MySQL</environnement>
+      <moyen>HTML, Php, css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1289">
+      <ref>1289</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GESFORM</libcourt>
+      <descriptif>Application gestion des formations du CROSL(Comité Régional Olympique et Sportif de Lorraine)</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2015-02-24</datedebut>
+      <datefin>2015-04-07</datefin>
+      <environnement>Serveur wamp</environnement>
+      <moyen>PowerAMC 16, PhpMyAdmin, Notepad++, Microsoft Expressions, langages : HTML5, CSS3, PHP5, SQL.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier et mettre en oeuvre les diverses spécifications du cahier des charges </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tester les champs tels que les inscriptions aux divers stages</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Gérer les administrateurs des utilisateurs et l'attribution des droits</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Fixer une date pour chaque partie à développer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Utilisation de POWER AMC, utilisation de la BDD sous PhpMyAdmin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests vérifiés sous PhpMyAdmin</commentaireactivite>
+      </activitecitee>
+      <production numero="1148">
+        <numero>1148</numero>
+        <designation>Application GESFORM</designation>
+        <adresse>BTS_SIOPPEPPE2GESFORM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1432">
+      <ref>1432</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet miaou</libcourt>
+      <descriptif>Création d'un site internet avec une liaison à une base de données en dynamique.</descriptif>
+      <contexte>Vente de différentes races de chats avec leurs accessoires personnels et leur nourriture.</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-03</datefin>
+      <environnement>PhpMyAdmin, Notepad, MySQL workbench.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1257">
+        <numero>1257</numero>
+        <designation>miaou.com</designation>
+        <adresse>BTS_SIOSI6TPProjetMiaou</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1475">
+      <ref>1475</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1</libcourt>
+      <descriptif>Refonte de trois sites web à l'aide d'un CMS et mise en ligne</descriptif>
+      <contexte>Comité Départemental Olympique des Sports</contexte>
+      <datedebut>2015-05-25</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement></environnement>
+      <moyen>Joomla, FireFTP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues des sites web à développer, recenser les acteurs, processus (cas d'utilisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Comptes Rendus hebdomadaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Extensions, plugins, modules, template de Joomla</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir différentes maquettes et valider la maquette finale en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Documentation technique pour éditeurs pour la maintenance, utilisation de Joomla</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Aide en ligne, aide à la navigation pour les utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Modules/plugins à mettre à jour</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation et prise en main de Joomla</commentaireactivite>
+      </activitecitee>
+      <production numero="1722">
+        <numero>1722</numero>
+        <designation>A1.4.1 Participation à un projet</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbUDhLdDVQRUhQWVE</adresse>
+      </production>
+      <production numero="1723">
+        <numero>1723</numero>
+        <designation>A4.1.1 Proposition d'une solution applicative</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbdENLdGVSMzF0c2M</adresse>
+      </production>
+      <production numero="1724">
+        <numero>1724</numero>
+        <designation>A4.1.9 Rédaction d'une documentation technique</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbdENLdGVSMzF0c2M</adresse>
+      </production>
+      <production numero="1725">
+        <numero>1725</numero>
+        <designation>A4.1.10 Rédaction d'une documentation d'utilisation</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbdENLdGVSMzF0c2M</adresse>
+      </production>
+      <production numero="1726">
+        <numero>1726</numero>
+        <designation>A5.2.4 Étude d‘une technologie, d'un composant, d'un outil ou d'une méthode</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbdENLdGVSMzF0c2M</adresse>
+      </production>
+      <production numero="1727">
+        <numero>1727</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbdENLdGVSMzF0c2M</adresse>
+      </production>
+      <production numero="1728">
+        <numero>1728</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbdENLdGVSMzF0c2M</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1571">
+      <ref>1571</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L</libcourt>
+      <descriptif>Suivi des réservations, application mobile, contrôleurs, services web.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-15</datedebut>
+      <datefin>2015-12-15</datefin>
+      <environnement>Eclipse, PhpMyAdmin</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Que devons-nous avoir sur notre application web finale.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests permettant d'insérer des valeurs qui sont correctes ou fausses renvoyant un msg d'erreur ou un msg de validation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1571">
+        <numero>1571</numero>
+        <designation>M2L Réservations</designation>
+        <adresse>https://drive.google.com/drive/my-drive/bts_sio2/ppe3-4/M2L - 4 - Suivi des réservations de GRR</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1572">
+      <ref>1572</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>VeloSTAR</libcourt>
+      <descriptif>Développement d'une application mobile android permettant de connaître les informations sur le service VéloStar (par ex: savoir combien il y a d'attaches de vélos disponible à telle station) et afficher les 3 stations les plus proches via GPS.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-12-11</datedebut>
+      <datefin>2015-12-11</datefin>
+      <environnement>Eclipse, Android 4.5, API Google.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1628">
+      <ref>1628</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2</libcourt>
+      <descriptif>Création d'un site web mobile &quot;light&quot; et refonte du site principal de l'organisation</descriptif>
+      <contexte>Cork Community Art Link</contexte>
+      <datedebut>2016-01-11</datedebut>
+      <datefin>2016-02-12</datefin>
+      <environnement>Weebly, android 4.5, iOS 9.2, google chrome developer, notepad,</environnement>
+      <moyen>Javascript, html5/css3</moyen>
+      <avisperso>Bon moyen pour appréhender comment travail une organisation dans un autre pays</avisperso>
+      <avisprof>
+        <numero>92</numero>
+        <commentaire>Amélioration de Avis personnel dans l'onglet Description :
+   Bon moyen pour appréhender l'organisation du travail dans un autre pays</commentaire>
+        <datecommentaire>2016-02-05</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>93</numero>
+        <commentaire>A1.2.4 : &quot;Comment tester que&quot; à remplacer par &quot;Comment tester si&quot; ou &quot;Comment vérifier que&quot;</commentaire>
+        <datecommentaire>2016-02-05</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des objectifs et des attentes du maître de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Etude des changements produits par le projet sur le SI de l'organisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Définir les points clés du développement du projet, les contraintes de développement et réduire les risques d'accès frauduleux par exemple
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Présenter différentes solutions répondant au cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Évaluation des anomalies lors de l'utilisation de l'application (ici par ex, un utilisateur voulant aller sur le site mobile avec son ordinateur)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Comment tester si la solution, ici un site web, est responsive ou non (utilisation de plusieurs smartphones, tablettes)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à deux projets de développement web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Savoir lorsqu'il y a des problèmes, comment les résoudre et si la résolution du problème durera</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Trouver l'origine d'un problème, comment il est intervenu, et la résolution, puis avoir une longueur d'avance sur ce problème (après)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Quels sont les problèmes qui peuvent engendrer une mauvaise utilisation du service...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposer plusieurs pistes de solutions, échanger avec le tuteur pour mettre en oeuvre la meilleure solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Proposer des templates, des mises en formes, des graphismes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Repérer quels éléments peuvent dysfonctionner, ici, certains mobiles, navigateur ne supportent pas
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>S'auto former sur un logiciel, un systeme d'exploitation, un nouveau langage ... (un peu de javascript, cms weebly)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découvrir un nouveau logiciel, composant, une nouvelle méthode de travail ... savoir comment il est utilisé (javascript et cms weebly)</commentaireactivite>
+      </activitecitee>
+      <production numero="1683">
+        <numero>1683</numero>
+        <designation>A.1.1.2 Etude de l’impact de l’intégration sur le système informatique</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1684">
+        <numero>1684</numero>
+        <designation>A.1.1.3 Etude des exigences liées à la qualité attendue d’un service</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1685">
+        <numero>1685</numero>
+        <designation>A.1.2.1 Elaboration et présentation d'un dossier de choix de solution technique</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1710">
+        <numero>1710</numero>
+        <designation>A.1.2.3 Evaluation des risques liés à l’utilisation d’un service</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1711">
+        <numero>1711</numero>
+        <designation>A.1.2.4 Determination des tests nécessaires à la validation d'un service</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1712">
+        <numero>1712</numero>
+        <designation>A.2.2.1 Suivi et résolutions d’incidents</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1713">
+        <numero>1713</numero>
+        <designation>A.4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1714">
+        <numero>1714</numero>
+        <designation>A4.2.1 Analyse et correction d'un dysfonctionnement, d'un problème de qualité  de service ou de sécurité</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1715">
+        <numero>1715</numero>
+        <designation>A.5.1.2 Repérage des compléments de formation ou d'auto-formation utiles à l'acquisition de  nouvelles compétences</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <production numero="1716">
+        <numero>1716</numero>
+        <designation>A5.2.4 Étude d‘une technologie, d'un composant, d'un outil ou d'une méthode</designation>
+        <adresse>https://drive.google.com/drive/folders/0B4EIPAOrqyNbTW9DcUQ4SVZTS1U</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1671">
+      <ref>1671</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>BDE</libcourt>
+      <descriptif>Site web et application android pour l'association du Bureau des Etudiants du Lycée De La Salle</descriptif>
+      <contexte>Développement avec un groupe de SIO2 du projet d'un site web et d'une application android pour le BDE</contexte>
+      <datedebut>2015-09-21</datedebut>
+      <datefin>2016-04-28</datefin>
+      <environnement>PhpStorm, Git, GitHub, PhpMyAdmin</environnement>
+      <moyen>SQL, Php, Html5/CSS3, Bootstrap, Javascript</moyen>
+      <avisperso>Très bon moyen de se prêter à un projet &quot;professionnel&quot; pour l'association du BDE (dans laquelle je suis membre). Le travail d'équipe m'a plut </avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Discuter avec le BDE pour connaître leurs attentes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Protéger les données utilisatrices (avec mdp en sha1 par exemple)
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tester les connexions, le panel admin, les différentes pages</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Gérer les différents niveaux de l'espace membre</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Informer le BDE de l'avancement du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Utilisation du site web Trello </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Utilisation du site web Trello pour se partager les tâches etc... (urgent, en cours, à faire, finit)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Faire une réunion avec le BDE pour expliquer l'utilisation du panel admin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Gestion du temps avec Trello</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquettes du site et de l'application pour les proposées au BDE</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer un MCD pour ensuite mettre en place la base de données en ligne</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement du site sous un serveur de test (pierrebarbier.com/bde_test)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Création d'un fichier pour savoir comment le BDE va pouvoir utiliser le site et l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Devis du nom de domaine et hébergement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation de phpStorm </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1673">
+      <ref>1673</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Veille technologique sur le thème du HTML5</descriptif>
+      <contexte>SI1, SI5, SI7, à la maison</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2016-03-01</datefin>
+      <environnement>Twitter, Pearltrees, moteur de recherche</environnement>
+      <moyen>Twitter, Pearltrees, moteur de recherche</moyen>
+      <avisperso>Bon moyen pour se tenir informé des nouveautés dans un certain domaine</avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Veiller sur le thème HTML: voir comment il a été développé, quels sont les perspectives de ce thème pour demain</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

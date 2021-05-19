@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55508461c8d8c">
+    <ref>55508461c8d8c</ref>
+    <datesv>2015-05-11</datesv>
+  </sauvegarde>
+  <etudiant numero="126">
+    <nom>Michaux</nom>
+    <prenom>Enguerrand</prenom>
+    <mel>delasalle.sio.michaux.e@gmail.com</mel>
+    <situation ref="1172">
+      <ref>1172</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Modification de base de données
+Création de vues
+Création de modèles via MySQL Workbench
+Utilisation de script de création
+Extension de base de données</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables. </contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Serveur Wamp , PhpMyadmin , SGBDR MySQL , MySQLWorkbench , langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>recenser les acteurs sur lesquels le projet aura un impact (commerciaux et formateurs)
+identifier les fonctionnalités attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>créer les utilisateurs recensés et attribuer les droits nécessaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>création de la base de données sous MySQL à partir d'un script;
+extension de la base de donnée initiale;
+modélisation de la base de donnée finale sous MySQLWorkbench;
+manipulation des données liées à la solution applicative à travers le langage SQL (v</commentaireactivite>
+      </activitecitee>
+      <production numero="1063">
+        <numero>1063</numero>
+        <designation>Document Word TP Dutoit</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1250">
+      <ref>1250</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>VALRES</libcourt>
+      <descriptif>La mission VALRES va s'attacher à valider un ensemble de fonctionnalités de l'application web de locations de salles</descriptif>
+      <contexte>La Maison des Ligues de Lorraines (M2L)</contexte>
+      <datedebut>2013-12-16</datedebut>
+      <datefin>2015-01-06</datefin>
+      <environnement>Architecture Client / Serveur 3 Tier</environnement>
+      <moyen>Serveur Wamp 2 , SGBDR MySQL , MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Élaboration d'un jeu d'essai de réservations respectant les contraintes du dossier de tests. Passage des tests avec consignation des résultats. 
+Vérification des conséquences dans les tables</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation d'un environnement de tests.
+Vérification des conditions d'utilisation de la solution logicielle mrbs.
+Installation de l'application web de réservations de salles.
+Dossier de tests complété du jeu d'essai et des résultats</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise en évidence des liens entre les tables MySQL.
+Modélisation de la base de données sous MySQL WorkBench.
+Inplémentation de la base de données sous MySQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1098">
+        <numero>1098</numero>
+        <designation>Dossier de tests complété</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJb2VLTTVCaDJBQ00&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1257">
+      <ref>1257</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Toutes les salles de M2L sont accessibles en soirée : un sytème de &quot;digicode&quot; permet d'entrer dans les locaux en dehors des horaires d'ouverture des bureaux
+Extension d'une application permettant d'obtenir et de gérer le digicode</descriptif>
+      <contexte>La Maison des Ligues de Lorraines (M2L)</contexte>
+      <datedebut>2015-01-13</datedebut>
+      <datefin>2015-01-27</datefin>
+      <environnement>Architecture Client Serveur 3 Tier</environnement>
+      <moyen>Serveur Wamp 2, MySQL, HTML, PHP, CSS  </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Préparation de la mise en place de la nouvelle application web , a partir des contraintes présente sur le document fourni.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un compte rendu contenant toutes les informations sur les modifications et améliorations de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Notions de &quot;compte&quot; utilisateurs à niveaux : Administrateurs , Utilisateurs et Invité.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Affichage de page différentes (avec des fonctionnalités différentes) en fonction du niveau de l'utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une nouvelle table dans la base de donnée (pour la gestion du digicode)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests de vérification effectués pour vérifier que les modifications (mot de passe et digicode) avaient été bien enregistrées dans la base</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Mise en place de tests pour vérifier la bonne saisie des informations : longueur du digicode (6 caractères) et saisie du mot de passe (différent du mot de passe actuel , et ressaisi du mot de passe pour confirmation)</commentaireactivite>
+      </activitecitee>
+      <production numero="1109">
+        <numero>1109</numero>
+        <designation>Compte Rendu DIGICODE</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJN1c4Q3lwSGRZam8&amp;authuser=0</adresse>
+      </production>
+      <production numero="1113">
+        <numero>1113</numero>
+        <designation>Sujet du Cahier des Charges</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJeEl5R0NoT0ZVamc&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1421">
+      <ref>1421</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet DarkStore</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand sur un thème personnalisé.</descriptif>
+      <contexte>Entreprise de vente de produits Star Wars par Internet</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-06</datefin>
+      <environnement>Serveur WAMP, SGBDR MySQL</environnement>
+      <moyen>HTML 5, PHP, CSS , Notepad++, MySQLWorkBench, PowerAMC</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre les modifications à apporter et bien prendre en compte les contraintes qui se posent.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1411 =&gt; Mise en place d'une contrainte de temps afin de de terminer le projet à temps (planning hebdomadaire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Transformation des parties statiques en parties dynamiques d'adaptant au contenu de la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4131 =&gt; Maquette créees sous MySQL WorkBench
+C4132 =&gt; Script fournis à importer vers le SGBDR
+C4134 =&gt; Adaptation de la base de données (ajout d'informations et modifications d'informations existantes).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test divers afin de vérifier le bon fonctionnement de l'applications : mise au panier des articles (en quantité variables), passage de commande, bon affichage des produits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un dossier utilisateur complet , reprenant et explicant l'intégralité des fonctionnalités du site</commentaireactivite>
+      </activitecitee>
+      <production numero="1256">
+        <numero>1256</numero>
+        <designation>Cahier des Charges LaFleur</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJX1pWZG92SDBnd2s&amp;authuser=0</adresse>
+      </production>
+      <production numero="1260">
+        <numero>1260</numero>
+        <designation>Maquette MySQL Workbench</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJWlBENG9mTDR5cGc&amp;authuser=0</adresse>
+      </production>
+      <production numero="1262">
+        <numero>1262</numero>
+        <designation>Documentation Utilisateur</designation>
+        <adresse>https://drive.google.com/open?id=0B3VJOWeZ9wxJV2JRdTAtUzl4emc&amp;authuser=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

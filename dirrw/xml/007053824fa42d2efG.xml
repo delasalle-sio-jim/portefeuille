@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53824fa42d2ef">
+    <ref>53824fa42d2ef</ref>
+    <datesv>2014-05-25</datesv>
+  </sauvegarde>
+  <etudiant numero="70">
+    <nom>JEANSON</nom>
+    <prenom>Gwendal</prenom>
+    <mel>jeanson.g@lyceedelasalle.fr</mel>
+    <situation ref="272">
+      <ref>272</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création base de données DUTOIT</libcourt>
+      <descriptif>Mise en oeuvre d'une base de données SQL</descriptif>
+      <contexte>Dutoit</contexte>
+      <datedebut>2012-09-07</datedebut>
+      <datefin>2012-10-31</datefin>
+      <environnement></environnement>
+      <moyen>SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Création des utilisateurs et gestion des droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Sauf &quot; C4.1.3.3 
+</commentaireactivite>
+      </activitecitee>
+      <production numero="598">
+        <numero>598</numero>
+        <designation>MCD Dutoit</designation>
+        <adresse>https://drive.google.com/file/d/0B8Od7T6XcjwTdXgzZmVaWFJaVFk/edit?usp=sharing</adresse>
+      </production>
+      <production numero="616">
+        <numero>616</numero>
+        <designation>Script Bdd</designation>
+        <adresse>https://drive.google.com/file/d/0B8Od7T6XcjwTcmQybE1kX01iVGc/edit?usp=sharing</adresse>
+      </production>
+      <production numero="965">
+        <numero>965</numero>
+        <designation>Droit d'accès</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTRGs5M21RNnZzM2c/edit?pli=1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="521">
+      <ref>521</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Analyse d'appel d'offre</libcourt>
+      <descriptif>Analyse et rédaction d'une réponse à un appel d'offre pour la Communauté de communes Côte d'Emeraude</descriptif>
+      <contexte>SI5</contexte>
+      <datedebut>2013-05-14</datedebut>
+      <datefin>2013-05-14</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse de l'appel d'offre fournie par le professeur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Analyse des exigences liées à la qualité et à la sécurité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un compte-rendu afin de répondre à l'appel d'offre</commentaireactivite>
+      </activitecitee>
+      <production numero="966">
+        <numero>966</numero>
+        <designation>Compte-rendu de l'analyse</designation>
+        <adresse>https://docs.google.com/document/d/15fyV_VbGmxwZERKPkPpcM4ihjIQWX18BY3xpj2VfOiw/edit?pli=1</adresse>
+      </production>
+    </situation>
+    <situation ref="525">
+      <ref>525</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Via un outil de flux rss ainsi qu'un blog mis à jour régulièrement, on suit l'actualité des moteurs graphiques</descriptif>
+      <contexte>SI5</contexte>
+      <datedebut>2013-03-01</datedebut>
+      <datefin>2014-07-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Mise en place d'un blog ayant pour but de relayer l'actualité liée au sujet de veille technologique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche d'information et d'actualité sur le sujet de la veille à l'aide d'outil comme Netvibes permettant le suivi de plusieurs flux RSS.</commentaireactivite>
+      </activitecitee>
+      <production numero="362">
+        <numero>362</numero>
+        <designation>Blog de la veille juridique</designation>
+        <adresse>http://www.moteurgraphique.tumblr.com/</adresse>
+      </production>
+      <production numero="937">
+        <numero>937</numero>
+        <designation>Netvibes</designation>
+        <adresse>http://www.netvibes.com/fr</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="531">
+      <ref>531</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet de développement PPE (GSB)</libcourt>
+      <descriptif>Modification et création de pages PHP pour le site de l'entreprise GSB.
+Élaboration d'une documentation d'utilisation.</descriptif>
+      <contexte>Entreprise Galaxy Swiss Bourdin liée au secteur pharmaceutique</contexte>
+      <datedebut>2013-01-16</datedebut>
+      <datefin>2013-05-22</datefin>
+      <environnement>Travail en groupe sur le réseau du centre de formation</environnement>
+      <moyen>SQL, Power AMC, NotePad++, HTML et PHP
+
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges de GSB. Lister dans un compte rendu les contextes d'utilisation, les processus et les acteurs, les fonctionnalités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Différents tests sur les accès et les habilitations suivant les erreurs afin de trouver la meilleure solution possible.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>A l'aide de l'analyse du cahier des charges et de la base de données, mise en place des différents niveaux d'autorisation des utilisateurs de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Elaboration semaine après semaine d'un objectif hebdomadaire, briefing au début des séances chaque semaine avec tout le groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identification des composants logiciels nécessaires comme le SGBD et les outils de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur du comptable.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données pour intégrer la gestion des droits.
+Création de différents utilisateurs pour l'élaboration de tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement du site afin d'intégrer les différents cas d'utilisation en fonction du type d'utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction sous Word d'une documentation d'utilisation complète destinée aux comptables.</commentaireactivite>
+      </activitecitee>
+      <production numero="964">
+        <numero>964</numero>
+        <designation>Guide d'utilisation Appli Suivi Frais</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTNUxEalhseklmVWM/edit?pli=1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="725">
+      <ref>725</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1 DISP</libcourt>
+      <descriptif>Actualisation de l'intranet de la DISP de Rennes à travers une ré-organisation des droits, une actualisation du contenu, la création de modules annexes ( tel qu'un formulaire d'inscription des nouveaux arrivants dans un service )</descriptif>
+      <contexte>Direction Interrégionale des Services Pénitentiaires de Bretagne, Basse Normandie et Pays de la Loire</contexte>
+      <datedebut>2013-05-27</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Travail en autonomie sur l'intranet de la DISP et en local
+Poste de travail : Windows 7 Pro (64 bits)</environnement>
+      <moyen>GIMP, EasyPhP, NotePad++, HTML, CSS et PHP
+
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges du site de la DISP(charte graphique, fonctionnalités), réunions et compte-rendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Réunion avec les personnes concernées afin de recenser et caractériser leurs exigences sur les productions en cours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Suppression,modification et ajout de différents niveaux d'habilitation aux utilisateurs de l'outil Modalin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte-rendu journalier au chef de Service et hebdomadaire au lycée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Comparaison de l'état du projet actuel avec l'état prévu lors de la rédaction des compte-rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Elaboration d'un cahier des charges pour le formulaire en ligne et de l'envoi des informations saisies par mail au service informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Analyse de la demande, création d'une maquette en local validée par les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mise en œuvre de tests unitaires sur les zones de saisies du formulaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Adaptation de la page des différents établissements pénitentiaires du Grand Ouest, réalisation d'une carte cliquable des structures de l'inter-région à l'aide de GIMP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Reprise des rubriques afin de les faire coïncider avec la cible nationale.
+Création d'un dossier organisé par département afin d'y ajouter le contenu voulu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Besoin d'auto-formation sur le logiciel GIMP et la création d'objets cliquables.
+Recherche sur internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude du logiciel GIMP et la création d'objets cliquables.
+Recherche sur internet.</commentaireactivite>
+      </activitecitee>
+      <production numero="941">
+        <numero>941</numero>
+        <designation>Cahier des charges refonte intranet</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTX01pRUpPOHJiZEU/edit?pli=1</adresse>
+      </production>
+      <production numero="943">
+        <numero>943</numero>
+        <designation>Niveaux d'habilitation Modalin</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTTm5DblpUcU15V0U/edit?pli=1</adresse>
+      </production>
+      <production numero="947">
+        <numero>947</numero>
+        <designation>Compte-rendu première semaine</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTVkl6M1M4R1ByaDQ/edit?pli=1</adresse>
+      </production>
+      <production numero="950">
+        <numero>950</numero>
+        <designation>Cahier des charges Formulaire</designation>
+        <adresse>https://docs.google.com/document/d/1rmIgPUAmhXADG4k37yrCzCSGd8HYmARXmH_I7jFGzjs/edit?pli=1</adresse>
+      </production>
+      <production numero="951">
+        <numero>951</numero>
+        <designation>Adaptation des menus et creation carte</designation>
+        <adresse>https://docs.google.com/document/d/1psFwlVbh6hKHUm0GmXJo2Tph0bi1v2oWO5EkCDkGrCY/edit?pli=1</adresse>
+      </production>
+      <production numero="952">
+        <numero>952</numero>
+        <designation>Complement formation GIMP</designation>
+        <adresse>http://www.jeffdulac.fr/Logiciels_tutos/GIMPzonescliquables.php</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="747">
+      <ref>747</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Personnels Encadrés 2ème année</libcourt>
+      <descriptif>Différentes missions et projets lors de la deuxième année des PPE</descriptif>
+      <contexte>PPE</contexte>
+      <datedebut>2013-09-30</datedebut>
+      <datefin>2014-04-07</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests fonctionnels et jeu d'essai sur le Projet Valres</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Dev des fonctionnalités de gestion de bordereau pour M2L
+Protection des mdp methode sha1</commentaireactivite>
+      </activitecitee>
+      <production numero="939">
+        <numero>939</numero>
+        <designation>Jeux d'essai et tests unitaires</designation>
+        <adresse>https://docs.google.com/file/d/0B4R_ErgpfAU0dEpUdFZrRTZXd1U/edit?pli=1</adresse>
+      </production>
+      <production numero="940">
+        <numero>940</numero>
+        <designation>Compte rendu Mission 5 PPE</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTY1ZocTZadVdkS28/edit?pli=1</adresse>
+      </production>
+    </situation>
+    <situation ref="793">
+      <ref>793</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 SIP@C(Développement)</libcourt>
+      <descriptif>Projet de développement d'une solution de gestion des passages d'élèves dans un self et de gestion de leur solde.</descriptif>
+      <contexte>Société Informatique Professionnelle en Assemblage et Conseil.
+Le client est un établissement scolaire (St Joseph à Cancale).</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement>Poste de travail : Ordinateur portable personnel Windows 8(64 bits), ordinateur de la Sip@c windows 7</environnement>
+      <moyen>NotePad++, HTML, CSS, phpmyadmin, Adobe Dreamweaver, Visual Studio, Eclipse.
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Choix entre deux solutions : client lourd ou interface web.
+Le choix s'est porté sur l'interface web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction des spécifications techniques de l'application web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Création d'une table d'utilisateurs permettant deux types d'accès :
+- l'administrateur
+- l'utilisateur simple ( l'élève ).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Analyse du projet afin de déterminer les moyens nécessaires à la conception de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Analyse de l'interface utilisateur à l'aide du cahier des charges et maquettage de l'interface.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Élaboration de la BDD sous MySQL en accord avec les besoins du client et installation de cette dernière en local. Utilisation de la BDD à travers des requêtes SQL dans la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation d'Eclipse, de Visual Studio et de Dreamweaver.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Mise à jour et adaptation d'une documentation d'installation du logiciel iTalc (outil de supervision d'une salle informatique).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Recherches approfondies sur la gestion d'un scanner de code barre et sur le langage javascript.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etudes de javascript et d'Ajax, et du scanner de code barre.</commentaireactivite>
+      </activitecitee>
+      <production numero="953">
+        <numero>953</numero>
+        <designation>Cahier des charges et questionnement préalable</designation>
+        <adresse>https://docs.google.com/document/d/1d7Z3sq0EPb9wREsweW8x19-n-Ug1Aw3ta2W3B9hiJFg/edit?pli=1</adresse>
+      </production>
+      <production numero="954">
+        <numero>954</numero>
+        <designation>Creation Bdd</designation>
+        <adresse>https://docs.google.com/document/d/1fmCfs1W6ZDpKTtuXqNI2pHd0sJw6RIDBBx9n-RHXWqA/edit?pli=1</adresse>
+      </production>
+      <production numero="955">
+        <numero>955</numero>
+        <designation>Environnements de dev</designation>
+        <adresse>https://docs.google.com/document/d/1L41LvEUgZ1zUo6enuXvH5hkx7gLetzNVoTBN24E1S0k/edit?pli=1</adresse>
+      </production>
+      <production numero="956">
+        <numero>956</numero>
+        <designation>Doc Italc</designation>
+        <adresse>https://docs.google.com/file/d/0B8Od7T6XcjwTWU5Nc3lwSkJhT1k/edit?pli=1</adresse>
+      </production>
+    </situation>
+    <situation ref="819">
+      <ref>819</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 SIP@C(Maintenance et Réseaux)</libcourt>
+      <descriptif>Participation aux différentes activités de la Sip@c ( intervention de maintenance, réparation de postes pour des particuliers ).</descriptif>
+      <contexte>Société Informatique Professionnelle en Assemblage et Conseil</contexte>
+      <datedebut>2014-01-27</datedebut>
+      <datefin>2014-02-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Analyse et réponse à des problèmes des utilisateurs ainsi que prise de contrôle à distance de poste ( ... ).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Participation à l'installation de routeur, onduleurs, bornes wifi avec un professionnel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Maintenance des postes sur site en suivant une procédure établie par le maître de stage visant à nettoyer les disques des machines et mettre à jour l'anti-virus vers la version 2014.</commentaireactivite>
+      </activitecitee>
+      <production numero="957">
+        <numero>957</numero>
+        <designation>Compte-rendu journalier des différentes interventions</designation>
+        <adresse>https://docs.google.com/document/d/1lsx2EArAirP37xie4b2xrfkR1aruI4nS-rjSC1VnTzs/edit?pli=1</adresse>
+      </production>
+      <production numero="958">
+        <numero>958</numero>
+        <designation>Procédure de nettoyage poste client</designation>
+        <adresse>https://docs.google.com/document/d/1eH2RXVKyjvzO0DWEJDNU1S6pXyfKB4FHNtFJgnntMlo/edit?pli=1</adresse>
+      </production>
+    </situation>
+    <situation ref="879">
+      <ref>879</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Vouzetou</libcourt>
+      <descriptif>Projet de développement d'une application sur mobile avec Android ayant pour but la géolocalisation de personnes inscrites dans un groupe.</descriptif>
+      <contexte>TP Slam</contexte>
+      <datedebut>2013-04-20</datedebut>
+      <datefin>2014-04-25</datefin>
+      <environnement>Travail en groupe sur un serveur hébergé chez free</environnement>
+      <moyen>Eclipse, java, php</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement sur le serveur free</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail en groupe de 3 avec attribution des taches</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Adaptation du partage du travail en fonction du nombre de personnes et du temps</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'IHM</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Exploitation d'Eclipse, son environnement de développement ainsi que son environnement de test avec Junit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests effectués en suivant une fiche de tests pour les différents services webs, puis rédaction des tests unitaire pour la classe passerelle en Java.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation d'SVN en lien avec google.code afin de travailler en mode projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Respect des normes de développement ainsi que du format des services web existant</commentaireactivite>
+      </activitecitee>
+      <production numero="959">
+        <numero>959</numero>
+        <designation>Déploiement des services webs</designation>
+        <adresse>https://docs.google.com/document/d/1-0wjlQuVDml-zEVATlZ568SBWGjZfLXaFx8xFjmhYnA/edit?pli=1</adresse>
+      </production>
+      <production numero="960">
+        <numero>960</numero>
+        <designation>Exemple de participation au projet</designation>
+        <adresse>https://docs.google.com/document/d/1-0wjlQuVDml-zEVATlZ568SBWGjZfLXaFx8xFjmhYnA/edit?pli=1</adresse>
+      </production>
+      <production numero="961">
+        <numero>961</numero>
+        <designation>IHM</designation>
+        <adresse>https://docs.google.com/document/d/1EO9rGNHcnvMvQXCS5PS90KPgj2MKAow0LWDCnjo41pk/edit?pli=1</adresse>
+      </production>
+      <production numero="962">
+        <numero>962</numero>
+        <designation>Site utilisé pour mettre en place google code sous svn</designation>
+        <adresse>http://bashizip.blogspot.fr/2011/09/premiers-pas-avec-google-code-sous-svn.html</adresse>
+      </production>
+    </situation>
+    <situation ref="880">
+      <ref>880</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion d'incidents avec GLPI</libcourt>
+      <descriptif>Mise en place d'un dispositif de gestions d'incidents par l'intermédiaire du logiciel GLPI et d'une machine virtuelle sous linux</descriptif>
+      <contexte>TP</contexte>
+      <datedebut>2014-04-07</datedebut>
+      <datefin>2014-04-07</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Remonter les incidents sur différents postes vers l'interface graphique d'un poste superviseur.</commentaireactivite>
+      </activitecitee>
+      <production numero="963">
+        <numero>963</numero>
+        <designation>GLPI et OCS</designation>
+        <adresse>https://docs.google.com/document/d/1lWS7LH5wKGb69qFNK5KQfsGWVhC_wY4rLnLSoaHZYo0/edit?pli=1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

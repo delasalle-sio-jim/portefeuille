@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="58997deff418c">
+    <ref>58997deff418c</ref>
+    <datesv>2017-02-07</datesv>
+  </sauvegarde>
+  <etudiant numero="161">
+    <nom>MADEC</nom>
+    <prenom>Florian</prenom>
+    <mel>delasalle.sio.madec.f@gmail.com</mel>
+    <situation ref="1512">
+      <ref>1512</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels aux salariés d’entreprises.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement>serveur wamp1 avec SGBDR mySQL vie PHPMyAdmin et langage SQL</environnement>
+      <moyen>MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MytSQLWorkBench.
+Implémenter le schéma de données sous MySQL et l'adapter. Manipuler les données liées à la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1542">
+        <numero>1542</numero>
+        <designation>TP Dutoit corrigé</designation>
+        <adresse>https://drive.google.com/file/d/0B3NeYcWExG64R251SE01MGVjMDQ/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1591">
+      <ref>1591</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Valres</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l’application web de réservation des salles.</descriptif>
+      <contexte>Maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-05</datefin>
+      <environnement>Architecture Client/Serveur 3 Tier</environnement>
+      <moyen>MySQL, Serveur Wamp, MySQLworkbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service 
+Rédiger le rapport de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application web (MDL) sur le serveur serv-wamp1 (dans mon répertoire).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données grâce à MySQLworkbench
+Implémenter le schéma de données sous MySQL sur le serveur serv-wamp1.</commentaireactivite>
+      </activitecitee>
+      <production numero="1599">
+        <numero>1599</numero>
+        <designation>Compte rendu des tests</designation>
+        <adresse>https://drive.google.com/file/d/0B3NeYcWExG64VFYyZEVhX1hNV2s/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1870">
+      <ref>1870</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Site BreizhFood</libcourt>
+      <descriptif>Création d'un site web dynamique sur le thème de la culture culinaire bretonne (présentation de produits de différentes sortes) et création d'une partie Administration. Rédaction d'un document technique. </descriptif>
+      <contexte>Lycee de la Salle</contexte>
+      <datedebut>2016-02-26</datedebut>
+      <datefin>2016-04-22</datefin>
+      <environnement>Utilisation de WAMP, PhpMyAdmin
+Langages utilisés : PHP, MySQL, HTML</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse et préparation en groupe pour mettre en commun les idées et mettre en place le projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de la partie utilisateur pour BreizhFood</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de notre BDD en fonction de nos produits, modification faites afin d'améliorer la fonctionnabilité </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test réalisés avec différents scénarios pour mettre en évidences les erreurs </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction du dossier utilisateur</commentaireactivite>
+      </activitecitee>
+      <production numero="1831">
+        <numero>1831</numero>
+        <designation>Lien vers les fichiers du site et le dossier d'utilisateur</designation>
+        <adresse>https://drive.google.com/open?id=0BzZupVwWqEShVXc4b0tTZGFsNlk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1973">
+      <ref>1973</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2 Mission Digicode</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode via l'application</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-11-22</datedebut>
+      <datefin>2016-11-22</datefin>
+      <environnement>Serveur Wamp 1, Base données MySQL mrbs, Sublime text </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Recenser et caractériser des solutions répondant au cahier des charges (adaptation d'une solution existante ou réalisation d'une nouvelle)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite> Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Concevoir les mises à jour à effectuer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à un référentiel, à une norme ou à un standard adopté par le prestataire informatique</commentaireactivite>
+      </activitecitee>
+      <production numero="2072">
+        <numero>2072</numero>
+        <designation>Lien vers le dossier contenant le projet digicode</designation>
+        <adresse>https://drive.google.com/drive/folders/0B3NeYcWExG64dG5iNWc1WUJmLW8?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1985">
+      <ref>1985</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1ère année : Madec Ostreiculture</libcourt>
+      <descriptif>Compétences acquises lors du stage de 1ère année : création d'un site web dynamique</descriptif>
+      <contexte>Entreprise Ostréicole ; stage effectué au lycée</contexte>
+      <datedebut>2016-05-23</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Serveur wamp via PHPMyAdmin en MySQL et langage PHP / SQL / JavaScript / HTML / CSS</environnement>
+      <moyen>MySQL, Serveur wamp, PHPMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+Identifier les fonctionnalités attendues du service à produire
+Préparer sa participation à une réunion</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité
+Proposer les niveaux d'habilitation associés au service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet
+Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données
+Implémenter le schéma de données dans un SGBD
+Programmer des éléments de la solution applicative dans le langage d'un SGBD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Recenser et caractériser les composants existants ou à développer utiles à la réalisation de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation
+Adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Assister la maîtrise d'ouvrage dans l'analyse technique de la proposition de contrat</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à un référentiel, à une norme ou à un standard adopté par le prestataire informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode
+Repérer l'offre et les dispositifs de formation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode
+Identifier le potentiel et les limites d'une technologie, d'un composant, d'un outil ou d'une méthode par rapport à un service à produire</commentaireactivite>
+      </activitecitee>
+      <production numero="2095">
+        <numero>2095</numero>
+        <designation>Site internet</designation>
+        <adresse>http://www.madec-ostreiculture.bzh/</adresse>
+      </production>
+      <production numero="2096">
+        <numero>2096</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>USB</adresse>
+      </production>
+      <production numero="2097">
+        <numero>2097</numero>
+        <designation>Doc Utilisateur</designation>
+        <adresse>USB</adresse>
+      </production>
+      <production numero="2098">
+        <numero>2098</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>USB</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

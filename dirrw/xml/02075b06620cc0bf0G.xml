@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b06620cc0bf0">
+    <ref>5b06620cc0bf0</ref>
+    <datesv>2018-05-24</datesv>
+  </sauvegarde>
+  <etudiant numero="207">
+    <nom>BELLEC</nom>
+    <prenom>Kéven</prenom>
+    <mel>delasalle.sio.bellec.k@gmail.com</mel>
+    <situation ref="2323">
+      <ref>2323</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données Mysql comprenant 3 tables</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-12-30</datefin>
+      <environnement>sereveur Wamp; PhpMyAdmin; SGBDR MySQL; MySqlWorkbench; langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur les quels le service à produire aura un impact. Identifier les fonctionnalités attendue du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutuit sous MySQL (serv-wamp1). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées a la solution applicative à travers le langage de requête SQL(vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="2455">
+        <numero>2455</numero>
+        <designation>TP 8 - Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1Qxq5JJwyAGzbNJ8aNJSqSULYbgBX0_cn</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2361">
+      <ref>2361</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission DATA SAVE_Version serveur NAS</libcourt>
+      <descriptif>Mise en place d'un serveur NAS sur une MACHINE VIRTUEL, ici on a installer OVM sur VMware. Dans le cadre de la société M2L, afin de sécurisé les accès a la gestion des différentes activités proposées par le club.   
+ </descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-01-23</datedebut>
+      <datefin>2018-02-13</datefin>
+      <environnement>Mise en place d'OVM sur la Machine Virtuel VMware.</environnement>
+      <moyen>OVM et VMware.</moyen>
+      <avisperso>PPE très intéressant.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2484">
+        <numero>2484</numero>
+        <designation>Lien vers PPE2 M4</designation>
+        <adresse>https://drive.google.com/drive/folders/1iFdxGGwJ_CzDbsdg2rVmUsWDXGvMZodF</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2674">
+      <ref>2674</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE hébergement </libcourt>
+      <descriptif>Nouvelle fonctionnalité sur le site du BDE (Bureau Des Etudiants) : permet de connaitre les différents hébergements libres.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-03-16</datedebut>
+      <datefin>2018-05-25</datefin>
+      <environnement>Serveur WAMP, Notepad++, bootstrap responsive, HTML, SQL, PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

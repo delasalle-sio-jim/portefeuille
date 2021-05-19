@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5f078878164e9">
+    <ref>5f078878164e9</ref>
+    <datesv>2020-07-09</datesv>
+  </sauvegarde>
+  <etudiant numero="215">
+    <nom>EPS</nom>
+    <prenom>Erwan</prenom>
+    <mel>delasalle.sio.eps.e@gmail.com</mel>
+    <situation ref="2452">
+      <ref>2452</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission PORTAIL</libcourt>
+      <descriptif>Le nouveau portail du site web permettra :
+- D'améliorer le design du portail tout en conservant la charte graphique (couleurs, logos,...)
+- D'accéder à la consultation des formations (*) page précédente,
+- D'accéder à la page Facebook (https://fr-f</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-01-16</datedebut>
+      <datefin>2018-02-06</datefin>
+      <environnement>WordPress, serveur wamp1, php &amp; html, SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre le CMS WordPress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de WordPress</commentaireactivite>
+      </activitecitee>
+      <production numero="2501">
+        <numero>2501</numero>
+        <designation>Adresse drive</designation>
+        <adresse>https://drive.google.com/open?id=1Y2rlfAavKUwcm-ladDXD1M7wZTd9XCAN</adresse>
+      </production>
+      <production numero="2504">
+        <numero>2504</numero>
+        <designation>site WordPress</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2017_2018/Eps/wordpress/</adresse>
+      </production>
+      <production numero="2505">
+        <numero>2505</numero>
+        <designation>site WordPress 2</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2017_2018/Vallee/wordpress/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2468">
+      <ref>2468</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode V1 et V2 et V3</libcourt>
+      <descriptif>M2L met à disposition des salles pour ces adhérents. Ils peuvent récupérer le digicode via l'application.
+Deux ou trois versions ont été élaborées (1 seul digicode puis 1 par salle puis 1 digicode par réservation)</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-03-06</datedebut>
+      <datefin>2018-03-27</datefin>
+      <environnement>HTML, PHP, CSS, JavaScript</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire (scénarios fournis)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests fournis
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service (la base de données avait déjà été installer pour la mission valrés)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet entre les membres de l'équipe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelle table Digicode) et manipuler les données liées à la solution applicative à travers un langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <production numero="2998">
+        <numero>2998</numero>
+        <designation>Digicode V1</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2017_2018/Vallee/M2L%20-%20Digicode%20V1/</adresse>
+      </production>
+      <production numero="2999">
+        <numero>2999</numero>
+        <designation>Digicode V2</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2017_2018/Vallee/M2L%20-%20Digicode%20V2/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2471">
+      <ref>2471</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission VALRES</libcourt>
+      <descriptif>Modéliser la base de données sous MySQL Workbench.
+
+Mettre en évidence les liens entre les tables (contraintes de clés étrangères non mise
+en œuvre sous MySQL volontairement) et comprendre les liens entre ces tables.
+
+Élaborer un jeu d'essai de rése</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2017-11-21</datedebut>
+      <datefin>2017-12-05</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench, langage SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs
+Identifier les fonctionnalités</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire avec MySQL Workbench
+Implémenter le schéma de données dans un SGBD</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2715">
+      <ref>2715</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Alliance Française de Cork -  PMB</libcourt>
+      <descriptif>Mise en place et modification du SIGB (Système intégré de gestion de bibliothèque) : PMB.</descriptif>
+      <contexte>Mise en place d'un logiciel qui permet de faire des prêts de livre et de DVD par rapport à leur bibliothèque.</contexte>
+      <datedebut>2018-05-21</datedebut>
+      <datefin>2018-07-13</datefin>
+      <environnement>Oracle VirtualBox, Debian 9 (Linux), PHP, HTML, SQL, XDebug, Serveur WAMP (pour les tests).</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire.
+Caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser les ressources humaines, matérielles, logicielles et budgétaires nécessaires à l'exécution du projet et de ses tâches personnelles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs dans l'appropriation du nouveau service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Recenser les acquisitions nécessaires à la mise en place d'une solution d'infrastructure compatible avec le budget et le planning prévisionnels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installer et configurer un serveur.
+Installer et configurer des éléments de sécurité permettant d'assurer la protection du système informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution.
+Estimer les éléments de coût et le délai de mise en œuvre de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Analyser et modifier le code d'un composant logiciel
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Plusieurs essais sur l'application PMB et débogage de celui-ci avec XDebug</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger et adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à une norme : RGPD.
+Identifier et partager les bonnes pratiques à intégrer : sécurité des données par rapport à PMB.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter sur le choix d'un serveur (système d'exploitation, version, ...), d‘une technologie, d'un composant, d'un outil ou d'une méthode.</commentaireactivite>
+      </activitecitee>
+      <production numero="2726">
+        <numero>2726</numero>
+        <designation>Adresse drive</designation>
+        <adresse>https://drive.google.com/open?id=1Mgxqtr3x-m26iKSbDRUNzWXZ3AW6hX_0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2929">
+      <ref>2929</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TraceGPS</libcourt>
+      <descriptif>Développer une application pour garder une trace d'un sportif</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-10-16</datedebut>
+      <datefin>2019-03-19</datefin>
+      <environnement>Eclipse, Git, GitHub, PHPStorm, Android Studio</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2890">
+        <numero>2890</numero>
+        <designation>GitHub - Service Web</designation>
+        <adresse>https://github.com/delasalle-sio-riquier-t/tracegps</adresse>
+      </production>
+      <production numero="2891">
+        <numero>2891</numero>
+        <designation>GitHub - Java</designation>
+        <adresse>https://github.com/delasalle-sio-riquier-t/traceGPS-API-Java</adresse>
+      </production>
+      <production numero="2893">
+        <numero>2893</numero>
+        <designation>Liste des tâches</designation>
+        <adresse>https://docs.google.com/spreadsheets/d/1szpPd6buHUFj3BB_tAzZWqs6kTgBLOL_ldtyBpmuaVY/edit#gid=1738521393</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2950">
+      <ref>2950</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Veille technologique sur la réalité augmenté</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-09-03</datedebut>
+      <datefin>2019-05-31</datefin>
+      <environnement></environnement>
+      <moyen>Feedly</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2894">
+        <numero>2894</numero>
+        <designation>Feedly</designation>
+        <adresse>https://feedly.com/i/my</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2951">
+      <ref>2951</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GestSup</libcourt>
+      <descriptif>Mise en place d'un gestionnaire d'incendie</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-11-22</datedebut>
+      <datefin>2018-11-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2994">
+        <numero>2994</numero>
+        <designation>Adresse drive</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/1i5ywL2555GhP6mycQq6wJ9m7lcbYTRLc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3025">
+      <ref>3025</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>MMT Survey</libcourt>
+      <descriptif>Développement d'une API REST qui permet d’afficher des statistiques sur un tableau de bord</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-01-07</datedebut>
+      <datefin>2019-02-08</datefin>
+      <environnement>JavaScript, GitHub, Git, Sails.js</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire à la mise en place de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Développement de l’API</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l’API</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de Git et GitHub</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Utilisation de Git et GitHub</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Utilisation de Git et GitHub</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formation sur JavaScript, Node.js et Sails.js</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Auto-formation sur JavaScript, Node.js et Sails.js</commentaireactivite>
+      </activitecitee>
+      <production numero="2995">
+        <numero>2995</numero>
+        <designation>Auto-formation JavaScript, Node.js</designation>
+        <adresse>https://learn.freecodecamp.org/</adresse>
+      </production>
+      <production numero="2996">
+        <numero>2996</numero>
+        <designation>Adresse drive</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/1CZr3E-du-UXeC-kLUSv3ijIi_KmAlU4o</adresse>
+      </production>
+      <production numero="2997">
+        <numero>2997</numero>
+        <designation>GitHub</designation>
+        <adresse>https://github.com/delasalle-sio-eps-e/api_mmt</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3061">
+      <ref>3061</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Rézaski</libcourt>
+      <descriptif>Développement d'une application web en PHP avec le framework Laravel.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-12-13</datedebut>
+      <datefin>2019-05-17</datefin>
+      <environnement>PHP, Laravel</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3075">
+        <numero>3075</numero>
+        <designation>Trello</designation>
+        <adresse>https://trello.com/b/7jtFQ37F/r%C3%A9zaski</adresse>
+      </production>
+      <production numero="3076">
+        <numero>3076</numero>
+        <designation>GitHub</designation>
+        <adresse>https://github.com/Dylamn/Rezaski/commits/master</adresse>
+      </production>
+      <production numero="3078">
+        <numero>3078</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/1WcXPvjslYYCXiZtKg6snqbBXlSkjatPg</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

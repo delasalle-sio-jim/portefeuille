@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="533a8d1b88c21">
+    <ref>533a8d1b88c21</ref>
+    <datesv>2014-04-01</datesv>
+  </sauvegarde>
+  <etudiant numero="102">
+    <nom>Poince</nom>
+    <prenom>Alexis</prenom>
+    <mel>alexy55555@hotmail.fr</mel>
+    <situation ref="752">
+      <ref>752</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Modification et création table, ajout des droit sur base de données. Serveur Wamp.</descriptif>
+      <contexte>Société qui propose des stages de formation en bureautique aux entreprises.</contexte>
+      <datedebut>2013-11-15</datedebut>
+      <datefin>2013-12-03</datefin>
+      <environnement>Serveur Wamp</environnement>
+      <moyen>Language SQL - MySQL - PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Ajout et suppression droit sur la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification et création table, ajout des droit sur base de données.</commentaireactivite>
+      </activitecitee>
+      <production numero="507">
+        <numero>507</numero>
+        <designation>Adresse serveur WAMP</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=dutoit27&amp;token=96eb20bf9992d34a456c0cff28d824c9</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="872">
+      <ref>872</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>GesForm PPE</libcourt>
+      <descriptif>Modification et création table, création site php, et utilisation requête SQL  Serveur Wamp.</descriptif>
+      <contexte>Société qui propose des stages de formation aux entreprises.</contexte>
+      <datedebut>2014-02-11</datedebut>
+      <datefin>2014-04-08</datefin>
+      <environnement>Serveur WAMP</environnement>
+      <moyen>PhpMyAdmin - MySQL - SublimeText 3</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="627">
+        <numero>627</numero>
+        <designation>Site GesForm</designation>
+        <adresse>http://serv-wamp1/LesSites/SIO1_2013_2014/PoinceTrouchard/Gesform/</adresse>
+      </production>
+      <production numero="628">
+        <numero>628</numero>
+        <designation>BDD Gesform</designation>
+        <adresse>http://serv-wamp1/phpmyadmin/index.php?db=gesform27&amp;token=63b94e8eea7d815b2f2f3630efde3ef9</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

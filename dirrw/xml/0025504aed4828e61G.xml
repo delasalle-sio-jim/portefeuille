@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="504aed4828e61">
+    <ref>504aed4828e61</ref>
+    <datesv>2012-09-08</datesv>
+  </sauvegarde>
+  <etudiant numero="25">
+    <nom>NEAUD</nom>
+    <prenom>Guillaume</prenom>
+    <mel>guillaumeneaud@orange.fr</mel>
+    <situation ref="28">
+      <ref>28</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation OCS Inventory NG</libcourt>
+      <descriptif>Installation du serveur OCS Inventory NG, application permettant de faire un inventaire des machines présentes sur un réseau ainsi que celui des logiciels installés.
+</descriptif>
+      <contexte>Installation du serveur OCS Inventory NG et déploiement des agents pour la collecte des informations.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Système d'exploitation Windows Server 2008
+Système d'exploitatin Windows 7 professionnel</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Le serveur OCS qui s'appuie sur un serveur XAMPP n'était plus accessible via l'interface web. Après sondage, il s'est avéré que le problème venait du fait que les services Apache et MySQL ne démarraient plus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un mode opératoire permettant l'installation de l'application recueillant les inventaires envoyés par les agents OCS Inventory.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="34">
+      <ref>34</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Déploiement Agent OCS Inventory</libcourt>
+      <descriptif>Déploiement de l'agent OCS Inventory via l'outil OCS Agent Deployment Tool</descriptif>
+      <contexte>Mise en place de l'application OCS Inventory NG afin de faire l'inventaire d'un parc informatique</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Système d'exploitation Windows Server 2008
+Système d'exploitatin Windows 7 professionnel</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place de la solution d'inventaire OCS NG avec réalisation d'une procédure d'installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>L'outil de déploiement ne fonctionnait pas : il était impossible de se connecter aux ordinateurs cibles pour y installer l'agent OCS. Recherches sur Internet afin de savoir si le problème s'est déjà produit et si oui comment le résoudre.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un mode opératoire concernant l'utilisation de l'outil de déploiement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Comprendre le fonctionnement d'un outil.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="40">
+      <ref>40</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation GLPI</libcourt>
+      <descriptif>Installation de l'outil libre de gestion de parc informatique GLPI.</descriptif>
+      <contexte>Mise en place d'un Service de gestion de parc informatique</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows Server 2008
+Windows 7 Professionnel
+Serveur XAMPP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur la procédure d'installation de GLPI.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="65">
+      <ref>65</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Configuration et administration de GLPI</libcourt>
+      <descriptif>Liaison entre la base de données OCS et celle de GLPI.
+Découverte des fonctionnalités de GLPI.
+
+</descriptif>
+      <contexte>Mise en place d'une solution libre de gestion de parc informatique</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows 7
+Windows Server 2008
+XAMPP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Création de nouveaux utilisateurs et affectation de leurs droits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Création des comptes utilisateurs de GLPI à partir de l'annuaire LDAP contenant les comptes &quot;profs&quot; du lycée de La Salle.
+Affectation des habilitations aux comptes utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place de OCS Inventory et GLPI.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Utilisation de OCS et GLPI.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Mise en place du serveur OCS, déploiement de l'agent OCS et mise en place de GLPI.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="74">
+      <ref>74</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Modification du site web dynamique de la société Dutoit.</descriptif>
+      <contexte>Société qui propose des stages de formation en bureautique</contexte>
+      <datedebut>2012-03-08</datedebut>
+      <datefin>2012-05-03</datefin>
+      <environnement>Serveur Apache</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="79">
+      <ref>79</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création Image Système d'Exploitation</libcourt>
+      <descriptif>Création d'une image ghost du serveur glpi à l'aide de Ghost v11.5.</descriptif>
+      <contexte>Mise en place d'une solution de gestion de parc informatique.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows Server 2008
+Ghost version 11.5</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

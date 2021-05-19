@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="60661a9b624f5">
+    <ref>60661a9b624f5</ref>
+    <datesv>2021-04-01</datesv>
+  </sauvegarde>
+  <etudiant numero="302">
+    <nom>Rozé</nom>
+    <prenom>Alexandre</prenom>
+    <mel>delasalle.sio.roze.a@gmail.com</mel>
+    <situation ref="3192">
+      <ref>3192</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Création et extension de Dutoit
+
+Puis extension site web dynamique</descriptif>
+      <contexte>société de formation proposant différents stages sur des logiciels informatique à différents niveaux. Elle utilise pour stocker ses informations une base de données SQl comprenant 3 tables</contexte>
+      <datedebut>2019-11-05</datedebut>
+      <datefin>2020-04-02</datefin>
+      <environnement>serveur wamp1, PhpMyAdmin, SGBDR MySQL, langage SQL</environnement>
+      <moyen>langage HTML5, Php5 ou 7, javascript, CSS, bootstrap, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lequel le service à produire aura un impact.
+Identifiez les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (Serv-wamp1). Faire l'extension de la base de donnée initiale. Modéliser la base de donnée finale. Manipuler les données liées à la solution applicative à travers un langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <production numero="3166">
+        <numero>3166</numero>
+        <designation>TP9-Dutoit</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="3180">
+        <numero>3180</numero>
+        <designation>Site web</designation>
+        <adresse>http://serv-wamp1/lesSites/SIO1_2019_2020/dutoit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3236">
+      <ref>3236</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>VALRES</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web et de
+réservation des salles puis rédaction d'un document utilisateur.</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2019-11-26</datedebut>
+      <datefin>2019-12-17</datefin>
+      <environnement>Architecte client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, PhpMyAdmin, SQL</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du services à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>préparer les jeux d'essai pour la réalisation des test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service. tester le service et rédiger le rapport de test (compte-rendu).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données sous MySQL sur le serveur serv-wamp1.
+Manipuler les données à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="3214">
+        <numero>3214</numero>
+        <designation>Compte rendu de la mission Valres</designation>
+        <adresse>https://docs.google.com/document/d/1-8fpUQ2AKTDtFgfnkYNSg88WA-mByCtq/edit</adresse>
+      </production>
+      <production numero="3225">
+        <numero>3225</numero>
+        <designation>Vues d'extaction</designation>
+        <adresse>https://docs.google.com/document/d/1fhhiQaBjxu6MQs0UyFBiAP3_8kS2cSVk/edit</adresse>
+      </production>
+      <production numero="3230">
+        <numero>3230</numero>
+        <designation>Documentation Utilisateur</designation>
+        <adresse>https://docs.google.com/document/d/1sT3rG4F5weyc1-ExPzzcBPSsYgvkvued/edit#heading=h.gjdgxs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3273">
+      <ref>3273</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Isole_Wifi</libcourt>
+      <descriptif>Isolation du réseau sans fil Wifi de la M2L Maison des Ligues par rapport à son réseau principal.</descriptif>
+      <contexte>Afin de pouvoir connecter à internet les périphériques utilisés par les visiteurs de la M2L (Maison des Ligues), l’entreprise a donc besoin de séparer son réseau interne de ses bornes Wifi afin que les personnes se connectant au Wifi, ne soient pas dans l</contexte>
+      <datedebut>2020-01-21</datedebut>
+      <datefin>2020-02-04</datefin>
+      <environnement>Putty, interpréteur de commandes, Internet, mobile.</environnement>
+      <moyen>commandes ping, vérification d'accès internet remplissage, adressage IP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3452">
+        <numero>3452</numero>
+        <designation>Dossier comprenant la mission sur Google Drive</designation>
+        <adresse>https://drive.google.com/drive/folders/10L6lUCIh7x02wgjUM2ezqjO-iMoc5R4b?usp=sharing</adresse>
+      </production>
+      <production numero="3657">
+        <numero>3657</numero>
+        <designation>trello</designation>
+        <adresse>https://trello.com/b/4b8rBqcn/mission-3isolewifi</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3305">
+      <ref>3305</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>DATASAVE </libcourt>
+      <descriptif>Matériel de sauvegarde en ligne</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-02-11</datedebut>
+      <datefin>2020-03-03</datefin>
+      <environnement>MediaFire, freeNas, pcloud</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3310">
+        <numero>3310</numero>
+        <designation>PPE_DATASAVE</designation>
+        <adresse>https://drive.google.com/drive/folders/1BeAE3o9OoAJC1k3pptQvOAjqzyaG0EtW?usp=sharing</adresse>
+      </production>
+      <production numero="3656">
+        <numero>3656</numero>
+        <designation>trello</designation>
+        <adresse>https://trello.com/b/1ys0ZVJz/datasave</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3426">
+      <ref>3426</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>FANS ZONE EURO 2020</libcourt>
+      <descriptif>Concevoir et prototyper l'informatique nomade liée à une manifestation sportive.</descriptif>
+      <contexte>Initialement prévu cette année, l’Euro 2020 se déroulera l’année prochaine dans 12 villes européennes.
+
+Le service informatique de la M2L a été sollicité par la FFF (Fédération Française de Football) pour prototyper, puis mettre en place la couverture i</contexte>
+      <datedebut>2020-05-05</datedebut>
+      <datefin>2020-06-25</datefin>
+      <environnement>Cisco packet tracet, draw.io</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3453">
+        <numero>3453</numero>
+        <designation>PPE_Fans Zone Google Drive</designation>
+        <adresse>https://drive.google.com/drive/folders/1mJoVFOaAkoe9ue6Ft4ZiGVU0H5IFmekx?usp=sharing</adresse>
+      </production>
+      <production numero="3454">
+        <numero>3454</numero>
+        <designation>Trello</designation>
+        <adresse>https://trello.com/b/aQhtgBlD/mission212-fans-zone-euro20202021</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3552">
+      <ref>3552</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Authentification par le protocole radius</libcourt>
+      <descriptif>Authentification par le protocole radius, pour accéder au réseau et pouvoir communiqué, les utilsateurs doivent s'identifier avec un mot de passe ou un certificat.</descriptif>
+      <contexte></contexte>
+      <datedebut>2021-03-20</datedebut>
+      <datefin>2021-03-20</datefin>
+      <environnement>Windows serveur 2016, commutateur alcatel</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3640">
+        <numero>3640</numero>
+        <designation>RADIUS</designation>
+        <adresse>https://drive.google.com/drive/folders/1xV5WuxmIhzP9oNJHD20MnOg4XgQOKQRj?usp=sharing </adresse>
+      </production>
+    </situation>
+    <situation ref="3553">
+      <ref>3553</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d’un serveur de stockage</libcourt>
+      <descriptif>Mise en place d'un serveur samba.</descriptif>
+      <contexte></contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>raspberry PI 4 B</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3641">
+        <numero>3641</numero>
+        <designation>Serveur samba</designation>
+        <adresse>https://drive.google.com/drive/folders/16zVwQo8ohjk65qIBt5eZfevxh54_FVqO?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="3554">
+      <ref>3554</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d’agrégat de lien sur switchs</libcourt>
+      <descriptif>Mise en place d'agrégration de lien entre de switch pour accroître le débit et avoir une tolérence de panne.</descriptif>
+      <contexte></contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>Commutateurs alcatels</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3642">
+        <numero>3642</numero>
+        <designation>Agrégations de liens</designation>
+        <adresse>https://drive.google.com/drive/folders/1RzrVC7cWCbq7DjQ97s5BWdr5b6u2KcPy?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="3555">
+      <ref>3555</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Solution de supervision</libcourt>
+      <descriptif>Mise en place d'une solution de supervison avec le superviseur Zabbix, le plugins grafana et weathermap.</descriptif>
+      <contexte></contexte>
+      <datedebut>2021-01-04</datedebut>
+      <datefin>2021-02-19</datefin>
+      <environnement>Commutateurs alcatel, poste windows(10 et 7), serveur windows 2016</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3643">
+        <numero>3643</numero>
+        <designation>Solution de supervision</designation>
+        <adresse>https://drive.google.com/drive/folders/1t3sYKQXLTxHm57kVv3AkKxro_GqCdyEj?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="3627">
+      <ref>3627</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion  des incidents avec GLPI</libcourt>
+      <descriptif>serveur de gestion des incidents avec GLPI pour le PPE M2L</descriptif>
+      <contexte></contexte>
+      <datedebut>2021-03-01</datedebut>
+      <datefin>2021-04-01</datefin>
+      <environnement>ubuntu live serveur 20.10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3685">
+        <numero>3685</numero>
+        <designation>PPE M2L</designation>
+        <adresse>https://drive.google.com/drive/folders/1Uhm_JkiMskqrCSt2GLsIPV5Yggbw8PfR?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3629">
+      <ref>3629</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologie sur le stockage de données dans l'ADN</libcourt>
+      <descriptif>Veille technologie sur le stockage de données dans l'ADN
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-03-11</datedebut>
+      <datefin>2021-04-01</datefin>
+      <environnement>twitter, feedly</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="3686">
+        <numero>3686</numero>
+        <designation>Veille techno</designation>
+        <adresse>https://drive.google.com/drive/folders/1h_1LiknmaP-06EDv0IvFcpZCfNvOB6ll?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

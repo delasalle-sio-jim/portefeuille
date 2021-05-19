@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53b24800ce007">
+    <ref>53b24800ce007</ref>
+    <datesv>2014-07-01</datesv>
+  </sauvegarde>
+  <etudiant numero="85">
+    <nom>Guillemot</nom>
+    <prenom>Clément</prenom>
+    <mel>guillemot.clement@orange.fr</mel>
+    <situation ref="778">
+      <ref>778</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Cas GSB</libcourt>
+      <descriptif>Etude de cas d'un appel d'offre et proposition de différentes solution</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-10-15</datedebut>
+      <datefin>2013-11-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="514">
+        <numero>514</numero>
+        <designation>Appel d'offre final</designation>
+        <adresse>https://www.dropbox.com/home/Appel%20d'offreeee</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="935">
+      <ref>935</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festibasket</libcourt>
+      <descriptif>Conception et prototype de l'informatique nomade </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-04-22</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement>google apps, </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1040">
+      <ref>1040</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion Incident - Helpdesk</libcourt>
+      <descriptif>Gestion de tickets incidents, suivi de pannes, mise en place d'un Helpdesk</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-03-19</datedebut>
+      <datefin>2014-03-27</datefin>
+      <environnement>Windows server, Win7</environnement>
+      <moyen>OCSInventory, GLPI</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1071">
+      <ref>1071</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Tp FigurineShop</libcourt>
+      <descriptif>Mise en oeuvre d'un site marchand</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-24</datefin>
+      <environnement>ServeurWamp, SGBD MySql</environnement>
+      <moyen>Notepad</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>CDC: contexte
+-cas d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>partie administration fournie a du être intégrée au site developper puis tester</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>doc utilisateur (image écran du site)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>MySqlworkbench
+SQL
+Doc technique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production doc technique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Production doc user</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1124">
+      <ref>1124</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place outil déploiement</libcourt>
+      <descriptif>-Préparation du BIOS pour déployer des master.
+-Création fichier MSI
+-Récupération clé Windows XP, Windows 7</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>-Windows Xp, 7 -&gt; BIOS</environnement>
+      <moyen>-Logiciel conversion fichier .EXE -&gt; .MSI
+-Logiciel &quot;Product Key&quot;</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test de déploiement -&gt; Le déploiement, l'installation, et l'utilisation des Masteur fonctionne correctement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Master fonctionnel et prêt à être utiliser</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>-&gt;migration sur du client léger (nécessite de nouveaux serveurs, des platines)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Les nouveaux master remplacent les ancien OS par de nouveau &quot;propre&quot;</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Prise en mains a distance (machine cliente -&gt; serveur)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>documentation sur les fichier .msi</commentaireactivite>
+      </activitecitee>
+      <production numero="1035">
+        <numero>1035</numero>
+        <designation>Tuto msi</designation>
+        <adresse>https://drive.google.com/#folders/0B51WYGPY9upebmtNMTE1Yi16S1E</adresse>
+      </production>
+      <production numero="1036">
+        <numero>1036</numero>
+        <designation>Rapport sur les modif BIOS</designation>
+        <adresse>https://drive.google.com/#folders/0B51WYGPY9upebmtNMTE1Yi16S1E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1125">
+      <ref>1125</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation et configuration logiciel d'inventarisation</libcourt>
+      <descriptif>Mise en place sur Linux Debian d'OSC, et d'un serveur FTP</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Linux Debian</environnement>
+      <moyen>OCS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>-Remonter de l'inventaire du parc info</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Si fonctionnel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Si fonctionnel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Procédure d'installation d'OCS et serveur FTP
+Procédure pour lancer l'inventorisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration réseau du Debian</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>L'ancien OCS down, le nouveau est pour le remplacer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Configuration d'OCS d'une machine cliente</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude mise en place d'OCS, son utilisation, ses capacités</commentaireactivite>
+      </activitecitee>
+      <production numero="1037">
+        <numero>1037</numero>
+        <designation>Tuto</designation>
+        <adresse>https://drive.google.com/#folders/0B51WYGPY9upebmtNMTE1Yi16S1E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

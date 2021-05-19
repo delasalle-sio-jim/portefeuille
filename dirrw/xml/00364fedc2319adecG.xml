@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fedc2319adec">
+    <ref>4fedc2319adec</ref>
+    <datesv>2012-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="36">
+    <nom>TIXIER</nom>
+    <prenom>Jordan</prenom>
+    <mel>tixier.jo@gmail.com</mel>
+    <situation ref="29">
+      <ref>29</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Lycée Chateaubriand</libcourt>
+      <descriptif>changement du contrôleur de domaine</descriptif>
+      <contexte>Établissement scolaire </contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows Server 2003, Windows Server 2008</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparation de 3 stations Windows pour les tests : 2 serveurs (2003 -&gt; à distance et 2008), 2 clients (XP et 7)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Définition des différents droits sur les groupes du domaine. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Virtualisation de la solution sous VirtualBox en réseau interne. 
+Avec 3 marchines virtuelles 'VirtualBox', des tests de migration de domaine/AD ont été effectués.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration d'un contrôleur de domaine sur Windows Server 2008. 
+Mise en place de stratégie de groupe. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Migration de postes Windows XP avec l'outil Active Directory Migration Tool. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour du tutoriel déjà en cours pour l'implantation du nouveau domaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>L'activation de la connexion Bureau à distance (sur le Server 2008 par exemple) permet d'avoir la main sur les serveurs situés dans l'infocentre. 
+Administration de Windows Server 2003 à distance. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Mise en place des unités organisationnelles et des stratégies de groupe. 
+Modification des droits sur les dossiers personnels et de groupes. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Conception de scripts d'ouverture de session, modification et adaptation de scripts PowerShell pour basculer de domaine, créer des sessions, des comptes, des groupes. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

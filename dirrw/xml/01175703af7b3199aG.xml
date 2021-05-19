@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5703af7b3199a">
+    <ref>5703af7b3199a</ref>
+    <datesv>2016-04-05</datesv>
+  </sauvegarde>
+  <etudiant numero="117">
+    <nom>Esnault</nom>
+    <prenom>Jérémy</prenom>
+    <mel>delasalle.sio.esnault.j@gmail.com</mel>
+    <situation ref="1156">
+      <ref>1156</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Création et gestion d'une base de données pour une sociète de formation continue Dutoit.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables. Le contenu de ces tables sont présentées en </contexte>
+      <datedebut>2014-11-13</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>Mis en oeuvre sur un serveur wamp avec phpadmin ,SBGR MySql ainsi que MySqlWorkbench (language SQL).</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>-Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+-Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>-Création et recensement des utilisateurs ainsi que l'affectation de droits aux utilisateurs sur les éléments d'une solution d'infrastructure.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>-Création de la base de données sous MySql.
+-Mise à jour de la base de données afin de répondre aux nouveau besoins de l'entreprise ainsi que sa modélisation.
+-Manipulation des données liées à la solution applicative à l'aide de langagues SQL (vues). </commentaireactivite>
+      </activitecitee>
+      <production numero="1106">
+        <numero>1106</numero>
+        <designation>Compte rendu Dutoit</designation>
+        <adresse>https://drive.google.com/?tab=wo&amp;authuser=0#folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1244">
+      <ref>1244</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Digicode</libcourt>
+      <descriptif>Mise en place d'un site web pour l'association ML2 . Afin de pouvoir modifier son mot de passe pour les utilisateurs et de changer le code du digicode  seulement pour l' administrateur. Ainsi que la possibilité pour l'administrateur du système d'envo</descriptif>
+      <contexte>La Maison des Ligues de Lorraine (M2L) a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées.</contexte>
+      <datedebut>2015-01-06</datedebut>
+      <datefin>2015-01-27</datefin>
+      <environnement>Création de page php stockées sur un serveur wamp. Ainsi que modification  lègère de la mise en page à l'aide de css.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Mise en place des nouvelles fonctionnalités écrite dans le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Différentiation des fonctionnalité entre l'administrateur et les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Ajout de fonctionnalité comme la possibilité d'envoyer un mail pour l'administrateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données aux nouvelles fonctionnalités, avec la mise en place d'intégrité relationnel entre les tables.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mise en place de test afin de vérifier la longueur des saisies ou si les saisies sont différentes</commentaireactivite>
+      </activitecitee>
+      <production numero="1108">
+        <numero>1108</numero>
+        <designation>Compte rendu  Digicode</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNQjdRSlZpal9FMEU</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1251">
+      <ref>1251</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Valres</libcourt>
+      <descriptif>La mission VALRES va s'attacher à un ensemble de fonctionnalités de l'application web de réservation de salle</descriptif>
+      <contexte>La Maison des Ligues de Lorraine (M2L) a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées.</contexte>
+      <datedebut>2014-12-09</datedebut>
+      <datefin>2014-12-16</datefin>
+      <environnement>serveur wamp Sgbdr</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en place d'un systeme de jeu d'essai afin de tester le role et les fonctionnalités de chacune des tables.Voir les conséquences de ces saisies sur la base de données .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Vérification des conditions d'utilisation de la solution applicative.
+Installation du programme de réservation des salles.
+Validation des divers test à travers un jeu d'essai.
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données aux nouvelles fonctionnalités, avec la mise en place d'intégrité relationnel entre les tables. Justification avec des règles gestion. Modélisation de la structure de la base de données à laide de MySQLWorbench.</commentaireactivite>
+      </activitecitee>
+      <production numero="1105">
+        <numero>1105</numero>
+        <designation>Compte rendu mission VALRES</designation>
+        <adresse>https://drive.google.com/?tab=mo&amp;authuser=0#folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1296">
+      <ref>1296</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gesform</libcourt>
+      <descriptif>Le CROSL offre un catalogue diversifié de formations aux bénévoles des clubs affiliés aux ligues . Les ligues organisent également des formations, en général plus techniques, sur l'usage de logiciels spécifiques de gestion des clubs ou des compétitions s</descriptif>
+      <contexte>Mettre en place une application web comportant un bulletin d'inscription d' association et stagiaire. Afin de remplacer la version papier.</contexte>
+      <datedebut>2015-02-24</datedebut>
+      <datefin>2015-04-07</datefin>
+      <environnement>Phase d'analyse sur Power AMC 16 et serveur wamp  </environnement>
+      <moyen>Utilisation du language php, Html5, sql et css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Mise en place d'un dictionnaire des données et des réglés de gestion à partir du cahier des charges. Création d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Mise en place d'un système d'authentification pour permettre à l'administrateur seul de modifier la liste des stages. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>L'administrateur doit pouvoir ajouter modifier ou supprimer un stage.
+Les utilisateurs doivent pouvoir s'inscrire en tant qu'association ou stagiaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planification des tâches à réaliser et partage des taches en binôme.
+Présentation du travail effectuer lors d'un oral. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception d'une interface afin de permettre l'inscription d'une association et d'un stagiaire.</commentaireactivite>
+      </activitecitee>
+      <production numero="1149">
+        <numero>1149</numero>
+        <designation>Site de GesForm</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk/0BwIyWWDch6jNfjFCSHhKYTdkUEV4QjhVSkk2OFU1SDdsWlJuNGpBMmI5TVFGN0RneVBmUkE</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1419">
+      <ref>1419</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Arcimboldo</libcourt>
+      <descriptif>Création et gestion d'une base de donnée et site web commercial pour la sociète Arcimboldo</descriptif>
+      <contexte>La société Arcimboldo commercialise des agrumes et des fruits exotiques  . Il s'agit d'un négociant important et sa clientèle est essentiellement composée de collectivités locales.</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-04-06</datefin>
+      <environnement>Mise en oeuvre sur un serveur wamp avec phpadmin ,SBGR MySql ainsi que les langages HTML, php et css.  </environnement>
+      <moyen>notepad++,phpmyadmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1111 et C1112</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Mise en place d'une page afin de visualiser la liste des produits commandés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données avec la modification des produits.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un documentation utilisateur afin de détailler les fonctionnalités du site. </commentaireactivite>
+      </activitecitee>
+      <production numero="1253">
+        <numero>1253</numero>
+        <designation>Documentation utilisateur</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk/0BwIyWWDch6jNfmFqcWcxYU9GbkoxWXBhQjRfYWZMQkRHRThuY055aHVBT1NOSEtuU0otWGc</adresse>
+      </production>
+      <production numero="1255">
+        <numero>1255</numero>
+        <designation>Script de la base de données et du site</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk/0BwIyWWDch6jNfmFqcWcxYU9GbkoxWXBhQjRfYWZMQkRHRThuY055aHVBT1NOSEtuU0otWGc/0BwIyWWDch6jNfmtBWko1cGd1d21LLTJIaUE2Y3ZTT2NRQ3duTmp0VEZGUFQ3U2JFVHpibGs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1445">
+      <ref>1445</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Portail Gesform</libcourt>
+      <descriptif>Mise en place d'un portail afin de regroupe plusieurs application précédemment mis en oeuvre.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-04-28</datedebut>
+      <datefin>2015-05-19</datefin>
+      <environnement>Utilisation d'un cms (Content Management System) à l'aide de l'outil Word Press.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Recherche de thèmes et incorporation des différentes page au portail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de Word Press afin de mettre en place un portail</commentaireactivite>
+      </activitecitee>
+      <production numero="1265">
+        <numero>1265</numero>
+        <designation>Capture d'écran du portail GesForm</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1455">
+      <ref>1455</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion lycée</libcourt>
+      <descriptif>Mise en place d'un système de gestion de lycée</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-02-25</datedebut>
+      <datefin>2015-05-20</datefin>
+      <environnement>A l'aide de l'environnement de développement intégré Visual Studio</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>TP 4-1 avec des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Modification de la classe passerelle 
+Utilisation des composants MySQL et Data
+Vérification que la connexion à la base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Correction des test unitaires qui ne fonctionnent pas</commentaireactivite>
+      </activitecitee>
+      <production numero="1281">
+        <numero>1281</numero>
+        <designation>Gestion lycéé</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk/0BwIyWWDch6jNfmcyRnpEOWVST3U5LWdiTklHLTFiV20xTndVVUltVEZMZzdxaFVTUVJlU1k</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1469">
+      <ref>1469</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Renasup35</libcourt>
+      <descriptif>Mise en place d'une base de données et d'un site web afin de gérer les entreprises ayant accueilli des stagiaires dans le cadre du programme Erasmus</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement>ServeurWamp </environnement>
+      <moyen>php,sql,html,css</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1 Analyse et rédaction d'un cahier des charges
+ </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Mise ne place de trois niveaux d'habilitation:
+-Administrateur ayant tous les droits
+-Gestionnaire pouvant ajouter,modifier,supprimer et consulter les informations.
+-Utilisateur pouvant consulter les informations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.2 Compte rendu hebdomadaire contenant la liste des taches accomplit dans la semaine ainsi que leur durée </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>C4.1.1.1 Proposition d'un site web installé sur un serveur Wamp.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>C4.1.2.1 Le site web doit conporter une barre de recherche un ainsi qu'un accès au différente rubrique.
+C4.1.2.2 Réalisation de maquette de l'interface utilisateur avec entete barre de menu et pied de pages et validation avec le maitre de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>C4.1.3.1 Réalisation d'un modèle conceptuel de données et d'un schéma relationnel / C4.1.3.2 Mise en place du schéma de données sur une base de données MySql à l'aide phpMyAdmin / C4.1.3.4 Affichage des données stockées grace à SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>C4.9.1 Rédaction d'une documentation technique afin d'expliquer les différentes fonctionnalités du site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>C4.1.10.1 Rédiger la documentation d'utilisation,
+C4.1.10.2 Rédaction d'une aide en ligne en fonction du niveau d'habilitation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>C5.2.4.1 Recherche d'informations sur le css et ses différents propriétés (url)
+C5.2.4.2 Choix du css par rapport à un système de gestion de contenu (CMS)</commentaireactivite>
+      </activitecitee>
+      <production numero="1519">
+        <numero>1519</numero>
+        <designation>Document en rapport avec le Stage à RenaSup35</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNfkEwS2hZeXdHVEpCYW4zWU9LbDlPODV4ZTM3VFFuaUZUYXV4dGhQRU1udkk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1487">
+      <ref>1487</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Javadoc</libcourt>
+      <descriptif>Documentation classe Individu</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-10-02</datedebut>
+      <datefin>2015-10-02</datefin>
+      <environnement>Eclipse</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Intégration de documentation technique à la classe Individu et génération fichier html</commentaireactivite>
+      </activitecitee>
+      <production numero="1521">
+        <numero>1521</numero>
+        <designation>TP classe Individu</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNT2NuUUM4V2Z5NUk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1523">
+      <ref>1523</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet Veille</libcourt>
+      <descriptif>Mise en place d'un site web de veille</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-10-05</datedebut>
+      <datefin>2015-12-08</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.1 Rédaction d'un cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>C1.2.4.2 Rédaction de tests fonctionnels des classes </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.1 Plannification du projet (voir Trello)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>C1.4.3.1 Répartition des différents membres du projet sur les tâches
+C1.4.3.2 Adapter son planning personnel en fonction des ressources disponibles (voir Trello)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>C5.2.2.2 Liste des article en rapport avec le thème de veille
+C5.2.2.4 Synthétiser et diffuser les résultats d'une veille (site web)</commentaireactivite>
+      </activitecitee>
+      <production numero="1556">
+        <numero>1556</numero>
+        <designation>Cahier des charges du site de Veille</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNVkM4Z2tEZGd6Z28</adresse>
+      </production>
+      <production numero="1608">
+        <numero>1608</numero>
+        <designation>Lien vers le planning du projet (Trello)</designation>
+        <adresse>https://trello.com/b/qYkabdOH/site-de-veille</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1602">
+      <ref>1602</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage Tactillia</libcourt>
+      <descriptif>Installation et développement sur Raspberry Pi. Sachant que le Raspberry Pi à pour objectif d'être ajouté aux bornes numériques que propose déjà l'entreprise Tactilia. Le Raspberry Pi permettrait d'ajouter des fonctionnalités à celles-ci.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-05</datefin>
+      <environnement>Système d’exploitation Raspbian.
+Développement sur Eclispe.</environnement>
+      <moyen>Java, JavaScript, script bash, html, python</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>82</numero>
+        <commentaire>Quelques fautes corrigées dans la description et indiquées entre " " :
+Installation et "développement" sur Raspberry Pi. Sachant que le Raspberry Pi "a" pour objectif d'être ajouté aux bornes "numériques" </commentaire>
+        <datecommentaire>2016-02-01</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <avisprof>
+        <numero>83</numero>
+        <commentaire>La suite :
+ que propose déjà l'entreprise Tactilia. Le Raspberry Pi "permettrait" d'ajouter des fonctionnalités à celles-ci.</commentaire>
+        <datecommentaire>2016-02-01</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>C1.3.1.2 Test du bon fonctionnement du point d'accès. 
+C1.3.1.3 Rédaction document avec des copies d'écran. 
+(Doc HotSpot 6, Web Socket 5)
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C1.4.1.1 Mise en place d'un planning afin d'ordonner le déroulement des tâches.
+C1.4.1.2 Compte-rendu hebdomadaire contenant la liste des tâches accomplies dans la semaine ainsi que leur durée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>C3.2.1 Configuration et mise en place d'un point d'accès  wifi et d'un service DHCP, DNS (Voir Doc  HostSpot)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>C4.1.9.1 Rédaction documentation technique externe(Voir Doc HotSpot WebSocket) et interne JavaDoc (voir Capture écran).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>C5.1.3.2 Suivi de l'historique du développement sur l'interface GUI de Git</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>C5.2.1.1 normes suivantes : http://www.jmdoudoux.fr/java/dej/chap-normes-dev.htm + nommage variables en anglais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>C5.2.4.1 Documentation sur les outils et langages suivants : hostapd, Web Socket, RaspBerry Pi (Raspbian), python ,javascript</commentaireactivite>
+      </activitecitee>
+      <production numero="1607">
+        <numero>1607</numero>
+        <designation>Document en rapport avec le Stage à Tactilia</designation>
+        <adresse>https://drive.google.com/drive/folders/0BwIyWWDch6jNUno5aWt6c1RnTWc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1603">
+      <ref>1603</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>MDL(mobile)</libcourt>
+      <descriptif>Gestion des réservations depuis l'application mobile</descriptif>
+      <contexte>La Maison des Ligues de Lorraine (M2L) a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres </contexte>
+      <datedebut>2015-11-03</datedebut>
+      <datefin>2015-12-15</datefin>
+      <environnement>Eclipse</environnement>
+      <moyen>jQuerry, Java</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>C5.1.1.2 Paramétrer une solution de gestion des éléments d'une configuration (GitHub)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1609">
+        <numero>1609</numero>
+        <designation>Gestion de configuration GitHub</designation>
+        <adresse>https://github.com/delasalle-sio-esteve-n/mob.mdl/commits/master?page=2</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

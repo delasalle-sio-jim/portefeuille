@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5c90f564ba8d9">
+    <ref>5c90f564ba8d9</ref>
+    <datesv>2019-03-19</datesv>
+  </sauvegarde>
+  <etudiant numero="190">
+    <nom>Iradukunda</nom>
+    <prenom>Leilla</prenom>
+    <mel>delasalle.sio.iradukunda.l@gmail.com</mel>
+    <situation ref="1993">
+      <ref>1993</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données dutoit</descriptif>
+      <contexte>PPE2</contexte>
+      <datedebut>2016-11-17</datedebut>
+      <datefin>2016-12-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et une structure organisationnelle et affecter des droits aux utilisateurs sur les éléments d'une solution d'infrastructure</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite> Modéliser le schéma de données nécessaire à la mise en place de la solution applicative avec MySQlworkbench
+Implémenter le schéma de données dans un SGBD sous MySQL
+Manipuler les données liées à la solution applicative à travers un langage de requête
+</commentaireactivite>
+      </activitecitee>
+      <production numero="2118">
+        <numero>2118</numero>
+        <designation>TP dutoit complété</designation>
+        <adresse>clé USB</adresse>
+      </production>
+      <production numero="2476">
+        <numero>2476</numero>
+        <designation>TP dutoit </designation>
+        <adresse>https://drive.google.com/drive/folders/1njqxbyc3jPAEF6713tm_mATrdhhCQpdJ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2029">
+      <ref>2029</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>M2L-VALRES</libcourt>
+      <descriptif>Gestion des réservations de salles</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2016-12-13</datedebut>
+      <datefin>2017-01-10</datefin>
+      <environnement>Serveur wamp,PhpMyAdmin,Navigateur,MySqlWorkbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+ Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai pour la réalisation des tests
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite> Mettre en place l'environnement de test du service
+Tester le service et Rédiger le rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite> Modéliser le schéma de données nécessaire avec MySQLWorkbench
+Implémenter le schéma de données avec MySQL</commentaireactivite>
+      </activitecitee>
+      <production numero="2711">
+        <numero>2711</numero>
+        <designation>M2L Valres</designation>
+        <adresse>https://drive.google.com/drive/folders/1RynP-tX3hUuYdrrvWbuQLIU5qtIboYTv</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2030">
+      <ref>2030</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>M2L- PORTAIL</libcourt>
+      <descriptif>Développer le portail du site de M2L</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2017-01-10</datedebut>
+      <datefin>2017-01-24</datefin>
+      <environnement>Serveur wamp,navigateur</environnement>
+      <moyen>CMS wordpress</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire
+Rédiger un compte-rendu de bilan</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode</commentaireactivite>
+      </activitecitee>
+      <production numero="2710">
+        <numero>2710</numero>
+        <designation>M2L Portail</designation>
+        <adresse>https://drive.google.com/drive/folders/1m_45IW65_o3Zd5mL2czwt5wv6fT9K5KS</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2231">
+      <ref>2231</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission DIGICODE</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents.Ils peuvent récupérer le digicode via l'application.
+Deux versions ont été élaborées(1 digicode puis 1 digicode par salle)</descriptif>
+      <contexte>M2L-Mission DIGICODE</contexte>
+      <datedebut>2017-05-01</datedebut>
+      <datefin>2017-05-01</datefin>
+      <environnement>Serveur Wamp2,Navigateur,bdd mysql mbrs14</environnement>
+      <moyen>langage php</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation,les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service(la base de données avait déjà été installée por la mission Valrès</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mbrs</commentaireactivite>
+      </activitecitee>
+      <production numero="2338">
+        <numero>2338</numero>
+        <designation>mission digicode :clé usb</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="2477">
+        <numero>2477</numero>
+        <designation>mission digicode :  drive</designation>
+        <adresse>https://drive.google.com/drive/folders/15hXdGwTHhB3lX3hh_vYMPnw2guOHqWE_</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2274">
+      <ref>2274</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage première année</libcourt>
+      <descriptif>LORANS</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-06-22</datedebut>
+      <datefin>2017-06-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <production numero="2473">
+        <numero>2473</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/0B1E-Umk8pvi7dGt0YTBwMlpwcW8</adresse>
+      </production>
+      <production numero="2474">
+        <numero>2474</numero>
+        <designation>clé USB</designation>
+        <adresse>dossier stage</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2345">
+      <ref>2345</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage deuxième année</libcourt>
+      <descriptif>Développement d'une application pour la gestion du matériel de l'entreprise Immersive Therappy</descriptif>
+      <contexte>Stage de deuxième année</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Android Studio, Visual studio code</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite> Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite> Maquetter un élément de la solution applicative.
+Concevoir et valider la maquette en collaboration avec des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire à la mise en place de la solution applicative.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite> Produire la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie, un composant, un outil ou une méthode</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode (React-Native)</commentaireactivite>
+      </activitecitee>
+      <production numero="2472">
+        <numero>2472</numero>
+        <designation>clé USB, </designation>
+        <adresse>dossier stage_immersive_therapy</adresse>
+      </production>
+      <production numero="2475">
+        <numero>2475</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/1DpDKR7R8bnReD2S8DsJW7ACcp_2gPocK</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2346">
+      <ref>2346</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TraceGPS</libcourt>
+      <descriptif>Développement d'une application Windows pour analyser et visualiser la trace GPS d'un parcours sportif enregistré avec une montre GPS</descriptif>
+      <contexte>Réalisation et maintenance de composants logiciels</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-12-05</datefin>
+      <environnement>Visual Studio, C#, googleMaps, parser XML, tests unitaires</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite> Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite> Mettre au point une procédure d'installation de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Analyser et modifier le code d'un composant logiciel
+Utiliser des composants d'accès aux données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite> Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à un référentiel, à une norme</commentaireactivite>
+      </activitecitee>
+      <production numero="2608">
+        <numero>2608</numero>
+        <designation>TraceGPS en c#</designation>
+        <adresse>https://drive.google.com/drive/folders/1qWjNJcY_H_Q4DvCctm2MM4Lesunjx3Hy</adresse>
+      </production>
+    </situation>
+    <situation ref="2377">
+      <ref>2377</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP poo2 JAVA DOC</libcourt>
+      <descriptif>Documentation automatique du code source avec JavaDoc</descriptif>
+      <contexte>SLAM45 Travaux Pratiques </contexte>
+      <datedebut>2018-02-20</datedebut>
+      <datefin>2018-02-20</datefin>
+      <environnement>Eclipse, Java</environnement>
+      <moyen>JavaDoc</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Produire la documentation technique d'une solution applicative et de ses composants logiciels</commentaireactivite>
+      </activitecitee>
+      <production numero="2487">
+        <numero>2487</numero>
+        <designation>clé usb</designation>
+        <adresse>G:SIO2Slam5TP poo 2 - Javadoc</adresse>
+      </production>
+      <production numero="2488">
+        <numero>2488</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/1ZIDiyL19AktfE41N_Ytze86BJ-buqz4m</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2520">
+      <ref>2520</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>veille technologique sur React-Native</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2019-05-27</datefin>
+      <environnement>Pearltrees</environnement>
+      <moyen>Google Actu,twitter</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Évaluer le degré de conformité des pratiques à un référentiel, à une norme ou à un standard adopté par le prestataire informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Définir une stratégie de recherche d'informations,Tenir à jour une liste de sources d'information </commentaireactivite>
+      </activitecitee>
+      <production numero="2543">
+        <numero>2543</numero>
+        <designation>pearltrees</designation>
+        <adresse>http://www.pearltrees.com/liradle</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2531">
+      <ref>2531</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Passerelle web en PHP (classe DAO)</libcourt>
+      <descriptif>Classe DAO</descriptif>
+      <contexte>PPE2</contexte>
+      <datedebut>2017-03-10</datedebut>
+      <datefin>2017-10-10</datefin>
+      <environnement>Eclipse,Github</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de formation au nouveau service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Analyser les écarts entre temps prévu et temps consommé, Contribuer à l'évaluation du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser les ressources humaines nécessaires à l'exécution du projet et de ses tâches personnelles
+ Adapter son planning personnel en fonction des ressources disponibles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recenser les caractéristiques techniques nécessaires à la gestion des éléments de la configuration d'une organisation (avec Github)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Renseigner les événements relatifs au cycle de vie d'un élément de la configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Contrôler et auditer les éléments de la configuration</commentaireactivite>
+      </activitecitee>
+      <production numero="2624">
+        <numero>2624</numero>
+        <designation>La classe DAO</designation>
+        <adresse>https://github.com/delasalle-sio-delaunay-p/m.m2l/tree/master/modele</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2566">
+      <ref>2566</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Services web gestion de réservations</libcourt>
+      <descriptif>développement des sites web digicode en PHP</descriptif>
+      <contexte>PPE3</contexte>
+      <datedebut>2017-05-12</datedebut>
+      <datefin>2017-12-12</datefin>
+      <environnement>Eclipse, Github</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite> Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Analyser les écarts entre temps prévu et temps consommé.
+Contribuer à l'évaluation du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser les ressources humaines nécessaires à l'exécution du projet et de ses tâches personnelles.
+Adapter son planning personnel en fonction des ressources disponibles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite> Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recenser les caractéristiques techniques nécessaires à la gestion des éléments de la configuration d'une organisation (avec github)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Renseigner les événements relatifs au cycle de vie d'un élément de la configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Reconstituer un historique des modifications effectuées sur les éléments de la configuration</commentaireactivite>
+      </activitecitee>
+      <production numero="2625">
+        <numero>2625</numero>
+        <designation>Service web digicode (github)</designation>
+        <adresse>https://github.com/delasalle-sio-delaunay-p/m.m2l/tree/master/services</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2579">
+      <ref>2579</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>TP SI6 </libcourt>
+      <descriptif>Développement d'un site web en php et html</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-04-06</datedebut>
+      <datefin>2018-04-17</datefin>
+      <environnement>serveur wamp</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite> Manipuler les données liées à la solution applicative à travers un langage de requête
+Modéliser le schéma de données nécessaire à la mise en place de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite> Adapter la documentation d'utilisation à chaque contexte d'utilisation</commentaireactivite>
+      </activitecitee>
+      <production numero="2587">
+        <numero>2587</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/drive/folders/1rPqo0bgj7BEvNXdQT1MCe1c4jcnTJkoK</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2591">
+      <ref>2591</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Velo Star</libcourt>
+      <descriptif>Développement d'une application cliente du service web LE vélo STAR de la ville de Rennes</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-04-03</datedebut>
+      <datefin>2018-04-03</datefin>
+      <environnement>Android studio, un émulateur physique</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développer un prototype</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Mettre en place et exploiter un environnement de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution
+Utiliser des composants d'accès aux données
+Analyser et modifier le code d'un composant logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <production numero="2609">
+        <numero>2609</numero>
+        <designation>drive</designation>
+        <adresse>https://drive.google.com/drive/folders/1D3oQJwpgtQRhPIkOgMLbhErvf4TnNy2y</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2593">
+      <ref>2593</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Outil help desk</libcourt>
+      <descriptif>Outil de gestion d'incident : GestSup</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-04-17</datedebut>
+      <datefin>2018-04-17</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite> Mettre au point une procédure d'installation de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Identifier le potentiel et les limites d'une technologie, d'un composant, d'un outil ou d'une méthode par rapport à un service à produire</commentaireactivite>
+      </activitecitee>
+      <production numero="2602">
+        <numero>2602</numero>
+        <designation>Drive</designation>
+        <adresse>https://drive.google.com/drive/folders/1M851EgOQ21mRX1qkNZza_YJVB08gwDZF</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2636">
+      <ref>2636</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Application web Jquery Mobile</libcourt>
+      <descriptif>Développement des contrôleurs et vues pour l'application </descriptif>
+      <contexte>PPE3</contexte>
+      <datedebut>2017-10-10</datedebut>
+      <datefin>2017-11-21</datefin>
+      <environnement>Eclipse, Github</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite> Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Analyser les écarts entre temps prévu et temps consommé.
+Contribuer à l'évaluation du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser les ressources humaines, matérielles, logicielles et budgétaires nécessaires à l'exécution du projet et de ses tâches personnelles.
+Adapter son planning personnel en fonction des ressources disponibles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recenser les caractéristiques techniques nécessaires à la gestion des éléments de la configuration d'une organisation ( avec github)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Renseigner les événements relatifs au cycle de vie d'un élément de la configuration.</commentaireactivite>
+      </activitecitee>
+      <production numero="2640">
+        <numero>2640</numero>
+        <designation>Application web Jquery Mobile (sur github)</designation>
+        <adresse>https://github.com/delasalle-sio-delaunay-p/m.m2l/tree/master/controleurs</adresse>
+      </production>
+      <production numero="2641">
+        <numero>2641</numero>
+        <designation>Application web Jquery Mobile (sur drive)</designation>
+        <adresse>https://drive.google.com/drive/folders/1uP3Y010Wj-yGFbHFSz01jkO9XdLouYQa</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2758">
+      <ref>2758</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Application Trace GPS</libcourt>
+      <descriptif>Développement d'une application Windows pour analyser, enregistrer et visualiser la trace GPS d'un parcours sportif enregistré avec une montre GPS</descriptif>
+      <contexte>Réalisation et maintenance de composants logiciels</contexte>
+      <datedebut>2018-11-20</datedebut>
+      <datefin>2018-11-20</datefin>
+      <environnement>Eclipse,Github</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Analyser les écarts entre temps prévu et temps consommé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Adapter son planning personnel en fonction des ressources disponibles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Actualiser les caractéristiques des éléments de la configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2935">
+      <ref>2935</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage deuxième année (2018-2019)</libcourt>
+      <descriptif>Développement d'un site internet en wordpress pour la paroisse Saint Melaine.</descriptif>
+      <contexte>Stage obligatoire de deuxième année (2018-2019)</contexte>
+      <datedebut>2019-01-07</datedebut>
+      <datefin>2019-02-08</datefin>
+      <environnement>CSS Wordpress et PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Préparer sa participation à une réunion.
+Identifier les fonctionnalités attendues du service à produire
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Analyser et modifier le code d'un composant logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre une technologie</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode</commentaireactivite>
+      </activitecitee>
+      <production numero="2885">
+        <numero>2885</numero>
+        <designation>lien vers le site web wordpress</designation>
+        <adresse>http://doyennedemordelles.net/wp/</adresse>
+      </production>
+      <production numero="2886">
+        <numero>2886</numero>
+        <designation>lien vers le github</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2953">
+      <ref>2953</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement de l'API Java</libcourt>
+      <descriptif>l’API Java sera utilisée par l’application Android
+pour accéder aux services web et permettre un accès à la base de données au moyen d’une connexion
+Internet.</descriptif>
+      <contexte>Développement de l'application TraceGPS</contexte>
+      <datedebut>2018-11-27</datedebut>
+      <datefin>2018-12-18</datefin>
+      <environnement>Eclipse, Github, php</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte de son activité</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Analyser les écarts entre temps prévu et temps consommé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recenser les caractéristiques techniques nécessaires à la gestion des éléments de la configuration d'une organisation</commentaireactivite>
+      </activitecitee>
+      <production numero="2898">
+        <numero>2898</numero>
+        <designation>lien vers le drive</designation>
+        <adresse>https://docs.google.com/spreadsheets/d/1MAlv_M2OFO1LmJZSDaw_Bmp2H6lsAZm8bZOnt19olTs/edit#gid=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

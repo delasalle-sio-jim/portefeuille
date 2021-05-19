@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fe2ee253b9f4">
+    <ref>4fe2ee253b9f4</ref>
+    <datesv>2012-06-21</datesv>
+  </sauvegarde>
+  <etudiant numero="27">
+    <nom>OGIER</nom>
+    <prenom>Julien</prenom>
+    <mel>julien.ogier9@gmail.com</mel>
+  </etudiant>
+</suivicomp>

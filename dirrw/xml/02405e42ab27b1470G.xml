@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e42ab27b1470">
+    <ref>5e42ab27b1470</ref>
+    <datesv>2020-02-11</datesv>
+  </sauvegarde>
+  <etudiant numero="240">
+    <nom>Canet</nom>
+    <prenom>Léo</prenom>
+    <mel>delasalle.sio.canet.leo@gmail.com</mel>
+    <situation ref="2773">
+      <ref>2773</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation </descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents niveaux. Elle utilise pour stocker ses informations une base de données Mysql comprenant 3 tables. </contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2018-11-22</datefin>
+      <environnement>langage SQL, serveur wamp, SGBDR Mysql, PhpMyAdmin </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire  aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySql (serv-wamp2). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers la langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3022">
+      <ref>3022</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Site dutoit</libcourt>
+      <descriptif>La société de formation continue dutoit propose des stages sur différents logiciels informatique de différents niveaux. Elle utilise pour ses informations une base de donnée mySQL</descriptif>
+      <contexte>La société de formation continue dutoit propose des stages sur différents logiciels informatique de différents niveaux. Elle utilise pour ses informations une base de donnée mySQL</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>Serveur wamp, PHP my admin, SGBDR bibliothèque FPDF</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3105">
+      <ref>3105</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BDE</libcourt>
+      <descriptif>Amélioration du site web du lycée De la salle pour le bureau des étudiants.</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-10</datefin>
+      <environnement>Serveur wamp2</environnement>
+      <moyen>PHP,HTML,PHPMyAdmin,notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus. Préparer les jeux d'essai et les procédures pour la réalisation du test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning en fonction des exigences et du déroulement du projet et rendre compte de son activité auprès de M. Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>concevoir et valider la maquette en collaboration avec M. Guérin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans une SGBD. Manipuler les données  liées à la solution applicative à travers le langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution en PHP, HTML.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte de bonnes pratiques à intégrer.</commentaireactivite>
+      </activitecitee>
+      <production numero="3063">
+        <numero>3063</numero>
+        <designation>cahier des charges </designation>
+        <adresse>https://drive.google.com/drive/folders/1bgA8-OchnrqlXDfmmop_Ww0UFTPfpitg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3260">
+      <ref>3260</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 Lotus Informatique</libcourt>
+      <descriptif>Stage de première année dans l'entreprise Lotus Informatique spécialisée dans la réparation de matériel informatique des particuliers (très souvent des pc).</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-05-20</datedebut>
+      <datefin>2019-06-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>Bonne expérience</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3261">
+      <ref>3261</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2 PSA </libcourt>
+      <descriptif>Stage de deuxième année dans l'entreprise PSA automobile dans le secteur RDS (Réseau de site) qui est donc chargé de s'occuper de toute l'infrastructure réseau du site de Rennes et Caen.</descriptif>
+      <contexte></contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-02-14</datefin>
+      <environnement>Infrastructure Cisco / Hp aruba, Solaris 11, Windows 10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Fermeture des ports IP3 de swicths qui n'ont pas été utilisé depuis plus de 30 jours, vérification des équipements connectés sur les ports.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Pour vérifier que les ports sont bien fermés, faire un &quot; sh int status &quot; puis regarder si le statut du switchs est bien en disabled.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Trouver comment récupérer les informations des imprimantes du site pour donner les commandes au développeur qui fera un programme pour demander à l'utilisateur de saisir l'imprimante et l'information qu'il souhaite.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Trouver comment récupérer les informations des imprimantes du site pour donner les commandes au développeur qui fera un programme pour demander à l'utilisateur de saisir l'imprimante et l'information qu'il souhaite.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>La bande passante de la liaison WAN était saturé à 80%, j'ai du utiliser un sniffer réseau (Netflow) pour trouver d'où venait le problème et cela venait d'une caméra IP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>La caméra IP n'utilisait pas le bon format de compression vidéo, elle était en MPEG alors que pour optimiser le flux il aurait plutôt fallu utiliser du H264.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Après la fermeture des ports IP3 des switchs, il a fallu enlever les &quot;erreurs&quot; dans l'outil de gestion d'infrastructure (Toolbox).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Reboot des switchs qui n'avait pas redémarré depuis plus d'un an sur le site d'Algérie et de Toulouse.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Faire un ping des switchs redémarrés pour vérifier si il avaient bien reboot.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>A3, Synthèse du projet imprimante et sur la fermeture des ports IP3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite> Recueil d'informations sur les imprimantes avec le protocole snmp ou en http si le snmp n'était pas activé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Imprimantes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découverte du protocole snmp et du curl.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

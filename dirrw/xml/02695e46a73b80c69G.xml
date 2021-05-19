@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e46a73b80c69">
+    <ref>5e46a73b80c69</ref>
+    <datesv>2020-02-14</datesv>
+  </sauvegarde>
+  <etudiant numero="269">
+    <nom>ONFRAY</nom>
+    <prenom>Guillaume</prenom>
+    <mel>delasalle.sio.onfray.g@gmail.com</mel>
+    <situation ref="2801">
+      <ref>2801</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Mise en oeuvre d'une base de données puis d'un site web.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySQL comprenant 3tables</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>serveur wamp, PhpMyAdmin, SGBDR MySQL, Langages SQL, </environnement>
+      <moyen>MySQLWorkbench, langagues PHP, Javascript, HTML, CSS, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests et les résultats attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires
+Créer une table utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySQL (serv-wamp2). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2802">
+        <numero>2802</numero>
+        <designation>TP9 - Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1tnPDi3Z1hpdzkd1yW1u2K_6jvoO-jIwn</adresse>
+      </production>
+      <production numero="2949">
+        <numero>2949</numero>
+        <designation>site web sur le serveur serv-wamp2</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2823">
+      <ref>2823</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission VALRES</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles</descriptif>
+      <contexte>Maison des Ligues de Lorraine (M2L)</contexte>
+      <datedebut>2018-12-04</datedebut>
+      <datefin>2019-01-08</datefin>
+      <environnement>Architecture Client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, MySQLWorkbench, PHPMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rédiger le rapport de test (compte-rendu)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application Web (mdl) sur le serveur serv-wamp2 (dans mon répertoire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données grâce à MySQLWorkbench
+Implémenter le schéma de données sous MySQL sur le serveur ser-wamp2
+Manipuler les données à travers le langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <production numero="2820">
+        <numero>2820</numero>
+        <designation>Compte rendu des tests</designation>
+        <adresse>https://drive.google.com/drive/u/1/folders/1hMZoRlsn3FaNkotzyUSQW6J1qK7DnSLB</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2829">
+      <ref>2829</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission PORTAIL</libcourt>
+      <descriptif>Le nouveau portail du site web permettra:
+*De simplifier le portail tout en conservant la charte graphique (couleurs, logos,...)
+*D'accéder à la consultation des réservations, du digicode,
+*D'accéder à la page Facebook et autres réseaux sociaux...</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-01-15</datedebut>
+      <datefin>2019-02-05</datefin>
+      <environnement>WordPress, serveur Wamp2, PHP &amp; HTML, sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues d'un service à produire (cas utilisation)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution (WordPress, plugins, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec les utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Documentation concernant l'installation de WordPress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en oeuvre le CMS WordPress (plugins, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de WordPress (doc papier, sites web, ...)</commentaireactivite>
+      </activitecitee>
+      <production numero="2842">
+        <numero>2842</numero>
+        <designation>Création d'un site web amélioré d'un site internet existant</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2841">
+      <ref>2841</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>POO 5</libcourt>
+      <descriptif>Programmation Orientée Objet
+Faire des tests</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-02-06</datedebut>
+      <datefin>2019-02-06</datefin>
+      <environnement>Visual Studio 2017</environnement>
+      <moyen>Ordinateur personnel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>TP de SLAM2 de programmation orientée objet pour réaliser des tests sur une adresse à partir d'une classe Adresse créée précédemment</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="3005">
+      <ref>3005</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode version 1, 2 et 3</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. ils peuvent récupérer le digicode par salle via l'application.
+Deux ou trois versions ont été élaborées (1 seul digicode puis 1 digicode par salle puis 1 digicode par réservation)</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-02-26</datedebut>
+      <datefin>2019-05-14</datefin>
+      <environnement>serveur wamp2, notepad++, bdd mysql mrbs30</environnement>
+      <moyen>langages HTML, PHP, CSS via bootstrap</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Réaliser les tests fournis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter les éléments de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelles tables digicode), manipuler les données liées à la solution applicative à travers un langage de requête SQL et créer des événements et/ou triggers</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires et mettre en évidence et corriger les écarts</commentaireactivite>
+      </activitecitee>
+      <production numero="2931">
+        <numero>2931</numero>
+        <designation>URL vers serveur wamp2 pour la version 1</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Masse/M2L%20-%20Digicode%20V1/</adresse>
+      </production>
+      <production numero="2936">
+        <numero>2936</numero>
+        <designation>URL vers serveur wamp2 pour la version 2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Masse/M2L%20-%20Digicode%20V2/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3019">
+      <ref>3019</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode version 1, 2 et 3</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. ils peuvent récupérer le digicode par salle via l'application.
+Deux ou trois versions ont été élaborées (1 seul digicode puis 1 digicode par salle puis 1 digicode par réservation)</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2019-04-26</datedebut>
+      <datefin>2019-05-14</datefin>
+      <environnement>serveur wamp2, notepad++, bdd mysql mrbs30</environnement>
+      <moyen>langages HTML, PHP, CSS via bootstrap</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Réaliser les tests fournis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter les éléments de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelles tables digicode), manipuler les données liées à la solution applicative à travers un langage de requête SQL et créer des événements et/ou triggers</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires et mettre en évidence et corriger les écarts</commentaireactivite>
+      </activitecitee>
+      <production numero="2937">
+        <numero>2937</numero>
+        <designation>URL vers serveur wamp2 pour la version 1</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Masse/M2L%20-%20Digicode%20V1/</adresse>
+      </production>
+      <production numero="2938">
+        <numero>2938</numero>
+        <designation>URL vers serveur wamp2 pour la version 2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Masse/M2L%20-%20Digicode%20V2/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3076">
+      <ref>3076</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Inventaire des postes</libcourt>
+      <descriptif>Inventaire complet des postes utilisateurs du labo réseau de la société DLS</descriptif>
+      <contexte>Travaux Pratiques de SI1</contexte>
+      <datedebut>2018-09-06</datedebut>
+      <datefin>2018-09-13</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Remplissage d'un document d'inventaire sur les postes du laboratoire réseaux de la société DLS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3077">
+      <ref>3077</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Utilisation du BIOS</libcourt>
+      <descriptif>Utilisation du BIOS des postes utilisateurs et installation de Windows 10</descriptif>
+      <contexte>Travaux pratiques de SI1</contexte>
+      <datedebut>2018-09-13</datedebut>
+      <datefin>2018-09-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3079">
+      <ref>3079</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet BDE</libcourt>
+      <descriptif>Le BDE du lycée souhaitait une nouvelle fonctionnalité sur son site afin de commander des polos et sweats.</descriptif>
+      <contexte></contexte>
+      <datedebut>2019-03-15</datedebut>
+      <datefin>2019-05-10</datefin>
+      <environnement>serveur wamp2</environnement>
+      <moyen>Notepad++, SQL, CSS, HTML et PHP</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaires à la validation du service et les résultats attendus
+Préparer les jeux d'essai et les procédures pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning personnel en fonction des exigences et du déroulement du projet
+Rendre compte de son activité auprès de M.Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider la maquette en collaboration avec M.Guérin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD.
+Manipuler les données liées à la solution applicative à travers le langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution en PHP, HTML et CSS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Prise en compte des bonnes pratiques à intégrer.</commentaireactivite>
+      </activitecitee>
+      <production numero="3034">
+        <numero>3034</numero>
+        <designation>Cahier des charges</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3109">
+      <ref>3109</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en conformité d'un projet</libcourt>
+      <descriptif>Recherche d'erreurs entre la version développée et la maquette réalisée préalablement</descriptif>
+      <contexte>Stage de fin de première année du BTS SIO</contexte>
+      <datedebut>2019-05-21</datedebut>
+      <datefin>2019-05-21</datefin>
+      <environnement>Serveur interne du service informatique de la Banque de France</environnement>
+      <moyen>Site internet développé et maquette réalisée imprimée en version papier</moyen>
+      <avisperso>Tâche très formatrice et très intéressante</avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Relever les erreurs entre la maquette du projet correspondant à la demande du client et le projet développé.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3110">
+      <ref>3110</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'une checkbox</libcourt>
+      <descriptif>Développement d'une checkbox intégrée à un formulaire de sélection de fichiers, qui permettra à l'utilisateur de mettre en attente ses fichiers jusqu'à une date et une heure qu'il aura choisie</descriptif>
+      <contexte>Stage de fin de première année de BTS SIO</contexte>
+      <datedebut>2019-05-22</datedebut>
+      <datefin>2019-05-24</datefin>
+      <environnement>Visual Studio Code</environnement>
+      <moyen>Langages HTML et ANGULAR</moyen>
+      <avisperso>Mission très intéressante et extrêmement formatrice. J'ai appris beaucoup de choses comme par exemple quelques éléments du langage ANGULAR mais j'ai aussi fait du langage de commandes Windows, avec le logiciel de gestion de version git</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Etude de la forme que doit prendre la checkbox pour répondre aux exigences de la charte graphique interne à la Banque de France</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Développement de la checkbox pour faciliter la gestion des fichiers, développement qui entre dans le cadre d'un projet de la Banque de France, destiné au site internet pour les utilisateurs externes</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3114">
+      <ref>3114</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'un récapitulatif</libcourt>
+      <descriptif>Développement d'un tableau récapitulatif des fichiers en attente d'envoi interne à l'application d'envoi de fichiers dans laquelle a été développée la checkbox enregistrée la semaine dernière.</descriptif>
+      <contexte>Stage de fin de 1re année de BTS SIO</contexte>
+      <datedebut>2019-05-27</datedebut>
+      <datefin>2019-05-31</datefin>
+      <environnement>Serveur de la Banque de France, Visual Studio Code, Machine Virtuelle Windows 7 Entreprise</environnement>
+      <moyen>Langages HTML et ANGULAR 7</moyen>
+      <avisperso>Tâche très intéressante et très formatrice, surtout lors de la correction des erreurs que j'ai pu faire avec le développeur qui s'occupe de moi</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Développement de l'interface graphique d'une partie du site internet interne à la Banque de France selon les objectifs donnés par le développeur qui s'occupe de moi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Continuer la mise en forme d'un projet interne à la Banque de France et traitement de cette page</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3116">
+      <ref>3116</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'une page d'envoi de fichiers</libcourt>
+      <descriptif>Développement d'une checkbox permettant à l'utilisateur de délayer l'envoi de ses fichiers à une date ultérieure et d'un tableau récapitulatif des fichiers délayés avec leur nom et la date de traitement prévu, un bouton modifier et un bouton supprimer</descriptif>
+      <contexte>Stage de fin de première année de BTS SIO</contexte>
+      <datedebut>2019-05-22</datedebut>
+      <datefin>2019-06-06</datefin>
+      <environnement>Machine Virtuelle Windows 7 Entreprise, Visual Studio Code, navigateur Internet Google Chrome pour l'exécution</environnement>
+      <moyen>Framework ANGULAR 7 avec les langages HTML5 et TypeScript</moyen>
+      <avisperso>Mission très formatrice et très intéressante. J'ai appris beaucoup de choses comme par exemple quelques éléments du langage TypeScript mais j'ai aussi effectué des commandes avec le terminal de commandes intégré à Visual Studio Code, avec le logiciel de</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Etude de la forme que doit prendre la checkbox pour répondre aux exigences de la charte graphique interne à la Banque de France</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Développement de la checkbox pour faciliter la gestion des fichiers, développement qui entre dans le cadre d'un projet de la Banque de France, destiné au site internet pour les utilisateurs internes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Continuer la mise en forme d'un projet interne à la Banque de France et traitement de cette page.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3125">
+      <ref>3125</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement et déploiement d'une application de démo</libcourt>
+      <descriptif>Développement et déploiement d'une application de démo à l'aide d'une documentation rédigée.</descriptif>
+      <contexte>Stage de fin de première année de BTS SIO</contexte>
+      <datedebut>2019-06-11</datedebut>
+      <datefin>2019-06-18</datefin>
+      <environnement>Environnement de développement Eclipse</environnement>
+      <moyen>Langage de commandes Windows et langage Java</moyen>
+      <avisperso>Mission très formatrice de par les nombreuses erreurs que nous avons dû corriger dans le code et également pour apprendre à manipuler l'environnement de développement et le langage Java</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Développement et déploiement d'une application de démo avec l'aide d'une documentation sur Internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Regroupement des différents fichiers en packages contenant des classes et des interfaces</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Ecriture et exécution de tests unitaires et d'intégration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Correction des erreurs de synthaxe, d'imports et de liens entre les fichiers</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour de la documentation sur Internet qui n'était pas du tout à jour grâce au développement effectué</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du fonctionnement de l'environnement de développement Eclipse et du langage Java</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3161">
+      <ref>3161</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Application TraceGPS</libcourt>
+      <descriptif>Développement d'une application de traçage par GPS de trajet sportifs</descriptif>
+      <contexte>Cours de SLAM45 de 2ème année de BTS SIO</contexte>
+      <datedebut>2019-09-06</datedebut>
+      <datefin>2019-11-08</datefin>
+      <environnement>Visual Studio pour la Partie C# et Eclipse pour la partie Java</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Développement des classes de l'API et exécution de tests unitaires, en C# et en Java avec Visual Studio 2013 et Eclipse version Photon</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création de l'application graphique suite au développement des classes de l'API</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Incorporation de tests unitaires pour tester les classes, à la fois en C# et en Java</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3194">
+      <ref>3194</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Documentation avec Java</libcourt>
+      <descriptif>Utilisation de Javadoc</descriptif>
+      <contexte>TP de SLAM45</contexte>
+      <datedebut>2019-11-22</datedebut>
+      <datefin>2019-11-22</datefin>
+      <environnement>Eclipse Photon</environnement>
+      <moyen>Langage Java</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Modification des commentaires de l'API TraceGPS pour les passer en format Javadoc</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3252">
+      <ref>3252</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'environnements de tests</libcourt>
+      <descriptif>Installation des envorironnements de tests Protractor et Selenium pour exécuter les tests d'une application interne à la Banque de France</descriptif>
+      <contexte>Stage de 2ème année de BTS SIO</contexte>
+      <datedebut>2020-01-06</datedebut>
+      <datefin>2020-01-17</datefin>
+      <environnement> Invite de commandes de machines virtuelles sous Windows 7 et Windows 10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation de l'environnement de test Protractor et du framework d'automatisation de tests Selenium</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au tests d'une application interne à la Banque de France.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="3267">
+      <ref>3267</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Tests automatisés d'une application de la Banque de France</libcourt>
+      <descriptif>Exécution et correction de tests pour l'une des applications de la Banque de France</descriptif>
+      <contexte>Stage de 2ème année de BTS SIO</contexte>
+      <datedebut>2020-01-20</datedebut>
+      <datefin>2020-02-14</datefin>
+      <environnement>Correction des tests via Visual Studio Code et exécution de ceux-ci avec Protractor et Sélénium</environnement>
+      <moyen>Accès administrateur à l'application Web en question
+</moyen>
+      <avisperso>Mission longue mais vraiment intéressante et très instructive.</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Adaptation des tests déjà écrits en JavaScript de manière à les rendre automatisés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation et configuration des environnements de tests nécessaires pour mener à bien la mission.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au développement des tests de l'application de maquettage d'écrans sur laquelle j'ai travaillé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Contournement du serveur proxy de la Banque de France pour installer les éléments nécessaires à l'exécution des tests.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Auto-formation sur le langage JavaScript pour mener à bien l'exécution et la correction des tests automatisés de l'application, qui sont écrits en JavaScript
+
+Formation auprès d'un membres de l'équipe sur les sélecteurs CSS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de Sélénium, de Protractor, du langage JavaScript et des sélecteurs CSS dont j'ai eu besoin pour mener à bien ma mission</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

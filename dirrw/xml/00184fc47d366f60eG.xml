@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="4fc47d366f60e">
+    <ref>4fc47d366f60e</ref>
+    <datesv>2012-05-29</datesv>
+  </sauvegarde>
+  <etudiant numero="18">
+    <nom>LEGOURRIEREC</nom>
+    <prenom>Mickael</prenom>
+    <mel>legourri.m@lyceedelasalle.fr</mel>
+  </etudiant>
+</suivicomp>

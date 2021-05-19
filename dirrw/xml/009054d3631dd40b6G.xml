@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54d3631dd40b6">
+    <ref>54d3631dd40b6</ref>
+    <datesv>2015-02-05</datesv>
+  </sauvegarde>
+  <etudiant numero="90">
+    <nom>Le Balc'h</nom>
+    <prenom>Ronan</prenom>
+    <mel>ronan.lebalch@hotmail.fr</mel>
+    <situation ref="764">
+      <ref>764</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet Dutoit Gestion d'une BDD MySQL</libcourt>
+      <descriptif>Société proposant des formations</descriptif>
+      <contexte>Gérez un base de données MySQL</contexte>
+      <datedebut>2013-11-21</datedebut>
+      <datefin>2013-12-05</datefin>
+      <environnement>Access, MySQL</environnement>
+      <moyen>SQL, Serveur Wamp </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et une structure organisationnelle</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données nécessaire à la mise en place de la solution applicative
+Implémenter le schéma de données dans un SGBD
+ Manipuler les données liées à la solution applicative à travers un langage de requête</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="848">
+      <ref>848</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet GSB Réponse cahier des charges</libcourt>
+      <descriptif>Réponse à un cahier des charges dans le cadre d'un contexte a effectué en groupe. </descriptif>
+      <contexte>Cas GSB 
+SI1</contexte>
+      <datedebut>2014-03-04</datedebut>
+      <datefin>2014-03-04</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="849">
+      <ref>849</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Festibasket Cahier des charges  mise en place d'une solution </libcourt>
+      <descriptif>Dans le cadre d'un contexte, lecture d'un cahier des charges et mise en place d'une solution technique pour une organisation. </descriptif>
+      <contexte>Contexte Festibasket</contexte>
+      <datedebut>2014-03-04</datedebut>
+      <datefin>2014-03-04</datefin>
+      <environnement>Microsoft visio, cisco packet tracer, google docs </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1046">
+        <numero>1046</numero>
+        <designation>PPE-Festibasket</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0B3DkirqoeC37dVh0aTdHemVhRXM</adresse>
+      </production>
+    </situation>
+    <situation ref="850">
+      <ref>850</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>contexte °2 ANTI BUG résolution d'incidents</libcourt>
+      <descriptif>Maintenance informatique :Mise en place d'une fiche d'intervention et de diagnostic. Résolution d'une panne et inscription de cette panne dans une base. </descriptif>
+      <contexte>Contexte n°2 ANTIBUG</contexte>
+      <datedebut>2014-02-19</datedebut>
+      <datefin>2014-03-04</datefin>
+      <environnement>Ammyy, Teamviewer</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1040">
+        <numero>1040</numero>
+        <designation>antibug</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0BwCnBKRQ2dprNGRObWw5SmZwVWs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="875">
+      <ref>875</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>contexte n°3 Fatal Error Installation GLPI</libcourt>
+      <descriptif>Mise en place d'une solution de helpdesk en interfacant GLPI et OCS, et en créant des tickets d'incidents. </descriptif>
+      <contexte>Contexte n°3 gestion des incidents - helpdesk </contexte>
+      <datedebut>2014-03-05</datedebut>
+      <datefin>2014-04-05</datefin>
+      <environnement>Windows 2008r2/ Windows 7 
+OCS/GLPI</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1041">
+        <numero>1041</numero>
+        <designation>Fatal error - GLPI</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0B7cakuzoc7J5VEVTTWc4RjNpRnc</adresse>
+      </production>
+      <production numero="1042">
+        <numero>1042</numero>
+        <designation>OCS</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0BwCnBKRQ2dprdnpGenFtZ2pheGM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="876">
+      <ref>876</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>contexte n°1 PIXEL Installation OCS</libcourt>
+      <descriptif>Mise en place d'une solution d'inventaire d'un parc informatique
+</descriptif>
+      <contexte>contexte n°1 societe PIXEL</contexte>
+      <datedebut>2014-01-15</datedebut>
+      <datefin>2014-02-19</datefin>
+      <environnement>OCS Inventory NG </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1043">
+        <numero>1043</numero>
+        <designation>OCS</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0BwCnBKRQ2dprdnpGenFtZ2pheGM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="877">
+      <ref>877</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Presentation d'un article de presse dans le cadre de la veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-21</datedebut>
+      <datefin>2014-01-21</datefin>
+      <environnement>Microsoft powerpoint</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1047">
+        <numero>1047</numero>
+        <designation>veille technologique</designation>
+        <adresse>https://drive.google.com/?authuser=0#my-drive</adresse>
+      </production>
+    </situation>
+    <situation ref="1059">
+      <ref>1059</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet consoles.com Création site Internet</libcourt>
+      <descriptif>Création d'un site internet dynamique de vente en ligne sur un sujet choisit.
+le site devait contenir trois types d'article pouvant être commander et disposer d'une partie administration.  
+Création d'un guide utilisateur et d'un guide technique. </descriptif>
+      <contexte>SI6 -  développement d'applications
+Entreprise de ventes de consoles via internet</contexte>
+      <datedebut>2014-02-20</datedebut>
+      <datefin>2014-04-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>contexte TP, cas d'utilisation </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>partie administration qui était fournit, il fallait l’intégrer et la tester</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>image écran doc utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>vérification du fonctionnement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>voir doc technique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>voir doc utilisateur</commentaireactivite>
+      </activitecitee>
+      <production numero="1049">
+        <numero>1049</numero>
+        <designation>lien guide</designation>
+        <adresse>https://www.dropbox.com/home/Devoirs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1085">
+      <ref>1085</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 : Installation et configuration de la classe numérique. </libcourt>
+      <descriptif>Dans le cadre de la création d'une classe numérique, configuration de tablettes à destination des élèves et des professeurs. Environnement sécurisé, configuration bornes wi-fi.</descriptif>
+      <contexte>Stage de première année au sein du Lycée De La Salle. </contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Tablettes Samsung galaxy Tab 3, Point d'accès DLINK 2600AP, Logiciel Edutab</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement du logiciel edutab, logiciel de gestion de flotte de tablettes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>configuration de trois bornes wi-fi dlink 2600AP
+configuration des tablettes élèves et professeurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>recherche et compte rendu des possibilité du logiciel  edutab </commentaireactivite>
+      </activitecitee>
+      <production numero="1039">
+        <numero>1039</numero>
+        <designation>Stage</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0B7cakuzoc7J5cEtkcmdOVGpQajg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1110">
+      <ref>1110</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 : Installation et création d'un serveur de déploiement.</libcourt>
+      <descriptif>Installation, création d'un serveur de déploiement, et études des différentes possibilités de l'outils MDT. </descriptif>
+      <contexte>Stage de première année au sein du Lycée De La Salle. </contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Vmware ESXi, Windows 2008 r2, WDS, MDT</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1044">
+        <numero>1044</numero>
+        <designation>Stage</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0B7cakuzoc7J5cEtkcmdOVGpQajg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1130">
+      <ref>1130</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 : Remise en état de fonctionnement le logiciel openerp</libcourt>
+      <descriptif>Openerp étant en état de dysfonctionnement sur les postes clients. Résolution du problèmes en modifiant les configuration du logiciel sur les serveurs. </descriptif>
+      <contexte>Stage de première année au sein du Lycée De La Salle. </contexte>
+      <datedebut>2014-05-26</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Vmware, Vsphere client, Windows 2008 server.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Dysfonctionnement visibles sur les postes clients, a partir du messages d'erreur, problèmes de connexion avec le serveur établit. remise en place du serveur. </commentaireactivite>
+      </activitecitee>
+      <production numero="1045">
+        <numero>1045</numero>
+        <designation>Stage</designation>
+        <adresse>https://drive.google.com/?authuser=0#folders/0B7cakuzoc7J5cEtkcmdOVGpQajg</adresse>
+      </production>
+    </situation>
+    <situation ref="1139">
+      <ref>1139</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission 1 SRVLAN Création d'une VM sur ESXi</libcourt>
+      <descriptif>Création d'une machine virtuelle sur ESXi
+Installation et configuration d'un Ubuntu serveur</descriptif>
+      <contexte>SISR5
+Mission 1 SRVLAN</contexte>
+      <datedebut>2014-09-26</datedebut>
+      <datefin>2014-10-03</datefin>
+      <environnement>Vmware ESXi, Ubuntu server 14.04</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1056">
+        <numero>1056</numero>
+        <designation>MISSION SRVLAN</designation>
+        <adresse>https://drive.google.com/folderview?id=0B7cakuzoc7J5Qmg5dHhXSElNak0&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1144">
+      <ref>1144</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE : M2L Mission 1 Schéma de cablage et tableau des ports</libcourt>
+      <descriptif>Schéma de cablage et tableau des ports dans le cadre du PPE Maison des ligues ML</descriptif>
+      <contexte>Mission 1 PPE M2L.
+</contexte>
+      <datedebut>2014-10-06</datedebut>
+      <datefin>2014-10-06</datefin>
+      <environnement>Tableur.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1060">
+        <numero>1060</numero>
+        <designation>drive_ppe</designation>
+        <adresse>https://drive.google.com/folderview?id=0B7cakuzoc7J5ZTVPS1VEVTdzS1k&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1186">
+      <ref>1186</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2 : Astellia Participation au support utilisateur</libcourt>
+      <descriptif>Stage de 2ème année au sein de l'entreprise Astellia à Saint-Jacques de la lande :
+- Participation au support utilisateur.
+- Rotation de postes. </descriptif>
+      <contexte>Stage de deuxième années au sein de l'entreprise Astellia. </contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-06</datefin>
+      <environnement>GLPI.
+Windows server 2008 R2 : MDT/WDS, Windows 7, Microsoft Office 2007.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1070">
+        <numero>1070</numero>
+        <designation>Dossier Astellia</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5cEtkcmdOVGpQajg/0B7cakuzoc7J5Zjg1SW9YdVBrU1k/0B7cakuzoc7J5OFBCQ2lfTzFnZjg</adresse>
+      </production>
+    </situation>
+    <situation ref="1189">
+      <ref>1189</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE : M2L Virtualisation des serveurs de la M2L</libcourt>
+      <descriptif>Virtualisation des serveurs de la M2L/
+Création de serveurs virtuelles fournissant différents types de services : web, ad, dns, DHCP, ocs...</descriptif>
+      <contexte>PPE : Virtualisation des serveurs de la M2L</contexte>
+      <datedebut>2014-10-17</datedebut>
+      <datefin>2014-12-19</datefin>
+      <environnement>2008 server, ubuntu server, windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1071">
+        <numero>1071</numero>
+        <designation>Dossier drive M2L</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5ODhManpELXI4TFE/0B7cakuzoc7J5TWdORnBZRUZvU28/0BwCnBKRQ2dpraTljd21lSkNhbWs</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1190">
+      <ref>1190</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SISR5 : Mission 6 configurer un routeur Linux</libcourt>
+      <descriptif>installer et configurer un routeur sous ubuntu serveur. </descriptif>
+      <contexte>SISR5
+Mission 6 Routeur Linux</contexte>
+      <datedebut>2014-12-02</datedebut>
+      <datefin>2014-12-05</datefin>
+      <environnement>Linux Ubuntu Server 14.04</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1072">
+        <numero>1072</numero>
+        <designation>Dossier drive Mission 6</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5ODhManpELXI4TFE/0B7cakuzoc7J5aUp1dGpRSTl3RFk/0B7cakuzoc7J5QnJEMlVOampsMnM/0B7cakuzoc7J5NzlHZE9NdkdhdTA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1191">
+      <ref>1191</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>A Modifier SISR5 : Installer serveur DNS Primaire SRVLAN</libcourt>
+      <descriptif>Configuration d'un serveur DNS sous ubuntu serveur.</descriptif>
+      <contexte>SISR5
+Mission 9 </contexte>
+      <datedebut>2015-01-15</datedebut>
+      <datefin>2015-01-15</datefin>
+      <environnement>Linux Ubuntu Server 14.04</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1073">
+        <numero>1073</numero>
+        <designation>Dossier Drive Mission 9</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5ODhManpELXI4TFE/0B7cakuzoc7J5aUp1dGpRSTl3RFk/0B7cakuzoc7J5QnJEMlVOampsMnM/0B7cakuzoc7J5eXVBbXpBeWh2bGc</adresse>
+      </production>
+    </situation>
+    <situation ref="1192">
+      <ref>1192</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>A Modifier SISR5 : Mission 10 Installer serveur DHCP SRVLAN</libcourt>
+      <descriptif>Installation et configuration d'un serveur DHCP SRVLAN</descriptif>
+      <contexte>SISR5
+Mission 10</contexte>
+      <datedebut>2015-01-15</datedebut>
+      <datefin>2015-01-15</datefin>
+      <environnement>Linux Ubuntu Server 14.04.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1193">
+      <ref>1193</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>A Modifier SISR5 : Mission 5 Wireshark </libcourt>
+      <descriptif>Installer le logiciel d’analyse de trame wireshark sur le poste client w7
+
+Avec le logiciel, analyser les trames échangées lors d’un ping</descriptif>
+      <contexte>SISR5
+Mission 5</contexte>
+      <datedebut>2015-01-15</datedebut>
+      <datefin>2015-01-15</datefin>
+      <environnement>Linux Ubuntu Server 14.04</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1074">
+        <numero>1074</numero>
+        <designation>Dossier drive Mission 5</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5ODhManpELXI4TFE/0B7cakuzoc7J5aUp1dGpRSTl3RFk/0B7cakuzoc7J5QnJEMlVOampsMnM/0B7cakuzoc7J5ZEJWOHhYWHlnTlU</adresse>
+      </production>
+    </situation>
+    <situation ref="1194">
+      <ref>1194</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>A Modifier SISR5 : installer un serveur TFTP</libcourt>
+      <descriptif>Installer et configurer un serveur TFTP sous Windows </descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-15</datedebut>
+      <datefin>2015-01-15</datefin>
+      <environnement>Linux Ubuntu Server 14.04.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1075">
+        <numero>1075</numero>
+        <designation>Dossier drive Mission TFTP</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5ODhManpELXI4TFE/0B7cakuzoc7J5aUp1dGpRSTl3RFk/0B7cakuzoc7J5QnJEMlVOampsMnM/0B7cakuzoc7J5b0xJdDZUVXVLVXM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1195">
+      <ref>1195</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contexte Security Report Politique de sécurité</libcourt>
+      <descriptif>Définition d'une politique de sécurité et mise en place de différents outils visant à permettre la sécurité des systèmes. </descriptif>
+      <contexte>SISR1 
+Contexte Security Report</contexte>
+      <datedebut>2014-04-15</datedebut>
+      <datefin>2014-04-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1076">
+        <numero>1076</numero>
+        <designation>Dossier drive Security Report</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5dEZaS0M4UWZnTlU/0B8JeSB0iJV2KQUt4RVFSaU1Dem8/0BwCnBKRQ2dprOXFUTEtCdVhHTDA</adresse>
+      </production>
+    </situation>
+    <situation ref="1219">
+      <ref>1219</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Astellia : Préparation de postes </libcourt>
+      <descriptif>Stages de deuxième années au sein de l'entreprise Astellia. </descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2017-01-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1080">
+        <numero>1080</numero>
+        <designation>Dossier Astellia</designation>
+        <adresse>https://drive.google.com/drive/u/0/#folders/0B7cakuzoc7J5cEtkcmdOVGpQajg/0B7cakuzoc7J5Zjg1SW9YdVBrU1k/0B7cakuzoc7J5OFBCQ2lfTzFnZjg</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

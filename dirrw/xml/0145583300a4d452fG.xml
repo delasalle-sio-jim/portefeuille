@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="583300a4d452f">
+    <ref>583300a4d452f</ref>
+    <datesv>2016-11-21</datesv>
+  </sauvegarde>
+  <etudiant numero="145">
+    <nom>BRAY</nom>
+    <prenom>Tony</prenom>
+    <mel>delasalle.sio.bray.t@gmail.com</mel>
+    <situation ref="1496">
+      <ref>1496</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels aux salaries d'entreprise</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-25</datefin>
+      <environnement>Serveur Wamp1 avec MySQL via phpMyAdmin et langage SQL</environnement>
+      <moyen>MySQL WorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+ Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droits.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MySQL Workbench
+Implémenter le schéma de données sous MySQL et l'adapter
+Manipuler les données liées à la solution applicative à travers le langage SQL</commentaireactivite>
+      </activitecitee>
+      <production numero="1671">
+        <numero>1671</numero>
+        <designation>Dossier site dutoit + partie administration + script BDD</designation>
+        <adresse>https://drive.google.com/open?id=0ByNKGmATTon2bG5uYWRDcS01a2c</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1590">
+      <ref>1590</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Valrés</libcourt>
+      <descriptif>Installation et validation des fonctionnalités de l'application web de réservation de salles.</descriptif>
+      <contexte>Maison des ligues de Lorraine (M2L)</contexte>
+      <datedebut>2015-12-08</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Architecture client/serveur 3 tier</environnement>
+      <moyen>MySQL, serveur wamp, MySQLWorkbench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service
+Rediger un rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mettre en exploitation l'application web (mdl)
+sur le serveur wamp-1 (dans mon répertoire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modélisation du schéma de données grâce à MySqlWorkbench
+ Implémenter le schéma de données sous MySQL sur le serveur wamp-1</commentaireactivite>
+      </activitecitee>
+      <production numero="1603">
+        <numero>1603</numero>
+        <designation>Mission valrés</designation>
+        <adresse>https://drive.google.com/file/d/0ByNKGmATTon2Y3RET3ozdWRocVU/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1708">
+      <ref>1708</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission digicode</libcourt>
+      <descriptif>M2L mets a disposition  des salles pour ses adhérents. Ils peuvent récupérer le digicode avec l'application.
+Trois versions ont étés élaborées.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-02</datedebut>
+      <datefin>2016-03-15</datefin>
+      <environnement>serveur wamp1, notepad++, bdd MySQl, mrbs</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues du service à produire.
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service (La BDD avait déjà été installée pour la mission valrès)
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter un élément de la solution applicative
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données (nouvelles tables digicode)
+Manipuler les données liées à la solution applicative à travers un langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <production numero="1664">
+        <numero>1664</numero>
+        <designation>Lien dossiers digicode V1/V2 + script BDD</designation>
+        <adresse>https://drive.google.com/open?id=0ByNKGmATTon2bG5uYWRDcS01a2c</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1854">
+      <ref>1854</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet L'atelier de l'archerie</libcourt>
+      <descriptif>Projet de création d'un site web en fin de 1ere Année de BTS SIO</descriptif>
+      <contexte>Projet de fin de 1ere Année de BTS SIO</contexte>
+      <datedebut>2016-02-26</datedebut>
+      <datefin>2016-04-22</datefin>
+      <environnement>MySQL, HTML, PHP, Bootstrap</environnement>
+      <moyen>MySQL, PHPMyAdmin, Atom(editeur de texte) Bootstrap(Framework)</moyen>
+      <avisperso>Très interessant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+ Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mettre en place l'environnement de test du service
+Tester le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquetter un élément de la solution applicative
+Concevoir et valider la maquette en collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Implémenter le schéma de données dans un SGBD
+Manipuler les données liées à la solution applicative à travers un langage de requête
+ Programmer des éléments de la solution applicative dans le langage d'un SGBD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédiger la documentation d'utilisation, une aide en ligne, une FAQ</commentaireactivite>
+      </activitecitee>
+      <production numero="1834">
+        <numero>1834</numero>
+        <designation>Dossier utilisateur</designation>
+        <adresse>https://drive.google.com/open?id=0ByNKGmATTon2WmNmdWtLTDg1SnM</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1908">
+      <ref>1908</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1ere année</libcourt>
+      <descriptif>Stage de première année de BTS SIO au lycée A.R Lesage a Vannes du 23 mai au 14 juin 2016</descriptif>
+      <contexte>Stage de premiere année de bts SIO</contexte>
+      <datedebut>2016-05-23</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Lycée, HTML, PHP, LDAP, Apache, Windows</environnement>
+      <moyen>Atom(editeur de texte), Apache, windows</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>102</numero>
+        <commentaire>C'est bon, tu pourras reporter les activités dans l'attestation de stage.
+Bonne fin de stage.</commentaire>
+        <datecommentaire>2016-06-16</datecommentaire>
+        <numprof>2</numprof>
+        <nomprof>CARTRON</nomprof>
+        <prenomprof>Jean-Michel</prenomprof>
+        <melprof>jean.michel.cartron@gmail.com</melprof>
+      </avisprof>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recenser les tests d'acceptation nécessaire à la validation du service ici un poste de travail (les droits : un utilisateur n'a pas les mêmes droits qu'un professeur ou un administrateur, les logiciels fonctionnent bien etc.)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test du site (partie authentification) sur un serveur de test puis rédaction d'un rapport</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Passage du site du serveur de test vers le serveur de production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résoudre l'incident en s'appuyant sur une base de connaissances et la description du problème
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative, quelles sont les fonctionnalités utiles
+Adaptation de l'interface selon les critères définis auparavant</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Analyse et constatation du problème (On pouvait se connecter sans mettre de login/mot de passe valide)
+ Analyse du code et prise de notes sur les dysfonctionnements
+Réécriture du code
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Repérer les évolutions des composants utilisés et leurs conséquences
+Mise à jour et modification de la solution
+Test de la nouvelle solution avec un compte du personnel ainsi qu'un compte élève</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Comprendre le fonctionnement de l'annuaire LDAP pour mettre en oeuvre la connexion par cet annuaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation de la documentation de PHP pour la partie code et de divers sites pour le fonctionnement d'un annuaire LDAP</commentaireactivite>
+      </activitecitee>
+      <production numero="2033">
+        <numero>2033</numero>
+        <designation>Rapport de test de la page d'authentification</designation>
+        <adresse>https://drive.google.com/file/d/0ByNKGmATTon2aDlJUEc5bGRIOEU/view?usp=sharing</adresse>
+      </production>
+    </situation>
+    <situation ref="1963">
+      <ref>1963</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission FREDI</libcourt>
+      <descriptif>Projet de création de gestion de bordereaux de frais pour l'association M2L</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-01</datedebut>
+      <datefin>2016-05-17</datefin>
+      <environnement>MySQL, HTML, PHP</environnement>
+      <moyen>MySQL, PHPMyAdmin, Atom(editeur de texte)</moyen>
+      <avisperso>Très interessant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact
+
+Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail a 2 sur un projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative
+
+Concevoir et valider la maquette en collaboration avec des utilisateurs
+</commentaireactivite>
+      </activitecitee>
+      <production numero="2064">
+        <numero>2064</numero>
+        <designation>Archive site</designation>
+        <adresse>https://drive.google.com/open?id=0ByNKGmATTon2ZzcyNWhGY2h5ZG8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1965">
+      <ref>1965</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maison des ligues - Mobile</libcourt>
+      <descriptif>Compléter le système de réservation en developpement une application web</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-09-27</datedebut>
+      <datefin>2016-10-14</datefin>
+      <environnement>Architecture MVC, PHP , HTML, SQL, Git,  </environnement>
+      <moyen>Eclipse, WAMP, GitHUB</moyen>
+      <avisperso>Decouverte de l’architecture MVC</avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

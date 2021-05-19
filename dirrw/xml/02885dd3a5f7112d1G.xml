@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5dd3a5f7112d1">
+    <ref>5dd3a5f7112d1</ref>
+    <datesv>2019-11-19</datesv>
+  </sauvegarde>
+  <etudiant numero="288">
+    <nom>Dupuy</nom>
+    <prenom>Fabien</prenom>
+    <mel>delasalle.sio.dupuy.f@gmail.com</mel>
+    <situation ref="3162">
+      <ref>3162</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises</contexte>
+      <datedebut>2019-11-19</datedebut>
+      <datefin>2019-12-03</datefin>
+      <environnement>Serveur WAMP, phpMyadmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Les deux premiers points ont été abordés, mais pas les deux derniers car nous n'avons pas fait de réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Définition des droits et privilèges sur phpMyadmin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création et amélioration de la base de donnée Dutoit ainsi que des requêtes, ensuite appliqué sur MySQL workbench et phpMyadmin.</commentaireactivite>
+      </activitecitee>
+      <production numero="3138">
+        <numero>3138</numero>
+        <designation>TP Dutoit</designation>
+        <adresse>Autre/porte-feuille de compétence/production/SI6/TP Dutoit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

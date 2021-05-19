@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a6b066e489ab">
+    <ref>5a6b066e489ab</ref>
+    <datesv>2018-01-26</datesv>
+  </sauvegarde>
+  <etudiant numero="184">
+    <nom>Lanuel</nom>
+    <prenom>Florian</prenom>
+    <mel>delasalle.sio.lanuel.f@gmail.com</mel>
+    <situation ref="1991">
+      <ref>1991</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration et modification de la base de données de la société dutoit</descriptif>
+      <contexte>Société proposant des formations en bureautique aux entreprises</contexte>
+      <datedebut>2016-11-17</datedebut>
+      <datefin>2016-12-01</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, MySQL Workbench</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs et une structure organisationnelle</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MySQL Workbench
+Implémenter le schéma de données sous MySQL avec PhpMyAdmin
+Manipuler les données liées à la solution applicative à travers un langage de requête SQL</commentaireactivite>
+      </activitecitee>
+      <production numero="2115">
+        <numero>2115</numero>
+        <designation>TP dutoit complété</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlWXdLZ1Flc2k2c3M</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2243">
+      <ref>2243</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet site web</libcourt>
+      <descriptif>Création d'un site internet dynamique demandé par un fournisseur de vêtements</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-03</datedebut>
+      <datefin>2017-04-07</datefin>
+      <environnement>Serveur WAMP, phpMyAdmin, PHP, SQL, Sublime Text, MySQL Workbench, ...</environnement>
+      <moyen>Base du site fournis</moyen>
+      <avisperso>Projet réaliser avec Florian LANUEL, Arthur CAPLET et Mickaël Coubrun</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Vérifier les demandes du client et les respectées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Vérifier le fonctionnement du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Vérifier le fonctionnement du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Préparer un planning.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modifier l'apparence du site en fonction du besoin du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création et amélioration de la base de données ainsi que de requêtes, ensuite appliqué sur phpMyAdmin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Mise en place d'un prototype et modification en fonction des erreurs et des nouveaux besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Modifier le code en fonction des erreurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Vérification du fonctionnement globale du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation utilisateur et administrateur pour l'installation et le suivi.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Adaptation et développement du site par rapport à la base fournis.</commentaireactivite>
+      </activitecitee>
+      <production numero="2343">
+        <numero>2343</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://drive.google.com/open?id=0B7LBxQOZHx01WG94UEgxQnRabmM</adresse>
+      </production>
+      <production numero="2350">
+        <numero>2350</numero>
+        <designation>Site web</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlY3hvQUJ3bEpZVXM</adresse>
+      </production>
+      <production numero="2352">
+        <numero>2352</numero>
+        <designation>Documentation utilisateur et technique</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlNVNYM2JaRnFpS3c</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2262">
+      <ref>2262</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mission Excel</libcourt>
+      <descriptif>Traitement des informations contenues dans un classeur Excel</descriptif>
+      <contexte>Lycée de la salle</contexte>
+      <datedebut>2016-09-13</datedebut>
+      <datefin>2016-09-20</datefin>
+      <environnement>Excel</environnement>
+      <moyen>Classeur xls fournis</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Exploitation des données afin de recueillir des statistiques précis.</commentaireactivite>
+      </activitecitee>
+      <production numero="2357">
+        <numero>2357</numero>
+        <designation>Document compléter</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlWDBXQmpwUmxKNkk</adresse>
+      </production>
+      <production numero="2358">
+        <numero>2358</numero>
+        <designation>Document ressource</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlMlFIa3QxRWdLR0U</adresse>
+      </production>
+    </situation>
+    <situation ref="2275">
+      <ref>2275</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet Radius</libcourt>
+      <descriptif>Mise en place du protocole 802.1X avec l'installation d'un serveur RADIUS pour empêcher l'accès au réseau aux utilisateurs étrangers non identifiés. Mise en place d'un chiffrage très fort pour garantir la non visibilité des informations échangés entre</descriptif>
+      <contexte>Projet de stage de première année à l'EPSM Morbihan.</contexte>
+      <datedebut>2016-05-29</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement>- Serveur Microsoft Hyper-V
+- Serveur FreeRadius (Linux, Debian)
+- Switch Cisco Catalyst 2960
+- VMware vCenter
+- Active Directory
+- DNS
+- NTLM
+- SMB</environnement>
+      <moyen>Documentation FreeRadius, Documentation Cisco, Documentation HP et Documentation Active Directory</moyen>
+      <avisperso>Déploiement terminée par mon maître de stage le 08/01/2018 (Damien EVENO)</avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Vérifier l'impact de la mise en place d'un serveur RADIUS lors de sa mise en production et de son implémentation sur les commutateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Mise en place de la répartition de charge, de la redondance en répliquant le serveur RADIUS sur Hyper-V et de la création d'un VLAN servant de basculement dans le cas ou les deux serveurs se retrouvent hors-service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification et résolution d'un problème d'authentification 802.1X sur les imprimantes pourtant compatibles avec Radius.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Proposition de venir remplacer le dernier commutateur HP par un Cisco pour avoir un parc d'équipements réseaux homogènes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Mise en simulation de la mise en place de Radius sur un environnement de virtualisation VMware vCenter sur mon ordinateur portable perso avant de préparer sa mise en production sur le réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Vérifier que les informations échangées entre le client RADIUS et le serveur RADIUS soient chiffrés et non en clair.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration d'un switch Cisco Catalyst 2960 : 
+
+- Mise en place du client RADIUS
+- Basculement des ports en authentification 802.1X (DOT1X)
+- Sécurité de l'accès aux ports d'interconnexion par restriction MAC auto</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Vérifier la comptabilité des clients légers/lourds et des imprimantes avec 801.1X.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite>Analyse de la configuration par défaut de FreeRadius</commentaireactivite>
+      </activitecitee>
+      <production numero="2425">
+        <numero>2425</numero>
+        <designation>Rapport de stage avec FreeRadius et NPS</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlZG9HLWN6YjhIMDg</adresse>
+      </production>
+    </situation>
+    <situation ref="2288">
+      <ref>2288</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet relais DHCP</libcourt>
+      <descriptif>Relayage DHCP dans un tunnel VPN Cisco IPSec entre un Cisco ASA 5510 (Serveur VPN) et Cisco ASA 5505/Cisco Pix 501 (Client VPN)</descriptif>
+      <contexte>Projet de stage de première année à l'EPSM Morbihan.</contexte>
+      <datedebut>2017-05-29</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement>- Switch Cisco Catalyst 2960
+- Firewall Cisco ASA 5505
+- Firewall Cisco ASA 5510
+- Cisco ASDM-IDM Launcher</environnement>
+      <moyen>- Documentation et Forum Cisco</moyen>
+      <avisperso>Déploiement terminée une semaine après la fin de mon stage par mon maître de stage (Damien EVENO)</avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Vérifier l'impact de l'ajout et de la suppression d'une règle ACL dans un environnement en production sur un parc de plus de 800 machines.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Vérification que le relais DHCP diffuse uniquement dans le VLAN souhaité et en créant une plage IP dans le serveur DHCP différente des postes en IP statique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Constat d'un problème avec une configuration qui pourtant devrais fonctionner.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Proposition d'investir dans des commutateurs pour déployer le DHCP dans toutes les structures extra hospitalières connectés au VPN de l'établissement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Simulation du fonctionnement d'un réseau d'une structure extérieure par l'intermédiaire d'un second modem ADSL et d'un ASA 5505.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Modification de l'existant et configuration du Cisco ASA 5505 pour faire du VPN.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Recueil et adaptation de la configuration actuelle du Cisco ASA 5505/5510</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite>Analyse de la configuration avec du VPN</commentaireactivite>
+      </activitecitee>
+      <production numero="2426">
+        <numero>2426</numero>
+        <designation>Rapport de stage avec la partie Relais DHCP</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlZG9HLWN6YjhIMDg</adresse>
+      </production>
+    </situation>
+    <situation ref="2291">
+      <ref>2291</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Maintenance de niveau 1</libcourt>
+      <descriptif>Maintenance de niveau 1 du parc informatique</descriptif>
+      <contexte>Stage de première année à l'EPSM Morbihan.</contexte>
+      <datedebut>2017-05-29</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement>Wireshark
+Invite de commande Windows
+Outil de helpdesk avec GLPI</environnement>
+      <moyen>Site web de GLPI / Appels téléphoniques</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Réponse à un problème réseau ou matériel en interne comme en externe.</commentaireactivite>
+      </activitecitee>
+      <production numero="2427">
+        <numero>2427</numero>
+        <designation>Preuve numérique sur GLPI</designation>
+        <adresse>https://drive.google.com/open?id=0B1EP1va6eThlWnB3a2kzRE5fMDg</adresse>
+      </production>
+    </situation>
+    <situation ref="2341">
+      <ref>2341</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation d'un serveur de messagerie collaborative SOGo</libcourt>
+      <descriptif>Afin de mettre fin au serveur de messagerie Exchange 2003, une installation d'un serveur de messagerie collaborative SOGo afin de partager une liste de diffusion et de calendriers. Cette installation opère aussi une synchronisation  sur les comptes Offic</descriptif>
+      <contexte>Stage de seconde année</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-01-26</datefin>
+      <environnement>VMware ESXI, Outlook 2007/2010, Office 365, SOGo, Postfix, Dovecot, Active Directory, MySQL Server</environnement>
+      <moyen>Documentations Microsoft</moyen>
+      <avisperso>En cours de déploiement au 26/01/2018</avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Sécuriser l'accès au serveur sur le réseau administratif par l'intermédiaire d'un pare-feu UFW installer sur le serveur lui-même.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Le plugin CallDav Synchroniser doit pouvoir fonctionner sur du Outlook 2007/2010.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Vérifier que le fonctionnement de la synchronisation s'opère bien sur les machines clientes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de l'outil tout en vérifiant que la déconnexion de l’utilisateur à bien lieu sur le Exchange 2003.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Accompagnement des utilisateurs dans la création d'un calendrier et d'une liste de contact sur SOGO.</commentaireactivite>
+      </activitecitee>
+      <production numero="2470">
+        <numero>2470</numero>
+        <designation>Documentation complète du serveur de messagerie collaborative SOGo</designation>
+        <adresse>https://drive.google.com/drive/folders/1vP5eoycOgmqvThPdfpPDe5jDk0YAtc1-?usp=sharing</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

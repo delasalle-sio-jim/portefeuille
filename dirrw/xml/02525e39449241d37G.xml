@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5e39449241d37">
+    <ref>5e39449241d37</ref>
+    <datesv>2020-02-04</datesv>
+  </sauvegarde>
+  <etudiant numero="252">
+    <nom>PAIRIN</nom>
+    <prenom>Evan</prenom>
+    <mel>delasalle.sio.pairin.e@gmail.com</mel>
+    <situation ref="2790">
+      <ref>2790</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit</libcourt>
+      <descriptif>Mise en oeuvre d'une base de données puis d'un site web.</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de données MySql comprenant 3 tables.</contexte>
+      <datedebut>2018-11-08</datedebut>
+      <datefin>2019-04-04</datefin>
+      <environnement>serveur wamp, PhpMyAdmin, SGBDR MySQL, langage SQL, site web DUTOIT</environnement>
+      <moyen>MySQLWorkbench, langages PHP, Javascript, CSS, bibliothèque FPDF</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparer les jeux d'essai pour la réalisation des tests et les résultats attendus.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leur affectant des droits.
+Créer une table utilisateur dans la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et valider les maquettes du site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Créer la base de données Dutoit sous MySql (serv-wamp2). Faire l'extension de la base de données initiale. Modéliser la base de données finale. Manipuler les données liées à la solution applicative à travers le langage de requête SQL (vues).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaborer et réaliser des tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <production numero="2788">
+        <numero>2788</numero>
+        <designation>SI3 - TP9 - Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/13Ah4c7Z1pFG-v7pSExpmgbJWAvlRQHyo</adresse>
+      </production>
+      <production numero="2950">
+        <numero>2950</numero>
+        <designation>SI6 - Site web sur le serveur serv-wamp2</designation>
+        <adresse>http://serv-wamp2/LesSites/SIO1_2018_2019/Pairin/SI6%20-%20TP5%20-%20Admin/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2842">
+      <ref>2842</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Démontage et Montage d'un PC</libcourt>
+      <descriptif>Démontage et Montage d'un PC</descriptif>
+      <contexte>TP en SISR1</contexte>
+      <datedebut>2019-01-24</datedebut>
+      <datefin>2019-01-31</datefin>
+      <environnement>PC du labo réseau</environnement>
+      <moyen>-1 PC
+-1 trousse à outils</moyen>
+      <avisperso>TP réalisé avec succès</avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="2877">
+      <ref>2877</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission ISOLE_WIFI M2L PPE</libcourt>
+      <descriptif>-Séparation d'un réseau WIFI du reste du réseau de la M2L
+-Analyse risque d'utilisation du réseau WI-FI au sein d'une entreprise
+-Maquettage de la solution
+-Configuration d'un point d'accès sans-fil</descriptif>
+      <contexte>PPE - M2L</contexte>
+      <datedebut>2019-01-29</datedebut>
+      <datefin>2019-02-26</datefin>
+      <environnement>PC du labo réseau du lycée</environnement>
+      <moyen>PC du labo réseau du lycée / routeurs / point d'accès</moyen>
+      <avisperso>Réussi avec succès</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Google Slides</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Ping des différents éléments du réseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Attribution d'adresse grâce au protocole DHCP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement du service en version physique grâce à un AP Linksys </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'un Trello</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Trello</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquettage sur Cisco Packet Tracer + en physique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Mise en place maquette physique</commentaireactivite>
+      </activitecitee>
+      <production numero="2834">
+        <numero>2834</numero>
+        <designation>Trello</designation>
+        <adresse>https://trello.com/b/izqEMriq/mission3isolewifi</adresse>
+      </production>
+      <production numero="2835">
+        <numero>2835</numero>
+        <designation>Google slides</designation>
+        <adresse>https://docs.google.com/presentation/d/1qdrYzmvTn8QJmruQFUbV38kmQomjZa0HwpObbLfgd_o/edit#slide=id.g4e7ec6d7db_0_6</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

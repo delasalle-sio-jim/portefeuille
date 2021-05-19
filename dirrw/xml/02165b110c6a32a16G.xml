@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b110c6a32a16">
+    <ref>5b110c6a32a16</ref>
+    <datesv>2018-06-01</datesv>
+  </sauvegarde>
+  <etudiant numero="216">
+    <nom>GERMAIN</nom>
+    <prenom>François</prenom>
+    <mel>delasalle.sio.germain.f@gmail.com</mel>
+    <situation ref="2324">
+      <ref>2324</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Dutoit</libcourt>
+      <descriptif>Amélioration d'une base de données pour une société de formation</descriptif>
+      <contexte>La société de formation continue Dutoit propose des stages sur différents logiciels informatiques de différents niveaux. Elle utilise pour stocker ses informations une base de donnée MySQL comprenant 3 tables.</contexte>
+      <datedebut>2017-11-17</datedebut>
+      <datefin>2017-11-30</datefin>
+      <environnement>serveur wamp, PhpMyAdmin, SGBR Mysql, MySQLWorkBench, langage sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser les acteurs (formateurs et commerciaux) sur lesqeuls le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Créer les utilisateurs recensés et attribuer les droits nécessaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de la base de données Dutoit sous MySQL (serv-wamp1)
+Faire extension de la base de données initiale 
+Modéliser la base de donnée finale sous MySQLWorkBench
+Manipuler les données liées à la solution applicative à travers le langage de requête S</commentaireactivite>
+      </activitecitee>
+      <production numero="2454">
+        <numero>2454</numero>
+        <designation>TP8 Dutoit</designation>
+        <adresse>https://drive.google.com/drive/folders/1sEJhuejrRZKYvMHPlB48y8MWcCxDvSTA</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="2455">
+      <ref>2455</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mission Portail</libcourt>
+      <descriptif>Le nouveau portail du site web permettra :
+D'améliorer le design du portail tout en conservant la charte graphique (couleur, logos...)
+D'accéder à la consultation des formations (*) de la page précédente
+D'accéder à la page Facebook (https://fr-fr.f</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-04-03</datedebut>
+      <datefin>2018-04-03</datefin>
+      <environnement>WordPress, serveur-wamp1, php &amp; html, sql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Identifier les fonctionnalités attendues du service à produire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution (plugins...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Concevoir et utiliser la maquette et collaboration avec des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Identifier les besoins de formation pour mettre en œuvre le CMS WordPress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos de WordPress (doc papier, site web...)</commentaireactivite>
+      </activitecitee>
+      <production numero="2512">
+        <numero>2512</numero>
+        <designation>Mon Drive - Mission Portail</designation>
+        <adresse>https://drive.google.com/drive/folders/1HXjnQzHyZ6EYWAkakYkOere7LwSLk4lY</adresse>
+      </production>
+    </situation>
+    <situation ref="2467">
+      <ref>2467</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission Digicode V1 &amp; V2 &amp; V3</libcourt>
+      <descriptif>M2L met à disposition des salles pour ses adhérents. Ils peuvent récupérer le digicode de l'application.
+Deux ou trois versions on été élaborées (1 seul digicode puis 1 digicode par salle puis 1 digicode par réservation).</descriptif>
+      <contexte>M2L</contexte>
+      <datedebut>2018-04-03</datedebut>
+      <datefin>2018-04-03</datefin>
+      <environnement>serveur wamp1, notepad++, mysql</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact. Identifier les fonctionnalités attendues du service à produire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser et caractériser les exigences liées à la qualité attendue du service  produire (scénarios fournis).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réaliser les tests fournis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tester le service (la base de données avait déjà été installée pour la mission Valrès).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Établir son planning en fonction des exigences et du déroulement du projet entre les membres de l'équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative et maquetter un éléments de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adapter la base de données mrbs (nouvelle table Digicode) et manipuler les données liées à la solution applicative à travers un langage de requête SQL.</commentaireactivite>
+      </activitecitee>
+      <production numero="2513">
+        <numero>2513</numero>
+        <designation>Mon Drive - Mission Digicode</designation>
+        <adresse>https://drive.google.com/drive/folders/1hSHd70cosA9JBcpd-lU5Yg7GdECAhK4D</adresse>
+      </production>
+    </situation>
+    <situation ref="2669">
+      <ref>2669</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet site BDE</libcourt>
+      <descriptif>Elaboration d'un site fonctionnel pour le BDE du lycée (Bureau Des Etudiants) avec un système de connection, d'affichage et de gestion de données (hébergements)</descriptif>
+      <contexte>Projet SI6 en binôme avec Naël JAMET</contexte>
+      <datedebut>2018-03-16</datedebut>
+      <datefin>2018-05-24</datefin>
+      <environnement>Notepad++, Serveur wamp, bootstrap, HTML, PHP, SQL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>cas d'utilisation
+analyse des attentes du commanditaire
+identification des fonctionnalités attendues pour les différents acteurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>préparer les jeux d'essai pour la réalisation des tests et la validation du service et les résultats attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>inspection de Mr. Guerin a plusieurs reprises
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>concevoir et valider la maquette en collaboration avec Mr. Guerin à deux reprises</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>adapter la base de données
+manipuler les données liées a la solution applicative à travers un langage de requêtes SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>rédiger la documentation d'utilisation pour Mr. Guerin</commentaireactivite>
+      </activitecitee>
+      <production numero="2658">
+        <numero>2658</numero>
+        <designation>Mon Drive ; Projet BDE</designation>
+        <adresse>https://drive.google.com/drive/folders/1xPBRik8aVMG14vcuh552aH4Ce-sH4eIS</adresse>
+      </production>
+      <production numero="2660">
+        <numero>2660</numero>
+        <designation>Espace partagé en binome sur le Drive</designation>
+        <adresse>https://drive.google.com/drive/folders/1s0rLTAUmcR8KVg3WdDjZ3FRxExkH1Ucm</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

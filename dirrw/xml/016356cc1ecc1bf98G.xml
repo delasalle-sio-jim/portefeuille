@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56cc1ecc1bf98">
+    <ref>56cc1ecc1bf98</ref>
+    <datesv>2016-02-23</datesv>
+  </sauvegarde>
+  <etudiant numero="163">
+    <nom>MARTIN</nom>
+    <prenom>Mickaël</prenom>
+    <mel>delasalle.sio.martin.m@gmail.com</mel>
+    <situation ref="1513">
+      <ref>1513</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>TP Dutoit </libcourt>
+      <descriptif>La société de formation continue Dutoit propose des stages sur différents logiciels aux salariés d'entreprises.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-19</datedebut>
+      <datefin>2015-11-26</datefin>
+      <environnement>serveur wamp1 avec SGBD MySQL via PhpMyAdmin et langage SQL</environnement>
+      <moyen>MySQLWorkBench</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recenser et caractériser les contextes d'utilisation, les processus et les acteurs sur lesquels le service à produire aura un impact.
+Identifier les fonctionnalités attendues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gérer des utilisateurs en leurs affectant des droit.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modéliser le schéma de données avec MySQLWorkbench.
+Implémenter le schéma de données sous MySQL et l'adapter.
+Manipuler les données liées à la solution applicative à travers un langage de requête.</commentaireactivite>
+      </activitecitee>
+      <production numero="1546">
+        <numero>1546</numero>
+        <designation>TP Dutoit Corrigé</designation>
+        <adresse>https://drive.google.com/file/d/0BzZupVwWqEShRGxBVjhPcjdUcmc/view?usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1620">
+      <ref>1620</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 3 - Pictolan</libcourt>
+      <descriptif>En utilisant les documents fournis, je devais étudier les différentes configurations définis sur les différents éléments actifs et autres périphériques du réseau de la M2L</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-12</datedebut>
+      <datefin>2016-01-26</datefin>
+      <environnement>Dans le labo réseau</environnement>
+      <moyen>Utilisation d'un outil de suivi de gestion de projet, utilisation d'un schéma réseau..</moyen>
+      <avisperso>Enrichissant sur un point de vue personnel</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse de ce que nous avions à réaliser</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Inventaire des élements du réseau et mise en place d'un schéma Visio</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1615">
+        <numero>1615</numero>
+        <designation>Ensemble des documents de la mission</designation>
+        <adresse>https://drive.google.com/folderview?id=0B3Sr31nLukBsQ2oyeFVPQ2NadG8&amp;usp=sharing</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1649">
+      <ref>1649</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 2 - WifiConf</libcourt>
+      <descriptif>Configuration type d'un point d’accès sans fil du réseau de la m2L</descriptif>
+      <contexte>Dans le cadre de la m2L</contexte>
+      <datedebut>2016-01-05</datedebut>
+      <datefin>2016-01-12</datefin>
+      <environnement>Dans le labo réseau</environnement>
+      <moyen>Nos smartphones</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du besoin exprimé lors de la mission</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test pour se connecter sur internet </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de la connexion à la wifi</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1665">
+      <ref>1665</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mission 4 - WLAN ISOLE</libcourt>
+      <descriptif>Presentation d'un dossier de choix sur la solution à envisager, et redaction d'un mode opératiore d'installation et de la configuration de notre solution</descriptif>
+      <contexte>On se base sur la mission 3 pour isoler notre réseau sans fil</contexte>
+      <datedebut>2016-02-23</datedebut>
+      <datefin>2016-02-23</datefin>
+      <environnement>Dans le labo réseau</environnement>
+      <moyen>Schéma visio, schéma packet tracer, outil de collaboration interactif</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1651">
+        <numero>1651</numero>
+        <designation>Lien Drive</designation>
+        <adresse>https://drive.google.com/open?id=0B3Sr31nLukBsdjhFai14cFRlZjQ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>
