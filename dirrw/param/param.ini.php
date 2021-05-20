@@ -1,8 +1,8 @@
 <?php
 // paramètres pour localhost
 $nomServeur="localhost";
-$loginAdminServeur="root";
-$motPasseAdminServeur="";
+$loginAdminServeur="log_portefeuille";
+$motPasseAdminServeur="mdp_portefeuille";
 $nomBaseDonnee="portefeuille";
 $prefixeTable="port_";
 $crypte=false;
